@@ -6,7 +6,7 @@ const Navbar = () => {
   return (
     <nav className="p-2 bg-transparent flex justify-between fixed w-full bg-white rounded-b-xl z-10 drop-shadow-2xl">
       <Image
-        src="/assets/logo-only-outline.png"
+        src="/assets/logo-only.png"
         width={60}
         height={75}
         alt="logo"
