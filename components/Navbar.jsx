@@ -4,10 +4,10 @@ import Image from "next/image";
 
 const Navbar = () => {
   return (
-    <nav className="p-2 bg-transparent flex justify-between fixed w-full bg-white rounded-b-xl z-10 drop-shadow-2xl">
+    <nav className="p-2 z-10 flex justify-between fixed w-full bg-slate-100">
       <Image
         src="/assets/logo.png"
-        width={150}
+        width={110}
         height={75}
         alt="logo"
         className="hover:cursor-pointer transform hover:scale-105 transition-transform duration-300 ease-in-out"
@@ -31,10 +31,10 @@ const Navbar = () => {
         </button>
       </div>
       <div className="flex gap-3 items-center">
-        <button className="uppercase bg-transparent border rounded-md border-black  transform hover:scale-105 transition-transform duration-300 ease-in-out px-4 py-2 w-28 h-10">
+        <button className="uppercase bg-transparent border border-black  transform hover:scale-105 transition-transform duration-300 ease-in-out px-4 py-2 w-28 h-10">
           Sign-in
         </button>
-        <button className="uppercase bg-blue-700 text-white rounded-md border border-black transform hover:scale-105 transition-transform duration-300 ease-in-out px-4 py-2 w-32 h-10">
+        <button className="uppercase bg-darkvl text-white border border-black transform hover:scale-105 transition-transform duration-300 ease-in-out px-4 py-2 w-32 h-10">
           Register
         </button>
       </div>
