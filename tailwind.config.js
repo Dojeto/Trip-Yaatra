@@ -13,7 +13,7 @@ module.exports = {
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
       fontFamily: {
-        homecontent: ["Yeseva One", "cursive"],
+        sans: ["Poppins", "sans-serif"],
       },
       colors: {
         darkvl: "#3b3b6e",
