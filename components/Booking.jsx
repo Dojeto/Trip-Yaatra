@@ -2,7 +2,7 @@ import React from "react";
 
 const Booking = () => {
   return (
-    <div className="flex justify-center item-center pt-32">
+    <div className="flex justify-center item-center py-32">
       <div className="w-3/4 bg-gray-400 rounded-md bg-clip-padding backdrop-filter backdrop-blur-md bg-opacity-10 border border-gray-100">
         <div className="flex flex-col text-white">
           <div className="flex flex-row">
@@ -16,9 +16,7 @@ const Booking = () => {
           <div className="flex flex-row">
             <div className="bg-white text-black m-3 p-3 flex flex-col font-semibold gap-1 rounded-md w-full">
               <div className="text-sm  text-gray-500 ">From</div>
-              <div className="text-md text-darkvl font-bold">
-                Mumbai, India
-              </div>
+              <div className="text-md text-darkvl font-bold">Mumbai, India</div>
               <div className="text-sm text-gray-500 ">
                 BOM - Chhatrapati Shivaji Inter..
               </div>
@@ -39,9 +37,7 @@ const Booking = () => {
             </div>
             <div className="bg-white text-black m-3 p-3 flex flex-col font-semibold gap-1 rounded-md w-full">
               <div className="text-sm text-gray-500 ">Passenger Class</div>
-              <div className="text-md text-darkvl font-bold">
-                02 Passengers
-              </div>
+              <div className="text-md text-darkvl font-bold">02 Passengers</div>
               <div className="text-sm text-gray-500 ">Business</div>
             </div>
           </div>
