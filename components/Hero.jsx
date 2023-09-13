@@ -1,5 +1,5 @@
 import React from "react";
-import Booking from "./Booking";
+import Search from "./Search";
 const Hero = () => {
   return (
     <div
@@ -16,7 +16,7 @@ const Hero = () => {
           out there and enjoy it's beauty
         </p>
       </div>
-      <Booking />
+      <Search />
     </div>
   );
 };
