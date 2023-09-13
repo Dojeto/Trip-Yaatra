@@ -10,12 +10,13 @@ const Packages = () => {
           </span>
           <span className="text-l text-gray-600">Trending this Month</span>
         </div>
-        <Link href="#" className="text-l text-gray-600 pointer-link">View All</Link>
-
+        <Link href="#" className="text-l text-gray-600 pointer-link">
+          View All
+        </Link>
       </div>
       <div className="flex flex-wrap -mx-4">
         <div className="w-full sm:w-1/2 md:w-1/4 px-4 mb-4">
-          <div className="max-w-sm bg-white rounded-lg shadow-xl hover:shadow-2xl transition-transform transform hover:scale-105">
+          <div className="max-w-sm bg-white rounded-lg shadow-xl hover:shadow-2xl transition-transform duration-500 ease-in-out transform hover:scale-105">
             <Link href="#">
               <img
                 className="rounded-t-lg"
@@ -41,7 +42,7 @@ const Packages = () => {
           </div>
         </div>
         <div className="w-full sm:w-1/2 md:w-1/4 px-4 mb-4">
-          <div className="max-w-sm bg-white rounded-lg shadow-xl hover:shadow-2xl transition-transform transform hover:scale-105">
+          <div className="max-w-sm bg-white rounded-lg shadow-xl hover:shadow-2xl transition-transform duration-500 ease-in-out transform hover:scale-105">
             <Link href="#">
               <img
                 className="rounded-t-lg"
@@ -67,7 +68,7 @@ const Packages = () => {
           </div>
         </div>
         <div className="w-full sm:w-1/2 md:w-1/4 px-4 mb-4">
-          <div className="max-w-sm bg-white rounded-lg shadow-xl hover:shadow-2xl transition-transform transform hover:scale-105">
+          <div className="max-w-sm bg-white rounded-lg shadow-xl hover:shadow-2xl transition-transform duration-500 ease-in-out transform hover:scale-105">
             <Link href="#">
               <img
                 className="rounded-t-lg"
@@ -93,7 +94,7 @@ const Packages = () => {
           </div>
         </div>
         <div className="w-full sm:w-1/2 md:w-1/4 px-4 mb-4">
-          <div className="max-w-sm bg-white rounded-lg shadow-xl hover:shadow-2xl transition-transform transform hover:scale-105">
+          <div className="max-w-sm bg-white rounded-lg shadow-xl hover:shadow-2xl transition-transform duration-500 ease-in-out transform hover:scale-105">
             <Link href="#">
               <img
                 className="rounded-t-lg"
@@ -117,12 +118,10 @@ const Packages = () => {
               </div>
             </div>
           </div>
+        </div>
 
-        </div>
-      
         {/* Add more cards here with the same structure */}
       </div>
-      
     </div>
   );
 };
