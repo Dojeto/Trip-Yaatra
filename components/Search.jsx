@@ -42,7 +42,7 @@ const Search = (props) => {
         <RiSearchLine size="28px" color="gray" />
         <input
           type="text"
-          className="bg-transparent w-full   rounded-md focus:outline-none focus:ring-0"
+          className="bg-transparent w-full rounded-md focus:outline-none focus:ring-0"
           placeholder="Search for trip packages..."
           value={searchText}
           onChange={handleInputChange}
