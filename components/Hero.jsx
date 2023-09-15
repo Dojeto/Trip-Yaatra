@@ -27,22 +27,22 @@ const Hero = () => {
         {/* section */}
         <div className="text-center p-2 rounded-full  text-2xl">
           <Link href="#">
-           <FaFacebookF className="text-white"/>
+           <FaFacebookF className="text-white hover:text-blue-500"/>
           </Link>
         </div>
         <div className="text-center p-2 rounded-full  text-2xl">
           <Link href="#" className="block">
-          <BiLogoInstagramAlt className="text-white"/>
+          <BiLogoInstagramAlt className="text-white hover:text-pink-500"/>
           </Link>
         </div>
         <div className="text-center p-2 rounded-full text-2xl">
           <Link href="#" className="block">
-            <FaTwitter className="text-white"/>
+            <FaTwitter className="text-white hover:text-blue-500"/>
           </Link>
         </div>
         <div className="text-center p-2 rounded-full text-2xl">
           <Link href="#" className="block">
-            <FaLinkedinIn className="text-white"/>
+            <FaLinkedinIn className="text-white hover:text-blue-400"/>
           </Link>
         </div>
 
