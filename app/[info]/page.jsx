@@ -12,38 +12,27 @@ const Trips = ({ params }) => {
   return (
     <div className=" h-screen">
       <div
-        className="relative bg-cover bg-center w-screen h-4/5"
+        className="relative bg-cover bg-center w-screen h-full overflow-hidden"
         style={{
-          backgroundImage: `linear-gradient(rgba(80, 80, 80, 0.1) 67.4%, rgb(0, 0, 0) 90.97%),url("/assets/tajMahal.jpg")`,
+          backgroundImage: `linear-gradient(rgba(80, 80, 80, 0.1) 67.4%, rgb(0, 0, 0) 90.97%),url("assets/india-trips.png")`,
         }}
       >
-        <div
-          style={{ top: "500px" }}
-          className="  absolute right-1 flex text-white"
-        >
+        {/* <div className=" h-5/6 w-11/12 absolute top-7 -right-2 border-8 border-slate-100">
+          <div className=" bg-slate-100 w-1/2 h-20 flex justify-center items-center absolute top-20 font-homecontent">
+            <h1 className=" ">Captivating India Chronicles</h1>
+          </div>
+          <div className=" bg-slate-100 w-1/2 h-20 flex justify-center items-center absolute top-60 font-homecontent">
+            <h1 className=" ">Explore India's Kaleidoscope of Diversity</h1>
+          </div>
+        </div> */}
+        
+        {/* <div className="  absolute right-1 bottom-[40px] flex text-white">
           <TripsCard
             title="Manali"
             imageUrl="https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1935&q=80"
           />
 
-          {/* repetive code  */}
-          <TripsCard
-            title="Goa"
-            imageUrl="https://images.unsplash.com/photo-1558960214-f4283a743867?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2074&q=80"
-          />
-          {/* repetive code  */}
-
-          <TripsCard
-            title="Kerela"
-            imageUrl="https://images.unsplash.com/photo-1575561616684-c82e7ae67e3e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2069&q=80"
-          />
-          {/* repetive code  */}
-          <TripsCard
-            title="Leh Ladkh"
-            imageUrl="https://images.unsplash.com/photo-1619837374214-f5b9eb80876d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80"
-          />
-          {/* repetive code end */}
-        </div>
+        </div> */}
       </div>
     </div>
   );
