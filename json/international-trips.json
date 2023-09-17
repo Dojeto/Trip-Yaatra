@@ -1,5 +1,7 @@
 {
-  "title": "India Trips Available here",
+  "name":"International",
+  "title": "A Tapestry of Cultures and Colors",
+  "imagePath":"assets/india-trips.png",
   "packages": {
     "bali": {
       "title": "Welcome To bali"

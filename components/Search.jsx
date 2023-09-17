@@ -1,5 +1,5 @@
 "use client";
-import React, { useState } from "react";
+import { useState } from "react";
 import { RiSearchLine } from "react-icons/ri";
 const tripPackages = [
   "Beach Vacation Package",

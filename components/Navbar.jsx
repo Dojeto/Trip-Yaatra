@@ -1,6 +1,4 @@
 import Image from "next/image";
-// import logo from "/assets/logo.png"
-//pt-3 pr-4 (ignore)
 
 const Navbar = () => {
   return (
@@ -11,7 +9,6 @@ const Navbar = () => {
         height={75}
         alt="logo"
         className="hover:cursor-pointer transform hover:scale-105 transition-transform duration-300 ease-in-out"
-        // className=" bg-white"
       />
       <div className="flex gap-5 items-center text-black">
         <button className="uppercase bg-transparent hover:bg-gray-200 hover:text-gray-700 hover:rounded-md px-4 py-2 transform hover:scale-105 transition-transform duration-300 ease-in-out w-30 h-10">

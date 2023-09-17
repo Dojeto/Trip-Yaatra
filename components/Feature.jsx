@@ -1,6 +1,3 @@
-import React from "react";
-import Link from "next/link";
-import Image from "next/image";
 import { HiLocationMarker } from "react-icons/hi";
 const Feature = () => {
   return (
