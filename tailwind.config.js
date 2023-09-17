@@ -18,6 +18,13 @@ module.exports = {
       colors: {
         darkvl: "#3b3b6e",
       },
+      keyframes: {
+        scrollIcon: {
+          "0%, 100%": { transform: "translateY(0rem)", opacity: 1 },
+          "35%": { transform: "translateY(1rem)", opacity: 0 },
+          "70%": { transform: "translateY(-1rem)", opacity: 0 },
+        },
+      },
     },
   },
   plugins: [],
