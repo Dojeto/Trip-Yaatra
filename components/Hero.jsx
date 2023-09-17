@@ -1,19 +1,18 @@
 import Search from "./Search";
 
-
 import Link from "next/link";
-import { FaFacebookF ,FaTwitter ,FaLinkedinIn} from "react-icons/fa";
+import { FaFacebookF, FaTwitter, FaLinkedinIn } from "react-icons/fa";
 import { BiLogoInstagramAlt } from "react-icons/bi";
 
 const Hero = () => {
   return (
     <div
-      className="relative bg-cover bg-center"
+      className="relative bg-cover bg-center w-screen max-w-full h-screen flex flex-col justify-center items-center"
       style={{
         backgroundImage: `url("/assets/bg3.jpg")`,
       }}
     >
-      <div className="container mx-auto pt-40 text-center z-10">
+      <div className="container mx-auto text-center z-10">
         <h1 className="tracking-wider text-5xl font-extrabold text-white">
           Explore the huge world
         </h1>
@@ -26,30 +25,29 @@ const Hero = () => {
         {/* section */}
         <div className="text-center p-2 rounded-full  text-2xl">
           <Link href="#">
-           <FaFacebookF className="text-white hover:text-blue-500"/>
+            <FaFacebookF className="text-white hover:text-blue-500" />
           </Link>
         </div>
         <div className="text-center p-2 rounded-full  text-2xl">
           <Link href="#" className="block">
-          <BiLogoInstagramAlt className="text-white hover:text-pink-500"/>
+            <BiLogoInstagramAlt className="text-white hover:text-pink-500" />
           </Link>
         </div>
         <div className="text-center p-2 rounded-full text-2xl">
           <Link href="#" className="block">
-            <FaTwitter className="text-white hover:text-blue-500"/>
+            <FaTwitter className="text-white hover:text-blue-500" />
           </Link>
         </div>
         <div className="text-center p-2 rounded-full text-2xl">
           <Link href="#" className="block">
-            <FaLinkedinIn className="text-white hover:text-blue-400"/>
+            <FaLinkedinIn className="text-white hover:text-blue-400" />
           </Link>
         </div>
 
         {/* section */}
       </div>
+      <Search />
 
-
-      
       <div className="w-8 absolute bottom-10 left-1/2">
         <svg
           viewBox="0 0 24 24"
@@ -62,10 +60,9 @@ const Hero = () => {
             fill="currentColor"
           ></path>
         </svg>
-       
+
         <span className="main__scroll-text text-white ">Scroll</span>
       </div>
-      <Search />
     </div>
   );
 };
