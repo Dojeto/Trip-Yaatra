@@ -21,14 +21,14 @@ const Hero = () => {
         </p>
       </div>
       {/* social media */}
-      <div className="absolute top-0 right-0 h-full flex flex-col items-end justify-center space-y-6 p-4 mr-[25px]">
+      <div className="absolute z-10 top-0 right-0 h-full flex flex-col items-end justify-center space-y-6 p-4 mr-[25px]">
         {/* section */}
-        <div className="text-center p-2 rounded-full  text-2xl">
+        <div className="text-center p-2 rounded-full text-2xl">
           <Link href="#">
             <FaFacebookF className="text-white hover:text-blue-500" />
           </Link>
         </div>
-        <div className="text-center p-2 rounded-full  text-2xl">
+        <div className="text-center p-2 rounded-full text-2xl">
           <Link href="#" className="block">
             <BiLogoInstagramAlt className="text-white hover:text-pink-500" />
           </Link>

@@ -34,7 +34,7 @@ const PackageHero = (props) => {
           <div className="   w-1/2 flex justify-center items-end">
             <div className=" h-1/2 w-1/2 ">
               <h2 className=" text-white text-2xl font-black tracking-wide">
-                About India Tours
+                About {name} Tours
               </h2>
               <h2 className=" pt-2 text-white text-sm">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea
