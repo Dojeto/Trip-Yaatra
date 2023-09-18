@@ -21,7 +21,7 @@ const Hero = () => {
         </p>
       </div>
       {/* social media */}
-      <div className="absolute top-0 right-0 h-full flex flex-col items-end justify-center space-y-6 p-4 mr-[25px]">
+      <div className="absolute top-0 right-0 h-full flex flex-col items-end justify-center space-y-6 p-4 mr-[25px] z-50">
         {/* section */}
         <div className="text-center p-2 rounded-full  text-2xl">
           <Link href="#">
