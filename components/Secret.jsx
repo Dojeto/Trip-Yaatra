@@ -19,11 +19,12 @@ const Secreats = () => {
                   src="/assets/sauceBg1.png"
                   alt="Background Image"
                   width={300}
-                  height={300}
+                  height={300}                 
                   objectFit="cover"
                   objectPosition="center"
                 />
               </div>
+
               <div className="absolute top-0 left-0 right-0 p-4 mt-4 ">
                 <h2 className="text-2xl font-bold text-darkvl">
                   No Third Party Mess
@@ -35,7 +36,7 @@ const Secreats = () => {
               </div>
             </div>
             <div className="max-w-md mx-auto relative bg-cover bg-center rounded-lg overflow-hidden shadow-lg border border-gray-300 ml-4">
-            <div style={{ width: "300px", height: "100%" }}>
+              <div style={{ width: "300px", height: "100%" }}>
                 <Image
                   src="/assets/sauceBg2.png"
                   alt="Background Image"
@@ -56,7 +57,7 @@ const Secreats = () => {
               </div>
             </div>
             <div className="max-w-md mx-auto relative bg-cover bg-center rounded-lg overflow-hidden shadow-lg border border-gray-300 ml-4">
-            <div style={{ width: "300px", height: "100%" }}>
+              <div style={{ width: "300px", height: "100%" }}>
                 <Image
                   src="/assets/sauceBg3.png"
                   alt="Background Image"
@@ -77,7 +78,7 @@ const Secreats = () => {
               </div>
             </div>
             <div className="max-w-md mx-auto relative bg-cover bg-center rounded-lg overflow-hidden shadow-lg border border-gray-300 ml-4">
-            <div style={{ width: "300px", height: "100%" }}>
+              <div style={{ width: "300px", height: "100%" }}>
                 <Image
                   src="/assets/sauceBg4.png"
                   alt="Background Image"
