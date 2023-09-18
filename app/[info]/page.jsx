@@ -1,6 +1,8 @@
 "use client";
 import useSWR from "swr";
-import PackageHero from "@components/PackageHero";
+import PackageHero from "@components/Tours/Hero";
+import ReadMoreContent from "@components/Tours/ReadMoreContent";
+import Packages from "@components/Tours/Packages";
 
 const fetcher = (url) => fetch(url).then((res) => res.json());
 
@@ -10,7 +12,14 @@ const Trips = ({ params }) => {
   if (isLoading) return <div>loading...</div>;
   return (
     <>
-      <PackageHero imageUrl={data.imagePath} title={data.title} content="" name={data.name}/>
+      <PackageHero
+        imageUrl={data.imagePath}
+        title={data.title}
+        content=""
+        name={data.name}
+      />
+      <ReadMoreContent />
+      <Packages/>
     </>
   );
 };

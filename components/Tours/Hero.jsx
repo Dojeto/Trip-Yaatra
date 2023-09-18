@@ -1,9 +1,9 @@
 const PackageHero = (props) => {
   const {imageUrl,name,content,title} = props;
   return (
-    <div className=" h-screen">
+    <div className="max-w-full h-screen">
       <div
-        className="relative bg-cover bg-center w-screen h-full overflow-hidden"
+        className="relative bg-cover bg-center h-full overflow-hidden"
         style={{
           backgroundImage: `linear-gradient(rgba(80, 80, 80, 0.1) 67.4%, rgb(0, 0, 0) 90.97%),url("${imageUrl}")`,
         }}

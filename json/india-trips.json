@@ -1,10 +1,21 @@
 {
-  "name":"India",
+  "name": "India",
   "title": "A Tapestry of Cultures and Colors",
-  "imagePath":"assets/india-trips.png",
+  "imagePath": "assets/india-trips.png",
   "packages": {
     "manali": {
-      "title": "Welcome To Manali"
+      "title": "Welcome To Manali",
+      "imageUrl": "",
+      "date": "24-05-2003",
+      "days": "3/5",
+      "price": 30000
+    },
+    "goa": {
+      "title": "Welcome To Manali",
+      "imageUrl": "",
+      "date": "24-05-2003",
+      "days": "3/5",
+      "price": 30000
     }
   }
 }

@@ -29,9 +29,10 @@ const Looking = () => {
                 Connect with our experts! Get the best itineraries and offers!
               </h4>
               <div className="mt-[25px]">
-              <button className="px-10 py-3 bg-yellow-400 rounded-[40px] text-black font-semibold text-2xl   focus:outline-none focus:ring focus:ring-blue-200">Connect Now</button>
+                <button className="px-10 py-3 bg-yellow-400 rounded-[40px] text-black font-semibold text-2xl   focus:outline-none focus:ring focus:ring-blue-200">
+                  Connect Now
+                </button>
               </div>
-
             </div>
           </div>
         </div>
