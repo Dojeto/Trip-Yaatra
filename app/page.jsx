@@ -4,6 +4,7 @@ import Packages from "@app/pages/Home/Packages";
 import Review from "@app/pages/Home/Review";
 import Secreats from "@app/pages/Home/Secret";
 import Lookingimg from "@app/pages/Home/Looking";
+import Faq from "@app/pages/Home/FAQ";
 export default function Home() {
   return (
     <main className="h-screen">
@@ -22,6 +23,9 @@ export default function Home() {
       </div>
       <div>
         <Secreats />
+      </div>
+      <div>
+        <Faq />
       </div>
     </main>
   );
