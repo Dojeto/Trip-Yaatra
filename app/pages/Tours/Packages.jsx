@@ -14,8 +14,9 @@ const TripsPackages = (props) => {
         </h2>
       </div>
       <div className=" bg-highlight w-[120px] h-[3px] mt-2 mb-11"></div>
-      <div className="grid grid-cols-3 gap-5">
-        {data?.bestSeller.map((val, i) => 
+      <div className="grid grid-cols-3 gap-x-3">
+        {/* <div className="flex flex-wrap justify-center items-start"> */}
+        {data?.bestSeller.map((val, i) => (
           <PackageCard
             key={i}
             imageUrl={val.imageUrl}
@@ -25,7 +26,7 @@ const TripsPackages = (props) => {
             days={val.days}
             destination={val.destination}
           />
-        )}
+        ))}
       </div>
     </div>
   );

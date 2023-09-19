@@ -66,30 +66,3 @@ const Search = (props) => {
   );
 };
 export default Search;
-
-// import React from "react";
-// const tripPackages = [
-//   "Beach Vacation Package",
-//   "Mountain Adventure Package",
-//   "City Exploration Package",
-//   "Safari Expedition Package",
-//   // Add more trip packages here
-// ];
-// const Search = () => {
-//   return (
-//     <div className="flex justify-center item-center py-32">
-//       <div className=" flex justify-center item-center w-3/4 h-14 bg-gray-400 rounded-md bg-clip-padding backdrop-filter backdrop-blur-md bg-opacity-10 border border-gray-100">
-//         <select className="" name="places" id="">
-//           <option value="Mumbai">Mumbai</option>
-//           <option value="Dubai">Dubai</option>
-//           <option value="Delhi">Delhi</option>
-//           <option value="Shimla">Shimla</option>
-//           <option value="Ladakh">Ladakh</option>
-//         </select>
-//       </div>
-//     </div>
-//   );
-// };
-
-// export default Search;
-//
