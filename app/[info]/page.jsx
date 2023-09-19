@@ -19,7 +19,7 @@ const Trips = ({ params }) => {
         name={data.name}
       />
       <ReadMoreContent />
-      <Packages/>
+      <Packages data={data} />
     </>
   );
 };

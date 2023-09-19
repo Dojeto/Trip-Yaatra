@@ -11,7 +11,7 @@ const ReadMoreContent = () => {
   return (
     <div className="  flex justify-center items-center">
       <div className=" p-2 max-w-[1200px] m-28 shadow-lg rounded-md">
-        <h2 className=" border-darkvl border-l-4 ml-3 pl-3 m-2 font-bold text-darkvl text-3xl">
+        <h2 className=" border-highlight border-l-4 ml-3 pl-3 m-2 font-bold text-darkbl text-3xl">
           About India Tours
         </h2>
         <div
@@ -256,7 +256,7 @@ const ReadMoreContent = () => {
         <div className=" m-4 flex justify-end">
           <button
             onClick={toggleContent}
-            className=" border-2 rounded-md p-1 w-28 border-darkvl hover:bg-darkvl hover:text-white"
+            className=" border-2 rounded-md p-1 w-28 border-darkbl hover:bg-darkbl hover:text-white"
           >
             {isContentExpanded ? "Read Less" : "Read More"}
           </button>
