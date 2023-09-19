@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-import PackageCard from "../PackageCard";
+import PackageCard from "@components/PackageCard";
 const Packages = () => {
   return (
     <div className="container mt-[50px]  h-full px-36 flex flex-col gap-8">

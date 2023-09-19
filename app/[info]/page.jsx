@@ -1,8 +1,8 @@
 "use client";
 import useSWR from "swr";
-import PackageHero from "@components/Tours/Hero";
-import ReadMoreContent from "@components/Tours/ReadMoreContent";
-import Packages from "@components/Tours/Packages";
+import PackageHero from "@app/pages/Tours/Hero";
+import ReadMoreContent from "@app/pages/Tours/ReadMoreContent";
+import Packages from "@app/pages/Tours/Packages";
 
 const fetcher = (url) => fetch(url).then((res) => res.json());
 

@@ -1,9 +1,9 @@
-import Hero from "@components/Home/Hero";
-import Feature from "@components/Home/Feature";
-import Packages from "@components/Home/Packages";
-import Review from "@components/Home/Review";
-import Secreats from "@components/Home/Secret";
-import Lookingimg from "@components/Home/Looking";
+import Hero from "@app/pages/Home/Hero";
+import Feature from "@app/pages/Home/Feature";
+import Packages from "@app/pages/Home/Packages";
+import Review from "@app/pages/Home/Review";
+import Secreats from "@app/pages/Home/Secret";
+import Lookingimg from "@app/pages/Home/Looking";
 export default function Home() {
   return (
     <main className="h-screen">
