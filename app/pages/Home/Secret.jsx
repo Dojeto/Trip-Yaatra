@@ -11,8 +11,8 @@ const Secreats = () => {
           <span className="text-[50px] font-bold text-darkvl">
             TripYatra’s Secret Sauce
           </span>
-
-          <div className="flex mt-[50px] h-[350px]">
+          <div className=" bg-darkvl w-[120px] h-[3px] "></div>
+          <div className="flex mt-[50px] h-[100%]">
             <div className="max-w-md mx-auto relative bg-cover bg-center rounded-lg overflow-hidden shadow-lg border border-gray-300 mr-4">
               <div style={{ width: "300px", height: "100%" }}>
                 <Image
