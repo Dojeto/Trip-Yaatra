@@ -5,6 +5,8 @@ import Review from "@app/pages/Home/Review";
 import Secreats from "@app/pages/Home/Secret";
 import Lookingimg from "@app/pages/Home/Looking";
 import Faq from "@app/pages/Home/FAQ";
+import Form from "@app/pages/Home/Form";
+import UpperFooter from "./pages/Home/UpperFooter";
 export default function Home() {
   return (
     <main className="h-screen">
@@ -26,6 +28,12 @@ export default function Home() {
       </div>
       <div>
         <Faq />
+      </div>
+      <div>
+        <Form />
+      </div>
+      <div>
+        <UpperFooter />
       </div>
     </main>
   );
