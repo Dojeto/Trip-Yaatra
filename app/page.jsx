@@ -7,6 +7,7 @@ import Lookingimg from "@app/pages/Home/Looking";
 import Faq from "@app/pages/Home/FAQ";
 import Form from "@app/pages/Home/Form";
 import UpperFooter from "./pages/Home/UpperFooter";
+import LowerFooter from "./pages/Home/LowerFooter";
 export default function Home() {
   return (
     <main className="h-screen">
@@ -35,6 +36,9 @@ export default function Home() {
       {/* <div> */}
       <UpperFooter />
       {/* </div> */}
+      <div>
+        <LowerFooter />
+      </div>
     </main>
   );
 }
