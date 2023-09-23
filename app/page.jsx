@@ -1,13 +1,13 @@
 import Hero from "@app/pages/Home/Hero";
 import Feature from "@app/pages/Home/Feature";
 import Packages from "@app/pages/Home/Packages";
-import Review from "@app/pages/Home/Review";
-import Secrets from "@app/pages/Home/Secret";
-import Lookingimg from "@app/pages/Home/Looking";
-import Faq from "@app/pages/Home/FAQ";
-import Form from "@app/pages/Home/Form";
-import UpperFooter from "./pages/Home/UpperFooter";
-import LowerFooter from "./pages/Home/LowerFooter";
+import Review from "@components/Review";
+import Secrets from "@components/Secret";
+import Looking from "./pages/Home/Looking";
+import Faq from "@components/FAQ";
+import Form from "@components/Form";
+import UpperFooter from "@components/UpperFooter";
+import LowerFooter from "@components/LowerFooter";
 export default function Home() {
   return (
     <main className="h-screen">
@@ -15,7 +15,7 @@ export default function Home() {
       <Feature />
       <Packages />
       <Review />
-      <Lookingimg />
+      <Looking />
       <Secrets />
       <Faq />
       <Form />
