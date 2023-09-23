@@ -12,33 +12,15 @@ export default function Home() {
   return (
     <main className="h-screen">
       <Hero />
-      {/* <div> */}
       <Feature />
-      {/* </div> */}
-      {/* <div> */}
       <Packages />
-      {/* </div> */}
-      {/* <div> */}
       <Review />
-      {/* </div> */}
-      {/* <div> */}
       <Lookingimg />
-      {/* </div> */}
-      {/* <div> */}
       <Secrets />
-      {/* </div> */}
-      {/* <div> */}
       <Faq />
-      {/* </div> */}
-      {/* <div> */}
       <Form />
-      {/* </div> */}
-      {/* <div> */}
       <UpperFooter />
-      {/* </div> */}
-      <div>
-        <LowerFooter />
-      </div>
+      <LowerFooter />
     </main>
   );
 }
