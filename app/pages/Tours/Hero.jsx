@@ -1,11 +1,11 @@
 const PackageHero = (props) => {
-  const {imageUrl,name,content,title} = props;
+  const { imageUrl, name, content, title } = props;
   return (
     <div className="max-w-full h-screen">
       <div
         className="relative bg-cover bg-center h-full overflow-hidden"
         style={{
-          backgroundImage: `linear-gradient(rgba(80, 80, 80, 0.1) 67.4%, rgb(0, 0, 0) 90.97%),url("${imageUrl}")`,
+          backgroundImage: `linear-gradient(rgba(80, 80, 80, 0.1) 0%, rgb(0, 0, 0) 150%),url("${imageUrl}")`,
         }}
       >
         <div className=" flex w-screen h-screen">
@@ -15,7 +15,7 @@ const PackageHero = (props) => {
                 style={{
                   textShadow: "0px 4px 4px rgba(0, 0, 0, 0.25)",
                 }}
-                className="text-white text-6xl font-black uppercase"
+                className="text-white text-6xl font-black uppercase tracking-wide "
               >
                 {name}
               </h2>
@@ -31,7 +31,7 @@ const PackageHero = (props) => {
             </div>
           </div>
 
-          <div className="   w-1/2 flex justify-center items-end">
+          <div className="w-1/2 flex justify-center items-end">
             <div className=" h-1/2 w-1/2 ">
               <h2 className=" text-white text-2xl font-black tracking-wide">
                 About {name} Tours

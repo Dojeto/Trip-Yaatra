@@ -1,7 +1,7 @@
 import { HiLocationMarker } from "react-icons/hi";
 const Feature = () => {
   return (
-    <div className="container m-0 pt-8 h-full px-36 flex flex-col gap-8">
+    <div className="container m-0 pt-8 px-36 flex flex-col gap-8">
       <div className="flex items-end justify-between flex-row text-center">
         <div className="flex flex-col items-start justify-start gap-2">
           <span className="text-2xl font-bold  text-darkbl">
