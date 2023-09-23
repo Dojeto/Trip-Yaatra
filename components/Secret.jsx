@@ -8,7 +8,7 @@ const Secreats = () => {
           <span className="text-2xl font-bold text-gray-600">
             Why TripYatra?
           </span>
-          <span className="text-[50px] font-bold text-darkvl">
+          <span className="text-[50px] font-bold text-darkbl">
             TripYatra’s Secret Sauce
           </span>
           <div className=" bg-darkvl w-[120px] h-[3px] "></div>
