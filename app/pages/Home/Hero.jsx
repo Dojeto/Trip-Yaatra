@@ -9,7 +9,8 @@ const Hero = () => {
     <div
       className="relative bg-cover bg-center w-screen max-w-full h-screen flex flex-col justify-center items-center"
       style={{
-        backgroundImage: `url("/assets/bg3.jpg")`,
+        //background image link: https://unsplash.com/photos/T7K4aEPoGGk
+        backgroundImage: `linear-gradient(rgba(80, 80, 80, 0.1) 0%, rgb(0, 0, 0) 150%),url("/assets/bg.jpg")`,
       }}
     >
       <div className="container mx-auto text-center z-10">
