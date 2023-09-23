@@ -7,6 +7,7 @@ const page = ({ params }) => {
   const { data, error, isLoading } = useSWR(`/api/${params.info}`, fetcher);
   if (error) return <div>failed to load</div>;
   if (isLoading) return <div>loading...</div>;
+  console.log(data.packages)
   return (
     <>
       {data.packages?.[params.package] !== undefined ? (

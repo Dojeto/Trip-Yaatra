@@ -21,10 +21,10 @@ const Navbar = () => {
           Packages
         </button>
         <button className="uppercase bg-transparent hover:bg-gray-200 hover:text-gray-700 hover:rounded-md px-4 py-2 transform hover:scale-105 transition-transform duration-300 ease-in-out w-32 h-10">
-          Videos
+          Blogs
         </button>
         <button className="uppercase bg-transparent hover:bg-gray-200 hover:text-gray-700 hover:rounded-md px-4 py-2 transform hover:scale-105 transition-transform duration-300 ease-in-out w-32 h-10">
-          fights
+          About Us
         </button>
       </div>
     </nav>
