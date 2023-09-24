@@ -8,8 +8,8 @@ import Review from "@components/Review";
 import FAQ from "@components/FAQ";
 import Form from "@components/Form";
 import UpperFooter from "@components/UpperFooter";
-import Hero from "@app/pages/Destination/Hero";
-import Details from "@app/pages/Destination/Details";
+import Hero from "@app/pages/Packages/Hero";
+import Details from "@app/pages/Packages/Details";
 
 const fetcher = (url) => fetch(url).then((res) => res.json());
 
