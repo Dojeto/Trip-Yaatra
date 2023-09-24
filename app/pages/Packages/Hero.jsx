@@ -1,13 +1,13 @@
 import React from "react";
 
 const Hero = (props) => {
-  const { imageUrl, name, content, title } = props;
+  const { imageUrl, tag, title } = props;
   return (
     <div className="max-w-full h-screen">
       <div
         className="relative bg-cover bg-center h-full overflow-hidden"
         style={{
-          backgroundImage: `linear-gradient(rgba(80, 80, 80, 0.1) 67.4%, rgb(0, 0, 0) 90.97%),url("/assets/leh.png")`,
+          backgroundImage: `linear-gradient(rgba(80, 80, 80, 0.1) 67.4%, rgb(0, 0, 0) 90.97%),url(${imageUrl})`,
         }}
       >
         <div className=" flex w-screen h-screen">
@@ -19,10 +19,10 @@ const Hero = (props) => {
                 }}
                 className="text-white text-6xl font-black uppercase"
               >
-                10 Days Srinagar Leh Manali Bike Trip
+                {title}
               </h2>
               <h2 className=" p-1 text-white text-md font-semibold tracking-wide">
-                Ride Through the Himalayas
+                {tag}
               </h2>
             </div>
           </div>

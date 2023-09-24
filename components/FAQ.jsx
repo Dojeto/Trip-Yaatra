@@ -9,7 +9,6 @@ const FAQ = () => {
           Your right to Know!
         </span>
         <div className="bg-darkvl w-[120px] h-[3px] mt-[10px]"></div>
-        {/* section */}
           <div className="container flex flex-col justify-center px-4 py-8 mx-auto md:p-8">
             <div className="space-y-4">
               <details className="w-[800px] rounded-lg ring-1 ring-darkvl">

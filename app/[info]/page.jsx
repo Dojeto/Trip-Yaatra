@@ -8,8 +8,7 @@ import Review from "@components/Review";
 import FAQ from "@components/FAQ";
 import Form from "@components/Form";
 import UpperFooter from "@components/UpperFooter";
-import Hero from "@app/pages/Packages/Hero";
-import Details from "@app/pages/Packages/Details";
+import LowerFooter from "@components/LowerFooter";
 
 const fetcher = (url) => fetch(url).then((res) => res.json());
 
@@ -20,33 +19,20 @@ const Trips = ({ params }) => {
   console.log(data);
   return (
     <>
-      {params.info == "trips" ? (
-        <>
-          <Hero
-            imageUrl={data.imagePath}
-            title={data.title}
-            content=""
-            name={data.name}
-          />
-          <Details/>
-        </>
-      ) : (
-        <>
-          <PackageHero
-            imageUrl={data.imagePath}
-            title={data.title}
-            content=""
-            name={data.name}
-          />
-          <ReadMoreContent />
-          <Packages data={data} />
-          <Secreats />
-          <Review />
-          <FAQ />
-          <Form />
-          <UpperFooter />
-        </>
-      )}
+      <PackageHero
+        imageUrl={data.imagePath}
+        title={data.title}
+        content=""
+        name={data.name}
+      />
+      <ReadMoreContent />
+      <Packages data={data} />
+      <Secreats />
+      <Review />
+      <FAQ />
+      <Form />
+      <UpperFooter />
+      <LowerFooter />
     </>
   );
 };
