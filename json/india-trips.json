@@ -1,7 +1,7 @@
 {
   "name": "India",
   "title": "A Tapestry of Cultures and Colors",
-  "imagePath": "assets/india-trips.jpg",
+  "imagePath": "/assets/india-trips.jpg",
   "bestSeller": [
     {
       "title": "10 Days Srinagar Leh Manali Bike Trip",
@@ -69,26 +69,104 @@
     }
   ],
   "packages": {
-    "ladkh": {
+    "ladakh": {
       "name": "Leh Ladakh",
       "title": "Step Foot in the Himalayan Wonderland",
-      "imagePath": "assets/india-trips.png",
+      "imagePath": "/assets/leh.png",
       "bestSeller": [
         {
           "title": "Welcome To Manali",
-          "imageUrl": "",
+          "imageUrl": "https://images.unsplash.com/photo-1563079288-3aed3f8a06dd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1938&q=80",
           "date": "24-05-2003",
           "days": "3/5",
           "price": 30000
         },
         {
           "title": "Welcome To Manali",
-          "imageUrl": "",
+          "imageUrl": "https://images.unsplash.com/photo-1563079288-3aed3f8a06dd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1938&q=80",
           "date": "24-05-2003",
           "days": "3/5",
           "price": 30000
         }
-      ]
+      ],
+      "todos": {
+        "title": "Popular Adventure Sports In Ladakh For A Thrilling Vacay",
+        "subtitle": "Leh Ladakh is a paradise for adrenaline junkies who are looking to push themselves to their limits. With activities like rock climbing and paragliding, there is no shortage of adventure sports in Leh Ladakh.",
+        "todo": [
+          {
+            "title": "River Rafting",
+            "imageUrl": "https://images.unsplash.com/photo-1629248564797-8c5ba85da9d3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+            "time": "3 hours approx",
+            "content": "River rafting is an immensely popular adventure sport in Ladakh. Enjoy the mesmerizing views through freezing gushing rapids",
+            "location": "Nimu"
+          },
+          {
+            "title": "Mountain Biking",
+            "imageUrl": "https://images.unsplash.com/photo-1624020348427-90a59ce23df6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+            "time": "2 hours approx",
+            "content": "Mountain Biking is one of the best adventure sports in Leh Ladakh. Get astonishing sights while crossing the highest peaks",
+            "location": "Leh"
+          },
+          {
+            "title": "Trekking",
+            "imageUrl": "https://images.unsplash.com/photo-1551632811-561732d1e306?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+            "time": "3 to 7 days approx",
+            "content": "Discover the beauty of Leh Ladakh by being a part of challenging treks. Get astonishing sights while crossing the highest peaks",
+            "location": "Stok Kangri"
+          }
+        ]
+      },
+      "places": {
+        "title": "Places You Can Visit in Leh Ladakh",
+        "subtitle": "Words are not enough to describe the beauty of Leh Ladakh. A holiday in Ladakh is an experience you'll never forget. With its charming monasteries, rivers, valleys, and lakes, Leh Ladakh has something for everyone.",
+        "place": [
+          {
+            "title": "Zanskar Valley",
+            "imageUrl": "https://images.unsplash.com/photo-1558369567-f7307042ded1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+            "content": "The frosty terrains of Zanskar valley are undoubtedly one of the best places to visit in Ladakh.",
+            "location": "Ladakh"
+          },
+          {
+            "title": "Pangong Tso Lake",
+            "imageUrl": "https://images.unsplash.com/photo-1693236052678-22c4745dfc97?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2073&q=80",
+            "content": "Pangong Tso is among the popular lake in Leh ladakh located on the eastern ladakh region",
+            "location": "Ladakh"
+          },
+          {
+            "title": "Kargil",
+            "imageUrl": "https://images.unsplash.com/photo-1568786701210-416f4df970f1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
+            "content": "Located on the banks of the Indus, Kargil is among the largest town to visit in Ladakh. ",
+            "location": "Ladakh"
+          }
+        ]
+      },
+      "shop": {
+        "title": "Places to shop in Leh Ladakh",
+        "subtitle": "It's impossible to come back from a tourist destination without any shopping. This is especially true when it comes to Ladakh where you can find a wide variety of items like Handicrafts, Pashmina Shawls, etc.",
+        "items": [
+          {
+            "title": "Moti Market",
+            "time": "10:00 AM - 08:00 PM",
+            "imageUrl": "https://images.unsplash.com/photo-1508589066756-c5dfb2cb7587?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80 ",
+            "shopFor": "Tibetan artifacts",
+            "location": "Leh"
+          },
+          {
+            "title": "Women’s Alliance Of Ladakh Shopping Hub",
+            "time": "12:00 AM - 12:00 AM",
+            "imageUrl": "https://images.unsplash.com/photo-1508589066756-c5dfb2cb7587?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80 ",
+            "shopFor": "Woolen Garment, Silver Jewelry",
+            "location": "Leh"
+          },
+          {
+            "title": "Zanskar Arts",
+            "time": "09:00 AM - 09:00 PM",
+            "imageUrl": "https://images.unsplash.com/photo-1508589066756-c5dfb2cb7587?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80 ",
+            "shopFor": "leather goods",
+            "location": "Leh"
+          }
+        ]
+      }
     },
     "spiti": {
       "name": "Manali",

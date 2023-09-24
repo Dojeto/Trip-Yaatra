@@ -1,4 +1,5 @@
 import { HiLocationMarker } from "react-icons/hi";
+import Link from "next/link";
 const Feature = () => {
   return (
     <div className="container m-0 pt-8 px-36 flex flex-col gap-8">
@@ -11,25 +12,25 @@ const Feature = () => {
         </div>
         <div className="text-l text-gray-600">View All</div>
       </div>
-      <div className=" flex flex-row gap-8">
+      <div className=" flex flex-row gap-12">
         <div className=" w-full flex flex-col gap-8">
-          <div className=" h-[590px] first-letter relative">
+          <div className=" h-[430px] first-letter relative">
             <img
-              src="/assets/bg3.jpg"
-              className="absolute rounded-xl inset-0 w-full h-full object-cover"
+              src="https://images.unsplash.com/photo-1604999333679-b86d54738315?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1925&q=80"
+              className="absolute rounded-xl inset-0 w-full h-full object-cover brightness-[.7]"
               alt=""
             />
             <div className="m-8 p-4 bg-gray-400 rounded-md bg-clip-padding backdrop-filter backdrop-blur-md bg-opacity-10  absolute text-xl bottom-0 text-white border border-gray-100">
               <div className="inline pr-3">
                 <HiLocationMarker className="inline" />
               </div>
-              Dubai, UAE
+              Bali
             </div>
           </div>
-          <div className="h-72 relative">
+          <div className="h-64 relative">
             <img
-              src="/assets/bg3.jpg"
-              className="absolute rounded-xl inset-0 w-full h-full object-cover"
+              src="https://images.unsplash.com/photo-1580674684081-7617fbf3d745?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80"
+              className="absolute rounded-xl inset-0 w-full h-full object-cover brightness-[.7] "
               alt=""
             />
             <div className="m-8 p-4 bg-gray-400 rounded-md bg-clip-padding backdrop-filter backdrop-blur-md bg-opacity-10  absolute text-xl bottom-0 text-white border border-gray-100">
@@ -41,30 +42,30 @@ const Feature = () => {
           </div>
         </div>
         <div className=" w-full flex flex-col gap-8">
-          <div className="h-72 relative">
+          <div className="h-64 relative">
             <img
-              src="/assets/bg3.jpg"
-              className="absolute rounded-xl inset-0 w-full h-full object-cover"
+              src="https://images.unsplash.com/photo-1536295243470-d7cba4efab7b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2038&q=80"
+              className="absolute rounded-xl inset-0 w-full h-full object-cover brightness-[.7] "
               alt=""
             />
             <div className="m-8 p-4 bg-gray-400 rounded-md bg-clip-padding backdrop-filter backdrop-blur-md bg-opacity-10  absolute text-xl bottom-0 text-white border border-gray-100">
               <div className="inline pr-3">
                 <HiLocationMarker className="inline" />
               </div>
-              Dubai, UAE
+              <Link href="/india-trips/ladakh">Leh Ladakh</Link>
             </div>
           </div>
-          <div className=" h-[590px] first-letter relative">
+          <div className=" h-[430px] first-letter relative">
             <img
-              src="/assets/bg3.jpg"
-              className="absolute rounded-xl inset-0 w-full h-full object-cover"
+              src="https://images.unsplash.com/photo-1608659377921-e985721b3d04?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+              className="absolute rounded-xl inset-0 w-full h-full object-cover brightness-[.7]"
               alt=""
             />
             <div className="m-8 p-4 bg-gray-400 rounded-md bg-clip-padding backdrop-filter backdrop-blur-md bg-opacity-10  absolute text-xl bottom-0 text-white border border-gray-100">
               <div className="inline pr-3">
                 <HiLocationMarker className="inline" />
               </div>
-              Dubai, UAE
+              Bhutan
             </div>
           </div>
         </div>

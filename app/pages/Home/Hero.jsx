@@ -14,7 +14,12 @@ const Hero = () => {
       }}
     >
       <div className="container mx-auto text-center z-10">
-        <h1 className="tracking-wider text-5xl font-extrabold text-white">
+        <h1
+          style={{
+            textShadow: "0px 4px 4px rgba(0, 0, 0, 0.25)",
+          }}
+          className="tracking-wider text-5xl font-extrabold text-white"
+        >
           Explore the huge world
         </h1>
         <p className="tracking-wide text-5xl font-extrabold text-white">

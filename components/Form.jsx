@@ -58,9 +58,7 @@ const Form = () => {
             onSubmit={handleSubmit}
             className="mb-0 mt-6 space-y-4 bg-[#cdeef3] rounded-lg p-4 shadow-lg sm:p-6 lg:p-8 border border-gray-600"
           >
-            <label htmlFor="name" className="sr-only">
-              Name
-            </label>
+            <label htmlFor="name">Name</label>
             <div className="relative">
               <input
                 type="text"
@@ -76,9 +74,7 @@ const Form = () => {
             </div>
             <p className="text-red-600 text-sm">{nameError}</p>
 
-            <label htmlFor="phone" className="sr-only">
-              Phone
-            </label>
+            <label htmlFor="phone">Phone</label>
             <div className="relative">
               <input
                 type="text"
@@ -94,9 +90,7 @@ const Form = () => {
             </div>
             <p className="text-red-600 text-sm">{phoneError}</p>
 
-            <label htmlFor="email" className="sr-only">
-              Email
-            </label>
+            <label htmlFor="email">Email</label>
             <div className="relative">
               <input
                 type="email"
@@ -126,16 +120,16 @@ const Form = () => {
             <p className="text-red-600 text-sm">{emailError}</p>
 
             <div className="relative">
-                <input
-                  type="message"
-                  id="email"
-                  className="w-full rounded-lg border-gray-200 p-4 text-sm shadow-sm"
-                  placeholder="Write your message here"
-                />
-                <span className="absolute inset-y-0 end-0 grid place-content-center px-4">
-                  <BiMessageRounded className="h-4 w-4 text-gray-400" />
-                </span>
-              </div>
+              <input
+                type="message"
+                id="email"
+                className="w-full rounded-lg border-gray-200 p-4 text-sm shadow-sm"
+                placeholder="Write your message here"
+              />
+              <span className="absolute inset-y-0 end-0 grid place-content-center px-4">
+                <BiMessageRounded className="h-4 w-4 text-gray-400" />
+              </span>
+            </div>
 
             <button
               type="submit"

@@ -3,7 +3,7 @@ import useSWR from "swr";
 import PackageHero from "@app/pages/Tours/Hero";
 import ReadMoreContent from "@app/pages/Tours/ReadMoreContent";
 import Packages from "@app/pages/Tours/BestSeller";
-import Secreats from "@components/Secret";
+import Secrets from "@components/Secret";
 import Review from "@components/Review";
 import FAQ from "@components/FAQ";
 import Form from "@components/Form";
@@ -28,7 +28,7 @@ const Trips = ({ params }) => {
             content=""
             name={data.name}
           />
-          <Details/>
+          <Details />
         </>
       ) : (
         <>
@@ -40,7 +40,7 @@ const Trips = ({ params }) => {
           />
           <ReadMoreContent />
           <Packages data={data} />
-          <Secreats />
+          <Secrets />
           <Review />
           <FAQ />
           <Form />

@@ -3,7 +3,7 @@ import Link from "next/link";
 import PackageCard from "@components/PackageCard";
 const Packages = () => {
   return (
-    <div className="mt-[50px] px-36 flex flex-col gap-8">
+    <div className="mt-[50px] mx-[10%] flex flex-col gap-8">
       <div className="flex items-end justify-between flex-row text-center">
         <div className="flex flex-col items-start justify-start gap-2">
           <span className="text-2xl font-bold  text-darkbl">
@@ -15,7 +15,14 @@ const Packages = () => {
           View All
         </Link>
       </div>
-      <PackageCard />
+      <PackageCard
+        imageUrl="/assets/leh.png"
+        price="Price"
+        title="Title"
+        date="Date"
+        days="Days"
+        destination="Destination"
+      />
     </div>
   );
 };
