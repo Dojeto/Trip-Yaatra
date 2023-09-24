@@ -27,7 +27,7 @@ const Navbar = () => {
             <Link href="">Contact</Link>
           </button>
           <button className="uppercase bg-transparent hover:bg-gray-200 hover:text-gray-700 hover:rounded-md px-4 py-2 transform hover:scale-105 transition-transform duration-300 ease-in-out w-32 h-10">
-            <Link href="">About Us</Link>
+            <Link href="/about-us">About Us</Link>
           </button>
         </div>
       </div>

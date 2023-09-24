@@ -58,8 +58,8 @@ const Form = () => {
             onSubmit={handleSubmit}
             className="mb-0 mt-6 space-y-4 bg-[#cdeef3] rounded-lg p-4 shadow-lg sm:p-6 lg:p-8 border border-gray-600"
           >
-            <label htmlFor="name" className="sr-only">
-              Name
+            <label htmlFor="name" className="">
+            Your Name *
             </label>
             <div className="relative">
               <input
@@ -76,15 +76,15 @@ const Form = () => {
             </div>
             <p className="text-red-600 text-sm">{nameError}</p>
 
-            <label htmlFor="phone" className="sr-only">
-              Phone
+            <label htmlFor="phone" className="">
+            Phone *
             </label>
             <div className="relative">
               <input
                 type="text"
                 id="phone"
                 className="w-full rounded-lg border-gray-200 p-4 text-sm shadow-sm"
-                placeholder="Enter your phone *"
+                placeholder="Enter your phone number*"
                 value={phone}
                 onChange={(e) => setPhone(e.target.value)}
               />
@@ -94,8 +94,8 @@ const Form = () => {
             </div>
             <p className="text-red-600 text-sm">{phoneError}</p>
 
-            <label htmlFor="email" className="sr-only">
-              Email
+            <label htmlFor="email" className="">
+            Email Id *
             </label>
             <div className="relative">
               <input
@@ -124,7 +124,9 @@ const Form = () => {
               </span>
             </div>
             <p className="text-red-600 text-sm">{emailError}</p>
-
+            <label htmlFor="email" className="">
+            Message
+            </label>
             <div className="relative">
                 <input
                   type="message"

@@ -10,6 +10,7 @@ import Form from "@components/Form";
 import UpperFooter from "@components/UpperFooter";
 import Hero from "@app/pages/Destination/Hero";
 import Details from "@app/pages/Destination/Details";
+import LowerFooter from "@components/LowerFooter";
 
 const fetcher = (url) => fetch(url).then((res) => res.json());
 
@@ -28,7 +29,11 @@ const Trips = ({ params }) => {
             content=""
             name={data.name}
           />
-          <Details/>
+          <Details />
+
+          <UpperFooter />
+          <LowerFooter />
+
         </>
       ) : (
         <>
@@ -45,6 +50,7 @@ const Trips = ({ params }) => {
           <FAQ />
           <Form />
           <UpperFooter />
+          <LowerFooter />
         </>
       )}
     </>

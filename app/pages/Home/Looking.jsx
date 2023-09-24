@@ -5,14 +5,13 @@ const Looking = () => {
       <div className="relative">
         {/* Lower Image */}
         <Image
-          src="/assets/cta-banner.png"
-          alt="Background Image"
-          width={1000}
-          height={1000}
-          layout="responsive"
-          objectFit="cover"
-          objectPosition="center"
-        />
+  src="/assets/cta-banner.png"
+  alt="Background Image"
+  width={1000}
+  height={1000}
+  className="w-1000 h-1000"
+/>
+
 
         <div className="absolute top-0 left-0 w-full h-full flex items-center justify-center">
           {/* Content inside  */}

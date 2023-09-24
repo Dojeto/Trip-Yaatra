@@ -20,6 +20,8 @@ const FAQ = () => {
               </details>
             </div>
           </div>
+
+          {/* section */}
         </div>
     </div>
   );

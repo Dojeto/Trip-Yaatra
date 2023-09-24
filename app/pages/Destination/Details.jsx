@@ -1,3 +1,4 @@
+
 import React from "react";
 import { AiOutlineClockCircle } from "react-icons/ai";
 
@@ -22,6 +23,11 @@ const Details = () => {
           {/* Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime, dolor ducimus. Atque repellendus obcaecati perspiciatis quisquam ex aut quo culpa id ipsa iusto architecto similique suscipit tempore natus, eaque neque! */}
         </div>
       </div>
+      <div>
+      
+     
+      </div>
+     
     </div>
   );
 };
