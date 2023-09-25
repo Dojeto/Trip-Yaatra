@@ -1,11 +1,11 @@
 import { BsFillClockFill } from "react-icons/bs";
 import { MdLocationOn } from "react-icons/md";
 import { LuCalendarDays } from "react-icons/lu";
-
+import Link from "next/link";
 const PackageCard = (props) => {
-  const { price, title, days, date, destination, imageUrl } = props;
+  const { price, title, days, date, destination, imageUrl, link } = props;
   return (
-    <div className="relative w-96  flex flex-col justify-between items-stretch border border-gray-200 bg-white rounded-xl p-3 m-[2%]  shadow-xl ">
+    <div className="relative w-96  flex flex-col justify-between items-stretch border border-gray-200 bg-white rounded-xl p-3   shadow-xl ">
       <div className="relative h-full flex flex-col justify-between items-start">
         <div className="absolute z-10 bg-yellow-300 p-1 top-[-5px] right-[-5px] rounded-md shadow-xl">
           <span className=" font-bold">₹{price}/- </span>Onwards
@@ -14,7 +14,7 @@ const PackageCard = (props) => {
           <img
             className=" rounded-lg aspect-video object-cover"
             src={imageUrl}
-            alt="Bali"
+            alt={title}
           />
           <div className="text-xl font-medium p-2 h-20">{title}</div>
           <div className="flex justify-between px-2 w-full">

@@ -74,22 +74,22 @@ const Navbar = () => {
                   <Link href="/india-trips/ladakh">Ladakh</Link>
                 </li>
                 <li className="p-1 text-sm">
-                  <Link href="/">Spiti</Link>
+                  <Link href="/india-trips/">Spiti</Link>
                 </li>
                 <li className="p-1 text-sm">
-                  <Link href="/">Kashmir</Link>
+                  <Link href="/india-trips/">Kashmir</Link>
                 </li>
                 <li className="p-1 text-sm">
-                  <Link href="/">Andaman</Link>
+                  <Link href="/india-trips/">Andaman</Link>
                 </li>
                 <li className="p-1 text-sm">
-                  <Link href="/">Kerala</Link>
+                  <Link href="/india-trips/">Kerala</Link>
                 </li>
                 <li className="p-1 text-sm">
-                  <Link href="/">Uttrakhand</Link>
+                  <Link href="/india-trips/">Uttrakhand</Link>
                 </li>
                 <li className="p-1 text-sm">
-                  <Link href="/">Rajasthan</Link>
+                  <Link href="/india-trips/">Rajasthan</Link>
                 </li>
               </ul>
             </div>

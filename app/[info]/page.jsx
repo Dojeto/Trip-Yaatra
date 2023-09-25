@@ -3,13 +3,11 @@ import useSWR from "swr";
 import PackageHero from "@app/pages/Tours/Hero";
 import ReadMoreContent from "@app/pages/Tours/ReadMoreContent";
 import Packages from "@app/pages/Tours/BestSeller";
-import Secreats from "@components/Secret";
+import Secrets from "@components/Secret";
 import Review from "@components/Review";
 import FAQ from "@components/FAQ";
 import Form from "@components/Form";
 import UpperFooter from "@components/UpperFooter";
-import Hero from "@app/pages/Destination/Hero";
-import Details from "@app/pages/Destination/Details";
 import LowerFooter from "@components/LowerFooter";
 
 const fetcher = (url) => fetch(url).then((res) => res.json());
@@ -30,10 +28,6 @@ const Trips = ({ params }) => {
             name={data.name}
           />
           <Details />
-
-          <UpperFooter />
-          <LowerFooter />
-
         </>
       ) : (
         <>
@@ -45,7 +39,7 @@ const Trips = ({ params }) => {
           />
           <ReadMoreContent />
           <Packages data={data} />
-          <Secreats />
+          <Secrets />
           <Review />
           <FAQ />
           <Form />
