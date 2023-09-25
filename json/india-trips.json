@@ -19,7 +19,7 @@
       "days": "3/5",
       "price": 30000,
       "destination": "spiti",
-      "link": ""
+      "link": "/trips/srinagar-leh-manali"
     },
     {
       "title": "10 Days Srinagar Leh Manali Bike Trip",
@@ -28,7 +28,7 @@
       "days": "3/5",
       "price": 30000,
       "destination": "Leh Ladakh",
-      "link": ""
+      "link": "/trips/srinagar-leh-manali"
     },
     {
       "title": "7 Days Leh Ladakh Tour Package With Turtuk Village",
@@ -37,7 +37,7 @@
       "days": "3/5",
       "price": 30000,
       "destination": "spiti",
-      "link": ""
+      "link": "/trips/srinagar-leh-manali"
     },
     {
       "title": "10 Days Srinagar Leh Manali Bike Trip",
@@ -46,7 +46,7 @@
       "days": "3/5",
       "price": 30000,
       "destination": "Leh Ladakh",
-      "link": ""
+      "link": "/trips/srinagar-leh-manali"
     },
     {
       "title": "7 Days Leh Ladakh Tour Package With Turtuk Village",
@@ -55,7 +55,7 @@
       "days": "3/5",
       "price": 30000,
       "destination": "spiti",
-      "link": ""
+      "link": "/trips/srinagar-leh-manali"
     },
     {
       "title": "10 Days Srinagar Leh Manali Bike Trip",
@@ -64,7 +64,7 @@
       "days": "3/5",
       "price": 30000,
       "destination": "Leh Ladakh",
-      "link": ""
+      "link": "/trips/srinagar-leh-manali"
     },
     {
       "title": "7 Days Leh Ladakh Tour Package With Turtuk Village",
@@ -73,7 +73,7 @@
       "days": "3/5",
       "price": 30000,
       "destination": "spiti",
-      "link": ""
+      "link": "/trips/srinagar-leh-manali"
     }
   ],
   "packages": {
@@ -87,14 +87,16 @@
           "imageUrl": "https://images.unsplash.com/photo-1563079288-3aed3f8a06dd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1938&q=80",
           "date": "24-05-2003",
           "days": "3/5",
-          "price": 30000
+          "price": 30000,
+          "link": "/trips/srinagar-leh-manali"
         },
         {
           "title": "Welcome To Manali",
           "imageUrl": "https://images.unsplash.com/photo-1563079288-3aed3f8a06dd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1938&q=80",
           "date": "24-05-2003",
           "days": "3/5",
-          "price": 30000
+          "price": 30000,
+          "link": "/trips/srinagar-leh-manali"
         }
       ],
       "todos": {

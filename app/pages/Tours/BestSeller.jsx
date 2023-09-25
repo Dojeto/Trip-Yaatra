@@ -3,6 +3,7 @@ import PackageCard from "@components/PackageCard";
 
 const TripsPackages = (props) => {
   const { data } = props;
+  console.log(data.bestSeller[0].link);
   return (
     <div className=" flex flex-col justify-center items-center">
       <div>
@@ -25,6 +26,7 @@ const TripsPackages = (props) => {
             date={val.date}
             days={val.days}
             destination={val.destination}
+            link={val.link}
           />
         ))}
       </div>
