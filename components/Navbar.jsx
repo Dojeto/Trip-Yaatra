@@ -18,16 +18,24 @@ const Navbar = () => {
         </Link>
         <div className="flex text-black">
           <button className="uppercase bg-transparent hover:bg-gray-200 hover:text-gray-700 hover:rounded-md px-4 py-2 transform hover:scale-105 transition-transform duration-300 ease-in-out w-30 h-10">
-            <Link href={"tel:+91-8698378811"} shallow>+91 8698378811</Link>
+            <Link href={"tel:+91-8698378811"} shallow>
+              +91 8698378811
+            </Link>
           </button>
           <button className="uppercase bg-transparent hover:bg-gray-200 hover:text-gray-700 hover:rounded-md px-4 py-2 transform hover:scale-105 transition-transform duration-300 ease-in-out w-32 h-10">
-            <Link href={""} shallow>Blogs</Link>
+            <Link href={""} shallow>
+              Blogs
+            </Link>
           </button>
           <button className="uppercase bg-transparent hover:bg-gray-200 hover:text-gray-700 hover:rounded-md px-4 py-2 transform hover:scale-105 transition-transform duration-300 ease-in-out w-32 h-10">
-            <Link href={""} shallow>Contact</Link>
+            <Link href={""} shallow>
+              Contact
+            </Link>
           </button>
           <button className="uppercase bg-transparent hover:bg-gray-200 hover:text-gray-700 hover:rounded-md px-4 py-2 transform hover:scale-105 transition-transform duration-300 ease-in-out w-32 h-10">
-            <Link href={""} shallow>About Us</Link>
+            <Link href={"/about-us"} shallow>
+              About Us
+            </Link>
           </button>
         </div>
       </div>
