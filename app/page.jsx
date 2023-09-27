@@ -10,7 +10,7 @@ import UpperFooter from "@components/UpperFooter";
 import LowerFooter from "@components/LowerFooter";
 export default function Home() {
   return (
-    <main className="h-screen">
+    <main className="h-screen ">
       <Hero />
       <Feature />
       <Packages />
