@@ -5,7 +5,7 @@ const Looking = () => {
       <div className="relative">
         {/* Lower Image */}
         <Image
-          src="/assets/cta-banner.png"
+          src="/assets/Home/cta-banner.png"
           alt="Background Image"
           width={1000}
           height={1000}

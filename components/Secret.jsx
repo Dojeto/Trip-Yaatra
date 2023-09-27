@@ -16,7 +16,7 @@ const Secreats = () => {
             <div className="max-w-md mx-auto relative bg-cover bg-center rounded-lg overflow-hidden shadow-lg border border-gray-300 mr-4">
               <div style={{ width: "300px", height: "100%" }}>
                 <Image
-                  src="/assets/sauceBg1.png"
+                  src="/assets/Home/sauceBg1.png"
                   alt="Background Image"
                   width={300}
                   height={300}                 
@@ -38,7 +38,7 @@ const Secreats = () => {
             <div className="max-w-md mx-auto relative bg-cover bg-center rounded-lg overflow-hidden shadow-lg border border-gray-300 ml-4">
               <div style={{ width: "300px", height: "100%" }}>
                 <Image
-                  src="/assets/sauceBg2.png"
+                  src="/assets/Home/sauceBg2.png"
                   alt="Background Image"
                   width={300}
                   height={300}
@@ -59,7 +59,7 @@ const Secreats = () => {
             <div className="max-w-md mx-auto relative bg-cover bg-center rounded-lg overflow-hidden shadow-lg border border-gray-300 ml-4">
               <div style={{ width: "300px", height: "100%" }}>
                 <Image
-                  src="/assets/sauceBg3.png"
+                  src="/assets/Home/sauceBg3.png"
                   alt="Background Image"
                   width={300}
                   height={300}
@@ -80,7 +80,7 @@ const Secreats = () => {
             <div className="max-w-md mx-auto relative bg-cover bg-center rounded-lg overflow-hidden shadow-lg border border-gray-300 ml-4">
               <div style={{ width: "300px", height: "100%" }}>
                 <Image
-                  src="/assets/sauceBg4.png"
+                  src="/assets/Home/sauceBg4.png"
                   alt="Background Image"
                   width={300}
                   height={300}
@@ -99,8 +99,6 @@ const Secreats = () => {
                 </p>
               </div>
             </div>
-
-            {/* add */}
           </div>
         </div>
       </div>

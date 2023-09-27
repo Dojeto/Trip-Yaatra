@@ -4,7 +4,7 @@ const UpperFooter = () => {
   return (
     <div className="mt-[80px] relative">
       <Image
-        src="/assets/desktop-footer.png"
+        src="/assets/Home/desktop-footer.png"
         alt="upperfooter"
         width={1920}
         height={500}
@@ -35,37 +35,37 @@ const UpperFooter = () => {
             <div className="mt-[20px]">
               <h1 className="text-2xl font-bold">Weekend Trips</h1>
               <div className="flex flex-col">
-                <Link href="/about" className="text-[13px] w-[130px]">
+                <Link href={"/about"} shallow className="text-[13px] w-[130px]">
                   Bir Billing
                 </Link>
-                <Link href="/about" className="text-[13px] w-[130px]">
+                <Link href={"/about"} shallow className="text-[13px] w-[130px]">
                   Chopta Tungnath
                 </Link>
-                <Link href="/about" className="text-[13px] w-[130px]">
+                <Link href={"/about"} shallow className="text-[13px] w-[130px]">
                   Chopta Tungnath
                 </Link>
-                <Link href="/about" className="text-[13px] w-[130px]">
+                <Link href={"/about"} shallow className="text-[13px] w-[130px]">
                   Chopta Tungnath
                 </Link>
-                <Link href="/about" className="text-[13px] w-[130px]">
+                <Link href={"/about"} shallow className="text-[13px] w-[130px]">
                   Chopta Tungnath
                 </Link>
               </div>
               <h1 className="text-2xl font-bold mt-[25px]">Weekend Trips</h1>
               <div className="flex flex-col">
-                <Link href="/about" className="text-[13px] w-[130px]">
+                <Link href={"/about"} shallow className="text-[13px] w-[130px]">
                   Bir Billing
                 </Link>
-                <Link href="/about" className="text-[13px] w-[130px]">
+                <Link href={"/about"} shallow className="text-[13px] w-[130px]">
                   Chopta Tungnath
                 </Link>
-                <Link href="/about" className="text-[13px] w-[130px]">
+                <Link href={"/about"} shallow className="text-[13px] w-[130px]">
                   Chopta Tungnath
                 </Link>
-                <Link href="/about" className="text-[13px] w-[130px]">
+                <Link href={"/about"} shallow className="text-[13px] w-[130px]">
                   Chopta Tungnath
                 </Link>
-                <Link href="/about" className="text-[13px] w-[130px]">
+                <Link href={"/about"} shallow className="text-[13px] w-[130px]">
                   Chopta Tungnath
                 </Link>
               </div>
@@ -76,37 +76,37 @@ const UpperFooter = () => {
             <div className="mt-[20px]">
               <h1 className="text-2xl font-bold">Backpacking Trips</h1>
               <div className="flex flex-col">
-              <Link href="/about" className="text-[13px] w-[130px]">
+              <Link href={"/about"} shallow className="text-[13px] w-[130px]">
                   Bir Billing
                 </Link>
-                <Link href="/about" className="text-[13px] w-[130px]">
+                <Link href={"/about"} shallow className="text-[13px] w-[130px]">
                   Chopta Tungnath
                 </Link>
-                <Link href="/about" className="text-[13px] w-[130px]">
+                <Link href={"/about"} shallow className="text-[13px] w-[130px]">
                   Chopta Tungnath
                 </Link>
-                <Link href="/about" className="text-[13px] w-[130px]">
+                <Link href={"/about"} shallow className="text-[13px] w-[130px]">
                   Chopta Tungnath
                 </Link>
-                <Link href="/about" className="text-[13px] w-[130px]">
+                <Link href={"/about"} shallow className="text-[13px] w-[130px]">
                   Chopta Tungnath
                 </Link>
               </div>
               <h1 className="text-2xl font-bold mt-[25px]">Blogs</h1>
               <div className="flex flex-col">
-              <Link href="/about" className="text-[13px] w-[130px]">
+              <Link href={"/about"} shallow className="text-[13px] w-[130px]">
                   Bir Billing
                 </Link>
-                <Link href="/about" className="text-[13px] w-[130px]">
+                <Link href={"/about"} shallow className="text-[13px] w-[130px]">
                   Chopta Tungnath
                 </Link>
-                <Link href="/about" className="text-[13px] w-[130px]">
+                <Link href={"/about"} shallow className="text-[13px] w-[130px]">
                   Chopta Tungnath
                 </Link>
-                <Link href="/about" className="text-[13px] w-[130px]">
+                <Link href={"/about"} shallow className="text-[13px] w-[130px]">
                   Chopta Tungnath
                 </Link>
-                <Link href="/about" className="text-[13px] w-[130px]">
+                <Link href={"/about"} shallow className="text-[13px] w-[130px]">
                   Chopta Tungnath
                 </Link>
               </div>
@@ -117,22 +117,22 @@ const UpperFooter = () => {
             <div className="mt-[20px]">
               <h1 className="text-2xl font-bold">Quick Links</h1>
               <div className="flex flex-col">
-                <Link href="/about" className="text-[13px] w-[130px]">
+                <Link href={"/about"} shallow className="text-[13px] w-[130px]">
                   Privacy Policy
                 </Link>
-                <Link href="/about" className="text-[13px] w-[130px]">
+                <Link href={"/about"} shallow className="text-[13px] w-[130px]">
                   Cancellation Policy
                 </Link>
-                <Link href="/about" className="text-[13px] w-[130px]">
+                <Link href={"/about"} shallow className="text-[13px] w-[130px]">
                   Terms & Condition
                 </Link>
-                <Link href="/about" className="text-[13px] w-[130px]">
+                <Link href={"/about"} shallow className="text-[13px] w-[130px]">
                   Disclaimer
                 </Link>
-                <Link href="/about" className="text-[13px] w-[130px]">
+                <Link href={"/about"} shallow className="text-[13px] w-[130px]">
                   Careers
                 </Link>
-                <Link href="/about" className="text-[13px] w-[130px]">
+                <Link href={"/about"} shallow className="text-[13px] w-[130px]">
                   About Us
                 </Link>
               </div>

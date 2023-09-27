@@ -1,5 +1,4 @@
 import Search from "./Search";
-
 import Link from "next/link";
 import { FaFacebookF, FaTwitter, FaLinkedinIn } from "react-icons/fa";
 import { BiLogoInstagramAlt } from "react-icons/bi";
@@ -9,8 +8,7 @@ const Hero = () => {
     <div
       className="relative bg-cover bg-center w-screen max-w-full h-screen flex flex-col justify-center items-center"
       style={{
-        //background image link: https://unsplash.com/photos/T7K4aEPoGGk
-        backgroundImage: `linear-gradient(rgba(80, 80, 80, 0.1) 0%, rgb(0, 0, 0) 150%),url("/assets/bg.jpg")`,
+        backgroundImage: `linear-gradient(rgba(80, 80, 80, 0.1) 0%, rgb(0, 0, 0) 150%),url("/assets/Home/hero.jpg")`,
       }}
     >
       <div className="container mx-auto text-center z-10">
@@ -30,22 +28,22 @@ const Hero = () => {
       <div className="absolute z-10 top-0 right-0 h-full flex flex-col items-end justify-center space-y-6 p-4 mr-[25px]">
         {/* section */}
         <div className="text-center p-2 rounded-full text-2xl">
-          <Link href="#">
+          <Link href={"#"} shallow>
             <FaFacebookF className="text-white hover:text-blue-500" />
           </Link>
         </div>
         <div className="text-center p-2 rounded-full text-2xl">
-          <Link href="#" className="block">
+          <Link href={"#"} shallow className="block">
             <BiLogoInstagramAlt className="text-white hover:text-pink-500" />
           </Link>
         </div>
         <div className="text-center p-2 rounded-full text-2xl">
-          <Link href="#" className="block">
+          <Link href={"#"} shallow className="block">
             <FaTwitter className="text-white hover:text-blue-500" />
           </Link>
         </div>
         <div className="text-center p-2 rounded-full text-2xl">
-          <Link href="#" className="block">
+          <Link href={"#"} shallow className="block">
             <FaLinkedinIn className="text-white hover:text-blue-400" />
           </Link>
         </div>
