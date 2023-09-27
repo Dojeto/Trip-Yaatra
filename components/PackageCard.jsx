@@ -36,9 +36,11 @@ const PackageCard = (props) => {
             </div>
           </div>
         </div>
-        <button className="bg-darkvl mt-3 w-full p-3 text-white rounded-md">
-          View Details
-        </button>
+        <Link href={link} shallow>
+          <button className="bg-darkvl mt-3 w-full p-3 text-white rounded-md">
+            View Details
+          </button>
+        </Link>
       </div>
     </div>
   );

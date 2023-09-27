@@ -22,6 +22,7 @@ const Packages = () => {
         date="Date"
         days="Days"
         destination="Destination"
+        link="/"
       />
     </div>
   );

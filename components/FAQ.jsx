@@ -10,7 +10,7 @@ const FAQ = () => {
         </span>
         <div className="bg-darkvl w-[120px] h-[3px] mt-[10px]"></div>
           <div className="container flex flex-col justify-center px-4 py-8 mx-auto md:p-8">
-            <div className="space-y-4">
+            <div className="space-y-4 cursor-pointer">
               <details className="w-[800px] rounded-lg ring-1 ring-darkvl">
                 <summary className="px-4 py-6">Can I change the date after booking?</summary>
                 <p className="px-4 py-6 pt-0 ml-4 -mt-4 text-gray-600">
