@@ -1,3 +1,4 @@
+import Modal from "@components/Modal";
 const PackageHero = (props) => {
   const { imageUrl, name, content, title } = props;
   return (
@@ -25,9 +26,7 @@ const PackageHero = (props) => {
               <button className=" mt-2 mr-3 border-2 rounded-md w-36 h-11 text-white">
                 View Packages
               </button>
-              <button className=" p-2 border-2 rounded-md w-36 h-11 text-white">
-                Contact Us
-              </button>
+              <Modal />
             </div>
           </div>
 
