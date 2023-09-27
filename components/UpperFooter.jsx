@@ -138,8 +138,8 @@ const UpperFooter = () => {
               </div>
             </div>
           </div>
+          {/* section */}
         </div>
-        {/* section */}
       </div>
     </div>
   );

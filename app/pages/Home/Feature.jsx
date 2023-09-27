@@ -2,8 +2,8 @@ import { HiLocationMarker } from "react-icons/hi";
 import Link from "next/link";
 const Feature = () => {
   return (
-    <div className="container m-0 pt-8 px-36 flex flex-col gap-8">
-      <div className="flex items-end justify-between flex-row text-center">
+    <div className="pt-8 mx-36 flex flex-col justify-center  gap-8">
+      <div className="flex items-end justify-between text-center">
         <div className="flex flex-col items-start justify-start gap-2">
           <span className="text-2xl font-bold  text-darkbl">
             Visit Top Destination with us
@@ -12,7 +12,7 @@ const Feature = () => {
         </div>
         <div className="text-l text-gray-600">View All</div>
       </div>
-      <div className=" flex flex-row gap-12">
+      <div className=" flex gap-12">
         <div className=" w-full flex flex-col gap-8">
           <div className=" h-[430px] first-letter relative">
             <img

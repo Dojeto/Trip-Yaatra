@@ -2,7 +2,7 @@ import Image from "next/image";
 
 const Secreats = () => {
   return (
-    <div className=" mt-[70px] flex items-center justify-center mb-[70px]">
+    <div className=" mt-[70px] flex items-center justify-center mb-[70px] px-40 ">
       <div className="flex items-end justify-between flex-row text-center">
         <div className="flex flex-col items-center justify-start gap-1">
           <span className="text-2xl font-bold text-gray-600">
@@ -19,11 +19,10 @@ const Secreats = () => {
                   src="/assets/Home/sauceBg1.png"
                   alt="Background Image"
                   width={300}
-                  height={300}                 
-                  objectFit="cover"
-                  objectPosition="center"
+                  height={300}
                 />
               </div>
+
 
               <div className="absolute top-0 left-0 right-0 p-4 mt-4 ">
                 <h2 className="text-2xl font-bold text-darkvl">
@@ -42,8 +41,7 @@ const Secreats = () => {
                   alt="Background Image"
                   width={300}
                   height={300}
-                  objectFit="cover"
-                  objectPosition="center"
+                  
                 />
               </div>
               <div className="absolute top-0 left-0 right-0 p-4 mt-4 ">
@@ -63,8 +61,7 @@ const Secreats = () => {
                   alt="Background Image"
                   width={300}
                   height={300}
-                  objectFit="cover"
-                  objectPosition="center"
+                 
                 />
               </div>
               <div className="absolute top-0 left-0 right-0 p-4 mt-4 ">
@@ -84,8 +81,7 @@ const Secreats = () => {
                   alt="Background Image"
                   width={300}
                   height={300}
-                  objectFit="cover"
-                  objectPosition="center"
+                 
                 />
               </div>
               <div className="absolute top-0 left-0 right-0 p-4 mt-4 ">

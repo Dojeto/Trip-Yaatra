@@ -1,5 +1,7 @@
 import "./globals.css";
 import Navbar from "@components/Navbar";
+import UpperFooter from "@components/UpperFooter";
+import LowerFooter from "@components/LowerFooter";
 
 export const metadata = {
   title: "Trip Yaatra",
@@ -20,6 +22,8 @@ export default function RootLayout({ children }) {
       <body>
         <Navbar />
         {children}
+        <UpperFooter />
+        <LowerFooter />
       </body>
     </html>
   );

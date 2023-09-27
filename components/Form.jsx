@@ -80,7 +80,7 @@ const Form = () => {
                 type="text"
                 id="phone"
                 className="w-full rounded-lg border-gray-200 p-4 text-sm shadow-sm"
-                placeholder="Enter your phone *"
+                placeholder="Enter your phone number*"
                 value={phone}
                 onChange={(e) => setPhone(e.target.value)}
               />
@@ -118,7 +118,9 @@ const Form = () => {
               </span>
             </div>
             <p className="text-red-600 text-sm">{emailError}</p>
-
+            <label htmlFor="email" className="">
+            Message
+            </label>
             <div className="relative">
               <input
                 type="message"

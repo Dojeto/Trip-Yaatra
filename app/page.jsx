@@ -6,11 +6,10 @@ import Secrets from "@components/Secret";
 import Looking from "./pages/Home/Connect";
 import Faq from "@components/FAQ";
 import Form from "@components/Form";
-import UpperFooter from "@components/UpperFooter";
-import LowerFooter from "@components/LowerFooter";
+
 export default function Home() {
   return (
-    <main className="h-screen">
+    <main>
       <Hero />
       <Feature />
       <Packages />
@@ -19,8 +18,6 @@ export default function Home() {
       <Secrets />
       <Faq />
       <Form />
-      <UpperFooter />
-      <LowerFooter />
     </main>
   );
 }
