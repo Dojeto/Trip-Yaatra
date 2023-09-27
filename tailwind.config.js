@@ -16,7 +16,9 @@ module.exports = {
         homecontent: ["Yeseva One", "cursive"],
       },
       colors: {
-        darkvl: "#3b3b6e",
+        darkvl: "rgb(1, 175, 209)",
+        darkbl: "rgb(1, 95, 116)",
+        highlight: "rgb(254, 230, 11)"
       },
       keyframes: {
         scrollIcon: {

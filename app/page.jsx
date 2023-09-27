@@ -1,21 +1,23 @@
-import Hero from "@components/Hero";
-import Feature from "@components/Feature";
-import Packages from "@components/Packages";
+import Hero from "@app/pages/Home/Hero";
+import Feature from "@app/pages/Home/Feature";
+import Packages from "@app/pages/Home/Packages";
 import Review from "@components/Review";
+import Secrets from "@components/Secret";
+import Looking from "./pages/Home/Connect";
+import Faq from "@components/FAQ";
+import Form from "@components/Form";
+
 export default function Home() {
   return (
-    <main className="h-screen">
+    <main>
       <Hero />
-      <div>
-        <Feature />
-      </div>
-      <div>
-        <Packages />
-      </div>
-      <div>
-        <Review />
-        
-      </div>
+      <Feature />
+      <Packages />
+      <Review />
+      <Looking />
+      <Secrets />
+      <Faq />
+      <Form />
     </main>
   );
 }
