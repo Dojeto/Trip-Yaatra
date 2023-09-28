@@ -6,26 +6,26 @@ import { BiLogoInstagramAlt } from "react-icons/bi";
 const Hero = () => {
   return (
     <div
-      className="relative bg-cover bg-center w-screen max-w-full h-screen flex flex-col justify-center items-center"
+      className="relative bg-cover bg-center w-full max-w-full h-screen flex flex-col justify-center items-center"
       style={{
         backgroundImage: `linear-gradient(rgba(80, 80, 80, 0.1) 0%, rgb(0, 0, 0) 150%),url("/assets/Home/hero.jpg")`,
       }}
     >
-      <div className="container mx-auto text-center z-10">
+      <div className="container mx-auto text-center z-10 text-5xl md:text-3xl">
         <h1
           style={{
             textShadow: "0px 4px 4px rgba(0, 0, 0, 0.25)",
           }}
-          className="tracking-wider text-5xl font-extrabold text-white"
+          className="tracking-wider font-extrabold text-white"
         >
           Explore the huge world
         </h1>
-        <p className="tracking-wide text-5xl font-extrabold text-white">
+        <p className="tracking-wide font-extrabold text-white">
           out there and enjoy its beauty
         </p>
       </div>
       {/* social media */}
-      <div className="absolute z-10 top-0 right-0 h-full flex flex-col items-end justify-center space-y-6 p-4 mr-[25px]">
+      <div className="absolute z-10 top-0 right-0 h-full flex flex-col items-end justify-center space-y-6 p-4 mr-[25px] md:hidden">
         {/* section */}
         <div className="text-center p-2 rounded-full text-2xl">
           <Link href={"#"} shallow>

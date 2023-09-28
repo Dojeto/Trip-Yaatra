@@ -4,8 +4,8 @@ import Link from "next/link";
 
 const Navbar = () => {
   return (
-    <nav className="z-20 fixed  w-full">
-      <div className="py-2 px-6 flex justify-between items-center  bg-slate-100">
+    <nav className="z-20 fixed w-full md:text-sm">
+      <div className="py-2 px-6 flex justify-between items-center bg-slate-100">
         <Link href={"/"}>
           <img
             // src="/assets/logo-new.png"
