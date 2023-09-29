@@ -1,7 +1,7 @@
 import Image from "next/image";
 const Looking = () => {
   return (
-    <div className="mt-[50px]">
+    <div className="sm:mt-[50px]">
       <div className="relative">
         {/* Lower Image */}
         <div >
@@ -24,7 +24,7 @@ const Looking = () => {
             style={{ backgroundColor: "rgba(5, 103, 125, 0.9)" }}
           >
             <div className="text-center">
-              <h1 className="text-4xl text-white font-bold">
+              <h1 className=" sm:text-4xl sm:text-white sm:font-bold">
                 Didn’t find what you were looking for?
               </h1>
               <h4 className="text-lg text-white font-semibold">

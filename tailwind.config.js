@@ -27,6 +27,7 @@ module.exports = {
           "70%": { transform: "translateY(-1rem)", opacity: 0 },
         },
       },
+      
     },
   },
   plugins: [],

@@ -73,17 +73,7 @@ const Review = () => {
         </h2>
       </div>
       <div className=" bg-highlight w-[120px] h-[3px] mt-1 mb-11"></div>
-      {/* <div className="flex items-end justify-between flex-row text-center">
-        <div className="flex flex-col items-start justify-start gap-2">
-          <span className="text-2xl font-bold text-darkvl">
-            What Our Customers Say
-          </span>
-        </div>
-        <Link href="#" className="text-l text-gray-600 pointer-link">
-          View All
-        </Link>
-      </div> */}
-      {/* <Flicking plugins={plugins} circular={true} align="prev"> */}
+
       <div className=" grid gap-3 justify-center grid-cols-2">
         {reviews.map((review, index) => (
           <div
@@ -98,16 +88,13 @@ const Review = () => {
               />
             </div>
             <div className="">
-              {/* <h2 className="text-blue-gray-500 text-xl font-medium mb-2">
-                {review.tourName}
-              </h2> */}
+
               <div className="flex justify-between items-center">
                 <p className="text-blue-gray-500 text-lg font-medium">
                   {review.personName}
                 </p>
                 <div className="flex items-center text-yellow-300">
-                  {/* <FaStar className="w-5 h-5 text-yellow-300 mr-1" /> */}
-                  {/* <p className="text-lg font-bold">{review.rating}</p> */}
+
                   <LiaStarSolid className="w-5 h-5 text-yellow-300 " />
                   <LiaStarSolid className="w-5 h-5 text-yellow-300 " />
                   <LiaStarSolid className="w-5 h-5 text-yellow-300 " />

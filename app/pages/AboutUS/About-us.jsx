@@ -34,7 +34,7 @@ const About = () => {
         <div>
             <div className="w-[100%] h-[400px] relative">
                 <img src="/assets/aboutus1.png" alt="" className="w-full h-full" />
-                <h1 class="absolute inset-0 flex items-center justify-center text-black text-5xl font-bold">ABOUT US</h1>
+                <h1 className="absolute inset-0 flex items-center justify-center text-black text-5xl font-bold">ABOUT US</h1>
             </div>
             <div className="flex flex-col justify-center items-center mt-[35px]">
                 <div className=" max-w-3xl">
