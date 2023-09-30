@@ -33,7 +33,7 @@ export default function Home() {
       <Looking />
       <Secrets />
       <Faq />
-      <Form /> 
+      <Form />
     </main>
   );
 }
