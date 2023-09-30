@@ -20,10 +20,10 @@ export default function RootLayout({ children }) {
         />
       </head>
       <body>
-        {/* <Navbar /> */}
+        <Navbar />
         {children}
-        {/* <UpperFooter />
-        <LowerFooter /> */}
+        <UpperFooter />
+        <LowerFooter />
       </body>
     </html>
   );

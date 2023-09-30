@@ -26,14 +26,14 @@ export default function Home() {
   // console.log(params.package);
   return (
     <main>
-      {/* <Hero />
+      <Hero />
       <Feature />
       <Packages data={data} />
-      <Review /> */}
-      {/* <Looking />
+      <Review />
+      <Looking />
       <Secrets />
-      <Faq /> */}
-      <Form /> 
+      <Faq />
+      <Form />
     </main>
   );
 }

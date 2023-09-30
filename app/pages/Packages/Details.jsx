@@ -16,7 +16,7 @@ const info = {
 };
 
 const Details = (props) => {
-  const {duration,price,pickdrop} = props
+  const { duration, price, pickdrop } = props;
   const [selected, setSelected] = useState("about");
   const ChangeState = (e) => {
     setSelected(e.target.id);
@@ -90,17 +90,57 @@ const Details = (props) => {
             Other Info
           </button>
         </div>
+        <div>{info[selected]}</div>
         <div>
-          {info[selected]}
+          <h1 className="mt-10 text-3xl font-bold ">Videos</h1>
+          <div className="w-full flex overflow-x-scroll gap-8 no-scrollbar  border-red-500">
+            <iframe
+              className=" rounded-md"
+              width={390}
+              height={220}
+              src="https://www.youtube.com/embed/Qipxi1Qn8iE?si=6v825NToNqEa8BIL"
+              title="YouTube video player"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              allowfullscreen
+            ></iframe>
+            <iframe
+              className=" rounded-md"
+              width={390}
+              height={220}
+              src="https://www.youtube.com/embed/Qipxi1Qn8iE?si=6v825NToNqEa8BIL"
+              title="YouTube video player"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              allowfullscreen
+            ></iframe>
+            <iframe
+              className=" rounded-md"
+              width={390}
+              height={220}
+              src="https://www.youtube.com/embed/Qipxi1Qn8iE?si=6v825NToNqEa8BIL"
+              title="YouTube video player"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              allowfullscreen
+            ></iframe>
+            <iframe
+              className=" rounded-md"
+              width={390}
+              height={220}
+              src="https://www.youtube.com/embed/Qipxi1Qn8iE?si=6v825NToNqEa8BIL"
+              title="YouTube video player"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              allowfullscreen
+            ></iframe>
+          </div>
         </div>
         <div>
-          <h1 className="mt-10 text-3xl font-bold">videos</h1>
+          <h1 className="mt-10 text-3xl font-bold">Photos</h1>
         </div>
         <div>
-          <h1 className="mt-10 text-3xl font-bold">photos</h1>
-        </div>
-        <div>
-          <h1 className="mt-10 text-3xl font-bold">testimonials</h1>
+          <h1 className="mt-10 text-3xl font-bold">Testimonials</h1>
         </div>
       </div>
       <div className=" pl-11 ">
