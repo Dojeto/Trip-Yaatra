@@ -1,24 +1,10 @@
 {
-    "kerala-tour-with-alleppey-backwaters-3n-4d": {
-        "title": "4 Days Short Trip To Kerala With Alleppey Backwaters",
-        "tagline": "Discover Enchanting Kerala: Explore Culture & Landscapes - 4 Days Tour",
-        "destination":"kerala",
-        "imageUrl": "/assets/leh.png",
-        "price": "37,399",
-        "date":"10-05-10",
-        "duration": "3N - 4D",
-        "pickanddrop": "Cochin to Kochi",
-        "highlights": "Embark on a magical journey through the captivating landscapes of Kerala with our Kerala Tour Packages. This carefully curated itinerary allows you to immerse yourself in the rich cultural heritage, scenic beauty, and serene backwaters of this picturesque South Indian state. Dive into the vibrant history of Kochi with a sightseeing tour that takes you to the exquisite Santa Cruz Cathedral, known for its gothic architecture and Portuguese-inspired interiors. Explore the colonial charm of Fort Kochi, adorned with captivating colonial buildings. Indulge in a shopping spree at the renowned Lulu International Shopping Mall, where you can find a plethora of local treasures.Next, journey to the breathtaking hill station of Munnar, a haven of tranquility surrounded by lush greenery. En route, you'll witness the awe-inspiring beauty of the Cheeyappara Waterfalls, cascading down in magnificent tiers. Marvel at the picturesque Mattupetty Dam, framed by verdant rolling hills. Upon reaching Munnar, settle into your hotel and unwind amidst the serene ambiance of this enchanting destination.The highlight of your trip awaits as you proceed to Alleppey, known as the \"Venice of the East,\" famous for its serene backwaters. Glide along the tranquil waters on a traditional houseboat, marveling at the scenic landscapes, swaying palms, and charming villages that line the banks. Indulge in a leisurely evening, capturing the mesmerizing sunset over the backwaters, creating an ambiance of serenity and tranquility.",
-        "similartrips": [],
-        "testimonials": {},
-        "trending":true
-    },
     "srinagar-leh-manali": {
         "title": "10 Days Srinagar Leh Manali Bike Trip",
-        "date":"10-05-10",
-        "link":"/trips/",
+        "date": "10-05-10",
+        "link": "/trips/srinagar-leh-manali",
         "tagline": "Ride Through the Himalayas",
-        "destination":"Srinagar",
+        "destination": "Leh",
         "imageUrl": "/assets/leh.png",
         "duration": "9N - 10D",
         "price": "37,499",
@@ -40,8 +26,37 @@
         "exclusions": "",
         "other": "",
         "thingtocarry": "",
-        "highlights": "Embark on a magical journey through the captivating landscapes of Kerala with our Kerala Tour Packages. This carefully curated itinerary allows you to immerse yourself in the rich cultural heritage, scenic beauty, and serene backwaters of this picturesque South Indian state. Dive into the vibrant history of Kochi with a sightseeing tour that takes you to the exquisite Santa Cruz Cathedral, known for its gothic architecture and Portuguese-inspired interiors. Explore the colonial charm of Fort Kochi, adorned with captivating colonial buildings. Indulge in a shopping spree at the renowned Lulu International Shopping Mall, where you can find a plethora of local treasures.Next, journey to the breathtaking hill station of Munnar, a haven of tranquility surrounded by lush greenery. En route, you'll witness the awe-inspiring beauty of the Cheeyappara Waterfalls, cascading down in magnificent tiers. Marvel at the picturesque Mattupetty Dam, framed by verdant rolling hills. Upon reaching Munnar, settle into your hotel and unwind amidst the serene ambiance of this enchanting destination.The highlight of your trip awaits as you proceed to Alleppey, known as the \"Venice of the East,\" famous for its serene backwaters. Glide along the tranquil waters on a traditional houseboat, marveling at the scenic landscapes, swaying palms, and charming villages that line the banks. Indulge in a leisurely evening, capturing the mesmerizing sunset over the backwaters, creating an ambiance of serenity and tranquility.",
         "similartrips": [],
-        "trending":true
+        "trending": true
+    },
+    "leh-to-leh-6n-turtuk-nubra-pangong": {
+        "title": "7 Days Leh Ladakh Tour Package With Turtuk Village",
+        "tagline": "Explore The Untamed Beauty, Coupled With Unparalleled Adventure",
+        "date": "10-05-10",
+        "link": "/trips/leh-to-leh-6n-turtuk-nubra-pangong",
+        "destination": "Leh",
+        "imageUrl": "/assets/leh.png",
+        "duration": "6N - 7D",
+        "price": "27,999",
+        "pickanddrop": "Leh",
+        "about": "<p>Ladakh is not just another Instagram destination in the mountains, it is a Himalayan wonderland where dreams come alive, where the mountains meet the horizon, and the Indus River dances to the tunes of a flourishing civilization! It is a cold desert with all the warmth we need in life. A trip to Ladakh starts with a flight ticket to Leh, with the window seat offering grand views of the snow-capped mountains and the journey that awaits us! On arriving at Leh, we will witness the beauty of the unique city nestled in the Himalayan mountains. We ride across the city and visit the hall of fame, Shanti Stupa, Pathar Sahib Gurudwara, and magnetic hill to woo science! However, what tops the journey is a visit to the Turtuk village, which is one of the northmost villages of our country. Culturally different from the mainstream Ladakhi traditions, Turtuk village majorly harbours the practices of Islam! Leh trip with Turtuk village also includes an adrenaline-filled ride to the top Khardung La, the colorful Pangong Tso, and the desert of Nubra Valley! Such power-packed Leh to Leh packages is hard to come by! So join us in this adventure ridden journey across Ladakh.</p>",
+        "ytvideo": "",
+        "itinerary": [
+            {
+                "title": "Arrival At Srinagar - Overnight Stay At Srinagar",
+                "description": "test"
+            }
+        ],
+        "notes": "",
+        "videos": [],
+        "photos": [],
+        "testimonials": [],
+        "costing": [],
+        "inclusions": "",
+        "exclusions": "",
+        "other": "",
+        "thingtocarry": "",
+        "similartrips": [],
+        "trending": true
     }
 }

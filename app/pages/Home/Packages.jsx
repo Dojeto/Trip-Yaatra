@@ -1,12 +1,8 @@
 import Link from "next/link";
 import PackageCard from "@components/PackageCard";
-import data from "@json/trips.json";
 
 const Packages = (props) => {
-  // const { data, error, isLoading } = useSWR(`/api/trips`, fetcher);
-  // if (error) return <div>failed to load</div>;
-  // if (isLoading) return <div>loading...</div>;
-  // console.log(data);
+  const { data } = props;
   return (
     <div className="mt-[50px] mx-[10%] flex flex-col gap-8">
       <div className="flex items-end justify-between flex-row text-center">
@@ -35,7 +31,7 @@ const Packages = (props) => {
                 date={trip["date"]}
                 days={trip["duration"]}
                 destination={trip["destination"]}
-                link={"/trips/" + key}
+                link={trip["link"]}
               />
             </>
           ) : (
