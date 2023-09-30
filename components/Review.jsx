@@ -1,9 +1,6 @@
 "use client";
 import React from "react";
-import { FaStar } from "react-icons/fa";
 import { LiaStarSolid } from "react-icons/lia";
-import Link from "next/link";
-import Flicking from "@egjs/react-flicking";
 import { AutoPlay, Fade } from "@egjs/flicking-plugins";
 import "@egjs/react-flicking/dist/flicking.css";
 const Review = () => {
@@ -66,7 +63,7 @@ const Review = () => {
   // const currentReview = reviews[currentCardIndex];
 
   return (
-    <div className="container mt-[50px] h-full px-36 flex flex-col justify-center items-center gap-8">
+    <div className=" mt-[50px] h-full px-36 flex flex-col justify-center items-center gap-8">
       <div>
         <h2 className=" m-3 font-bold text-center text-darkbl text-4xl">
           What our Customer Say

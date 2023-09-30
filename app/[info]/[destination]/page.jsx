@@ -1,7 +1,7 @@
 "use client";
 import Hero from "@app/pages/Tours/Hero";
 import ReadMoreContent from "@app/pages/Tours/ReadMoreContent";
-import Packages from "@app/pages/Destinations/BestSeller";
+import BestSeller from "@app/pages/Destinations/BestSeller";
 import useSWR from "swr";
 import Todo from "@app/pages/Destinations/Todo";
 import Places from "@app/pages/Destinations/Places";
@@ -25,7 +25,7 @@ const page = ({ params }) => {
             name={data.packages[params.destination].name}
           />
           <ReadMoreContent />
-          <Packages data={data.packages[params.destination]} />
+          <BestSeller data={data.packages[params.destination]} />
           <Todo data={data.packages[params.destination]} />
           <Places data={data.packages[params.destination]} />
           <Shop data={data.packages[params.destination]} />

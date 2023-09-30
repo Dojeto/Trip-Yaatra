@@ -6,6 +6,17 @@ module.exports = {
     "./app/**/*.{js,ts,jsx,tsx,mdx}",
   ],
   theme: {
+    screens: {
+      "2xl": { max: "1400px" },
+
+      xl: { max: "1280px" },
+
+      lg: { max: "1024px" },
+
+      md: { max: "970px" },
+
+      sm: { max: "680px" },
+    },
     extend: {
       backgroundImage: {
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
@@ -18,16 +29,17 @@ module.exports = {
       colors: {
         darkvl: "rgb(1, 175, 209)",
         darkbl: "rgb(1, 95, 116)",
-        highlight: "rgb(254, 230, 11)"
+        highlight: "rgb(254, 230, 11)",
       },
       keyframes: {
-        scrollIcon: {
-          "0%, 100%": { transform: "translateY(0rem)", opacity: 1 },
-          "35%": { transform: "translateY(1rem)", opacity: 0 },
-          "70%": { transform: "translateY(-1rem)", opacity: 0 },
+        scale: {
+          "0%": { transform: "scale(0%)" },
+          "100%": { transform: "scale(100%)" },
         },
       },
-      
+      animation: {
+        scale: "scale 0.5s ease-in-out ",
+      },
     },
   },
   plugins: [],

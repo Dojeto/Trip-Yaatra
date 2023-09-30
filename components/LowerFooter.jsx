@@ -1,38 +1,27 @@
-import Image from "next/image";
 import Link from "next/link";
+import {
+  BiLogoFacebookCircle,
+  BiLogoInstagramAlt,
+  BiLogoLinkedinSquare,
+  BiLogoYoutube,
+} from "react-icons/bi";
 
 const LowerFooter = () => {
   return (
     <div className="flex flex-col justify-center items-center mt-[80px] ">
-      <div className="flex flex-row gap-11">
-        <Image
-          src="/assets/facebook-f.png"
-          alt="lowerfooter"
-          width={60}
-          height={60}
-          className=""
-        />
-        <Image
-          src="/assets/instagram-f.png"
-          alt="lowerfooter"
-          width={60}
-          height={60}
-          className=""
-        />
-        <Image
-          src="/assets/linkedin-f.png"
-          alt="lowerfooter"
-          width={60}
-          height={60}
-          className=""
-        />
-        <Image
-          src="/assets/youtube-f.png"
-          alt="lowerfooter"
-          width={60}
-          height={60}
-          className=""
-        />
+      <div className="flex flex-row gap-8">
+        <Link href={"/"} shallow>
+          <BiLogoFacebookCircle size={45} />
+        </Link>
+        <Link href={"/"} shallow>
+          <BiLogoInstagramAlt size={45} />
+        </Link>
+        <Link href={"/"} shallow>
+          <BiLogoLinkedinSquare size={45} />
+        </Link>
+        <Link href={"/"} shallow>
+          <BiLogoYoutube size={45} />
+        </Link>
       </div>
       <h1 className="text-3xl font-bold text-center text-darkbl mt-[10px] uppercase">
         ADDRESS
@@ -44,14 +33,14 @@ const LowerFooter = () => {
       </h3>
 
       <div className="mt-[50px] flex flex-row gap-20">
-        <Link href="/about" className="text-lg font-semibold">
+        <Link href={"/about"} shallow className="text-lg font-semibold">
           hello@wanderon.in
         </Link>
-        <Link href="/about" className="text-lg font-semibold">
+        <Link href={"/about"} shallow className="text-lg font-semibold">
           +91-8887756502
         </Link>
-        <Link href="/about" className="text-lg font-semibold">
-        www.wanderon.in
+        <Link href={"/about"} shallow className="text-lg font-semibold">
+          www.wanderon.in
         </Link>
       </div>
     </div>

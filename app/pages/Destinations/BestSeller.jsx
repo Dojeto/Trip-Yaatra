@@ -1,8 +1,10 @@
+"use client"
 import React from "react";
 import PackageCard from "@components/PackageCard";
 
 const TripsPackages = (props) => {
   const { data } = props;
+  console.log(data);
   return (
     <div className=" flex flex-col mx-[10%] justify-center items-start">
       <div>
@@ -27,6 +29,7 @@ const TripsPackages = (props) => {
             date={val.date}
             days={val.days}
             destination={val.destination}
+            link={val.link}
           />
         ))}
       </div>

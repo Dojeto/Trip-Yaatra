@@ -37,7 +37,7 @@ const Search = (props) => {
   };
 
   return (
-    <div className=" flex justify-center w-3/5 item-center transition-all ">
+    <div className=" flex justify-center w-3/5 item-center transition-all md:w-4/5 md:text-sm">
       <div className="relative text-white my-8 p-4 flex justify-start items-center gap-4 w-full h-18 bg-gray-400 rounded-md bg-clip-padding backdrop-filter backdrop-blur-md bg-opacity-10 border border-gray-100">
         <RiSearchLine size="28px" color="gray" />
         <input
