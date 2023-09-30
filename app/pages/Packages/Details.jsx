@@ -15,7 +15,8 @@ const info = {
   other: "other",
 };
 
-const Details = () => {
+const Details = (props) => {
+  const {duration,price,pickdrop} = props
   const [selected, setSelected] = useState("about");
   const ChangeState = (e) => {
     setSelected(e.target.id);
@@ -33,7 +34,7 @@ const Details = () => {
                 <h2>Duration</h2>
               </div>
               <div className=" font-bold text-lg">
-                <h2>9N - 10D</h2>
+                <h2>{duration}</h2>
               </div>
             </div>
             <div className="text-center m-2">
@@ -44,7 +45,7 @@ const Details = () => {
                 <h2>Starting Price</h2>
               </div>
               <div className=" font-bold text-lg">
-                <h2>₹37,499/-</h2>
+                <h2>₹{price}/-</h2>
               </div>
             </div>
             <div className="text-center mt-2 mb-2">
@@ -55,7 +56,7 @@ const Details = () => {
                 <h2>Pick-up and Drop</h2>
               </div>
               <div className=" font-bold text-lg">
-                <h2>Srinagar - Delhi</h2>
+                <h2>{pickdrop}</h2>
               </div>
             </div>
           </div>

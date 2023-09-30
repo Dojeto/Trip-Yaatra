@@ -44,8 +44,8 @@ const Form = () => {
   return (
     <div className="mt-[70px] flex items-center justify-center">
       <div className="flex flex-col items-center justify-start gap-1">
-        <span className="text-[50px] font-bold text-darkvl">Contact Form</span>
-        <span className="text-2xl font-bold text-gray-600">
+        <span className="text-[50px] font-bold text-darkvl sm:text-[40px] xs:text-[30px]">Contact Form</span>
+        <span className="text-2xl font-bold text-gray-600 sm:text-xl xs:text-base">
           Not sure what to do? We will give you a call back!
         </span>
 
@@ -53,7 +53,7 @@ const Form = () => {
 
         {/* section */}
 
-        <div className="w-[600px]">
+        <div className="w-[600px] sm:w-[400px] xs:w-[300px]">
           <form
             onSubmit={handleSubmit}
             className="mb-0 mt-6 space-y-4 bg-[#cdeef3] rounded-lg p-4 shadow-lg sm:p-6 lg:p-8 border border-gray-600"
@@ -135,7 +135,7 @@ const Form = () => {
 
             <button
               type="submit"
-              className="block m-auto  w-[500px] rounded-lg bg-darkvl px-5 py-3 text-sm font-medium text-white"
+              className="block m-auto  w-[500px] rounded-lg bg-darkvl px-5 py-3 text-sm font-medium text-white sm:w-[300px] xs:w-[200px]"
             >
               Submit
             </button>
