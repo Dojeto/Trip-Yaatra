@@ -3,7 +3,6 @@ import PackageCard from "@components/PackageCard";
 
 const TripsPackages = (props) => {
   const { data } = props;
-  console.log(data.bestSeller[0].link);
   return (
     <div className=" flex flex-col justify-center items-center">
       <div>
