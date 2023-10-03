@@ -14,14 +14,14 @@ import tripsData from "@json/trips.json"
 export default function Home() {
   return (
     <main>
-      <Hero />
-      <Feature />
-      <Packages data={tripsData} />
-      <Review />
-      <Looking />
+      {/* <Hero /> */}
+      {/* <Feature /> */}
+      {/* <Packages data={tripsData} /> */}
+      {/* <Review /> */}
+      {/* <Looking />
       <Secrets />
       <Faq />
-      <Form />
+      <Form /> */}
     </main>
   );
 }

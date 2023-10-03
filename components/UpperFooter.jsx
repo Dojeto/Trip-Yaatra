@@ -13,11 +13,11 @@ const UpperFooter = () => {
 
       {/* Section with background color */}
       <div className="bg-darkvl -mt-1 h-full">
-        <div className="container mx-auto p-8 text-white grid grid-cols-4 gap-x-3">
-          <div className="ml-[80px] mr-[5px] border-r border-white p-4">
-            <div className="mt-[20px]">
+        <div className="container mx-auto p-8 text-white grid grid-cols-4 gap-x-3 md:text-[10px]  ">
+          <div className="ml-[80px] mr-[5px] border-r border-white p-4 md:ml-[60px] ">
+            <div className="mt-[20px] md:mr-8 h-full" >
               <h1 className="text-2xl font-bold ">About Us</h1>
-              <p className="text-[14px] leading-[126.19%]">
+              <p className="text-[14px] leading-[126.19%] md:leading-[100%] md:text-[13px]">
                 We at Trip-Yaatra are a modern travel community that provides
                 end to end travel packages in India and abroad. We design the
                 best travel itineraries that encourage group traveling for
@@ -31,7 +31,7 @@ const UpperFooter = () => {
             </div>
           </div>
 
-          <div className="ml-[10px] mr-[5px] border-r border-white p-4">
+          <div className="ml-[10px] mr-[5px] border-r border-white p-4 md:ml-10">
             <div className="mt-[20px]">
               <h1 className="text-2xl font-bold">Weekend Trips</h1>
               <div className="flex flex-col">
@@ -72,7 +72,7 @@ const UpperFooter = () => {
             </div>
           </div>
 
-          <div className="ml-[10px] mr-[5px] border-r border-white p-4">
+          <div className="ml-[10px] mr-[5px] border-r border-white p-4 md:mr-10">
             <div className="mt-[20px]">
               <h1 className="text-2xl font-bold">Backpacking Trips</h1>
               <div className="flex flex-col">
@@ -113,7 +113,7 @@ const UpperFooter = () => {
             </div>
           </div>
 
-          <div className="ml-[10px] mr-[5px] p-4">
+          <div className="ml-[10px] mr-[5px] p-4 ">
             <div className="mt-[20px]">
               <h1 className="text-2xl font-bold">Quick Links</h1>
               <div className="flex flex-col">
