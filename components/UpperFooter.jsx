@@ -2,7 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 const UpperFooter = () => {
   return (
-    <div className="mt-[80px] relative">
+    <div className="mt-[80px]">
       <Image
         src="/assets/Home/desktop-footer.png"
         alt="upperfooter"
@@ -12,12 +12,12 @@ const UpperFooter = () => {
       />
 
       {/* Section with background color */}
-      <div className="bg-darkvl -mt-1 h-full">
-        <div className="container mx-auto p-8 text-white grid grid-cols-4 gap-x-3 md:text-[10px]  ">
-          <div className="ml-[80px] mr-[5px] border-r border-white p-4 md:ml-[60px] ">
-            <div className="mt-[20px] md:mr-8 h-full" >
-              <h1 className="text-2xl font-bold ">About Us</h1>
-              <p className="text-[14px] leading-[126.19%] md:leading-[100%] md:text-[13px]">
+      <div className="bg-darkvl -mt-1 h-full w-full">
+        <div className="container mx-auto p-8 text-white flex gap-5 justify-center md:block ">
+          <div className=" border-r border-white p-4 md:border-none md:flex md:justify-center">
+            <div className="w-60 h-full md:w-full">
+              <h1 className="text-xl font-bold md:text-center">About Us</h1>
+              <p className="text-sm leading-[126.19%] pt-3 xs:text-xs">
                 We at Trip-Yaatra are a modern travel community that provides
                 end to end travel packages in India and abroad. We design the
                 best travel itineraries that encourage group traveling for
@@ -30,111 +30,117 @@ const UpperFooter = () => {
               </p>
             </div>
           </div>
-
-          <div className="ml-[10px] mr-[5px] border-r border-white p-4 md:ml-10">
-            <div className="mt-[20px]">
-              <h1 className="text-2xl font-bold">Weekend Trips</h1>
-              <div className="flex flex-col">
-                <Link href={"/about"} shallow className="text-[13px] w-[130px]">
-                  Bir Billing
-                </Link>
-                <Link href={"/about"} shallow className="text-[13px] w-[130px]">
-                  Chopta Tungnath
-                </Link>
-                <Link href={"/about"} shallow className="text-[13px] w-[130px]">
-                  Chopta Tungnath
-                </Link>
-                <Link href={"/about"} shallow className="text-[13px] w-[130px]">
-                  Chopta Tungnath
-                </Link>
-                <Link href={"/about"} shallow className="text-[13px] w-[130px]">
-                  Chopta Tungnath
-                </Link>
-              </div>
-              <h1 className="text-2xl font-bold mt-[25px]">Weekend Trips</h1>
-              <div className="flex flex-col">
-                <Link href={"/about"} shallow className="text-[13px] w-[130px]">
-                  Bir Billing
-                </Link>
-                <Link href={"/about"} shallow className="text-[13px] w-[130px]">
-                  Chopta Tungnath
-                </Link>
-                <Link href={"/about"} shallow className="text-[13px] w-[130px]">
-                  Chopta Tungnath
-                </Link>
-                <Link href={"/about"} shallow className="text-[13px] w-[130px]">
-                  Chopta Tungnath
-                </Link>
-                <Link href={"/about"} shallow className="text-[13px] w-[130px]">
-                  Chopta Tungnath
-                </Link>
-              </div>
-            </div>
-          </div>
-
-          <div className="ml-[10px] mr-[5px] border-r border-white p-4 md:mr-10">
-            <div className="mt-[20px]">
-              <h1 className="text-2xl font-bold">Backpacking Trips</h1>
-              <div className="flex flex-col">
-              <Link href={"/about"} shallow className="text-[13px] w-[130px]">
-                  Bir Billing
-                </Link>
-                <Link href={"/about"} shallow className="text-[13px] w-[130px]">
-                  Chopta Tungnath
-                </Link>
-                <Link href={"/about"} shallow className="text-[13px] w-[130px]">
-                  Chopta Tungnath
-                </Link>
-                <Link href={"/about"} shallow className="text-[13px] w-[130px]">
-                  Chopta Tungnath
-                </Link>
-                <Link href={"/about"} shallow className="text-[13px] w-[130px]">
-                  Chopta Tungnath
-                </Link>
-              </div>
-              <h1 className="text-2xl font-bold mt-[25px]">Blogs</h1>
-              <div className="flex flex-col">
-              <Link href={"/about"} shallow className="text-[13px] w-[130px]">
-                  Bir Billing
-                </Link>
-                <Link href={"/about"} shallow className="text-[13px] w-[130px]">
-                  Chopta Tungnath
-                </Link>
-                <Link href={"/about"} shallow className="text-[13px] w-[130px]">
-                  Chopta Tungnath
-                </Link>
-                <Link href={"/about"} shallow className="text-[13px] w-[130px]">
-                  Chopta Tungnath
-                </Link>
-                <Link href={"/about"} shallow className="text-[13px] w-[130px]">
-                  Chopta Tungnath
-                </Link>
+          <div className=" flex gap-5 justify-center xs:gap-1">
+            <div className="border-r border-white p-5 md:border-none">
+              <div className="">
+                <h1 className="text-xl font-bold xs:text-sm">Weekend Trips</h1>
+                <div className="flex flex-col pt-3 text-sm xs:text-xs xs:pt-1">
+                  <Link href={"/about"} shallow className="">
+                    Bir Billing
+                  </Link>
+                  <Link href={"/about"} shallow className="">
+                    Chopta Tungnath
+                  </Link>
+                  <Link href={"/about"} shallow className="">
+                    Chopta Tungnath
+                  </Link>
+                  <Link href={"/about"} shallow className="">
+                    Chopta Tungnath
+                  </Link>
+                  <Link href={"/about"} shallow className="">
+                    Chopta Tungnath
+                  </Link>
+                </div>
+                <h1 className="text-xl font-bold mt-[25px] xs:text-sm">
+                  Weekend Trips
+                </h1>
+                <div className="flex flex-col pt-3 text-sm xs:text-xs xs:pt-1">
+                  <Link href={"/about"} shallow className="">
+                    Bir Billing
+                  </Link>
+                  <Link href={"/about"} shallow className="">
+                    Chopta Tungnath
+                  </Link>
+                  <Link href={"/about"} shallow className="">
+                    Chopta Tungnath
+                  </Link>
+                  <Link href={"/about"} shallow className="">
+                    Chopta Tungnath
+                  </Link>
+                  <Link href={"/about"} shallow className="">
+                    Chopta Tungnath
+                  </Link>
+                </div>
               </div>
             </div>
-          </div>
 
-          <div className="ml-[10px] mr-[5px] p-4 ">
-            <div className="mt-[20px]">
-              <h1 className="text-2xl font-bold">Quick Links</h1>
-              <div className="flex flex-col">
-                <Link href={"/about"} shallow className="text-[13px] w-[130px]">
-                  Privacy Policy
-                </Link>
-                <Link href={"/about"} shallow className="text-[13px] w-[130px]">
-                  Cancellation Policy
-                </Link>
-                <Link href={"/about"} shallow className="text-[13px] w-[130px]">
-                  Terms & Condition
-                </Link>
-                <Link href={"/about"} shallow className="text-[13px] w-[130px]">
-                  Disclaimer
-                </Link>
-                <Link href={"/about"} shallow className="text-[13px] w-[130px]">
-                  Careers
-                </Link>
-                <Link href={"/about"} shallow className="text-[13px] w-[130px]">
-                  About Us
-                </Link>
+            <div className="border-r border-white p-5 md:border-none">
+              <div className="">
+                <h1 className="text-xl font-bold xs:text-sm">
+                  Backpacking Trips
+                </h1>
+                <div className="flex flex-col pt-3 text-sm xs:text-xs xs:pt-1">
+                  <Link href={"/about"} shallow className="">
+                    Bir Billing
+                  </Link>
+                  <Link href={"/about"} shallow className="">
+                    Chopta Tungnath
+                  </Link>
+                  <Link href={"/about"} shallow className="">
+                    Chopta Tungnath
+                  </Link>
+                  <Link href={"/about"} shallow className="">
+                    Chopta Tungnath
+                  </Link>
+                  <Link href={"/about"} shallow className="">
+                    Chopta Tungnath
+                  </Link>
+                </div>
+                <h1 className="text-xl font-bold mt-[25px] xs:text-sm">
+                  Blogs
+                </h1>
+                <div className="flex flex-col pt-3 text-sm xs:text-xs xs:pt-1">
+                  <Link href={"/about"} shallow className="">
+                    Bir Billing
+                  </Link>
+                  <Link href={"/about"} shallow className="">
+                    Chopta Tungnath
+                  </Link>
+                  <Link href={"/about"} shallow className="">
+                    Chopta Tungnath
+                  </Link>
+                  <Link href={"/about"} shallow className="">
+                    Chopta Tungnath
+                  </Link>
+                  <Link href={"/about"} shallow className="">
+                    Chopta Tungnath
+                  </Link>
+                </div>
+              </div>
+            </div>
+            <div className=" border-white p-5">
+              <div className="mt-[20px]">
+                <h1 className="text-xl font-bold xs:text-sm">Quick Links</h1>
+                <div className="flex flex-col pt-3 text-sm xs:text-xs xs:pt-1">
+                  <Link href={"/about"} shallow className="">
+                    Privacy Policy
+                  </Link>
+                  <Link href={"/about"} shallow className="">
+                    Cancellation Policy
+                  </Link>
+                  <Link href={"/about"} shallow className="">
+                    Terms & Condition
+                  </Link>
+                  <Link href={"/about"} shallow className="">
+                    Disclaimer
+                  </Link>
+                  <Link href={"/about"} shallow className="">
+                    Careers
+                  </Link>
+                  <Link href={"/about"} shallow className="">
+                    About Us
+                  </Link>
+                </div>
               </div>
             </div>
           </div>

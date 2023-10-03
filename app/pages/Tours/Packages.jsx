@@ -25,7 +25,6 @@ const Packages = (props) => {
             let trip = entry[1];
             return trip["tour"] == "india" ? (
               <>
-                {" "}
                 <PackageCard
                   key={i}
                   imageUrl={trip["imageUrl"]}
