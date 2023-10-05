@@ -35,10 +35,10 @@ const Trips = ({ params }) => {
         name={data?.name}
       />
       <ReadMoreContent />
-      <BestSeller data={data} />
+      {/* <BestSeller data={data} />
       <Packages data={tripsData} />
-      <Secrets />
-      <Review />
+      <Secrets /> */}
+      {/* <Review /> */}
       <FAQ />
       <Form />
     </>

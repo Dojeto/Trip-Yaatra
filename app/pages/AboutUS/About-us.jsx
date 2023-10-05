@@ -32,7 +32,7 @@ const About = () => {
   return (
     <div>
       <div className="w-[100%] h-[400px] relative">
-        <img src="/assets/aboutus1.png" alt="" className="w-full h-full" />
+        <img src="/assets/AboutUs/aboutus1.png" alt="" className="w-full h-full" />
         <h1 className="absolute inset-0 flex items-center justify-center text-black text-5xl font-bold">
           ABOUT US
         </h1>
@@ -249,7 +249,7 @@ const About = () => {
         <div className="mt-[30px] flex flex-row ">
           <div className="max-w-sm rounded bg-white flex flex-col items-center justify-center h-[400px]">
             <img
-              src="/assets/usp0.png"
+              src="/assets/AboutUs/usp0.png"
               alt="Card"
               className="w-[100px] h-[100px]"
             />
@@ -268,7 +268,7 @@ const About = () => {
           </div>
           <div className="max-w-sm rounded bg-white flex flex-col items-center justify-center h-[400px]">
             <img
-              src="/assets/usp1.png"
+              src="/assets/AboutUs/usp1.png"
               alt="Card"
               className="w-[100px] h-[100px]"
             />
@@ -288,7 +288,7 @@ const About = () => {
           </div>
           <div className="max-w-sm rounded bg-white flex flex-col items-center justify-center h-[400px]">
             <img
-              src="/assets/usp2.png"
+              src="/assets/AboutUs/usp2.png"
               alt="Card"
               className="w-[100px] h-[100px]"
             />

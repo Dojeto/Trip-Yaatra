@@ -9,8 +9,8 @@ const ReadMoreContent = () => {
   };
 
   return (
-    <div className="  flex justify-center items-center">
-      <div className=" p-2 max-w-[1200px] m-28 shadow-lg rounded-md">
+    <div className="flex justify-center items-center">
+      <div className=" p-2 w-[1200px] m-28 shadow-lg rounded-md ">
         <h2 className=" border-highlight border-l-4 ml-3 pl-3 m-2 font-bold text-darkbl text-3xl">
           About India Tours
         </h2>

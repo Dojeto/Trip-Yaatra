@@ -1,6 +1,7 @@
 import Image from "next/image";
 const Looking = () => {
   return (
+    <div className="mt-[20px]">
     <div className="sm:w-full relative">
       {/* Lower Image */}
       <div>
@@ -32,6 +33,7 @@ const Looking = () => {
         </div>
 
       </div>
+    </div>
     </div>
 
 
