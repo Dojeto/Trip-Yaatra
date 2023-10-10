@@ -15,9 +15,9 @@ export default function Home() {
   return (
     <main>
       <Hero />
-      {/* <Feature />
+      <Feature />
       <Packages data={tripsData} />
-      <Review /> */}
+      <Review />
       <Looking />
       <Secrets />
       <Faq />
