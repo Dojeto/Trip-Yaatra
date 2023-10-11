@@ -7,12 +7,14 @@ import Flicking from "@egjs/react-flicking";
 import TripsCard from "@components/TripsCard";
 import Itinerary from "./Itinerary";
 import AboutTrip from "./AboutTrip";
+import Date from "./Date";
+import Others from "./Others";
 
 const info = {
   about: <AboutTrip />,
   itinerary: <Itinerary />,
-  date: "date",
-  other: "other",
+  date: <Date/>,
+  other: <Others/>,
 };
 
 const Details = (props) => {
