@@ -9,7 +9,7 @@ import Looking from "./pages/Home/Connect";
 import Faq from "@components/FAQ";
 import Form from "@components/Form";
 
-import tripsData from "@json/trips.json"
+import tripsData from "@json/trips.json";
 
 export default function Home() {
   return (
