@@ -10,7 +10,7 @@ const PackageHero = (props) => {
         }}
       >
         <div className=" flex w-screen h-screen xs:flex  ">
-          <div className=" w-1/2 h-screen flex justify-center items-center xs:h-[50%]">
+          <div className=" w-1/2 h-screen flex justify-center items-center xs:h-[50%] xs:mx-[30px]">
             <div className="w-3/5 h-1/3">
               <h2
                 style={{
@@ -31,18 +31,18 @@ const PackageHero = (props) => {
             </div>
           </div>
 
-          <div className="w-1/2 flex justify-center items-end md:h-[80%] xs:h-[85%]">
+          <div className="w-1/2 flex justify-center items-end md:h-[80%]  xs:invisible">
             <div className=" h-1/2 w-1/2 ">
-              <h2 className=" text-white text-2xl font-black tracking-wide xs:text-xl ">
+              <h2 className=" text-white text-2xl font-black tracking-wide  ">
                 About {name} Tours
               </h2>
-              <h2 className=" pt-2 text-white text-sm xs:pt-1">
+              <h2 className=" pt-2 text-white text-sm ">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea
                 assumenda molestias odit fuga iusto obcaecati numquam, esse
                 voluptas. Quos maiores saepe unde possimus odit sit reiciendis
                 doloremque enim eveniet necessitatibus.
               </h2>
-              <h2 className="pt-2 text-white text-sm font-black tracking-wide cursor-pointer xs:pt-1">
+              <h2 className="pt-2 text-white text-sm font-black tracking-wide cursor-pointer ">
                 Read More....
               </h2>
             </div>
