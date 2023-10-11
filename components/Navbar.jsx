@@ -12,12 +12,10 @@ const Navbar = () => {
       <div className="py-2 px-6 flex justify-between items-center bg-slate-100">
         <Link href={"/"}>
           <img
-            // src="/assets/logo-new.png"
             src="/assets/logo.png"
             width={55}
             height={55}
             alt="logo"
-            // className="hover:cursor-pointer transform hover:scale-105 transition-transform duration-300 ease-in-out"
           />
         </Link>
         <div className="hidden sm:flex ">

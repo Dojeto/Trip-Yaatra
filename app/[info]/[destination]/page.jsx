@@ -11,26 +11,27 @@ import indiaTrips from "@json/india-trips";
 import internationalTrips from "@json/international-trips.json";
 
 const page = ({ params }) => {
+  const { info, destination } = params;
   const tourData = {
     "india-trips": indiaTrips,
     "international-trips": internationalTrips,
   };
-  const data = tourData[params.info]
+  const data = tourData[info];
   return (
     <>
-      {data?.packages?.[params.destination] !== undefined ? (
+      {data?.packages?.[destination] !== undefined ? (
         <>
           <Hero
-            imageUrl={data.packages[params.destination].imagePath}
-            title={data.packages[params.destination].title}
+            imageUrl={data.packages[destination].imagePath}
+            title={data.packages[destination].title}
             content=""
-            name={data.packages[params.destination].name}
+            name={data.packages[destination].name}
           />
           <ReadMoreContent />
-          <BestSeller data={data.packages[params.destination]} />
-          <Todo data={data.packages[params.destination]} />
-          <Places data={data.packages[params.destination]} />
-          <Shop data={data.packages[params.destination]} />
+          <BestSeller data={data.packages[destination]} />
+          <Todo data={data.packages[destination]} />
+          <Places data={data.packages[destination]} />
+          <Shop data={data.packages[destination]} />
         </>
       ) : (
         <div>Ye Route Nahi hai</div>
