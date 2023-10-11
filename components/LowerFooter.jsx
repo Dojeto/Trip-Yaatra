@@ -8,8 +8,8 @@ import {
 
 const LowerFooter = () => {
   return (
-    <div className="flex flex-col justify-center items-center mt-[80px] md:flex md:items-center md:justify-center">
-      <div className="flex flex-row gap-8">
+    <div className="flex flex-col justify-center items-center mt-[80px] mb-9 md:flex md:items-center md:justify-center  mx-[10px] xs:mx-[30px]">
+      <div className="flex flex-row gap-7">
         <Link href={"/"} shallow>
           <BiLogoFacebookCircle size={45} />
         </Link>
@@ -32,7 +32,7 @@ const LowerFooter = () => {
         Haryana-122015
       </h3>
 
-      <div className="mt-[50px] flex flex-row gap-20 sm:gap-14 xs:gap-11">
+      <div className="mt-[50px] flex flex-row gap-20 sm:gap-14 xs:gap-8 xs:text-[8px] ">
         <Link href={"/about"} shallow className="text-lg font-semibold">
           hello@test.in
         </Link>
