@@ -5,10 +5,10 @@ import Link from "next/link";
 const PackageCard = (props) => {
   const { price, title, days, date, destination, imageUrl, link } = props;
   return (
-    <div className="relative flex flex-col justify-between items-stretch border border-gray-200 bg-white rounded-xl p-3 m-[2%]  shadow-xl ">
-      <div className="relative h-full flex flex-col justify-between items-start">
-        <div className="absolute z-10 bg-yellow-300 p-1 top-[-5px] right-[-5px] rounded-md shadow-xl">
-          <span className=" font-bold">₹{price}/- </span>Onwards
+    <div className="relative w-full tblt:w-auto tblt:min-w-72  flex flex-col justify-between items-stretch border border-gray-200 bg-white rounded-xl p-3 m-[2%]  shadow-xl ">
+      <div className="h-full flex flex-col justify-between items-start">
+        <div className="absolute z-10 bg-yellow-300 p-1 top-[-5px] right-[-5px] rounded-md shadow-xl lg:text-sm">
+          <span className=" font-bold ">₹{price}/- </span>Onwards
         </div>
         <div className="flex flex-col justify-start items-start">
           <img
@@ -16,14 +16,16 @@ const PackageCard = (props) => {
             src={imageUrl}
             alt={title}
           />
-          <div className="text-xl font-medium p-2 h-20">{title}</div>
+          <div className="text-xl font-medium p-2 h-20 xl:text-lg lg:text-base">
+            {title}
+          </div>
           <div className="flex justify-between px-2 w-full">
             <div className="flex flex-col justify-start items-start">
-              <div className="flex justify-center items-center gap-1">
+              <div className="flex justify-center items-center gap-1 text-base lg:text-sm">
                 <BsFillClockFill />
                 {days}
               </div>
-              <div className="flex justify-center items-center gap-1">
+              <div className="flex justify-center items-center gap-1 lg:text-sm">
                 <LuCalendarDays />
                 {date}
               </div>

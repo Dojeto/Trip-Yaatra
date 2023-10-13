@@ -14,7 +14,7 @@ const Secreats = () => {
           <div className=" bg-darkvl w-[120px] h-[3px] "></div>
           <div className="flex mt-[50px] h-[100%] md:max-w-[900px]  md:h-[100%] sm:max-w-[800px]  xs:flex xs:flex-col xs:gap-4">
             <div className="max-w-md mx-auto relative bg-cover bg-center rounded-lg overflow-hidden shadow-lg border border-gray-300 mr-4 md:w-[600px] sm:w-[600px] xs:w-[280px] xs:m-auto">
-              <div style={{ width: "300px", height: "100%" }} >
+              <div style={{ width: "300px", height: "100%" }}>
                 <Image
                   src="/assets/Home/sauceBg1.png"
                   alt="Background Image"
@@ -23,17 +23,15 @@ const Secreats = () => {
                 />
               </div>
 
-
               <div className="absolute top-0 left-0 right-0 p-4 mt-4 ">
                 <h2 className="text-2xl font-bold text-darkvl md:text-lg">
                   No Third Party Mess
                 </h2>
-                
+
                 <p className="text-black mt-[50px] md:mt-[10px] ">
                   100 percent in-house operations for all trips! No third
                   parties involved, hence no fishy claims!
                 </p>
-                
               </div>
             </div>
             <div className="max-w-md mx-auto relative bg-cover bg-center rounded-lg overflow-hidden shadow-lg border border-gray-300 ml-4 md:w-[600px] sm:w-[600px] xs:w-[280px] xs:m-auto">
@@ -43,7 +41,6 @@ const Secreats = () => {
                   alt="Background Image"
                   width={300}
                   height={300}
-                  
                 />
               </div>
               <div className="absolute top-0 left-0 right-0 p-4 mt-4 ">
@@ -52,7 +49,7 @@ const Secreats = () => {
                 </h2>
                 <p className="text-black mt-[25px] md:mt-[10px]">
                   Real time monitoring of all trips by ground team! All routes
-                  and weather 
+                  and weather
                 </p>
               </div>
             </div>
@@ -63,7 +60,6 @@ const Secreats = () => {
                   alt="Background Image"
                   width={300}
                   height={300}
-                 
                 />
               </div>
               <div className="absolute top-0 left-0 right-0 p-4 mt-4 ">
@@ -83,7 +79,6 @@ const Secreats = () => {
                   alt="Background Image"
                   width={300}
                   height={300}
-                 
                 />
               </div>
               <div className="absolute top-0 left-0 right-0 p-4 mt-4 ">
@@ -92,7 +87,7 @@ const Secreats = () => {
                 </h2>
                 <p className="text-black mt-[25px] md:mt-[10px]">
                   Comfortable stays, trained drivers, hospitable staff and
-                  friendly trip leaders put together 
+                  friendly trip leaders put together
                 </p>
               </div>
             </div>
