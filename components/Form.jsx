@@ -42,7 +42,7 @@ const Form = () => {
     }
   };
   return (
-    <div className="mt-[70px] flex items-center justify-center">
+    <div className="flex items-center justify-center">
       <div className="flex flex-col items-center justify-start gap-1">
         <span className="text-[50px] font-bold text-darkvl sm:text-[40px] xs:text-[30px]">Contact Form</span>
         <span className="text-2xl font-bold text-gray-600 sm:text-xl xs:text-base">

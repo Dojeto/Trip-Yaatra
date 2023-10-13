@@ -27,7 +27,7 @@ const Trips = ({ params }) => {
   };
   const data = tourData[info];
   return (
-    <>
+    <div className=" flex flex-col gap-y-9">
       <PackageHero
         imageUrl={data?.imagePath}
         title={data?.title}
@@ -37,11 +37,11 @@ const Trips = ({ params }) => {
       <ReadMoreContent />
       <BestSeller data={data} />
       <Packages data={tripsData} />
-      <Secrets />
+      {/* <Secrets /> */}
       <Review />
       <FAQ />
       <Form />
-    </>
+    </div>
   );
 };
 

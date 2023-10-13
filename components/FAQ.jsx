@@ -1,6 +1,6 @@
 const FAQ = () => {
   return (
-    <div className="mt-[70px] flex items-center justify-center">
+    <div className="flex items-center justify-center">
       <div className="flex flex-col items-center justify-start gap-1">
         <span className="text-[50px] font-bold text-darkbl md:text-[40px] sm:text-[33px] xs:text-[25px]">
           Frequently Asked Questions

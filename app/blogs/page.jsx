@@ -19,7 +19,7 @@ const Blogs = () => {
           {posts.map((ele) => {
             return (
               <div className="max-w-[350px] bg-white  border-b-2 border-black">
-                <Link href="#" className="w-fit">
+                <Link href={"blogs/" + ele.id} shallow className="w-fit">
                   <img
                     className="rounded-t-lg w-full"
                     src="/assets/blog1.jpg"
@@ -36,12 +36,13 @@ const Blogs = () => {
                     <h5 className="mb-2 text-[20px] font-bold tracking-tight text-gray-900 dark:text-black">
                       {ele.title}
                     </h5>
+                    <p className="mb-3 font-normal text-gray-700 line-clamp-4 dark:text-gray-400">
+                      {ele.premise}
+                    </p>
                   </div>
-                  <p className="mb-3 font-normal text-gray-700 line-clamp-4 dark:text-gray-400">
-                    {ele.premise}
-                  </p>
                   <Link
-                    href="#"
+                    href={"blogs/" + ele.id}
+                    shallow
                     className="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-darkbl rounded-sm transform hover:scale-105 transition-transform duration-300 ease-in-out"
                   >
                     Read more
