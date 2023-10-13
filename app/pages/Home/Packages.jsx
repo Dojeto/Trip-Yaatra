@@ -12,9 +12,6 @@ const Packages = (props) => {
           </span>
           <span className="text-l text-gray-600">Trending this Month</span>
         </div>
-        <Link href="#" className="text-l text-gray-600 pointer-link">
-          View All
-        </Link>
       </div>
       <div className=" grid grid-cols-3 gap-x-3 tblt:flex tblt:overflow-x-scroll tblt:items-center tblt:justify-between">
         {Object.entries(data).map((entry, i) => {

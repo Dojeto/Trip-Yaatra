@@ -2,6 +2,7 @@ import "./globals.css";
 import Navbar from "@components/Navbar";
 import UpperFooter from "@components/UpperFooter";
 import LowerFooter from "@components/LowerFooter";
+import Posts from "@components/Posts";
 
 export const metadata = {
   title: "Trip Yaatra",

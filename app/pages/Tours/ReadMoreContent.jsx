@@ -10,8 +10,8 @@ const ReadMoreContent = () => {
 
   return (
     <div className="flex justify-center items-center">
-      <div className=" p-2 w-[1200px] m-28 shadow-lg rounded-md ">
-        <h2 className=" border-highlight border-l-4 ml-3 pl-3 m-2 font-bold text-darkbl text-3xl">
+      <div className=" p-2 w-[1230px] m-8 shadow-lg rounded-md xs:m-4">
+        <h2 className=" border-highlight border-l-4 ml-3 pl-3 m-2 font-bold text-darkbl text-3xl xs:text-xl">
           About India Tours
         </h2>
         <div
@@ -19,7 +19,7 @@ const ReadMoreContent = () => {
             isContentExpanded ? "" : "max-h-[90px] overflow-hidden"
           } `}
         >
-          <p className=" m-4">
+          <p className=" m-4 xs:text-sm">
             {" "}
             Lorem, ipsum dolor sit amet consectetur adipisicing elit. A fuga
             beatae rerum modi ea, saepe cum molestias tempora quo aliquid
