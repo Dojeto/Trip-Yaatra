@@ -1,7 +1,7 @@
 import Image from "next/image";
 const Looking = () => {
   return (
-    <div className="mt-[20px]">
+    <div>
     <div className="sm:w-full relative">
       {/* Lower Image */}
       <div>

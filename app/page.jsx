@@ -13,7 +13,7 @@ import tripsData from "@json/trips.json";
 
 export default function Home() {
   return (
-    <main>
+    <main className=" flex flex-col gap-y-9">
       <Hero />
       <Feature />
       <Packages data={tripsData} />

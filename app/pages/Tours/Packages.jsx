@@ -11,14 +11,14 @@ const Packages = (props) => {
     setCurrentPage(currentPage + 1);
   };
   return (
-    <div className=" flex flex-col justify-center items-center mt-24">
+    <div className=" mx-[9%] flex flex-col justify-center items-center">
       <div>
         <h2 className=" m-3 font-bold text-center text-darkbl text-5xl">
           All Packages
         </h2>
       </div>
       <div className=" bg-highlight w-[120px] h-[3px] mt-2 mb-11"></div>
-      <div className="grid grid-cols-3 gap-x-8">
+      <div className="grid grid-cols-3 gap-x-8 gap-y-5 lg:grid-cols-2 md:grid-cols-1">
         {Object.entries(data)
           .slice(0, currentPage * 1)
           .map((entry, i) => {
