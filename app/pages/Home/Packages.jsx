@@ -16,7 +16,7 @@ const Packages = (props) => {
           View All
         </Link>
       </div>
-      <div className=" grid grid-cols-3 gap-x-3">
+      <div className=" grid grid-cols-3 gap-x-3 tblt:flex tblt:overflow-x-scroll tblt:items-center tblt:justify-between">
         {Object.entries(data).map((entry, i) => {
           let key = entry[0];
           let trip = entry[1];

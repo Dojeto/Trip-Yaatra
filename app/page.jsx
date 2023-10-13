@@ -19,7 +19,7 @@ export default function Home() {
       <Packages data={tripsData} />
       <Review />
       <Looking />
-      <Secrets />
+      {/* <Secrets /> */}
       <Faq />
       <Form />
     </main>

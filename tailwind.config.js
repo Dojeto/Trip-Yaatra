@@ -15,6 +15,8 @@ module.exports = {
 
       md: { max: "970px" },
 
+      tblt: { max: "768px" },
+
       sm: { max: "680px" },
 
       xs: { max: "420px" },
