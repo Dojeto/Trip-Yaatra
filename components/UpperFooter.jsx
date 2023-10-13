@@ -1,19 +1,46 @@
 import Image from "next/image";
 import Link from "next/link";
+import {
+  BiLogoFacebookCircle,
+  BiLogoInstagramAlt,
+  BiLogoLinkedinSquare,
+  BiLogoYoutube,
+} from "react-icons/bi";
 const UpperFooter = () => {
   return (
-    <div className="mt-[80px]">
-      <Image
+    <div className="mt-[80px] relative">
+      {/* <Image
         src="/assets/Home/desktop-footer.png"
         alt="upperfooter"
         width={1920}
         height={500}
         className="block w-full h-auto"
+      /> */}
+      <Image
+        src="/assets/abstract-wavy.png"
+        width={1920}
+        height={288}
+        className="absolute object-cover left-0 right-0 opacity-10  top-0 z-0 select-none pointer-events-none"
       />
-
-      {/* Section with background color */}
-      <div className="bg-darkvl -mt-1 h-full w-full">
-        <div className="container mx-auto p-8 text-white flex gap-5 justify-center md:block ">
+      <div className="bg-darkbl p-8 px-[9%] gap-20 h-full w-full flex justify-between items-stretch z-10">
+        <div className="flex flex-col justify-between items-center">
+          <div className="flex gap-7">
+            {" "}
+            <Link href={"/"} shallow>
+              <BiLogoFacebookCircle size={45} color="white" />
+            </Link>
+            <Link href={"/"} shallow>
+              <BiLogoInstagramAlt size={45} color="white" />
+            </Link>
+            <Link href={"/"} shallow>
+              <BiLogoLinkedinSquare size={45} color="white" />
+            </Link>
+            <Link href={"/"} shallow>
+              <BiLogoYoutube size={45} color="white" />
+            </Link>
+          </div>
+        </div>
+        <div className="container mx-auto  text-white flex gap-5 justify-center md:block ">
           <div className=" border-r border-white p-4 md:border-none md:flex md:justify-center">
             <div className="w-60 h-full md:w-full">
               <h1 className="text-xl font-bold md:text-center">About Us</h1>

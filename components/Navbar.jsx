@@ -11,12 +11,7 @@ const Navbar = () => {
     <nav className="z-20 fixed w-full md:text-sm">
       <div className="py-2 px-6 flex justify-between items-center bg-slate-100">
         <Link href={"/"}>
-          <img
-            src="/assets/logo.png"
-            width={55}
-            height={55}
-            alt="logo"
-          />
+          <img src="/assets/logo.png" width={55} height={55} alt="logo" />
         </Link>
         <div className="hidden sm:flex ">
           <Hamburger toggled={isOpen} toggle={setOpen} size={25} />
@@ -24,8 +19,8 @@ const Navbar = () => {
         <div
           className={
             isOpen
-              ? "  w-96 h-screen top-full right-0 transition-all duration-500 bg-darkvl absolute z-20 hidden sm:block"
-              : " w-96 h-screen top-full -right-full transition-all duration-500  bg-darkvl absolute z-20 hidden sm:block"
+              ? "  w-96 h-screen top-full right-0 xs:w-48 transition-all duration-500 bg-darkvl absolute z-20 hidden sm:block"
+              : " w-96 xs:w-48 h-screen top-full -right-full transition-all duration-500  bg-darkvl absolute z-20 hidden sm:block"
           }
         >
           <ul className="flex flex-col text-white justify-center items-stretch">
@@ -117,7 +112,7 @@ const Navbar = () => {
                   <Link href={"/"} shallow>
                     Thailand
                   </Link>
-                </div>  
+                </div>
                 <div className="p-1 text-sm">
                   <Link href={"/"} shallow>
                     Maldives

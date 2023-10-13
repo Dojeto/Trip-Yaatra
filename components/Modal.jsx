@@ -1,4 +1,4 @@
-"use client"
+"use client";
 import React, { useState } from "react";
 import { IoPersonOutline } from "react-icons/io5";
 import { HiOutlineMail, HiOutlinePhone } from "react-icons/hi";
@@ -39,7 +39,7 @@ export default function Modal() {
                   </button>
                 </div>
                 {/*body*/}
-                <div className="flex flex-col justify-center items-center sm:flex-row">
+                <div className="flex sm:flex-col justify-center items-center flex-row">
                   <div className="max-w-[30vw]">
                     <img
                       src="/assets/contact-us.png"
