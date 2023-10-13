@@ -103,26 +103,26 @@ const Navbar = () => {
               <div className="absolute -top-1 left-1/3 transform -translate-x-1/2 w-4 h-4 bg-white  rotate-45"></div>
 
               <ul className="p-4">
-                <li className="p-1 text-sm">
+                <div className="p-1 text-sm">
                   <Link href={"/"} shallow>
                     Vietnam
                   </Link>
-                </li>
-                <li className="p-1 text-sm">
+                </div>
+                <div className="p-1 text-sm">
                   <Link href={"/"} shallow>
                     Bali
                   </Link>
-                </li>
-                <li className="p-1 text-sm">
+                </div>
+                <div className="p-1 text-sm">
                   <Link href={"/"} shallow>
                     Thailand
                   </Link>
-                </li>
-                <li className="p-1 text-sm">
+                </div>  
+                <div className="p-1 text-sm">
                   <Link href={"/"} shallow>
                     Maldives
                   </Link>
-                </li>
+                </div>
               </ul>
             </div>
           </li>
@@ -138,41 +138,41 @@ const Navbar = () => {
               <div className="absolute -top-1 left-1/3 transform -translate-x-1/2 w-4 h-4 bg-white  rotate-45"></div>
 
               <ul className="p-4">
-                <li className="p-1 text-sm">
+                <div className="p-1 text-sm">
                   <Link href={"/india-trips/ladakh"} shallow>
                     Ladakh
                   </Link>
-                </li>
-                <li className="p-1 text-sm">
+                </div>
+                <div className="p-1 text-sm">
                   <Link href={"/india-trips/"} shallow>
                     Spiti
                   </Link>
-                </li>
-                <li className="p-1 text-sm">
+                </div>
+                <div className="p-1 text-sm">
                   <Link href={"/india-trips/"} shallow>
                     Kashmir
                   </Link>
-                </li>
-                <li className="p-1 text-sm">
+                </div>
+                <div className="p-1 text-sm">
                   <Link href={"/india-trips/"} shallow>
                     Andaman
                   </Link>
-                </li>
-                <li className="p-1 text-sm">
+                </div>
+                <div className="p-1 text-sm">
                   <Link href={"/india-trips/"} shallow>
                     Kerala
                   </Link>
-                </li>
-                <li className="p-1 text-sm">
+                </div>
+                <div className="p-1 text-sm">
                   <Link href={"/india-trips/"} shallow>
                     Uttrakhand
                   </Link>
-                </li>
-                <li className="p-1 text-sm">
+                </div>
+                <div className="p-1 text-sm">
                   <Link href={"/india-trips/"} shallow>
                     Rajasthan
                   </Link>
-                </li>
+                </div>
               </ul>
             </div>
           </li>
@@ -184,26 +184,26 @@ const Navbar = () => {
               <div className="absolute -top-1 left-1/3 transform -translate-x-1/2 w-4 h-4 bg-white  rotate-45"></div>
 
               <ul className="p-4">
-                <li className="p-1 text-sm">
+                <div className="p-1 text-sm">
                   <Link href={"/"} shallow>
                     Vietnam
                   </Link>
-                </li>
-                <li className="p-1 text-sm">
+                </div>
+                <div className="p-1 text-sm">
                   <Link href={"/"} shallow>
                     Bali
                   </Link>
-                </li>
-                <li className="p-1 text-sm">
+                </div>
+                <div className="p-1 text-sm">
                   <Link href={"/"} shallow>
                     Thailand
                   </Link>
-                </li>
-                <li className="p-1 text-sm">
+                </div>
+                <div className="p-1 text-sm">
                   <Link href={"/"} shallow>
                     Maldives
                   </Link>
-                </li>
+                </div>
               </ul>
             </div>
           </li>
@@ -215,26 +215,26 @@ const Navbar = () => {
               <div className="absolute -top-1 left-1/3 transform -translate-x-1/2 w-4 h-4 bg-white  rotate-45"></div>
 
               <ul className="p-4">
-                <li className="p-1 text-sm">
+                <div className="p-1 text-sm">
                   <Link href={"/"} shallow>
                     Vietnam
                   </Link>
-                </li>
-                <li className="p-1 text-sm">
+                </div>
+                <div className="p-1 text-sm">
                   <Link href={"/"} shallow>
                     Bali
                   </Link>
-                </li>
-                <li className="p-1 text-sm">
+                </div>
+                <div className="p-1 text-sm">
                   <Link href={"/"} shallow>
                     Thailand
                   </Link>
-                </li>
-                <li className="p-1 text-sm">
+                </div>
+                <div className="p-1 text-sm">
                   <Link href={"/"} shallow>
                     Maldives
                   </Link>
-                </li>
+                </div>
               </ul>
             </div>
           </li>

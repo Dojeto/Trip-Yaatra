@@ -4,7 +4,7 @@ import React from 'react'
 const Blogs = () => {
     return (
         <div className="pt-[125px]">
-            <div className="w-[100%] h-[650px] relative">
+            <div className="w-[100%] h-[650px] object-cover relative">
                 <img src="/assets/blogs.jpg" alt="" className="w-full h-full" />
                 <h1 className="absolute inset-0 flex items-center justify-center text-white text-4xl font-bold">
                     Let’s Take a look as to what the coolest travel community says
