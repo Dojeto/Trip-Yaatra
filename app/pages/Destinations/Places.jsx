@@ -14,7 +14,7 @@ const Todo = (props) => {
         </h2>
       </div>
       <div className=" bg-highlight w-[120px] h-[3px] mt-2 mb-11"></div>
-      <div className="grid grid-cols-3 gap-x-3">
+      <div className="grid grid-cols-3 gap-x-8">
         {/* <div className="flex flex-wrap justify-center items-start"> */}
         {data?.places.place.map((val, i) => (
           <DestinationCard

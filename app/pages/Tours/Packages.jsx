@@ -18,7 +18,7 @@ const Packages = (props) => {
         </h2>
       </div>
       <div className=" bg-highlight w-[120px] h-[3px] mt-2 mb-11"></div>
-      <div className="grid grid-cols-3 gap-x-3">
+      <div className="grid grid-cols-3 gap-x-8">
         {Object.entries(data)
           .slice(0, currentPage * 1)
           .map((entry, i) => {

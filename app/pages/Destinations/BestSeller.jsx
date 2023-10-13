@@ -17,7 +17,7 @@ const TripsPackages = (props) => {
       <div className="w-full flex justify-center items-center">
         <div className=" bg-highlight w-[120px] h-[3px] mt-2 mb-11"></div>
       </div>
-      <div className="grid grid-cols-3 gap-x-3">
+      <div className="grid grid-cols-3 gap-x-8">
         {/* <div className="flex flex-wrap justify-center items-start"> */}
         {data?.bestSeller.map((val, i) => (
           <PackageCard

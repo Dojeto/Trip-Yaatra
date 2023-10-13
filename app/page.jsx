@@ -19,7 +19,6 @@ export default function Home() {
       <Packages data={tripsData} />
       <Review />
       <Looking />
-      <Secrets />
       <Faq />
       <Form />
     </main>

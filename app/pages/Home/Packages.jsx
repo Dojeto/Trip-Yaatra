@@ -13,7 +13,7 @@ const Packages = (props) => {
           <span className="text-l text-gray-600">Trending this Month</span>
         </div>
       </div>
-      <div className=" grid grid-cols-3 gap-x-3">
+      <div className=" grid grid-cols-3 gap-x-8">
         {Object.entries(data).map((entry, i) => {
           let key = entry[0];
           let trip = entry[1];
