@@ -6,9 +6,10 @@ import {
   BiLogoLinkedinSquare,
   BiLogoYoutube,
 } from "react-icons/bi";
+import { AiOutlineMail } from "react-icons/ai";
 const UpperFooter = () => {
   return (
-    <div className="mt-[80px] relative">
+    <footer className="mt-[80px] relative">
       {/* <Image
         src="/assets/Home/desktop-footer.png"
         alt="upperfooter"
@@ -20,10 +21,11 @@ const UpperFooter = () => {
         src="/assets/abstract-wavy.png"
         width={1920}
         height={288}
-        className="absolute object-cover left-0 right-0 opacity-10  top-0 z-0 select-none pointer-events-none"
+        className="absolute object-cover left-0 right-0 opacity-10  bottom-0 z-0 select-none pointer-events-none tblt:hidden"
       />
-      <div className="bg-darkbl p-8 px-[9%] gap-20 h-full w-full flex justify-between items-stretch z-10">
-        <div className="flex flex-col justify-between items-center">
+      <div className="bg-darkbl py-8 px-[9%] gap-20 h-full w-full flex justify-between items-stretch z-10 tblt:flex-col">
+        <div className="flex flex-col justify-start gap-4 items-center">
+          <Image width={100} height={100} src="/assets/logo-white.png" />
           <div className="flex gap-7">
             {" "}
             <Link href={"/"} shallow>
@@ -39,11 +41,21 @@ const UpperFooter = () => {
               <BiLogoYoutube size={45} color="white" />
             </Link>
           </div>
+          <h1 className="text-3xl font-bold text-center text-white mt-[10px] uppercase">
+            ADDRESS
+          </h1>
+          <div className="text-base text-center text-white">
+            385, Lane number 8 , Ramnagar, Roorkee, 247667. , Roorkee ,
+            Uttarakhand - 247667
+          </div>
+          <div className="text-lg flex gap-4 items-center font-bold text-white">
+            <AiOutlineMail /> trip.yatra.uk17@gmail.com
+          </div>
         </div>
-        <div className="container mx-auto  text-white flex gap-5 justify-center md:block ">
-          <div className=" border-r border-white p-4 md:border-none md:flex md:justify-center">
-            <div className="w-60 h-full md:w-full">
-              <h1 className="text-xl font-bold md:text-center">About Us</h1>
+        <div className="container mx-auto  text-white flex gap-5 justify-center xl:block ">
+          <div className=" border-r border-white p-4 xl:border-none xl:flex xl:justify-center">
+            <div className="w-60 h-full xl:w-full">
+              <h1 className="text-xl font-bold xl:text-center">About Us</h1>
               <p className="text-sm leading-[126.19%] pt-3 xs:text-xs">
                 We at Trip-Yaatra are a modern travel community that provides
                 end to end travel packages in India and abroad. We design the
@@ -57,11 +69,11 @@ const UpperFooter = () => {
               </p>
             </div>
           </div>
-          <div className=" flex gap-5 justify-center xs:gap-1">
+          <div className=" flex gap-5 justify-start  xs:gap-1">
             <div className="border-r border-white p-5 md:border-none">
               <div className="">
                 <h1 className="text-xl font-bold xs:text-sm">Weekend Trips</h1>
-                <div className="flex flex-col pt-3 text-sm xs:text-xs xs:pt-1">
+                <div className="flex flex-col pt-3 gap-2 text-sm xs:text-xs xs:pt-1">
                   <Link href={"/about"} shallow className="">
                     Bir Billing
                   </Link>
@@ -81,7 +93,7 @@ const UpperFooter = () => {
                 <h1 className="text-xl font-bold mt-[25px] xs:text-sm">
                   Weekend Trips
                 </h1>
-                <div className="flex flex-col pt-3 text-sm xs:text-xs xs:pt-1">
+                <div className="flex flex-col pt-3 gap-2 text-sm xs:text-xs xs:pt-1">
                   <Link href={"/about"} shallow className="">
                     Bir Billing
                   </Link>
@@ -106,7 +118,7 @@ const UpperFooter = () => {
                 <h1 className="text-xl font-bold xs:text-sm">
                   Backpacking Trips
                 </h1>
-                <div className="flex flex-col pt-3 text-sm xs:text-xs xs:pt-1">
+                <div className="flex flex-col pt-3 gap-2 text-sm xs:text-xs xs:pt-1">
                   <Link href={"/about"} shallow className="">
                     Bir Billing
                   </Link>
@@ -126,7 +138,7 @@ const UpperFooter = () => {
                 <h1 className="text-xl font-bold mt-[25px] xs:text-sm">
                   Blogs
                 </h1>
-                <div className="flex flex-col pt-3 text-sm xs:text-xs xs:pt-1">
+                <div className="flex flex-col pt-3 gap-2 text-sm xs:text-xs xs:pt-1">
                   <Link href={"/about"} shallow className="">
                     Bir Billing
                   </Link>
@@ -148,7 +160,7 @@ const UpperFooter = () => {
             <div className=" border-white p-5">
               <div className="mt-[20px]">
                 <h1 className="text-xl font-bold xs:text-sm">Quick Links</h1>
-                <div className="flex flex-col pt-3 text-sm xs:text-xs xs:pt-1">
+                <div className="flex flex-col pt-3 gap-2 text-sm xs:text-xs xs:pt-1">
                   <Link href={"/about"} shallow className="">
                     Privacy Policy
                   </Link>
@@ -174,7 +186,7 @@ const UpperFooter = () => {
           {/* section */}
         </div>
       </div>
-    </div>
+    </footer>
   );
 };
 
