@@ -8,7 +8,7 @@ const Looking = () => {
         height={288}
         className="absolute object-cover left-0 right-0 opacity-20  top-0 z-0 select-none pointer-events-none"
       />
-      <div className=" text-4xl text-white font-extrabold z-10 ">
+      <div className=" text-4xl text-white font-extrabold z-10 xs:text-2xl">
         Couldn't locate what you had in mind?
       </div>
       <div className="  text-white z-10 ">
@@ -16,7 +16,7 @@ const Looking = () => {
         exclusive deals!
       </div>
       <div className=" z-10 ">
-        <button className="px-10 py-3 bg-yellow-400 z-10  md:px-6 md:py-1 sm:px-2 sm:py-[1px] sm:text-xs md:text-base rounded-[40px] text-black font-semibold text-2xl focus:outline-none focus:ring focus:ring-blue-200">
+        <button className="px-10 py-3 bg-yellow-400 z-10  md:px-6 md:py-1 sm:px-2 sm:py-[1px] sm:text-xs md:text-base rounded-[40px] text-black font-semibold text-2xl focus:outline-none focus:ring focus:ring-blue-200 xs:px-2 xs:py-[1px] xs:text-xl">
           Connect Now
         </button>
       </div>

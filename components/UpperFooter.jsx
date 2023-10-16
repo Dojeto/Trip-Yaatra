@@ -23,7 +23,7 @@ const UpperFooter = () => {
         height={288}
         className="absolute object-cover left-0 right-0 opacity-10  bottom-0 z-0 select-none pointer-events-none tblt:hidden"
       />
-      <div className="bg-darkbl py-8 px-[9%] gap-20 h-full w-full flex justify-between items-stretch z-10 tblt:flex-col">
+      <div className="bg-darkbl py-8 px-[9%] gap-20 h-full w-full flex justify-between items-stretch z-10 tblt:flex-col sm:gap-0">
         <div className="flex flex-col justify-start gap-4 items-center">
           <Image width={100} height={100} src="/assets/logo-white.png" />
           <div className="flex gap-7">
@@ -157,7 +157,7 @@ const UpperFooter = () => {
                 </div>
               </div>
             </div>
-            <div className=" border-white p-5">
+            <div className=" border-white p-5 md:p-0">
               <div className="mt-[20px]">
                 <h1 className="text-xl font-bold xs:text-sm">Quick Links</h1>
                 <div className="flex flex-col pt-3 gap-2 text-sm xs:text-xs xs:pt-1">
