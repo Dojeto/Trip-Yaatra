@@ -10,6 +10,7 @@ import Shop from "@app/pages/Destinations/Shop";
 import indiaTrips from "@json/india-trips";
 import internationalTrips from "@json/international-trips.json";
 
+
 const page = ({ params }) => {
   const { info, destination } = params;
   const tourData = {

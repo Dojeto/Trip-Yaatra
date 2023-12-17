@@ -3,78 +3,7 @@
   "title": "A Tapestry of Cultures and Colors",
   "imagePath": "/assets/india-trips.jpg",
   "bestSeller": [
-    {
-      "title": "10 Days Srinagar Leh Manali Bike Trip",
-      "imageUrl": "https://images.unsplash.com/photo-1686993999944-f7fd395cdcf7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
-      "date": "24-05-2003",
-      "days": "3/5",
-      "price": 30000,
-      "destination": "Leh Ladakh",
-      "link": "/trips/srinagar-leh-manali"
-    },
-    {
-      "title": "7 Days Leh Ladakh Tour Package With Turtuk Village",
-      "imageUrl": "https://images.unsplash.com/photo-1563079288-3aed3f8a06dd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1938&q=80",
-      "date": "24-05-2003",
-      "days": "3/5",
-      "price": 30000,
-      "destination": "spiti",
-      "link": "/trips/srinagar-leh-manali"
-    },
-    {
-      "title": "10 Days Srinagar Leh Manali Bike Trip",
-      "imageUrl": "https://images.unsplash.com/photo-1694608108899-b70271860e86?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
-      "date": "24-05-2003",
-      "days": "3/5",
-      "price": 30000,
-      "destination": "Leh Ladakh",
-      "link": "/trips/srinagar-leh-manali"
-    },
-    {
-      "title": "7 Days Leh Ladakh Tour Package With Turtuk Village",
-      "imageUrl": "https://images.unsplash.com/photo-1694608108899-b70271860e86?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
-      "date": "24-05-2003",
-      "days": "3/5",
-      "price": 30000,
-      "destination": "spiti",
-      "link": "/trips/srinagar-leh-manali"
-    },
-    {
-      "title": "10 Days Srinagar Leh Manali Bike Trip",
-      "imageUrl": "https://images.unsplash.com/photo-1686993999944-f7fd395cdcf7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
-      "date": "24-05-2003",
-      "days": "3/5",
-      "price": 30000,
-      "destination": "Leh Ladakh",
-      "link": "/trips/srinagar-leh-manali"
-    },
-    {
-      "title": "7 Days Leh Ladakh Tour Package With Turtuk Village",
-      "imageUrl": "https://images.unsplash.com/photo-1563079288-3aed3f8a06dd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1938&q=80",
-      "date": "24-05-2003",
-      "days": "3/5",
-      "price": 30000,
-      "destination": "spiti",
-      "link": "/trips/srinagar-leh-manali"
-    },
-    {
-      "title": "10 Days Srinagar Leh Manali Bike Trip",
-      "imageUrl": "https://images.unsplash.com/photo-1686993999944-f7fd395cdcf7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
-      "date": "24-05-2003",
-      "days": "3/5",
-      "price": 30000,
-      "destination": "Leh Ladakh",
-      "link": "/trips/srinagar-leh-manali"
-    },
-    {
-      "title": "7 Days Leh Ladakh Tour Package With Turtuk Village",
-      "imageUrl": "https://images.unsplash.com/photo-1563079288-3aed3f8a06dd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1938&q=80",
-      "date": "24-05-2003",
-      "days": "3/5",
-      "price": 30000,
-      "destination": "spiti",
-      "link": "/trips/srinagar-leh-manali"
-    }
+    "srinagar-leh-manali"
   ],
   "packages": {
     "ladakh": {
@@ -82,22 +11,7 @@
       "title": "Step Foot in the Himalayan Wonderland",
       "imagePath": "/assets/leh.png",
       "bestSeller": [
-        {
-          "title": "10 Days Srinagar Leh Manali Bike Trip",
-          "imageUrl": "/assets/leh.png",
-          "date": "10-05-10",
-          "duration": "9N - 10D",
-          "price": "37,499",
-          "link": "/trips/srinagar-leh-manali"
-        },
-        {
-          "title": "7 Days Leh Ladakh Tour Package With Turtuk Village",
-          "imageUrl": "/assets/leh.png",
-          "date": "10-05-10",
-          "duration": "6N - 7D",
-          "price": "27,999",
-          "link": "/trips/leh-to-leh-6n-turtuk-nubra-pangong"
-        }
+        "srinagar-leh-manali"
       ],
       "todos": {
         "title": "Popular Adventure Sports In Ladakh For A Thrilling Vacay",
