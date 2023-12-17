@@ -1,8 +1,10 @@
 "use client";
 import React from "react";
+
 import { LiaStarSolid } from "react-icons/lia";
 import { AutoPlay, Fade } from "@egjs/flicking-plugins";
 import "@egjs/react-flicking/dist/flicking.css";
+import Link from "next/link";
 const Review = () => {
   //   const [currentCardIndex, setCurrentCardIndex] = useState(0);
   const plugins = [
@@ -12,39 +14,43 @@ const Review = () => {
   const reviews = [
     {
       tourName: "Tour Name 1",
-      personName: "Tania Andrew",
+      personName: "Suchitah beck",
       rating: 4.95,
-      date: "19/09/2023",
+      date: "17/09/2023",
       reviewText:
-        "This is an excellent tour package. We had a fantastic experience and highly recommend it!",
-      image: "/assets/bali-test.jpg",
+        "Our trip experience to Vietnam was excellent very comfortable we enjoyed very much, food was exlent ,sightseeing was amazing we can think to come for second time also, trip was well organised",
+      image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Unknown_person.jpg/925px-Unknown_person.jpg",
+      link: "https://g.co/kgs/BD6U99"
     },
     {
       tourName: "Tour Name 2",
-      personName: "Priyanshu",
+      personName: "Abhishek Tiwari",
       rating: 4.95,
-      date: "19/09/2023",
+      date: "19/03/2023",
       reviewText:
-        "This is an excellent tour package. We had a fantastic experience and highly recommend it!",
-      image: "/assets/bali-test.jpg",
+        "Best service and prices....i got these twice first when I booked domestic flight and second Time when I booked international trip. Process is smooth and support is best. They helped me with the good prices and visa as well.",
+      image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Unknown_person.jpg/925px-Unknown_person.jpg",
+      link: "https://g.co/kgs/SNDei8",
     },
     {
       tourName: "Tour Name 3",
-      personName: "Priyanshu",
+      personName: "Ankur Arora",
       rating: 4.95,
-      date: "19/09/2023",
+      date: "19/05/2023",
       reviewText:
-        "This is an excellent tour package. We had a fantastic experience and highly recommend it!",
-      image: "/assets/bali-test.jpg",
+        "Thats the best travel planning company, they have planned my trip to Dubai, and it was too good, starting from itenary to hotel selection and everything.Would definitely recommend if you are planning for a trip.",
+      image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Unknown_person.jpg/925px-Unknown_person.jpg",
+      link: "https://g.co/kgs/dWr7pX",
     },
     {
       tourName: "Tour Name 4",
-      personName: "Priyanshu",
+      personName: "Aditi Thanekar",
       rating: 4.95,
-      date: "19/09/2023",
+      date: "25/05/2023",
       reviewText:
-        "This is an excellent tour package. We had a fantastic experience and highly recommend it!",
-      image: "/assets/bali-test.jpg",
+        "Booked a trip for Goa and honestly best experience. Best deals for Hotels and flights. Made my experience beautiful and hassle free. I loved my experience with Tripyatra.",
+      image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Unknown_person.jpg/925px-Unknown_person.jpg",
+      link: "https://g.co/kgs/dDq2tR"
     },
 
     // Add more review objects here for additional cards
@@ -106,9 +112,9 @@ const Review = () => {
                 </span>
                 {review.reviewText}
               </p>
-              <a className="flex justify-end items-end text-darkvl font-medium ">
-                <span className="cursor-pointer">Continue Reading</span>
-              </a>
+              <div className="flex justify-end items-end text-darkvl font-medium ">
+                <Link key={review.personName} href={review.link} className="cursor-pointer">Continue Reading</Link>
+              </div>
             </div>
           </div>
         ))}
