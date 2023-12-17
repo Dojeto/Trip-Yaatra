@@ -139,32 +139,32 @@ const Navbar = () => {
                   </Link>
                 </div>
                 <div className="p-1 text-sm">
-                  <Link href={"/india-trips/"} shallow>
+                  <Link href={"/india-trips/spiti"} shallow>
                     Spiti
                   </Link>
                 </div>
                 <div className="p-1 text-sm">
-                  <Link href={"/india-trips/"} shallow>
+                  <Link href={"/india-trips/ladakh"} shallow>
                     Kashmir
                   </Link>
                 </div>
                 <div className="p-1 text-sm">
-                  <Link href={"/india-trips/"} shallow>
+                  <Link href={"/india-trips/andaman"} shallow>
                     Andaman
                   </Link>
                 </div>
                 <div className="p-1 text-sm">
-                  <Link href={"/india-trips/"} shallow>
+                  <Link href={"/india-trips/kerala"} shallow>
                     Kerala
                   </Link>
                 </div>
                 <div className="p-1 text-sm">
-                  <Link href={"/india-trips/"} shallow>
+                  <Link href={"/india-trips/uttarakhand"} shallow>
                     Uttrakhand
                   </Link>
                 </div>
                 <div className="p-1 text-sm">
-                  <Link href={"/india-trips/"} shallow>
+                  <Link href={"/india-trips/rajasthan"} shallow>
                     Rajasthan
                   </Link>
                 </div>

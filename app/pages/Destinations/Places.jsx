@@ -7,15 +7,15 @@ const Todo = (props) => {
     <div className="mx-[9%] flex flex-col justify-center items-center">
       <div>
         <h2 className=" m-3 font-bold text-left text-darkbl text-5xl">
-          {data?.places.title}
+          {data?.places?.title}
         </h2>
         <h2 className=" m-3 font-normal text-lg text-gray-500">
-          {data?.places.subtitle}
+          {data?.places?.subtitle}
         </h2>
       </div>
       <div className="grid grid-cols-3 gap-x-8 gap-y-5 lg:grid-cols-2 md:grid-cols-1">
         {/* <div className="flex flex-wrap justify-center items-start"> */}
-        {data?.places.place.map((val, i) => (
+        {data?.places?.place?.map((val, i) => (
           <DestinationCard
             key={i}
             imageUrl={val.imageUrl}
