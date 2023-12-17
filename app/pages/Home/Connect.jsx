@@ -1,17 +1,17 @@
 import Image from "next/image";
 const Looking = () => {
   return (
-    <div className="mt-[20px] py-16 flex flex-col justify-between items-center w-full h-72  bg-darkbl relative">
+    <div className="mt-[20px] px-10 py-16 flex flex-col justify-between items-center w-full h-72  bg-darkbl relative">
       <Image
         src="/assets/abstract-wavy.png"
         width={1920}
         height={288}
         className="absolute object-cover left-0 right-0 opacity-20  top-0 z-0 select-none pointer-events-none"
       />
-      <div className=" text-4xl text-white font-extrabold z-10 ">
+      <div className=" text-4xl text-white font-extrabold z-10 tblt:text-3xl ">
         Couldn't locate what you had in mind?
       </div>
-      <div className="  text-white z-10 ">
+      <div className="text-white z-10">
         Reach out to our knowledgeable team for top-notch itineraries and
         exclusive deals!
       </div>

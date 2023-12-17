@@ -71,7 +71,7 @@ const Review = () => {
       </div>
       <div className=" bg-highlight w-[120px] h-[3px] mt-1 mb-11"></div>
 
-      <div className=" grid gap-3 justify-center grid-cols-2">
+      <div className=" grid gap-3 justify-center grid-cols-2 tblt:grid-cols-1">
         {reviews.map((review, index) => (
           <div
             key={index}
