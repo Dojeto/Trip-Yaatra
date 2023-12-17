@@ -1,6 +1,6 @@
 import React from "react";
 import PackageCard from "@components/PackageCard";
-
+import tripsData from "@json/trips.json";
 const TripsPackages = (props) => {
   const { data } = props;
   return (
@@ -19,13 +19,13 @@ const TripsPackages = (props) => {
         {data?.bestSeller.map((val, i) => (
           <PackageCard
             key={i}
-            imageUrl={val.imageUrl}
-            price={val.price}
-            title={val.title}
-            date={val.date}
-            days={val.days}
-            destination={val.destination}
-            link={val.link}
+            imageUrl={tripsData[val].imageUrl}
+            price={tripsData[val].price}
+            title={tripsData[val].title}
+            date={tripsData[val].date}
+            days={tripsData[val].days}
+            destination={tripsData[val].destination}
+            link={tripsData[val].link}
           />
         ))}
       </div>
