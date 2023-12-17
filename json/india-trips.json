@@ -2,17 +2,14 @@
   "name": "India",
   "title": "A Tapestry of Cultures and Colors",
   "imagePath": "/assets/india-trips.jpg",
-  "bestSeller": [
-    "srinagar-leh-manali"
-  ],
+  "bestSeller": ["srinagar-leh-manali"],
   "packages": {
     "ladakh": {
       "name": "Leh Ladakh",
-      "title": "Step Foot in the Himalayan Wonderland",
+      "title": "Enter the Enchanting Realm of the Himalayas",
       "imagePath": "/assets/leh.png",
-      "bestSeller": [
-        "srinagar-leh-manali"
-      ],
+      "about": "asdf",
+      "bestSeller": ["srinagar-leh-manali"],
       "todos": {
         "title": "Popular Adventure Sports In Ladakh For A Thrilling Vacay",
         "subtitle": "Leh Ladakh is a paradise for adrenaline junkies who are looking to push themselves to their limits. With activities like rock climbing and paragliding, there is no shortage of adventure sports in Leh Ladakh.",
@@ -93,10 +90,14 @@
       }
     },
     "spiti": {
-      "name": "Manali",
+      "name": "Spiti",
       "title": "A Tapestry of Cultures and Colors",
-      "imagePath": "assets/india-trips.png",
-      "bestSeller": {},
+      "imagePath": "/assets/india-trips.jpg",
+      "about": "asdf",
+      "bestSeller": [
+        "srinagar-leh-manali",
+        "leh-to-leh-6n-turtuk-nubra-pangong"
+      ],
       "packages": {
         "": {
           "title": "Welcome To Manali",
@@ -108,17 +109,27 @@
       }
     },
     "kashmir": {
-      "title": "Welcome To Manali",
-      "imageUrl": "",
-      "date": "24-05-2003",
-      "days": "3/5",
-      "price": 30000
+      "name": "Kashmir",
+      "title": "A Tapestry of Cultures and Colors",
+      "imagePath": "/assets/india-trips.jpg",
+      "about": "asdf",
+      "bestSeller": ["srinagar-leh-manali"],
+      "packages": {
+        "": {
+          "title": "Welcome To Manali",
+          "imageUrl": "",
+          "date": "24-05-2003",
+          "days": "3/5",
+          "price": 30000
+        }
+      }
     },
     "meghalaya": {
-      "name": "Manali",
+      "name": "Meghalaya",
       "title": "A Tapestry of Cultures and Colors",
-      "imagePath": "assets/india-trips.png",
-      "bestSeller": {},
+      "imagePath": "/assets/india-trips.jpg",
+      "about": "asdf",
+      "bestSeller": ["srinagar-leh-manali"],
       "packages": {
         "": {
           "title": "Welcome To Manali",
@@ -130,10 +141,11 @@
       }
     },
     "andaman": {
-      "name": "Manali",
+      "name": "Andaman & Nicobar Islands",
       "title": "A Tapestry of Cultures and Colors",
-      "imagePath": "assets/india-trips.png",
-      "bestSeller": {},
+      "imagePath": "/assets/india-trips.jpg",
+      "about": "asdf",
+      "bestSeller": ["srinagar-leh-manali"],
       "packages": {
         "": {
           "title": "Welcome To Manali",
@@ -145,10 +157,11 @@
       }
     },
     "sikkim": {
-      "name": "Manali",
+      "name": "Sikkim",
       "title": "A Tapestry of Cultures and Colors",
-      "imagePath": "assets/india-trips.png",
-      "bestSeller": {},
+      "imagePath": "/assets/india-trips.jpg",
+      "about": "asdf",
+      "bestSeller": ["srinagar-leh-manali"],
       "packages": {
         "": {
           "title": "Welcome To Manali",
@@ -160,10 +173,11 @@
       }
     },
     "uttarakhand": {
-      "name": "Manali",
+      "name": "Uttarakhand",
       "title": "A Tapestry of Cultures and Colors",
-      "imagePath": "assets/india-trips.png",
-      "bestSeller": {},
+      "imagePath": "/assets/india-trips.jpg",
+      "about": "asdf",
+      "bestSeller": ["srinagar-leh-manali"],
       "packages": {
         "": {
           "title": "Welcome To Manali",
@@ -175,10 +189,11 @@
       }
     },
     "kerala": {
-      "name": "Manali",
+      "name": "Kerala",
       "title": "A Tapestry of Cultures and Colors",
-      "imagePath": "assets/india-trips.png",
-      "bestSeller": {},
+      "imagePath": "/assets/india-trips.jpg",
+      "about": "asdf",
+      "bestSeller": ["srinagar-leh-manali"],
       "packages": {
         "": {
           "title": "Welcome To Manali",
@@ -190,10 +205,11 @@
       }
     },
     "himachalpradesh": {
-      "name": "Manali",
+      "name": "Himachal Pradesh",
       "title": "A Tapestry of Cultures and Colors",
-      "imagePath": "assets/india-trips.png",
-      "bestSeller": {},
+      "imagePath": "/assets/india-trips.jpg",
+      "about": "asdf",
+      "bestSeller": ["srinagar-leh-manali"],
       "packages": {
         "": {
           "title": "Welcome To Manali",
@@ -205,10 +221,11 @@
       }
     },
     "rajasthan": {
-      "name": "Manali",
+      "name": "Rajasthan",
       "title": "A Tapestry of Cultures and Colors",
-      "imagePath": "assets/india-trips.png",
-      "bestSeller": {},
+      "imagePath": "/assets/india-trips.jpg",
+      "about": "asdf",
+      "bestSeller": ["srinagar-leh-manali"],
       "packages": {
         "": {
           "title": "Welcome To Manali",

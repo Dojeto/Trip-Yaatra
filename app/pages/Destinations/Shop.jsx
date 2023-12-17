@@ -1,7 +1,7 @@
 import React from "react";
 import DestinationCard from "@components/DestinationCard";
 
-const Todo = (props) => {
+const Shop = (props) => {
   const { data } = props;
   return (
     <div className="mx-[9%] flex flex-col justify-center items-center">
@@ -31,4 +31,4 @@ const Todo = (props) => {
   );
 };
 
-export default Todo;
+export default Shop;

@@ -2,6 +2,7 @@
 // import useSWR from "swr";
 import Hero from "@app/pages/Tours/Hero";
 import ReadMoreContent from "@app/pages/Tours/ReadMoreContent";
+import AboutDestination from "@app/pages/Destinations/AboutDestination";
 import BestSeller from "@app/pages/Destinations/BestSeller";
 import Todo from "@app/pages/Destinations/Todo";
 import Places from "@app/pages/Destinations/Places";
@@ -9,7 +10,6 @@ import Shop from "@app/pages/Destinations/Shop";
 
 import indiaTrips from "@json/india-trips";
 import internationalTrips from "@json/international-trips.json";
-
 
 const page = ({ params }) => {
   const { info, destination } = params;
@@ -28,7 +28,8 @@ const page = ({ params }) => {
             content=""
             name={data.packages[destination].name}
           />
-          <ReadMoreContent />
+          {/* <ReadMoreContent /> */}
+          <AboutDestination data={data.packages[destination]} />
           <BestSeller data={data.packages[destination]} />
           <Todo data={data.packages[destination]} />
           <Places data={data.packages[destination]} />
