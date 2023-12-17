@@ -65,7 +65,7 @@ const Review = () => {
   return (
     <div className="h-full px-36 flex flex-col justify-center items-center gap-1">
       <div>
-        <h2 className=" m-3 font-bold text-center text-darkbl text-4xl">
+        <h2 className=" m-3 font-bold text-center text-darkbl text-4xl sm:2xl">
           What our Customer Say
         </h2>
       </div>
@@ -75,9 +75,9 @@ const Review = () => {
         {reviews.map((review, index) => (
           <div
             key={index}
-            className="flex gap-4 bg-white border border-gray-300 shadow-md   rounded-lg overflow-hidden w-full mr-8 p-6  mx-auto relative"
+            className="flex gap-4 bg-white border border-gray-300 shadow-md   rounded-lg overflow-hidden w-full mr-8 p-6  mx-auto relative sm:"
           >
-            <div className="w-24 h-24 aspect-square border-2 rounded-full flex justify-center items-center border-darkvl">
+            <div className="w-24 h-24 aspect-square border-2 rounded-full flex justify-center items-center border-darkvl ">
               <img
                 src={review.image}
                 alt="Person Image"

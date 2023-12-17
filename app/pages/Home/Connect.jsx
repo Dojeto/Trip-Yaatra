@@ -16,7 +16,7 @@ const Looking = () => {
         exclusive deals!
       </div>
       <div className=" z-10 ">
-        <button className="px-10 py-3 bg-yellow-400 z-10  md:px-6 md:py-1 sm:px-2 sm:py-[1px] sm:text-xs md:text-base rounded-[40px] text-black font-semibold text-2xl focus:outline-none focus:ring focus:ring-blue-200">
+        <button className="px-10 py-3 bg-yellow-400 z-10  md:px-6 md:py-1 sm:px-2 sm:py-[1px] sm:text-xs md:text-base rounded-[40px] text-black font-semibold text-2xl focus:outline-none focus:ring focus:ring-blue-200 xs:px-2 xs:py-[1px] xs:text-xl">
           Connect Now
         </button>
       </div>
