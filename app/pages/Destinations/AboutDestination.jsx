@@ -20,7 +20,7 @@ const AboutDestination = (props) => {
             isContentExpanded ? "" : "max-h-[90px] overflow-hidden"
           } `}
         >
-          <p className=" m-4 xs:text-sm">{data?.about}</p>
+          <p className=" m-4 xs:text-sm whitespace-pre-line">{data?.about}</p>
         </div>
         <div className=" m-4 flex justify-end">
           <button
