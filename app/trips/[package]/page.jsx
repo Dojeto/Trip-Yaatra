@@ -27,7 +27,7 @@ const page = ({ params }) => {
         content=""
         name={data.name}
       />
-      <Details duration={data[params.package].duration} price={data[params.package].price} pickdrop={data[params.package].pickanddrop} />
+      <Details duration={data[params.package].duration} price={data[params.package].price} pickdrop={data[params.package].pickanddrop} about = {data[params.package].about} />
     </>
   );
 };

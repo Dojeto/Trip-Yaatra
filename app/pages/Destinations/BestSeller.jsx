@@ -7,7 +7,7 @@ import tripsData from "@json/trips.json";
 const TripsPackages = (props) => {
   const { data } = props;
   return (
-    <div className="mx-[9%] flex flex-col justify-center items-start">
+    <div id="packages-section" className="mx-[9%] flex flex-col justify-center items-start">
       <div>
         <h2 className=" m-3 font-bold text-left text-darkbl text-5xl">
           Featured Packages
