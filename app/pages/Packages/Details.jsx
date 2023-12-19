@@ -3,22 +3,22 @@ import { useState } from "react";
 import { AiOutlineClockCircle } from "react-icons/ai";
 import { LiaRupeeSignSolid } from "react-icons/lia";
 import { IoLocationSharp } from "react-icons/io5";
-import Flicking from "@egjs/react-flicking";
 import TripsCard from "@components/TripsCard";
 import Itinerary from "./Itinerary";
 import AboutTrip from "./AboutTrip";
 import Date from "./Date";
 import Others from "./Others";
 
-const info = {
-  about: <AboutTrip />,
-  itinerary: <Itinerary />,
-  date: <Date/>,
-  other: <Others/>,
-};
-
 const Details = (props) => {
-  const { duration, price, pickdrop } = props;
+  const { duration, price, pickdrop, about } = props;
+  console.log(props)
+  const info = {
+    about: <AboutTrip about={about} />,
+    itinerary: <Itinerary />,
+    date: <Date />,
+    other: <Others />,
+  };
+
   const [selected, setSelected] = useState("about");
   const ChangeState = (e) => {
     setSelected(e.target.id);

@@ -21,15 +21,16 @@ const page = ({ params }) => {
   return (
     <>
       {data?.packages?.[destination] !== undefined ? (
-        <div className=" flex flex-col gap-y-9">
+        <div className="flex flex-col gap-y-9">
           <Hero
             imageUrl={data.packages[destination].imagePath}
             title={data.packages[destination].title}
             content=""
             name={data.packages[destination].name}
+            about = {data.packages[destination].about}
           />
           {/* <ReadMoreContent /> */}
-          <AboutDestination data={data.packages[destination]} />
+          <AboutDestination destination={destination} data={data.packages[destination]} />
           <BestSeller data={data.packages[destination]} />
           <Todo data={data.packages[destination]} />
           <Places data={data.packages[destination]} />

@@ -3,11 +3,158 @@
   "title": "A Tapestry of Cultures and Colors",
   "imagePath": "assets/international-trips.jpg",
   "bestSeller": [
-    "srinagar-leh-manali"
+    "7n-8d-best-of-vietnam-tour-package"
   ],
   "packages": {
     "bali": {
       "title": "Welcome To bali"
+    },
+    "vietnam": {
+      "name": "Vietnam",
+      "title": "Beauty and Thrills: An Unforgettable Fusion",
+      "imagePath": "/assets/vietnam.jpg",
+      "about": "Experience the timeless allure of Vietnam with our meticulously crafted tour packages. From the bustling streets of Hanoi to the stunning landscapes of Ha Long Bay, our itineraries promise an immersive journey through the rich history, diverse culture, and breathtaking beauty of this enchanting country. Discover the diverse landscapes that define Vietnam, from pristine beaches and dense jungles to lush rice terraces and awe-inspiring karst formations. Whether you're cruising through Ha Long Bay, trekking in Sapa, exploring Phong Nha-Ke Bang National Park, or simply relaxing in Nha Trang, our packages cater to every traveler's interests. Beyond the landscapes, delve into Vietnam's rich history and cultural heritage, exploring landmarks like the imperial citadel of Hue and the historic tunnels of Cu Chi. Our tours provide a deep understanding of the country's past, shaped by influences from Chinese, French, and indigenous cultures. Meet the warm and welcoming Vietnamese people, experiencing their customs and traditions as you traverse markets in Hanoi or float along the Mekong Delta. Our well-crafted itineraries ensure genuine and memorable encounters that showcase the heart and soul of Vietnam. For culinary enthusiasts, our packages offer a tantalizing journey through Vietnam's vibrant food scene. Sample regional specialties, learn cooking techniques in Hoi An, and immerse yourself in the fragrant herbs and bold flavors of Vietnamese cuisine. Adventure seekers can indulge in heart-pounding activities such as trekking in Sapa, cycling through Ninh Binh's countryside, kayaking in Ha Long Bay, and exploring caves in Phong Nha-Ke Bang National Park. Vietnam's diverse landscapes provide an exhilarating playground for outdoor enthusiasts. Come, let WanderOn guide you through the beauty, history, and adventure that make Vietnam a destination like no other. Uncover the magic of Vietnam with our thoughtfully curated tour packages, creating memories that will last a lifetime.",
+      "bestSeller": [
+        "7n-8d-best-of-vietnam-tour-package"
+      ],
+      "todos": {
+        "title": "Unveil Vietnam's Unforgettable Adventures for an Adrenaline-Packed Getaway!",
+        "subtitle": "Embark on a journey through the heart of Vietnam, where excitement knows no bounds, and thrilling adventures await at every turn. Brace yourself for the ultimate thrill as we present an array of adrenaline-pumping experiences that promise to make your vacation truly unforgettable.",
+        "todo": [
+          {
+            "title": "Trekking",
+            "imageUrl": "https://images.pexels.com/photos/3604897/pexels-photo-3604897.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "time": "1 day approx",
+            "content": "Sapa's mountainous terrain and rice terraces make for an unforgettable trekking adventure, with opportunities to experience local culture.",
+            "location": "Sapa"
+          },
+          {
+            "title": "Scuba Diving",
+            "imageUrl": "https://images.pexels.com/photos/2404370/pexels-photo-2404370.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "time": "1 hours approx",
+            "content": "Nha Trang's crystal-clear waters offer scuba diving enthusiasts a chance to explore diverse marine life and stunning coral reefs.",
+            "location": "Nha Trang"
+          },
+          {
+            "title": "Kayaking",
+            "imageUrl": "https://images.pexels.com/photos/2847862/pexels-photo-2847862.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "time": "4 hours approx",
+            "content": "Kayaking in Ha Long Bay's emerald waters allows for a unique perspective of the limestone islands and hidden caves.",
+            "location": "Ha Long Bay"
+          },
+          {
+            "title": "White Water Rafting",
+            "imageUrl": "https://images.pexels.com/photos/11871441/pexels-photo-11871441.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "time": "2 hours approx",
+            "content": "White water rafting in Da Lat offers an adrenaline-packed adventure, with exciting rapids and stunning scenery in the Central Highlands.",
+            "location": "Da Lat"
+          },
+          {
+            "title": "Sandboarding",
+            "imageUrl": "https://media.istockphoto.com/id/653405270/photo/sunset-sand-dune-boarding.jpg?b=1&s=612x612&w=0&k=20&c=VE0ljijGb8PXiPsqGkl0gOrgaJGdPSLTAf5QuyLl4Iw=",
+            "time": "3 hours approx",
+            "content": "Mui Ne's sand dunes provide a thrilling sandboarding experience, with stunning sunset views and the opportunity to try kite-surfing.",
+            "location": "Nimu"
+          },
+          {
+            "title": "Rock Climbing",
+            "imageUrl": "https://images.pexels.com/photos/449609/pexels-photo-449609.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "time": "4 hours approx",
+            "content": "Cat Ba Island's limestone cliffs offer a challenging rock climbing experience with stunning views of Lan Ha Bay.",
+            "location": "Cat Ba Island"
+          }
+        ]
+      },
+      "places": {
+        "title": "Embark on a Journey of Discovery: From Hanoi to Ho Chi Minh!",
+        "subtitle": "Experience the charm and diversity of Vietnam as we guide you through its top destinations, spanning from the cultural richness of Hanoi to the vibrant energy of Ho Chi Minh City. Get ready to uncover the unique flavors, history, and beauty that define each stop on this captivating journey.",
+        "place": [
+          {
+            "title": "Ha Long Bay",
+            "imageUrl": "https://images.unsplash.com/photo-1575986767340-5d17ae767ab0?q=80&w=1933&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "content": "Ha Long Bay is a UNESCO World Heritage Site featuring thousands of limestone islands and islets, making it a must-visit destination in Vietnam.",
+            "location": "Ha Long Bay"
+          },
+          {
+            "title": "Hoi An",
+            "imageUrl": "https://images.unsplash.com/photo-1558334466-afce6bf36c69?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8SG9pJTIwQW58ZW58MHx8MHx8fDA%3D",
+            "content": "Hoi An is a charming city with a well-preserved old town, vibrant lanterns, and delicious cuisine, attracting visitors from around the world.",
+            "location": "Hoi An"
+          },
+          {
+            "title": "Ho Chi Minh City",
+            "imageUrl": "https://images.unsplash.com/photo-1591269469224-0479a5f956c6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8SG8lMjBDaGklMjBNaW5oJTIwQ2l0eXxlbnwwfHwwfHx8MA%3D%3D",
+            "content": "Ho Chi Minh City, formerly known as Saigon, is a bustling metropolis filled with history, culture, and delicious street food.",
+            "location": "Ho Chi Minh City"
+          },
+          {
+            "title": "Nha Trang",
+            "imageUrl": "https://images.unsplash.com/photo-1593152399172-9277bfd12c6e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8TmhhJTIwVHJhbmd8ZW58MHx8MHx8fDA%3D",
+            "content": "Nha Trang is a popular coastal city with crystal-clear waters, beautiful beaches, and a range of water sports activities.",
+            "location": "Ho Chi Minh City"
+          },
+          {
+            "title": "Sapa",
+            "imageUrl": "https://images.unsplash.com/photo-1501775390036-3f8123a8727f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8c2FwYXxlbnwwfHwwfHx8MA%3D%3D",
+            "content": "Sapa is a mountainous town located in the north of Vietnam, known for its scenic rice terraces and hill tribe cultures.",
+            "location": "Sapa"
+          },
+          {
+            "title": "Da Nang",
+            "imageUrl": "https://images.unsplash.com/photo-1560964645-5296b5099677?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8ZGElMjBuYW5nfGVufDB8fDB8fHww",
+            "content": "Da Nang is a coastal city with beautiful beaches, stunning mountains, and a variety of cultural and historical attractions.",
+            "location": "Da Nang"
+          }
+        ]
+      },
+      "shop": {
+        "title": "Indulge in Retail Therapy: Vietnam's Must-Visit Shopping Destinations",
+        "subtitle": "Vietnam's vibrant markets offer a treasure trove of unique finds, from traditional handicrafts to modern fashion. Immerse yourself in the hustle and bustle of these top shopping destinations, where the spirit of commerce meets the rich tapestry of Vietnamese culture.",
+        "items": [
+          {
+            "title": "Ben Thanh Market",
+            "time": "06:00 AM - 06:00 PM",
+            "imageUrl": "https://plus.unsplash.com/premium_photo-1664365805083-80ff9ccfde9d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "shopFor": "Souvenirs",
+            "location": "Ho Chi Minh City"
+          },
+          {
+            "title": "Hoi An Night Market",
+            "time": "05:00 PM - 11:00 PM",
+            "imageUrl": "https://images.unsplash.com/photo-1552993873-0dd1110e025f?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "shopFor": "Handicrafts",
+            "location": "Hoi An"
+          },
+          {
+            "title": "Dong Xuan Market",
+            "time": "06:00 AM - 07:00 PM",
+            "imageUrl": "https://giadinh.mediacdn.vn/2018/hanoi-night-market-1516002901517.jpg",
+            "shopFor": "Traditional Vietnamese items",
+            "location": "Hanoi"
+          },
+          {
+            "title": "Vincom Center",
+            "time": "10:00 AM - 10:00 PM",
+            "imageUrl": "https://farm3.static.flickr.com/2664/4235791848_b29903f344_o.jpg",
+            "shopFor": "Cosmetics",
+            "location": "Ho Chi Minh City"
+          },
+          {
+            "title": "Saigon Square",
+            "time": "09:00 AM - 10:00 PM",
+            "imageUrl": "https://saigononmotorbike.com/assets/media/saigon-square/avatar-saigon-square.jpg",
+            "shopFor": "Jewelry",
+            "location": "Ho Chi Minh City"
+          },
+          {
+            "title": "Sapa Market",
+            "time": "06:00 AM - 09:00 PM",
+            "imageUrl": "https://mettavoyage.com/wp-content/uploads/2023/05/sapa-market-tour-7.jpeg",
+            "shopFor": "Handicrafts",
+            "location": "Sapa"
+          }
+        ]
+      }
     }
   }
 }

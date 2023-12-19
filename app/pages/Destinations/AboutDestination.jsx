@@ -2,9 +2,10 @@
 import React, { useState } from "react";
 
 const AboutDestination = (props) => {
-  const { data } = props;
+  const { data, destination } = props;
   const [isContentExpanded, setIsContentExpanded] = useState(false);
-
+  const capitalizedDestination = destination.charAt(0).toUpperCase() + destination.slice(1);
+  
   const toggleContent = () => {
     setIsContentExpanded(!isContentExpanded);
   };
@@ -12,7 +13,7 @@ const AboutDestination = (props) => {
     <div className="flex justify-center items-center">
       <div className=" px-2 w-[1230px] m-5 shadow-lg rounded-md xs:m-4">
         <h2 className=" border-highlight border-l-4 ml-3 pl-3 m-2 font-bold text-darkbl text-3xl xs:text-xl">
-          About India Tours
+          About {capitalizedDestination} Tours
         </h2>
         <div
           className={` ${

@@ -99,22 +99,22 @@ const Navbar = () => {
 
               <ul className="p-4">
                 <div className="p-1 text-sm">
-                  <Link href={"/"} shallow>
+                  <Link href={"/international-trips/vietnam"} shallow>
                     Vietnam
                   </Link>
                 </div>
                 <div className="p-1 text-sm">
-                  <Link href={"/"} shallow>
+                  <Link href={"/international-trips/bali"} shallow>
                     Bali
                   </Link>
                 </div>
                 <div className="p-1 text-sm">
-                  <Link href={"/"} shallow>
+                  <Link href={"/international-trips/thailand"} shallow>
                     Thailand
                   </Link>
                 </div>
                 <div className="p-1 text-sm">
-                  <Link href={"/"} shallow>
+                  <Link href={"/international-trips/maldives"} shallow>
                     Maldives
                   </Link>
                 </div>

@@ -1,6 +1,6 @@
 import Modal from "@components/Modal";
 const PackageHero = (props) => {
-  const { imageUrl, name, content, title } = props;
+  const { imageUrl, name, content, title, about } = props;
   return (
     <div className="max-w-full h-screen">
       <div
@@ -23,9 +23,11 @@ const PackageHero = (props) => {
               <h2 className=" p-1 text-white text-md font-semibold tracking-wide">
                 {title}
               </h2>
-              <button className=" mt-2 mr-3 border-2 rounded-md w-36 h-11 text-white md:mb-3">
-                View Packages
-              </button>
+              <a href="#packages-section">
+                <button className="mt-2 mr-3 border-2 rounded-md w-36 h-11 text-white md:mb-3">
+                  View Packages
+                </button>
+              </a>
 
               <Modal />
             </div>
@@ -36,12 +38,7 @@ const PackageHero = (props) => {
               <h2 className=" text-white text-2xl font-black tracking-wide  ">
                 About {name} Tours
               </h2>
-              <h2 className=" pt-2 text-white text-sm ">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea
-                assumenda molestias odit fuga iusto obcaecati numquam, esse
-                voluptas. Quos maiores saepe unde possimus odit sit reiciendis
-                doloremque enim eveniet necessitatibus.
-              </h2>
+              <h2 className=" pt-2 text-white text-sm line-clamp-4">{about}</h2>
               <h2 className="pt-2 text-white text-sm font-black tracking-wide cursor-pointer ">
                 Read More....
               </h2>
