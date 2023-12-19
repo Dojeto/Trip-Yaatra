@@ -155,7 +155,7 @@ const Navbar = () => {
                     Kerala
                   </div>
                 </Link>
-                <Link href={"/india-trips/kerala"} shallow>
+                <Link href={"/india-trips/sikkim"} shallow>
                   <div className="px-2 py-1 text-sm border-[1px] border-transparent rounded-md hover:bg-[#01afd10d] hover:border-darkvl hover:text-darkbl">
                     Sikkim
                   </div>

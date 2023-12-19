@@ -154,7 +154,38 @@
     "similartrips": [],
     "trending": true
   },
-  
+  "sikkim": {
+    "tour": "india",
+    "title": "7 Days Offbeat Sikkim Tour Package",
+    "imageUrl": "/assets/Destinations/Sikkim/Sikkim.jpg",
+    "date": "06-01-24",
+    "duration": "7N - 8D",
+    "price": "25,999",
+    "link": "/trips/sikkim",
+    "tagline": "Ultimate Adventure in Meghalaya: 8 Days Tour",
+    "destination": "Sikkim",
+    "pickanddrop": "Guwahati",
+    "about": "Embark on an Ultimate Adventure Trip to Meghalaya and immerse yourself in breathtaking landscapes, rich cultural heritage, and thrilling outdoor activities this beautiful region offers.\n\nFrom charming Shillong to pristine Mawphlang village, and the stunning Laitlum Canyon to famous Double Decker Living Root Bridges, this Meghalaya Tour Package promises an unforgettable adventure.\n\nBegin your journey at picturesque Umiam Lake, surrounded by lush hills. Then, explore the sacred Mawphlang Sacred Grove, hiking ancient forests with rare medicinal plants.\n\nExperience the thrill of the Mawrynkhang Bamboo Trek in Wahkhen, crossing bamboo bridges and wooden ladders to reach majestic pinnacle rock.\n\nContinue to Shnonpdeng for water activities on Umgnot River and visit Asia's cleanest village, Mawlynnong.\n\nTrek through Cherrapunji's dense forests to witness the awe-inspiring Double Decker Living Root Bridges. Marvel at Nohkalikai and Wei Sawdong Falls.\n\nAs your adventure concludes, enjoy the scenic drive back to Guwahati, with a serene stop at Umiam Lake.\n\nThis ultimate adventure blends nature, culture, and adrenaline-pumping activities, ensuring an exhilarating experience and cherished memories in mystical Meghalaya.",
+    "ytvideo": "",
+    "itinerary": [
+      {
+        "title": "Arrival At Srinagar - Overnight Stay At Srinagar",
+        "description": "test"
+      }
+    ],
+    "notes": "",
+    "videos": [],
+    "photos": [],
+    "testimonials": [],
+    "costing": [],
+    "inclusions": "",
+    "exclusions": "",
+    "other": "",
+    "thingtocarry": "",
+    "similartrips": [],
+    "trending": true
+  },
+
   "7n-8d-best-of-vietnam-tour-package": {
     "tour": "international",
     "title": "Vietnam:Timeless Beauty, Endless Adventures",
