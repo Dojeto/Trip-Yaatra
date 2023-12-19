@@ -8,55 +8,55 @@
       "name": "Leh Ladakh",
       "title": "Enter the Enchanting Realm of the Himalayas",
       "imagePath": "/assets/leh.png",
-      "about": "asdf",
+      "about": "Journey into the Heart of the Himalayas with Our Leh Ladakh Tours: Picture yourself amidst the gentle embrace of chilly mountain air, surrounded by the symphony of nature's melodies. Welcome to Ladakh, an oasis of tranquility, adventure, and serenity waiting to captivate your senses.\nLadakh, adorned with names like Maryul and Kha-Chumpa in ancient lore, is now renowned as the 'adventure seeker's haven.' Our Leh Ladakh Tours offer an unparalleled range of experiences—be it riding double-humped camels, exhilarating quad biking on sand dunes, or embarking on road trips across the world's highest passes.\nLegend whispers that Ladakh cradled the birth of Buddhism in India, evident in its ancient monasteries dating back to the 10th century. These serene monasteries exude an authentic Buddhist aura, inviting seekers of peace amid the chaos of modern life. Our Leh Ladakh Tour Packages are your gateway to embracing this spiritual essence.\nUnlike typical destinations boasting architectural marvels or extravagant shopping, Ladakh transcends mere places; it's an immersive experience catering to all. Every visitor discovers something new each day, making a Leh Ladakh tour a must on every traveler's wishlist.\nAmong our array of Leh Ladakh packages, the Ladakh Bike Trip stands as a pinnacle adventure. Riding on some of the world's highest roads offers breathtaking panoramas and an exhilarating rush of wind through your hair—a must for adventure enthusiasts.\nWhile Ladakh is synonymous with adventure, it has also become a haven for couples seeking a mesmerizing honeymoon. Our Ladakh honeymoon package promises an enchanting escapade amidst snow-capped peaks, elevating your love to new heights.\nExplore Ladakh's myriad attractions that redefine experiences. Before selecting your Ladakh tour package, discover the best sites in Leh Ladakh, offering essential insights into this Himalayan wonderland.",
       "bestSeller": ["srinagar-leh-manali"],
       "todos": {
-        "title": "Popular Adventure Sports In Ladakh For A Thrilling Vacay",
-        "subtitle": "Leh Ladakh is a paradise for adrenaline junkies who are looking to push themselves to their limits. With activities like rock climbing and paragliding, there is no shortage of adventure sports in Leh Ladakh.",
+        "title": "Unveiling Ladakh's Favorite Sports for an Adrenaline-Fueled Getaway",
+        "subtitle": "Discover Your Adrenaline Rush: Leh Ladakh, the Haven for Thrill Seekers. Brace Yourself for Rock Climbing, Paragliding, and a Bounty of Adventure Sports!",
         "todo": [
           {
             "title": "River Rafting",
             "imageUrl": "https://images.unsplash.com/photo-1629248564797-8c5ba85da9d3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
             "time": "3 hours approx",
-            "content": "River rafting is an immensely popular adventure sport in Ladakh. Enjoy the mesmerizing views through freezing gushing rapids",
+            "content": "Experience the Thrill of River Rafting in Ladakh Amidst Breathtaking Rapids and Mesmerizing Scenery",
             "location": "Nimu"
           },
           {
             "title": "Mountain Biking",
             "imageUrl": "https://images.unsplash.com/photo-1624020348427-90a59ce23df6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
             "time": "2 hours approx",
-            "content": "Mountain Biking is one of the best adventure sports in Leh Ladakh. Get astonishing sights while crossing the highest peaks",
+            "content": "Mountain Biking, the Ultimate Adventure Sport in Leh Ladakh. Revel in Astonishing Vistas atop the Highest Peaks",
             "location": "Leh"
           },
           {
             "title": "Trekking",
             "imageUrl": "https://images.unsplash.com/photo-1551632811-561732d1e306?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
             "time": "3 to 7 days approx",
-            "content": "Discover the beauty of Leh Ladakh by being a part of challenging treks. Get astonishing sights while crossing the highest peaks",
+            "content": "Unveil Leh Ladakh's Splendor, Embark on Challenging Treks for a Glimpse of Astonishing Heights and Breathtaking Peaks",
             "location": "Stok Kangri"
           }
         ]
       },
       "places": {
-        "title": "Places You Can Visit in Leh Ladakh",
-        "subtitle": "Words are not enough to describe the beauty of Leh Ladakh. A holiday in Ladakh is an experience you'll never forget. With its charming monasteries, rivers, valleys, and lakes, Leh Ladakh has something for everyone.",
+        "title": "Exploring Leh Ladakh's Marvels",
+        "subtitle": "Words falter before the magnificence of Leh Ladakh. A sojourn here is an indelible experience, offering a tapestry of charming monasteries, meandering rivers, picturesque valleys, and serene lakes.",
         "place": [
           {
             "title": "Zanskar Valley",
             "imageUrl": "https://images.unsplash.com/photo-1558369567-f7307042ded1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
-            "content": "The frosty terrains of Zanskar valley are undoubtedly one of the best places to visit in Ladakh.",
+            "content": "Embrace the icy landscapes of Zanskar Valley—an unrivaled gem among Ladakh's destinations.",
             "location": "Ladakh"
           },
           {
             "title": "Pangong Tso Lake",
             "imageUrl": "https://images.unsplash.com/photo-1693236052678-22c4745dfc97?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2073&q=80",
-            "content": "Pangong Tso is among the popular lake in Leh ladakh located on the eastern ladakh region",
+            "content": "Discover the allure of Pangong Tso, a famed lake nestled in Eastern Ladakh, captivating all who visit.",
             "location": "Ladakh"
           },
           {
             "title": "Kargil",
             "imageUrl": "https://images.unsplash.com/photo-1568786701210-416f4df970f1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
-            "content": "Located on the banks of the Indus, Kargil is among the largest town to visit in Ladakh. ",
+            "content": "Situated along the banks of the Indus, Kargil stands tall as one of Ladakh's largest and most captivating towns.",
             "location": "Ladakh"
           }
         ]
@@ -75,37 +75,45 @@
           {
             "title": "Women’s Alliance Of Ladakh Shopping Hub",
             "time": "12:00 AM - 12:00 AM",
-            "imageUrl": "https://images.unsplash.com/photo-1508589066756-c5dfb2cb7587?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80 ",
+            "imageUrl": "/assets/Destinations/leh_market1.jpg",
             "shopFor": "Woolen Garment, Silver Jewelry",
-            "location": "Leh"
+            "location": "Chubi,Leh"
           },
           {
             "title": "Zanskar Arts",
             "time": "09:00 AM - 09:00 PM",
-            "imageUrl": "https://images.unsplash.com/photo-1508589066756-c5dfb2cb7587?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80 ",
+            "imageUrl": "https://img.freepik.com/premium-photo/leather-craft-leather-working-selected-pieces-ai_949726-186.jpg?w=740",
             "shopFor": "leather goods",
-            "location": "Leh"
+            "location": "Main Bazaar, Leh"
+          },
+          {
+            "title": "Himalayan Pashmina Shawls",
+            "time": "09:00 AM - 10:00 PM",
+            "imageUrl": "https://media.istockphoto.com/id/177783752/photo/colourful-scarves.jpg?s=612x612&w=0&k=20&c=aZZMPlxHqjiAEZvwldVUT00_6z6RwIHeqT_oMud2iaA=",
+            "shopFor": "Pashmina Shawls",
+            "location": "Main Bazaar, Leh"
           }
         ]
       }
     },
     "spiti": {
       "name": "Spiti",
-      "title": "A Tapestry of Cultures and Colors",
-      "imagePath": "/assets/india-trips.jpg",
-      "about": "asdf",
-      "bestSeller": [
-        "srinagar-leh-manali",
-        "leh-to-leh-6n-turtuk-nubra-pangong"
-      ],
-      "packages": {
-        "": {
-          "title": "Welcome To Manali",
-          "imageUrl": "",
-          "date": "24-05-2003",
-          "days": "3/5",
-          "price": 30000
-        }
+      "title": "Journeying to the Realm of the Loftiest Landmarks",
+      "imagePath": "https://plus.unsplash.com/premium_photo-1661964133089-630b18fef6e2?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "about": "Unveiling the Majesty of Spiti Valley: Discover Nature's Masterpiece\nNestled over 4,000 meters above sea level, Spiti Valley, known as the 'middle land,' rests between the domains of India and Tibet. This natural wonderland boasts some of the world's loftiest landmarks and winding roads with hairpin bends, making a Spiti Valley tour an essential on every traveler's wishlist. Once the cradle of Buddhism in India, Spiti has evolved into an adventurer's haven, offering unparalleled thrills and adventures, hence the rising popularity of Spiti Valley tour packages.\nSituated in the northernmost reaches, Spiti Valley defies the conventional hill station image while ensuring an equally enthralling experience. Our Spiti Valley tour packages unlock access to some of the planet's most stunning and distinctive destinations. From the serene Chandrataal Lake and the majestic Kunzum Pass to the ancient Key Monastery standing for a millennium, these landmarks await your exploration on a Spiti Valley trip.\nLahaul Spiti tour packages not only treat you to authentic Pahadi delicacies but also elevate your journey to the highest altitude landmarks. Visits to the world's highest post office in Hikkim, the breathtaking Kunzum Pass, and other lofty attractions redefine your journey with our packages.\nYearning to delve into Buddhism and the lives of monks? Our Spiti Valley packages offer an immersive peek into Buddhist culture, allowing interactions with monks residing in the monasteries. For architecture enthusiasts, the monastery premises are a visual delight. Not inclined towards spirituality? Fear not, our Spiti Valley tour packages cater to your adventurous side, offering a plethora of activities—from river rafting on lofty water bodies to trekking expeditions.\nSubmerged beneath the Tethys Sea over 60 million years ago, this cold desert houses ancient marine fossils, intriguing history buffs. Meanwhile, road trip enthusiasts relish the hairpin bends, high passes, and thrilling roads of the Spiti Valley trip. And for those seeking a chilling experience, Spiti's sub-zero temperatures might just make the saying 'ice in my veins' ring true—an adventure best explored with our Spiti tour packages.\nExcited about exploring Spiti? Dive into an all-encompassing experience with our Spiti Valley tour packages.\nAs we promised, Spiti unveils a myriad of unique landmarks, each offering something distinctive to its visitors. Scroll down to discover the destinations awaiting your exploration with our Spiti Valley tour packages and Spiti Valley holiday packages.",
+      "bestSeller": ["spiti-valley"],
+      "todos": {
+        "title": "Unforgettable Adventures in Spiti Valley",
+        "subtitle": "Explore boundless opportunities to create cherished memories in Spiti Valley. Engage in invigorating activities like trekking, camping, hiking, and beyond. Immerse yourself in the breathtaking vistas of nature, a perfect backdrop for unforgettable moments with your loved ones.",
+        "todo": [
+          {
+            "title": "Bike Trip",
+            "imageUrl": "/assets/Destinations/spiti_bike.jpg",
+            "time": "9 days approx",
+            "content": "Embark on an adventure through the majestic Himalayan mountains on a thrilling bike expedition—an experience that promises awe-inspiring vistas.",
+            "location": "Spiti"
+          }
+        ]
       }
     },
     "kashmir": {
@@ -113,128 +121,56 @@
       "title": "A Tapestry of Cultures and Colors",
       "imagePath": "/assets/india-trips.jpg",
       "about": "asdf",
-      "bestSeller": ["srinagar-leh-manali"],
-      "packages": {
-        "": {
-          "title": "Welcome To Manali",
-          "imageUrl": "",
-          "date": "24-05-2003",
-          "days": "3/5",
-          "price": 30000
-        }
-      }
+      "bestSeller": ["srinagar-leh-manali"]
     },
     "meghalaya": {
       "name": "Meghalaya",
       "title": "A Tapestry of Cultures and Colors",
       "imagePath": "/assets/india-trips.jpg",
       "about": "asdf",
-      "bestSeller": ["srinagar-leh-manali"],
-      "packages": {
-        "": {
-          "title": "Welcome To Manali",
-          "imageUrl": "",
-          "date": "24-05-2003",
-          "days": "3/5",
-          "price": 30000
-        }
-      }
+      "bestSeller": ["srinagar-leh-manali"]
     },
     "andaman": {
       "name": "Andaman & Nicobar Islands",
       "title": "A Tapestry of Cultures and Colors",
       "imagePath": "/assets/india-trips.jpg",
       "about": "asdf",
-      "bestSeller": ["srinagar-leh-manali"],
-      "packages": {
-        "": {
-          "title": "Welcome To Manali",
-          "imageUrl": "",
-          "date": "24-05-2003",
-          "days": "3/5",
-          "price": 30000
-        }
-      }
+      "bestSeller": ["srinagar-leh-manali"]
     },
     "sikkim": {
       "name": "Sikkim",
       "title": "A Tapestry of Cultures and Colors",
       "imagePath": "/assets/india-trips.jpg",
       "about": "asdf",
-      "bestSeller": ["srinagar-leh-manali"],
-      "packages": {
-        "": {
-          "title": "Welcome To Manali",
-          "imageUrl": "",
-          "date": "24-05-2003",
-          "days": "3/5",
-          "price": 30000
-        }
-      }
+      "bestSeller": ["srinagar-leh-manali"]
     },
     "uttarakhand": {
       "name": "Uttarakhand",
       "title": "A Tapestry of Cultures and Colors",
       "imagePath": "/assets/india-trips.jpg",
       "about": "asdf",
-      "bestSeller": ["srinagar-leh-manali"],
-      "packages": {
-        "": {
-          "title": "Welcome To Manali",
-          "imageUrl": "",
-          "date": "24-05-2003",
-          "days": "3/5",
-          "price": 30000
-        }
-      }
+      "bestSeller": ["srinagar-leh-manali"]
     },
     "kerala": {
       "name": "Kerala",
       "title": "A Tapestry of Cultures and Colors",
       "imagePath": "/assets/india-trips.jpg",
       "about": "asdf",
-      "bestSeller": ["srinagar-leh-manali"],
-      "packages": {
-        "": {
-          "title": "Welcome To Manali",
-          "imageUrl": "",
-          "date": "24-05-2003",
-          "days": "3/5",
-          "price": 30000
-        }
-      }
+      "bestSeller": ["srinagar-leh-manali"]
     },
     "himachalpradesh": {
       "name": "Himachal Pradesh",
       "title": "A Tapestry of Cultures and Colors",
       "imagePath": "/assets/india-trips.jpg",
       "about": "asdf",
-      "bestSeller": ["srinagar-leh-manali"],
-      "packages": {
-        "": {
-          "title": "Welcome To Manali",
-          "imageUrl": "",
-          "date": "24-05-2003",
-          "days": "3/5",
-          "price": 30000
-        }
-      }
+      "bestSeller": ["srinagar-leh-manali"]
     },
     "rajasthan": {
       "name": "Rajasthan",
       "title": "A Tapestry of Cultures and Colors",
       "imagePath": "/assets/india-trips.jpg",
       "about": "asdf",
-      "bestSeller": ["srinagar-leh-manali"],
-      "packages": {
-        "": {
-          "title": "Welcome To Manali",
-          "imageUrl": "",
-          "date": "24-05-2003",
-          "days": "3/5",
-          "price": 30000
-        }
-      }
+      "bestSeller": ["srinagar-leh-manali"]
     }
   }
 }

@@ -7,6 +7,9 @@ import BestSeller from "@app/pages/Destinations/BestSeller";
 import Todo from "@app/pages/Destinations/Todo";
 import Places from "@app/pages/Destinations/Places";
 import Shop from "@app/pages/Destinations/Shop";
+import Review from "@components/Review";
+import Form from "@components/Form";
+import Looking from "@app/pages/Home/Connect";
 
 import indiaTrips from "@json/india-trips";
 import internationalTrips from "@json/international-trips.json";
@@ -34,6 +37,9 @@ const page = ({ params }) => {
           <Todo data={data.packages[destination]} />
           <Places data={data.packages[destination]} />
           <Shop data={data.packages[destination]} />
+          <Review />
+          <Looking />
+          <Form />
         </div>
       ) : (
         <div>Ye Route Nahi hai</div>
