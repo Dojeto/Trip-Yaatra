@@ -148,6 +148,11 @@ const Navbar = () => {
                     Kashmir
                   </div>
                 </Link>
+                <Link href={"/india-trips/ladakh"} shallow>
+                  <div className="px-2 py-1 text-sm border-[1px] border-transparent rounded-md hover:bg-[#01afd10d] hover:border-darkvl hover:text-darkbl">
+                  Meghalaya
+                  </div>
+                </Link>
                 <Link href={"/india-trips/andaman"} shallow>
                   <div className="px-2 py-1 text-sm border-[1px] border-transparent rounded-md hover:bg-[#01afd10d] hover:border-darkvl hover:text-darkbl">
                     Andaman
@@ -158,9 +163,20 @@ const Navbar = () => {
                     Kerala
                   </div>
                 </Link>
+                <Link href={"/india-trips/kerala"} shallow>
+                  <div className="px-2 py-1 text-sm border-[1px] border-transparent rounded-md hover:bg-[#01afd10d] hover:border-darkvl hover:text-darkbl">
+                  Sikkim
+                  </div>
+                </Link>
                 <Link href={"/india-trips/uttarakhand"} shallow>
                   <div className="px-2 py-1 text-sm border-[1px] border-transparent rounded-md hover:bg-[#01afd10d] hover:border-darkvl hover:text-darkbl">
                     Uttrakhand
+                  </div>
+                </Link>
+               
+                <Link href={"/india-trips/uttarakhand"} shallow>
+                  <div className="px-2 py-1 text-sm border-[1px] border-transparent rounded-md hover:bg-[#01afd10d] hover:border-darkvl hover:text-darkbl">
+                    Himachal Pradesh
                   </div>
                 </Link>
                 <Link href={"/india-trips/rajasthan"} shallow>

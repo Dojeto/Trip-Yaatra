@@ -2,14 +2,18 @@
   "name": "India",
   "title": "A Tapestry of Cultures and Colors",
   "imagePath": "/assets/india-trips.jpg",
-  "bestSeller": ["srinagar-leh-manali"],
+  "bestSeller": [
+    "srinagar-leh-manali"
+  ],
   "packages": {
     "ladakh": {
       "name": "Leh Ladakh",
       "title": "Enter the Enchanting Realm of the Himalayas",
       "imagePath": "/assets/leh.png",
       "about": "Journey into the Heart of the Himalayas with Our Leh Ladakh Tours: Picture yourself amidst the gentle embrace of chilly mountain air, surrounded by the symphony of nature's melodies. Welcome to Ladakh, an oasis of tranquility, adventure, and serenity waiting to captivate your senses.\nLadakh, adorned with names like Maryul and Kha-Chumpa in ancient lore, is now renowned as the 'adventure seeker's haven.' Our Leh Ladakh Tours offer an unparalleled range of experiences—be it riding double-humped camels, exhilarating quad biking on sand dunes, or embarking on road trips across the world's highest passes.\nLegend whispers that Ladakh cradled the birth of Buddhism in India, evident in its ancient monasteries dating back to the 10th century. These serene monasteries exude an authentic Buddhist aura, inviting seekers of peace amid the chaos of modern life. Our Leh Ladakh Tour Packages are your gateway to embracing this spiritual essence.\nUnlike typical destinations boasting architectural marvels or extravagant shopping, Ladakh transcends mere places; it's an immersive experience catering to all. Every visitor discovers something new each day, making a Leh Ladakh tour a must on every traveler's wishlist.\nAmong our array of Leh Ladakh packages, the Ladakh Bike Trip stands as a pinnacle adventure. Riding on some of the world's highest roads offers breathtaking panoramas and an exhilarating rush of wind through your hair—a must for adventure enthusiasts.\nWhile Ladakh is synonymous with adventure, it has also become a haven for couples seeking a mesmerizing honeymoon. Our Ladakh honeymoon package promises an enchanting escapade amidst snow-capped peaks, elevating your love to new heights.\nExplore Ladakh's myriad attractions that redefine experiences. Before selecting your Ladakh tour package, discover the best sites in Leh Ladakh, offering essential insights into this Himalayan wonderland.",
-      "bestSeller": ["srinagar-leh-manali"],
+      "bestSeller": [
+        "srinagar-leh-manali"
+      ],
       "todos": {
         "title": "Unveiling Ladakh's Favorite Sports for an Adrenaline-Fueled Getaway",
         "subtitle": "Discover Your Adrenaline Rush: Leh Ladakh, the Haven for Thrill Seekers. Brace Yourself for Rock Climbing, Paragliding, and a Bounty of Adventure Sports!",
@@ -101,7 +105,9 @@
       "title": "Journeying to the Realm of the Loftiest Landmarks",
       "imagePath": "https://plus.unsplash.com/premium_photo-1661964133089-630b18fef6e2?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "about": "Unveiling the Majesty of Spiti Valley: Discover Nature's Masterpiece\nNestled over 4,000 meters above sea level, Spiti Valley, known as the 'middle land,' rests between the domains of India and Tibet. This natural wonderland boasts some of the world's loftiest landmarks and winding roads with hairpin bends, making a Spiti Valley tour an essential on every traveler's wishlist. Once the cradle of Buddhism in India, Spiti has evolved into an adventurer's haven, offering unparalleled thrills and adventures, hence the rising popularity of Spiti Valley tour packages.\nSituated in the northernmost reaches, Spiti Valley defies the conventional hill station image while ensuring an equally enthralling experience. Our Spiti Valley tour packages unlock access to some of the planet's most stunning and distinctive destinations. From the serene Chandrataal Lake and the majestic Kunzum Pass to the ancient Key Monastery standing for a millennium, these landmarks await your exploration on a Spiti Valley trip.\nLahaul Spiti tour packages not only treat you to authentic Pahadi delicacies but also elevate your journey to the highest altitude landmarks. Visits to the world's highest post office in Hikkim, the breathtaking Kunzum Pass, and other lofty attractions redefine your journey with our packages.\nYearning to delve into Buddhism and the lives of monks? Our Spiti Valley packages offer an immersive peek into Buddhist culture, allowing interactions with monks residing in the monasteries. For architecture enthusiasts, the monastery premises are a visual delight. Not inclined towards spirituality? Fear not, our Spiti Valley tour packages cater to your adventurous side, offering a plethora of activities—from river rafting on lofty water bodies to trekking expeditions.\nSubmerged beneath the Tethys Sea over 60 million years ago, this cold desert houses ancient marine fossils, intriguing history buffs. Meanwhile, road trip enthusiasts relish the hairpin bends, high passes, and thrilling roads of the Spiti Valley trip. And for those seeking a chilling experience, Spiti's sub-zero temperatures might just make the saying 'ice in my veins' ring true—an adventure best explored with our Spiti tour packages.\nExcited about exploring Spiti? Dive into an all-encompassing experience with our Spiti Valley tour packages.\nAs we promised, Spiti unveils a myriad of unique landmarks, each offering something distinctive to its visitors. Scroll down to discover the destinations awaiting your exploration with our Spiti Valley tour packages and Spiti Valley holiday packages.",
-      "bestSeller": ["spiti-valley"],
+      "bestSeller": [
+        "spiti-valley"
+      ],
       "todos": {
         "title": "Unforgettable Adventures in Spiti Valley",
         "subtitle": "Explore boundless opportunities to create cherished memories in Spiti Valley. Engage in invigorating activities like trekking, camping, hiking, and beyond. Immerse yourself in the breathtaking vistas of nature, a perfect backdrop for unforgettable moments with your loved ones.",
@@ -121,56 +127,348 @@
       "title": "A Tapestry of Cultures and Colors",
       "imagePath": "/assets/india-trips.jpg",
       "about": "asdf",
-      "bestSeller": ["srinagar-leh-manali"]
+      "bestSeller": [
+        "srinagar-leh-manali"
+      ]
     },
     "meghalaya": {
       "name": "Meghalaya",
       "title": "A Tapestry of Cultures and Colors",
       "imagePath": "/assets/india-trips.jpg",
       "about": "asdf",
-      "bestSeller": ["srinagar-leh-manali"]
+      "bestSeller": [
+        "srinagar-leh-manali"
+      ]
     },
     "andaman": {
       "name": "Andaman & Nicobar Islands",
       "title": "A Tapestry of Cultures and Colors",
       "imagePath": "/assets/india-trips.jpg",
       "about": "asdf",
-      "bestSeller": ["srinagar-leh-manali"]
+      "bestSeller": [
+        "srinagar-leh-manali"
+      ]
     },
     "sikkim": {
       "name": "Sikkim",
       "title": "A Tapestry of Cultures and Colors",
       "imagePath": "/assets/india-trips.jpg",
       "about": "asdf",
-      "bestSeller": ["srinagar-leh-manali"]
+      "bestSeller": [
+        "srinagar-leh-manali"
+      ]
     },
     "uttarakhand": {
       "name": "Uttarakhand",
-      "title": "A Tapestry of Cultures and Colors",
+      "title": "Explore the Hidden Gems of Uttarakhand, a Divine Land of Spiritual Splendor",
       "imagePath": "/assets/india-trips.jpg",
       "about": "asdf",
-      "bestSeller": ["srinagar-leh-manali"]
+      "bestSeller": [
+        "srinagar-leh-manali"
+      ]
     },
     "kerala": {
       "name": "Kerala",
       "title": "A Tapestry of Cultures and Colors",
       "imagePath": "/assets/india-trips.jpg",
       "about": "asdf",
-      "bestSeller": ["srinagar-leh-manali"]
+      "bestSeller": [
+        "srinagar-leh-manali"
+      ]
     },
     "himachalpradesh": {
       "name": "Himachal Pradesh",
-      "title": "A Tapestry of Cultures and Colors",
+      "title": "Embark on a Journey to the Enchanting Realm of Deities and Unmatched Thrills",
       "imagePath": "/assets/india-trips.jpg",
       "about": "asdf",
-      "bestSeller": ["srinagar-leh-manali"]
+      "bestSeller": [
+        "srinagar-leh-manali"
+      ],
+      "todos":{
+        "title":"Top Adventures to Explore in Himachal Pradesh for an Exciting Experience",
+        "subtitle":"Himachal Pradesh presents an array of exhilarating adventures amidst stunning mountain ranges and valleys.",
+        "todo":[
+          {
+            "title":"Trekking",
+            "imageUrl":"https://images.unsplash.com/photo-1551632811-561732d1e306?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "time":"12 days approx",
+            "content":"Exploring the trails of Himachal Pradesh through trekking unveils awe-inspiring mountain vistas, demanding pathways, and a captivating insight into the cultural heritage of the area.",
+            "location":"Pin Parvati Pass"
+          },
+          {
+            "title":"River Rafting",
+            "imageUrl":"https://images.unsplash.com/photo-1596021688656-35fdc9ed0274?q=80&w=1943&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "time":"3 hours approx",
+            "content":"In Himachal Pradesh, rafting promises an adrenaline-pumping encounter with thrilling rapids, pristine river panoramas, and an unforgettable adventure set amidst the Himalayas.",
+            "location":"Satluj River"
+          },
+          {
+            "title":"Camping",
+            "imageUrl":"https://images.unsplash.com/photo-1602391833977-358a52198938?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "time":"1 day approx",
+            "content":"Immerse yourself in the tranquility of Himachal Pradesh through camping, where serene natural surroundings, star-studded skies, and a peaceful retreat await, providing a respite from the urban rush.",
+            "location":"Spiti"
+          },
+          {
+            "title":"Rock Climbing",
+            "imageUrl":"https://app.vacationlabs.com/system/images/000/422/467/4d9e35a0ccbe21dbdfb8778baf11f955/banner/IMG_20170526_142816949.jpg?1626169474",
+            "time":"3 day approx",
+            "content":"Embark on an exhilarating journey of rock climbing in Himachal Pradesh, presenting thrilling challenges, awe-inspiring views, and a chance to push your physical and mental boundaries to new heights.",
+            "location":"Patalsu Peak"
+          },
+          {
+            "title":"Ice Skiing",
+            "imageUrl":"https://images.unsplash.com/photo-1483105247493-5119b3c813fb?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "time":"20 minutes approx",
+            "content":"Partake in the exhilarating adventure of ice skiing in Himachal, where you'll glide across snow-covered slopes amid stunning mountain vistas, experiencing a thrilling sport set against picturesque landscapes.",
+            "location":"Manali"
+          },
+          {
+            "title":"Paragliding",
+            "imageUrl":"https://images.unsplash.com/photo-1483105247493-5119b3c813fb?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "time":"20 minutes approx",
+            "content":"Indulge in the thrilling adventure of paragliding in Himachal Pradesh, where you'll soar above majestic mountains, verdant forests, and meandering rivers, relishing breathtaking views of the awe-inspiring Himalayas.",
+            "location":"Bir Billing"
+          }
+        ]
+      },
+      "places":{
+        "title":"Discovering Himachal Pradesh: Unforgettable Destinations for Your Getaway",
+        "subtitle":"If you're seeking an adventure-packed escapade or a serene retreat amidst nature's bounty, Himachal Pradesh is an idyllic destination that caters to all preferences. This Himalayan haven deserves a prime spot on your travel itinerary for your upcoming getaway.",
+        "place":[
+          {
+            "title": "Manali",
+            "imageUrl": "https://images.unsplash.com/photo-1605649487212-47bdab064df7?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "content": " Manali, nestled in the picturesque landscapes of Himachal Pradesh, stands as a captivating hill station renowned for its enchanting natural vistas and a plethora of thrilling adventure sports.",
+            "location": "Manali"
+          },
+          {
+            "title": "Kasol",
+            "imageUrl": "https://images.unsplash.com/photo-1581791534721-e599df4417f7?q=80&w=1931&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "content": "Kasol, a charming hamlet cradled within the serene Parvati Valley in Himachal Pradesh, holds a special allure for backpackers drawn to its stunning natural beauty and relaxed atmosphere.",
+            "location": "Kasol"
+          },
+          {
+            "title": "Jibhi",
+            "imageUrl": "https://images.unsplash.com/photo-1701414749238-25e7bd1200a3?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "content": "Jibhi, peacefully nestled in Himachal Pradesh's Banjar Valley, is a tranquil hamlet celebrated for its captivating landscapes and serene ambiance, making it an ideal destination for seekers of peace and natural beauty.",
+            "location": "Jibhi"
+          },
+          {
+            "title": "Mcleodganj",
+            "imageUrl": "https://images.unsplash.com/photo-1626621338418-713655538d99?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "content": "Mcleodganj, a vibrant town nestled in the heart of Himachal Pradesh, stands renowned for its rich Tibetan culture, mesmerizing landscapes, and a plethora of exhilarating adventure activities, making it a sought-after destination for diverse experiences.",
+            "location": "Mcleodganj"
+          },
+          {
+            "title": "Spiti Valley",
+            "imageUrl": "https://images.unsplash.com/photo-1619282401041-56e69dcc5335?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "content": "Spiti Valley, cradled within the Himalayas in Himachal Pradesh, is an awe-inspiring high-altitude desert expanse celebrated for its unspoiled natural magnificence and the deeply-rooted Buddhist culture that adds to its mystique and allure.",
+            "location": "Spiti Valley"
+          },
+          {
+            "title": "Bir Billing",
+            "imageUrl": "https://images.unsplash.com/photo-1683195169345-c2038aec1e53?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "content": "Bir Billing, situated in Himachal Pradesh, stands as a renowned hub for paragliding enthusiasts, offering not just breathtaking panoramic views but also an array of thrilling adventures, making it a sought-after destination for adventure seekers and nature enthusiasts alike.",
+            "location": "Bir Billing"
+          }
+        ]
+      },
+      "shop":{
+        "title":"Top Shopping Destinations in Himachal Pradesh",
+        "subtitle":"Himachal Pradesh, cradled in the northern Himalayas, presents an exceptional shopping milieu. From vibrant markets to charming boutiques, here's a guide to the finest shopping destinations in Himachal, offering an array of handicrafts, clothing, and local treasures.",
+        "items":[
+          {
+            "title":"Lakkar Bazaar",
+            "time":"10:00 AM - 08:00 PM",
+            "imageUrl":"https://shimlatourism.co.in/images//tourist-places/lakkar-bazar-shimla/lakkar-bazar-shimla-india-tourism-photo-gallery.jpg",
+            "shopFor":"Flea & Street Markets",
+            "location":"Shimla"
+          },
+          {
+            "title":"Manu Market",
+            "time":"10:00 AM - 08:00 PM",
+            "imageUrl":"https://img.traveltriangle.com/blog/wp-content/uploads/2020/01/shutterstock_1375460456.jpg",
+            "shopFor":"Flea & Street Markets",
+            "location":"Manali"
+          },
+          {
+            "title":"The Chamber of Picture Treasures",
+            "time":"06:00 AM - 06:00 PM",
+            "imageUrl":"https://www.nativeplanet.com/photos/325x244x100/2018/12/photo-91-181019-1.jpeg",
+            "shopFor":"Art Galleries",
+            "location":"Tabo"
+          },
+          {
+            "title":"Maximus Mall",
+            "time":"09:00 AM - 09:00 PM",
+            "imageUrl":"https://www.tibetanjournal.com/wp-content/uploads/2016/08/Maximus-Mall-Dharamshala.jpg",
+            "shopFor":"Shopping Malls",
+            "location":"Dharamshala"
+          },
+          {
+            "title":"Tibetan Thanka Shop",
+            "time":"08:00 AM - 10:00 PM",
+            "imageUrl":"https://dharamshala.guide/img/webpage/potala/potala1.jpg",
+            "shopFor":"Art Galleries",
+            "location":"Mcleodganj"
+          },
+          {
+            "title":"Palaco Handmade Crafts",
+            "time":"09:00 AM - 05:00 PM",
+            "imageUrl":"https://www.treebo.com/blog/wp-content/uploads/2017/12/Shopping-Markets-in-Mcledoganj_1.jpg",
+            "shopFor":"Gift Shops",
+            "location":"Mcleodganj"
+          }
+        ]
+      }
     },
     "rajasthan": {
       "name": "Rajasthan",
-      "title": "A Tapestry of Cultures and Colors",
-      "imagePath": "/assets/india-trips.jpg",
-      "about": "asdf",
-      "bestSeller": ["srinagar-leh-manali"]
+      "title": "Embark on an Unprecedented Journey Through the Land of Royalty",
+      "imagePath": "/assets/Rajasthan.jpg",
+      "about": "Rajasthan Tour Packages: 'The desert tells a different story every time one ventures on it,' and this notion rings true for the state of a myriad of colors and experiences. Rajasthan, or as everyone describes it, 'Rangeelo Rajasthan,' is the largest state in the country, exuding glamour, royalty, culture, and an assortment of flavors that leave a lasting impression on your mind, body, and soul. We're talking about Rajasthan to take you there through our Rajasthan tour packages, allowing you to explore this absolute beauty of a state. 'Padharo Mharo Desh,' and let’s explore the land of the kings.\n\nThe land of royals, Rajasthan, showcases charm, elegance, and grandeur in all its glory. This desert state with its rich history, witnessed through kings and queens, is an unparalleled and exciting Rajasthan trip with our Rajasthan tour packages. As you enter Rajasthan, you’ll be immersed in a world of opulence, left in awe by its unique culture and inimitable beauty. Rajasthan is a kaleidoscope of all things wonderful, witnessed in the royal cities like Jaipur, Udaipur, Jodhpur, and Jaisalmer. Each city painted in different hues: Jaipur known as the 'pink city,' Jodhpur as the 'blue city,' exhibiting unique charm.\n\nYet, Rajasthan isn’t just about grandeur and colossal castles; it’s the vibrant tapestry of colorful culture. The state's traditional attire, adorned with vibrant colors and intricate embroidery, is a visual feast. Women dress in vibrant ghagras and cholis, embellished with mirrors and beads, while men don bright turbans and dhotis. Rajasthan's traditional attire reflects its rich cultural heritage and is a sight to behold. What’s fascinating is trying out authentic Rajasthan attire on your next Rajasthan tour with our Rajasthan holiday packages.\n\nSomeone has rightly said that Rajasthan is an amalgamation of old and new, traditional and modern, reflected in its handicrafts evolving over centuries yet resonating with older times. Intricate carvings on wooden furniture, exquisite block-printed textiles, and stunning jewelry mirror the state's artistic prowess. Rajasthan's handicrafts are renowned worldwide for their beauty and craftsmanship, making excellent souvenirs. Remember your Rajasthan tour with WanderOn’s matchless Rajasthan tour packages. Now, it's time to delve into the state with our Rajasthan tour packages, experiencing places, and creating unforgettable memories worth a lifetime. Without further ado, scroll down, and 'padharo' into the land of dreams and magic: Rajasthan.",
+      "bestSeller": [
+        "Jaisalmer New Year Tour Package"
+      ],
+      "todos": {
+        "title": "Indulge in the Majesty of Adventure: Unveiling Thrilling Activities Across Royal Rajasthan",
+        "subtitle": "Embark on a Thrilling Journey through Rajasthan's Adventure Palette, featuring Hot Air Ballooning, Camel Safaris, Trekking, Wildlife Safaris, Ziplining, Rock Climbing, and Beyond. Dive into the Thrills while Exploring the Grandeur of Majestic Forts, Palaces, and Desert Landscapes.",
+        "todo": [
+          {
+            "title": "Hot Air Ballooning",
+            "imageUrl": "https://images.unsplash.com/photo-1663336249902-12dc25bcf615?q=80&w=2073&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "time": "1 hours approx",
+            "content": "Embrace the Excitement of River Rafting amidst Ladakh's Spectacular Rapids and Enchanting Landscapes",
+            "location": "Pushkar"
+          },
+          {
+            "title": "Camel Safari",
+            "imageUrl": "https://images.unsplash.com/photo-1489493585363-d69421e0edd3?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "time": "1 hours approx",
+            "content": "Embark on an Authentic Adventure: Explore Rajasthan's Remote Landscapes, Sand Dunes, and Rural Charms through a Camel Safari in the Thar Desert.",
+            "location": "Thar Desert"
+          },
+          {
+            "title": "Wildlife Safari",
+            "imageUrl": "https://images.unsplash.com/photo-1700562554203-5b8644512759?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "time": "3 hours approx",
+            "content": "Renowned for its Tiger Sightings, Ranthambore National Park invites you on a Wildlife Safari to Encounter Leopards, Deer, and a Diverse Array of Fascinating Fauna.",
+            "location": "Ranthambore National Park"
+          },
+          {
+            "title": "Water Sports",
+            "imageUrl": "https://images.unsplash.com/photo-1700562554203-5b8644512759?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "time": "1 hours approx",
+            "content": "Discover Udaipur, the Enchanting 'City of Lakes,' where Lake Pichola beckons adventure enthusiasts with thrilling water sports, including speed boating, jet skiing, and parasailing.",
+            "location": "Udaipur"
+          },
+          {
+            "title": "Rock Climbing",
+            "imageUrl": "https://images.unsplash.com/photo-1630825828081-e80577f6e2df?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "time": "1 hours approx",
+            "content": "Explore the Adventurous Side of Mount Abu: Its rugged terrain presents an ideal landscape for rock climbing, promising an exhilarating challenge for all adventure enthusiasts.",
+            "location": "Mount Abu"
+          },
+          {
+            "title": "Camping",
+            "imageUrl": "https://images.unsplash.com/photo-1510312305653-8ed496efae75?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "time": "1 day approx",
+            "content": "Immerse Yourself in Pushkar's Tranquil Splendor by Camping amidst Nature, a Perfect Gateway to Experience the Authentic Rural Charms of Rajasthan.",
+            "location": "Pushkar"
+          }
+        ]
+      },
+      "places":{
+        "title":"Unveiling the Enchantment of Rajasthan: Must-Visit Destinations to Explore!",
+        "subtitle":"Journey Through Rajasthan's Magnificent Realms: Discover Top Destinations Brimming with Culture, History, and Breathtaking Natural Beauty.",
+        "place":[
+          {
+            "title":"Jaipur",
+            "imageUrl":"https://images.unsplash.com/photo-1477586957327-847a0f3f4fe3?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "content":"Experience the Vibrancy of Jaipur, Fondly Called the Pink City, boasting Magnificent Palaces, Grand Forts, and a Heritage steeped in Rich Cultural Splendor",
+            "location":"Jaipur"
+          },
+          {
+            "title":"Udaipur",
+            "imageUrl":"https://images.unsplash.com/photo-1615836245337-f5b9b2303f10?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "content":"Immerse Yourself in Udaipur, the Romantic 'City of Lakes,' adorned with Mesmerizing Lakes, Opulent Palaces, and a Rich Tapestry of Heritage Sites.",
+            "location":"Udaipur"
+          },
+          {
+            "title":"Jaisalmer",
+            "imageUrl":"https://images.unsplash.com/photo-1602858659965-ea6f743b7679?q=80&w=1993&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "content":"Discover Jaisalmer, the Enchanting 'Golden City' nestled within the desert, showcasing Spectacular Sand Dunes, Majestic Forts, Elegant Havelis, and a Cultural Heritage that Resonates Through Time.",
+            "location":"Jaisalmer"
+          },
+          {
+            "title":"Pushkar",
+            "imageUrl":"https://images.unsplash.com/photo-1584245231969-b906af752fd3?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "content":"Explore the Sacred Aura of Pushkar, renowned for its Holy Lake, Temples, Vibrant Markets, and the Annual Spectacle of the Camel Fair.",
+            "location":"Pushkar"
+          },
+          {
+            "title":"Ajmer",
+            "imageUrl":"https://images.unsplash.com/photo-1646559120826-a5ceb93c74b3?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "content":"Experience the Spiritual Essence of Ajmer, home to the Renowned Shrine of Khwaja Moinuddin Chishti, along with a Tapestry of Historical Landmarks.",
+            "location":"Ajmer"
+          },
+          {
+            "title":"Chittorgarh",
+            "imageUrl":"https://images.unsplash.com/photo-1679635520551-cd02914fa9f7?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "content":"Step into Chittorgarh, a City Steeped in History and Cultural Opulence, where Majestic Forts and Palaces, notably the Iconic Chittorgarh Fort, Echo the Rich Heritage of the Region.",
+            "location":"Chittorgarh"
+          }
+        ]
+      },
+      "shop":{
+        "title":"Retail Therapy in Rajasthan: Explore the Finest Shopping Destinations for a Shopaholic's Delight!",
+        "subtitle":"Immerse Yourself in Rajasthan's Colorful Shopping Extravaganza, showcasing an Array of Traditional Handicrafts, Textiles, Exquisite Jewelry, and Beyond. Explore the Premier Shopping Destinations across the Region.",
+        "items":[
+          {
+            "title": "Johari Bazaar",
+            "time": "10:00 AM - 07:00 PM",
+            "imageUrl": "https://images.unsplash.com/photo-1606837731918-f006ef0ef3da?q=80&w=1779&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "shopFor": "Jewelry",
+            "location": "Jaipur"
+          },
+          {
+            "title": "Ghanta Ghar",
+            "time": "09:00 AM - 09:00 PM",
+            "imageUrl": "https://images.unsplash.com/photo-1636011203281-a76ae5a437dd?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "shopFor": "Antiques",
+            "location": "Jodhpur"
+          },
+          {
+            "title": "Hathi Pol Bazaar",
+            "time": "10:00 AM - 09:00 PM",
+            "imageUrl": "https://www.exoticmiles.com/wp-content/uploads/2020/06/Hathi-Pol-Bazaar.jpg",
+            "shopFor": "Rajasthani Handicrafts",
+            "location": "Udaipur"
+          },
+          {
+            "title": "Sadar Bazaar",
+            "time": "10:00 AM - 10:00 PM",
+            "imageUrl": "https://travelogyindia.b-cdn.net/blog/wp-content/uploads/2018/09/Sadar-Bazaar.jpg",
+            "shopFor": "Leather Goods",
+            "location": "Jaisalmer"
+          },
+          {
+            "title": "Kote Gate Market",
+            "time": "10:00 AM - 08:00 PM",
+            "imageUrl": "https://static.toiimg.com/thumb/msid-66829394,width-1070,height-580,resizemode-75,imgsize-1284697,pt-32,y_pad-40/66829394.jpg",
+            "shopFor": "Spices",
+            "location": "Bikaner"
+          },
+          {
+            "title": "Nehru Bazaar",
+            "time": "10:00 AM - 09:00 PM",
+            "imageUrl": "https://www.hellotripper.com/static/img/drive/things/78.jpg",
+            "shopFor": "Textiles",
+            "location": "Jaipur"
+          }
+        ]
+      }
     }
   }
 }
