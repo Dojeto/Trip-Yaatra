@@ -10,7 +10,7 @@ const DestinationCard = (props) => {
       <img
         className=" rounded-t-md aspect-video object-cover"
         src={imageUrl}
-        alt=""
+        alt="image"
       />
       {time && (
         <div className="py-1 px-3 mt-2 ml-2 bg-[#01afd10f] flex justify-center items-center gap-1 rounded-full border border-darkbl text-darkbl text-sm">

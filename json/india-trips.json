@@ -2,14 +2,14 @@
   "name": "India",
   "title": "A Tapestry of Cultures and Colors",
   "imagePath": "/assets/india-trips.jpg",
-  "bestSeller": ["srinagar-leh-manali"],
+  "bestSeller": ["leh-ladakh"],
   "packages": {
     "ladakh": {
       "name": "Leh Ladakh",
       "title": "Enter the Enchanting Realm of the Himalayas",
       "imagePath": "/assets/leh.png",
       "about": "Journey into the Heart of the Himalayas with Our Leh Ladakh Tours: Picture yourself amidst the gentle embrace of chilly mountain air, surrounded by the symphony of nature's melodies. Welcome to Ladakh, an oasis of tranquility, adventure, and serenity waiting to captivate your senses.\nLadakh, adorned with names like Maryul and Kha-Chumpa in ancient lore, is now renowned as the 'adventure seeker's haven.' Our Leh Ladakh Tours offer an unparalleled range of experiences—be it riding double-humped camels, exhilarating quad biking on sand dunes, or embarking on road trips across the world's highest passes.\nLegend whispers that Ladakh cradled the birth of Buddhism in India, evident in its ancient monasteries dating back to the 10th century. These serene monasteries exude an authentic Buddhist aura, inviting seekers of peace amid the chaos of modern life. Our Leh Ladakh Tour Packages are your gateway to embracing this spiritual essence.\nUnlike typical destinations boasting architectural marvels or extravagant shopping, Ladakh transcends mere places; it's an immersive experience catering to all. Every visitor discovers something new each day, making a Leh Ladakh tour a must on every traveler's wishlist.\nAmong our array of Leh Ladakh packages, the Ladakh Bike Trip stands as a pinnacle adventure. Riding on some of the world's highest roads offers breathtaking panoramas and an exhilarating rush of wind through your hair—a must for adventure enthusiasts.\nWhile Ladakh is synonymous with adventure, it has also become a haven for couples seeking a mesmerizing honeymoon. Our Ladakh honeymoon package promises an enchanting escapade amidst snow-capped peaks, elevating your love to new heights.\nExplore Ladakh's myriad attractions that redefine experiences. Before selecting your Ladakh tour package, discover the best sites in Leh Ladakh, offering essential insights into this Himalayan wonderland.",
-      "bestSeller": ["srinagar-leh-manali"],
+      "bestSeller": ["leh-ladakh"],
       "todos": {
         "title": "Unveiling Ladakh's Favorite Sports for an Adrenaline-Fueled Getaway",
         "subtitle": "Discover Your Adrenaline Rush: Leh Ladakh, the Haven for Thrill Seekers. Brace Yourself for Rock Climbing, Paragliding, and a Bounty of Adventure Sports!",
@@ -75,7 +75,7 @@
           {
             "title": "Women’s Alliance Of Ladakh Shopping Hub",
             "time": "12:00 AM - 12:00 AM",
-            "imageUrl": "/assets/Destinations/leh_market1.jpg",
+            "imageUrl": "/assets/Destinations/Ladakh/leh_market1.jpg",
             "shopFor": "Woolen Garment, Silver Jewelry",
             "location": "Chubi,Leh"
           },
@@ -108,69 +108,304 @@
         "todo": [
           {
             "title": "Bike Trip",
-            "imageUrl": "/assets/Destinations/spiti_bike.jpg",
+            "imageUrl": "/assets/Destinations/Spiti/spiti_bike.jpg",
             "time": "9 days approx",
             "content": "Embark on an adventure through the majestic Himalayan mountains on a thrilling bike expedition—an experience that promises awe-inspiring vistas.",
             "location": "Spiti"
+          },
+          {
+            "title": "Camping at Chandratal",
+            "imageUrl": "https://farm2.staticflickr.com/1567/26025202075_bd6b7f19c8_b.jpg",
+            "time": "1 days approx",
+            "content": "Elevate Your Spiti Valley Experience: Create Lasting Memories Camping Near Chandratal Lake, Where Every Direction Offers Stunning Views.",
+            "location": "Chandratal Lake"
+          },
+          {
+            "title": "Trek to Dhankar Lake",
+            "imageUrl": "https://www.shutterstock.com/image-photo/dhankar-mountain-lake-himalayas-spiti-600nw-1230979567.jpg",
+            "time": "1 hour approx",
+            "content": "Trekking to Dhankar Lake, a Premier Spiti Valley Experience. Find Perfect Peace in this Serene Sanctuary.",
+            "location": "Dhankar Lake"
+          }
+        ]
+      },
+      "places": {
+        "title": "Exploring Spiti Valley's Marvels",
+        "subtitle": "Words falter before the magnificence of Spiti Valley. A sojourn here is an indelible experience, offering a tapestry of charming monasteries, meandering rivers, picturesque valleys, and serene lakes.",
+        "place": [
+          {
+            "title": "Chandratal Lake",
+            "imageUrl": "https://www.shutterstock.com/image-photo/different-views-chandratal-lake-4250mtr-600nw-2053943075.jpg",
+            "content": "Experience tranquility amidst pristine landscapes at Chandratal, where the crystal-clear waters and refreshing cool breeze create an oasis of peace in Spiti Valley.",
+            "location": "Chandratal"
+          },
+          {
+            "title": "Kunzum Pass",
+            "imageUrl": "https://t3.ftcdn.net/jpg/03/77/64/42/360_F_377644285_8LIUoEoM25GyNLvKWonEtk65Ml6ZCBCB.jpg",
+            "content": "The natural beauty of this region is simply breathtaking and unmatched. Prepare to be captivated by the sheer magnificence of the stunning scenery.",
+            "location": "Spiti"
+          },
+          {
+            "title": "Key Monastery",
+            "imageUrl": "https://media.istockphoto.com/id/824629312/photo/key-monastery-or-ki-monastery.jpg?s=612x612&w=0&k=20&c=k5BUcvnfCdgUhkYOavFPNUlnltOThgk2PC34saO9EPo=",
+            "content": "Key Monastery, Cradle of Buddhist Learning and Oldest Lama Training Center in Spiti Valley",
+            "location": "Lahaul"
+          },
+          {
+            "title": "Pin Valley National Park",
+            "imageUrl": "https://t3.ftcdn.net/jpg/03/88/68/12/360_F_388681205_aQYys95UGBAOEuHL6jlzslLaHud8CmCd.jpg",
+            "content": "Immerse yourself in nature's splendor, spot diverse wildlife, and indulge in a multitude of activities within this scenic sanctuary.",
+            "location": "Kaza Valley"
+          },
+          {
+            "title": "Suraj Tal Lake",
+            "imageUrl": "https://media.istockphoto.com/id/1302653678/photo/suraj-taal-lake-on-the-way-to-leh.jpg?s=612x612&w=0&k=20&c=BpQ16rCN-l60cgG7QOYEMQJo94fx9b5Coq5kOx1dgZQ=",
+            "content": "Nestled amidst stunning mountains, this divine lake is an unmissable gem when exploring Spiti.",
+            "location": "Lahaul Valley"
+          },
+          {
+            "title": "Dhankar Monastery",
+            "imageUrl": "https://media.istockphoto.com/id/1222261069/photo/dhankar-monastry-perched-on-a-cliff-in-himalayas-india.jpg?s=612x612&w=0&k=20&c=UBz1VJYyXrsXh3YQUrHFtXC1dIR6S4FEe6fHRYpFKWY=",
+            "content": "Perched high in the Spiti Valley, this monastery stands as a premier tourist destination, beckoning all who visit.",
+            "location": "Dhankhar"
+          }
+        ]
+      },
+      "shop": {
+        "title": "Places to shop in Spiti Valley",
+        "subtitle": "Spiti Valley boasts a thriving handicraft industry, offering an array of Tibetan artifacts. When visiting Spiti, dedicate ample time to explore the multitude of shops and stalls, immersing yourself in this vibrant cultural experience.",
+        "items": [
+          {
+            "title": "Spiti Wears",
+            "time": "12:00 AM - 12:00 AM",
+            "imageUrl": "/assets/Destinations/Spiti/Pashmina-Shawls-of-Kashmir.webp",
+            "shopFor": "Winter Wear",
+            "location": "Kaza"
+          },
+          {
+            "title": "Pema collection Kaza",
+            "time": "12:30 PM - 09:00 PM",
+            "imageUrl": "https://www.tibettravel.org/assets/images/tibet-travel-advice/tibetan-prayer-wheels.jpg",
+            "shopFor": "Tibetan artifacts",
+            "location": "Kaza"
+          },
+          {
+            "title": "Kunzum Shopping Complex",
+            "time": "09:00 AM - 09:00 PM",
+            "imageUrl": "https://media.istockphoto.com/id/1067431158/photo/gemstones-collection-jewelry-set.jpg?s=612x612&w=0&k=20&c=EWHN9XrWwlcjz0yk9JrBu28uzZFjN7KfIUcAPsSb-i0=",
+            "shopFor": "Woolen Clothes, Local Jewellery, Stone Jewels",
+            "location": "Demul, Lahul and Spiti"
+          },
+          {
+            "title": "Kaza Market",
+            "time": "12:00 AM - 12:00 AM",
+            "imageUrl": "https://cdn.fashiola.in/I187940/768x0/6-winter-college-outfit-ideas-under-rs-5k.jpg",
+            "shopFor": "Winter Wear, Chinese Utensils",
+            "location": "Kaza"
+          },
+          {
+            "title": "Spiti Souvenir Shop",
+            "time": "08:30 AM - 09:00 PM",
+            "imageUrl": "https://www.matthebasics.com/wp-content/uploads/2022/03/7.Persian-knotted-rug.jpg",
+            "shopFor": "Carpet, Pure Wool Shawls and Woollen Clothes",
+            "location": "Kaza"
           }
         ]
       }
     },
     "kashmir": {
       "name": "Kashmir",
-      "title": "A Tapestry of Cultures and Colors",
-      "imagePath": "/assets/india-trips.jpg",
-      "about": "asdf",
-      "bestSeller": ["srinagar-leh-manali"]
+      "title": "The Unmatched Beauty That Captivates",
+      "imagePath": "/assets/Destinations/Kashmir/Kashmir.jpg",
+      "about": "Kashmir: The Land of Inimitable Beauty\n\n'The country is a vast place full of beautiful destinations and people.' And among these, one of the world's finest destinations stands tall—Kashmir. Revered as heaven on Earth, Kashmir epitomizes beauty, serenity, and tranquility. The Mughal Emperor Jahangir, when asked about Kashmir, declared, 'If there’s heaven on Earth, it is here… it is here… it is here…'—a sentiment that resonates deeply with this paradise. With unparalleled beauty awaiting exploration, Kashmir tour packages are cherished by travelers seeking respite from the ordinary, yearning to embrace bliss.\n\n'The place is more beautiful than heaven and is a benefactor of supreme bliss and happiness.' Such sentiments echo among all who embark on a Kashmir tour with our packages. Snow-capped mountains, diverse flora and fauna, warm hospitality, exceptional arts and crafts, and incomparable beauty define Kashmir—a destination worthy of experiencing at least once in a lifetime. And what better way to explore this haven than with our Kashmir tour packages?\n\nDistinct from other hill stations, Kashmir isn't just a destination; it's an immersive experience. Our Kashmir tour packages weave a soulful journey through the 'haseen vadiya' (beautiful valleys) of Kashmir. From staying in houseboats on the serene Dal Lake to beholding panoramic vistas from the Gulmarg Gondola, savoring piping hot traditional Kashmiri Kahwa while conversing with locals, to skiing down snow-covered mountains—these are just a glimpse of the experiences awaiting you on a Kashmir trip with our packages.\n\nA dreamy honeymoon deserves an equally dreamy destination, and Kashmir—truly a dreamland—fits the bill. A Kashmir honeymoon with our tailored packages ensures a lifetime of cherished memories. Love permeates the air as you and your partner embark on a romantic Shikara ride on Dal Lake, camp under the star-studded sky of Sonamarg, indulge in a shopping spree across Kashmir's markets, and relish authentic Kashmiri delicacies. Celebrate love in the enchanting valley of Kashmir, and our Kashmir honeymoon packages pave the way for such romantic getaways.\n\nOur Kashmir tour and honeymoon packages stand out for various reasons—top-notch accommodation, immersive sightseeing, adrenaline-fueled adventures—everything required to make your Kashmir trip truly unforgettable. With a multitude of elements making this destination extraordinary, Kashmir undoubtedly merits your visit. Waste no time and delve deeper into the land of 'Haseen Vadiya,' Kashmir.\n\nKashmir is home to a myriad of natural and man-made wonders, each holding a special place in your heart. Our Kashmir tour packages journey through many of these marvels, including Srinagar, Dal Lake, Gulmarg, and Pulwama. While these destinations are scattered across Kashmir, one thing remains certain—your time there will be nothing short of magical.",
+      "bestSeller": ["kashmir"],
+      "todos": {
+        "title": "Things to do in Kashmir",
+        "subtitle": "Kashmir, an awe-inspiring destination, is renowned for its diverse array of experiences. From immersing in the local culture to relishing its unique landscapes, there are numerous activities exclusive to this captivating region.",
+        "todo": [
+          {
+            "title": "Shikara Ride",
+            "imageUrl": "https://media.istockphoto.com/id/1044781780/photo/dal-lake-in-srinagar-kashmir.jpg?s=612x612&w=0&k=20&c=XqjoHqC9wOlMATxqrwHVXyDMPUGG_wfawGZKwNfm0kE=",
+            "time": "45 minutes approx",
+            "content": "Embark on a serene Shikara ride and behold the stunning mountains as your boatman glides you across the tranquil Dal Lake.",
+            "location": "Dal Lake"
+          },
+          {
+            "title": "Camping",
+            "imageUrl": "https://images.pexels.com/photos/14084003/pexels-photo-14084003.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "time": "3 days approx",
+            "content": "Admire the grandeur of distant mountains while soaking in the serene ambiance of the beautiful Kashmiri Hills.",
+            "location": "Kashmiri Hills"
+          },
+          {
+            "title": "Snowboarding & Skiing",
+            "imageUrl": "https://images.pexels.com/photos/848599/pexels-photo-848599.jpeg?cs=srgb&dl=pexels-visit-almaty-848599.jpg&fm=jpg",
+            "time": "2 hours approx",
+            "content": "Delight in the thrill of skiing and snowboarding in Gulmarg, perfect for adventure enthusiasts seeking an adrenaline rush.",
+            "location": "Gulmarg"
+          },
+          {
+            "title": "Pony Ride",
+            "imageUrl": "https://images.pexels.com/photos/12287958/pexels-photo-12287958.jpeg?cs=srgb&dl=pexels-mysara-hassan-12287958.jpg&fm=jpg",
+            "time": "4 hours approx",
+            "content": "Explore the picturesque nature and countryside of Kashmir through an enjoyable pony ride in Pahalgam.",
+            "location": "Pahalgam"
+          },
+          {
+            "title": "River Rafting",
+            "imageUrl": "https://images.pexels.com/photos/11183380/pexels-photo-11183380.jpeg?cs=srgb&dl=pexels-hilmi-i%C5%9F%C4%B1lak-11183380.jpg&fm=jpg",
+            "time": "2 hours approx",
+            "content": "Experience the adrenaline surge with an exhilarating river rafting adventure on the mighty Lidder River.",
+            "location": "Lidder River"
+          },
+          {
+            "title": "Gondola Rides",
+            "imageUrl": "https://i.pinimg.com/originals/19/4c/65/194c65e701de5c57f930e8adbd7da9c0.jpg",
+            "time": "12 minutes approx",
+            "content": "Embark on an unforgettable Gondola ride and witness mesmerizing views of the valley and mountains from high above.",
+            "location": "Gulmarg"
+          }
+        ]
+      },
+      "places": {
+        "title": "Exploring Kashmir's Marvels",
+        "subtitle": "Kashmir, with its beautiful landscapes, majestic mountains, sprawling valleys, and lush meadows, offers more than just aesthetic charm. It's a haven for breathtaking views and thrilling adventure sports like skiing, rafting, and much more.",
+        "place": [
+          {
+            "title": "Srinagar",
+            "imageUrl": "https://media.istockphoto.com/id/1206379291/photo/mughal-heritage-building-with-snoe-covered-zabarwan-mountains-in-the-background-during-autumn.jpg?s=612x612&w=0&k=20&c=uqe5-EpQjPf2TLJipcqmRjAKqLSOeFxAkMZYTWYIKN8=",
+            "content": "Srinagar, the summer capital of Kashmir, is renowned for its enchanting lakes, exquisite gardens, natural surroundings, and iconic houseboats.",
+            "location": "Srinagar"
+          },
+          {
+            "title": "Gulmarg",
+            "imageUrl": "https://images.pexels.com/photos/10679346/pexels-photo-10679346.jpeg?cs=srgb&dl=pexels-imad-clicks-10679346.jpg&fm=jpg",
+            "content": "Nestled in the Pir Panjal Range, Gulmarg stands as a popular skiing destination surrounded by the snow-covered Himalayas",
+            "location": "Gulmarg"
+          },
+          {
+            "title": "Pahalgam",
+            "imageUrl": "https://images.pexels.com/photos/3974271/pexels-photo-3974271.jpeg?cs=srgb&dl=pexels-imad-clicks-3974271.jpg&fm=jpg",
+            "content": "Pahalgam is a quaint town nestled in the Himalayas, offering a serene ambiance and breathtaking views of the surrounding mountains.",
+            "location": "Pahalgam"
+          },
+          {
+            "title": "Betaab Valley",
+            "imageUrl": "https://www.shutterstock.com/image-photo/view-betab-valley-winter-season-600nw-2044050305.jpg",
+            "content": "Situated in Pahalgam, Betaab Valley ranks among the top attractions in Kashmir, embraced by pine and deodar trees.",
+            "location": "Betaab Valley, Pahalgam"
+          },
+          {
+            "title": "Sonamarg",
+            "imageUrl": "https://images.pexels.com/photos/18907680/pexels-photo-18907680.jpeg?cs=srgb&dl=pexels-aadil-mehraj-18907680.jpg&fm=jpg",
+            "content": "Nestled amidst mountains, Sonamarg is a stunning snow-covered hill station adorned with majestic glaciers and serene lakes.",
+            "location": "Sonamarg"
+          },
+          {
+            "title": "Dal Lake",
+            "imageUrl": "https://images.pexels.com/photos/16498513/pexels-photo-16498513.jpeg?cs=srgb&dl=pexels-soubhagya-maharana-16498513.jpg&fm=jpg",
+            "content": "Famed as the pride of Kashmir, Dal Lake is a major attraction in Srinagar, nestled amidst the Pir Panjal peaks.",
+            "location": "Srinagar"
+          }
+        ]
+      },
+      "shop": {
+        "title": "Places to Shop In Kashmir",
+        "subtitle": "Kashmir boasts a wealth of talented local artisans showcasing their exquisite handicrafts and souvenirs. For those who relish collecting memorable gifts while traveling, shopping in Kashmir is an essential addition to your itinerary.",
+        "items": [
+          {
+            "title": "Sarnal Payeen Anantnag Kashmir",
+            "time": "09:00 AM - 09:00 PM",
+            "imageUrl": "https://www.aalekh.co.in/traditional%20art/8_3.jpg",
+            "shopFor": "Metal Crafts",
+            "location": "Anantnag"
+          },
+          {
+            "title": "Heritage",
+            "time": "10:00 AM - 09:00 PM",
+            "imageUrl": "https://i1.wp.com/www.radiochinar.in/wp-content/uploads/image-208.png?fit=700%2C466&ssl=1",
+            "shopFor": "Traditional Wear",
+            "location": "Srinagar"
+          },
+          {
+            "title": "Ahmad Complex",
+            "time": "07:00 AM - 11:00 PM",
+            "imageUrl": "https://thumbs.dreamstime.com/b/kashmiri-jewellery-24816561.jpg",
+            "shopFor": "Kashmiri Jewelry",
+            "location": "Budgam"
+          },
+          {
+            "title": "Shri Kedarnath Shop",
+            "time": "12:00 AM - 12:00 AM",
+            "imageUrl": "https://media.istockphoto.com/id/914602634/photo/a-bottle-of-sandalwood-essential-oil-with-sandalwood.jpg?s=612x612&w=0&k=20&c=QH0kHTfCaaiVyE9nnsXQAQ3kTGytlDid199tJUfZYTU=",
+            "shopFor": "Sandalwood And Metals",
+            "location": "Katra"
+          },
+          {
+            "title": "Royal Kashmir",
+            "time": "10:00 AM - 08:00 PM",
+            "imageUrl": "https://images.pexels.com/photos/1295572/pexels-photo-1295572.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "shopFor": "Dry Fruits",
+            "location": "Srinagar"
+          },
+          {
+            "title": "Pick N Choose",
+            "time": "10:00 AM - 08:00 PM",
+            "imageUrl": "https://images.pexels.com/photos/230477/pexels-photo-230477.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "shopFor": "Tea Products And More",
+            "location": "Srinagar"
+          }
+        ]
+      }
     },
     "meghalaya": {
       "name": "Meghalaya",
       "title": "A Tapestry of Cultures and Colors",
-      "imagePath": "/assets/india-trips.jpg",
-      "about": "asdf",
-      "bestSeller": ["srinagar-leh-manali"]
+      "imagePath": "/assets/Destinations/Meghalaya/Meghalaya.jpg",
+      "about": "Discover Meghalaya: Embrace serenity amidst lush greenery and tranquil landscapes with our Meghalaya tour packages.\n\nKnown as the 'Abode of Clouds', this northeastern gem promises an escape from bustling city life.\n\nMeghalaya's allure lies in its cultural mosaic, shaped by tribes like the Khasi, Garo, and Jaintias, each with unique traditions passed through generations, especially notable for lineage tracing through the maternal line.\nOur packages unveil the best of Meghalaya's landmarks—from the famed Cherrapunji and Shillong to the serene Umiam Lake and the enlightening Don Bosco Museum.\n\nSavor Meghalaya's distinct cuisine blending diverse tribal flavors, highlighting non-vegetarian dishes like Jadoh, Doh Kleh, and Tungrymbai, alongside an array of locally grown teas.\n\nWhat sets Meghalaya apart is its universal appeal, welcoming travelers with English as its official language. This state seamlessly blends nature, culture, and adventure, showcasing pristine forests, stunning waterfalls, and the awe-inspiring living root bridges, a unique facet of northeastern India.\n\nExplore the best of Meghalaya with our tour packages and delve into its captivating beauty and cultural richness.",
+      "bestSeller": ["meghalaya"]
     },
     "andaman": {
       "name": "Andaman & Nicobar Islands",
       "title": "A Tapestry of Cultures and Colors",
       "imagePath": "/assets/india-trips.jpg",
       "about": "asdf",
-      "bestSeller": ["srinagar-leh-manali"]
+      "bestSeller": ["andaman"]
     },
     "sikkim": {
       "name": "Sikkim",
       "title": "A Tapestry of Cultures and Colors",
       "imagePath": "/assets/india-trips.jpg",
       "about": "asdf",
-      "bestSeller": ["srinagar-leh-manali"]
+      "bestSeller": ["leh-ladakh"]
     },
     "uttarakhand": {
       "name": "Uttarakhand",
       "title": "A Tapestry of Cultures and Colors",
       "imagePath": "/assets/india-trips.jpg",
       "about": "asdf",
-      "bestSeller": ["srinagar-leh-manali"]
+      "bestSeller": ["leh-ladakh"]
     },
     "kerala": {
       "name": "Kerala",
       "title": "A Tapestry of Cultures and Colors",
       "imagePath": "/assets/india-trips.jpg",
       "about": "asdf",
-      "bestSeller": ["srinagar-leh-manali"]
+      "bestSeller": ["leh-ladakh"]
     },
     "himachalpradesh": {
       "name": "Himachal Pradesh",
       "title": "A Tapestry of Cultures and Colors",
       "imagePath": "/assets/india-trips.jpg",
       "about": "asdf",
-      "bestSeller": ["srinagar-leh-manali"]
+      "bestSeller": ["leh-ladakh"]
     },
     "rajasthan": {
       "name": "Rajasthan",
       "title": "A Tapestry of Cultures and Colors",
       "imagePath": "/assets/india-trips.jpg",
       "about": "asdf",
-      "bestSeller": ["srinagar-leh-manali"]
+      "bestSeller": ["leh-ladakh"]
     }
   }
 }
