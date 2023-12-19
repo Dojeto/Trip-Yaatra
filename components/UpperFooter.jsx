@@ -57,15 +57,7 @@ const UpperFooter = () => {
             <div className="w-60 h-full xl:w-full">
               <h1 className="text-xl font-bold xl:text-center">About Us</h1>
               <p className="text-sm leading-[126.19%] pt-3 xs:text-xs">
-                We at Trip-Yaatra are a modern travel community that provides
-                end to end travel packages in India and abroad. We design the
-                best travel itineraries that encourage group traveling for
-                like-minded people. Our services include road trips, trekking
-                expeditions, corporate trips, and customized tour packages. On
-                our trips, we ensure hassle-free traveling, top-notch
-                accommodation and guided sightseeing that too in a budget that
-                won't burn a hole in your pocket. Just give us your dates and be
-                ready to experience traveling like never before.
+                At Trip Yaatra, we're a contemporary travel community dedicated to offering comprehensive travel packages across India and internationally. Our aim is to craft exceptional travel itineraries that foster group travel experiences for individuals with similar interests. Our array of services includes road trips, trekking expeditions, corporate excursions, and personalized tour packages. When you travel with us, expect a seamless experience with excellent accommodation, guided sightseeing, all within a budget-friendly package. Share your travel dates with us and get ready to embark on an unparalleled journey.
               </p>
             </div>
           </div>
