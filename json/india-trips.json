@@ -658,23 +658,301 @@
     "uttarakhand": {
       "name": "Uttarakhand",
       "title": "Explore the Hidden Gems of Uttarakhand, a Divine Land of Spiritual Splendor",
-      "imagePath": "/assets/india-trips.jpg",
-      "about": "asdf",
-      "bestSeller": ["leh-ladakh"]
+      "imagePath": "/assets/Uttarakhand.jpg",
+      "about": "Uttarakhand Tour Packages: Nestled in the northern part of India, Uttarakhand is cradled in the lap of the majestic Himalayas, celebrated for its awe-inspiring natural beauty, spiritual significance, and rich cultural heritage. Offering an array of tour packages, Uttarakhand beckons tourists to experience the very essence of the place.\n\nThe state is adorned with picturesque hill stations that entice travelers from across the globe. Destinations like Nainital, Mussoorie, and Ranikhet boast breathtaking views of snow-capped peaks, tranquil lakes, and verdant valleys. Serving as ideal getaways from urban chaos, these hill stations offer a serene and revitalizing atmosphere. Uttarakhand is particularly favored by residents of Delhi due to its easy accessibility, making it a sought-after weekend trip destination. Uttarakhand vacation tours are especially popular among those seeking to explore multiple places in shorter durations.",
+      "bestSeller": ["leh-ladakh"],
+      "todos":{
+        "title": "Unleash Thrills in Uttarakhand: Discover Top Adventure Activities!",
+        "subtitle": "Indulge in heart-pounding adventure activities amidst Uttarakhand's natural marvels. Trek through the Himalayas, conquer river rapids with rafting, soar high with paragliding, and embrace more exhilarating escapades amid stunning landscapes for an unforgettable experience.",
+        "todo": [
+          {
+            "title": "Trekking",
+            "imageUrl": "https://images.unsplash.com/photo-1611154046036-cd91e50978be?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "time": "8 hours approx",
+            "content": "Embark on a trekking escapade in Uttarakhand, where the Himalayas unveil breathtaking panoramas, verdant valleys, and serene lakes, delivering an indelible adventure amid nature's majestic embrace.",
+            "location": "Chopta"
+          },
+          {
+            "title": "River Rafting",
+            "imageUrl": "https://images.unsplash.com/photo-1627241129356-137242cf14f0?q=80&w=1868&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "time": "2 hours approx",
+            "content": "Experience the thrill of river rafting in Uttarakhand, where rushing waters carve through picturesque landscapes, providing an adrenaline-fueled adventure in nature's stunning canvas.",
+            "location": "Rishikesh"
+          },
+          {
+            "title": "Camping",
+            "imageUrl": "https://images.unsplash.com/photo-1537905569824-f89f14cceb68?q=80&w=1902&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "time": "2 days approx",
+            "content": "Embrace the serenity of nature with camping in Uttarakhand, surrounded by majestic mountains and tranquil landscapes, crafting moments that linger as unforgettable memories.",
+            "location": "Kedarkantha"
+          },
+          {
+            "title": "Wildlife Safari",
+            "imageUrl": "https://images.unsplash.com/photo-1657473931500-04fc0c79266e?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "time": "3 hours approx",
+            "content": "Set forth on an enthralling wildlife safari in Uttarakhand, where lush forests unveil diverse fauna. Encounter majestic tigers, graceful elephants, and a myriad of exotic bird species amidst nature's unspoiled beauty.",
+            "location": "Jim Corbett National Park"
+          },
+          {
+            "title": "Skiing",
+            "imageUrl": "https://images.unsplash.com/photo-1605540436563-5bca919ae766?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "time": "2 hours approx",
+            "content": "Experience the thrill of skiing in Uttarakhand—a winter wonderland with pristine slopes and majestic, snow-capped peaks that form the perfect playground for avid snow sports enthusiasts.",
+            "location": "Auli"
+          },
+          {
+            "title": "Paragliding",
+            "imageUrl": "https://images.unsplash.com/photo-1471247511763-88a722fc9919?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "time": "20 minutes approx",
+            "content": "Discover the thrill of paragliding in Uttarakhand as you soar high above, capturing breathtaking panoramas of mountains, valleys, and rivers—a truly exhilarating and unforgettable experience.",
+            "location": "Mukteshwar"
+          }
+        ]
+      },
+      "places":{
+        "title": "Unveiling Uttarakhand: Embrace the Wonders of Nature and Sacred Destinations!",
+        "subtitle": "Immerse yourself in the mesmerizing allure of Uttarakhand, where enchanting hill stations, sacred temples, pristine national parks, and awe-inspiring landscapes converge to create a perfect harmony of nature, spirituality, and adventure.",
+        "place":[
+          {
+            "title": "Nainital",
+            "imageUrl": "https://images.unsplash.com/photo-1590265787538-4dc8fdeb9651?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "content": "Perched amid the hills, Nainital in Uttarakhand stands as a delightful hill station renowned for its picturesque lake, verdant surroundings, and delightful weather, providing a serene haven for travelers seeking tranquility.",
+            "location": "Nainital"
+          },
+          {
+            "title": "Chopta",
+            "imageUrl": "https://images.unsplash.com/photo-1620752379811-8ee714b283e4?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "content": "Chopta, nestled in Uttarakhand and often referred to as the Mini Switzerland, enthralls visitors with its awe-inspiring vistas, untouched meadows, and serves as the gateway to the majestic Tungnath Temple and Chandrashila Peak.",
+            "location": "Chopta"
+          },
+          {
+            "title": "Rishikesh",
+            "imageUrl": "https://images.unsplash.com/photo-1570804485046-b5b8d795dc5d?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "content": "Rishikesh, situated in Uttarakhand, stands as a spiritual sanctuary nestled along the Ganges River. It magnetizes seekers globally with its ashrams, yoga, adventure sports, and the divine Ganga Aarti ceremony.",
+            "location": "Rishikesh"
+          },
+          {
+            "title": "Kedarnath",
+            "imageUrl": "https://images.unsplash.com/photo-1612438214708-f428a707dd4e?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "content": "Kedarnath, nestled in Uttarakhand's Garhwal Himalayas, is revered for the ancient Kedarnath Temple, its sacred pilgrimage status, and breathtaking mountain landscapes.",
+            "location": "Kedarnath"
+          },
+          {
+            "title": "Lansdowne",
+            "imageUrl": "https://images.unsplash.com/photo-1609769682973-990c3b6695dc?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "content": "Lansdowne, Uttarakhand, is a tranquil hill station graced with pine forests, winding trails, and sweeping panoramic views, providing a serene escape amidst nature's tranquility.",
+            "location": "Lansdowne"
+          },
+          {
+            "title": "Mukteshwar",
+            "imageUrl": "https://soulitude.in/wp-content/uploads/Mukteshwar.jpg",
+            "content": "Mukteshwar, Uttarakhand, captivates visitors with its mesmerizing vistas of snow-capped peaks, serene atmosphere, lush fruit orchards, and the historic Mukteshwar Temple.",
+            "location": "Mukteshwar"
+          }
+        ]
+      },
+      "shop":{
+        "title":"Retail Revelry: Discovering Uttarakhand's Shopping Hotspots",
+        "subtitle":"Dive into Uttarakhand's lively shopping scene, where vibrant markets and artisanal boutiques showcase a treasure trove of traditional crafts, textiles, jewelry, and local produce, guaranteeing a delightful retail escapade.",
+        "items":[
+          {
+            "title":"Mall Road",
+            "time":"09:00 AM - 09:00 PM",
+            "imageUrl":"https://images.unsplash.com/photo-1667924779335-9b03c021ebed?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "shopFor":"Local Handicrafts",
+            "location":"Nainital"
+          },
+          {
+            "title":"Tibetan Market",
+            "time":"10:00 AM - 08:00 PM",
+            "imageUrl":"https://hblimg.mmtcdn.com/content/hubble/img/ttd_images/mmt/activities/m_Bahadurgarh_Tibet_market_2_l_360_640.jpg",
+            "shopFor":"Tibetan Clothing",
+            "location":"Mussoorie"
+          },
+          {
+            "title":"Garjia Market",
+            "time":"09:00 AM - 07:00 PM",
+            "imageUrl":"https://www.omnivagant.com/wp-content/uploads/2020/01/023A3672-1200x800.jpg",
+            "shopFor":"Wooden Artifacts",
+            "location":"Jim Corbett"
+          },
+          {
+            "title":"Ram Jhula Market",
+            "time":"09:00 AM - 08:00 PM",
+            "imageUrl":"https://indiewebimages.s3-ap-southeast-1.amazonaws.com/articles/June2020/avkYv3ZvhqJzkClNfsJh.jpg",
+            "shopFor":"Spiritual Books",
+            "location":"Rishikesh"
+          },
+          {
+            "title":"Tehri Garhwal Handloom",
+            "time":"10:00 AM - 07:00 PM",
+            "imageUrl":"https://images.unsplash.com/photo-1616395442106-1b927fee41cd?q=80&w=2059&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "shopFor":"Carpets",
+            "location":"Tehri"
+          },
+          {
+            "title":"Almora Bazaar",
+            "time":"10:00 AM - 08:00 PM",
+            "imageUrl":"https://images.unsplash.com/photo-1620619767323-b95a89183081?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "shopFor":"Souvenirs",
+            "location":"Almora"
+          }
+        ]
+      }
     },
     "kerala": {
       "name": "Kerala",
-      "title": "A Tapestry of Cultures and Colors",
-      "imagePath": "/assets/india-trips.jpg",
-      "about": "asdf",
-      "bestSeller": ["leh-ladakh"]
+      "title": "Explore Kerala: Tailored Tour Packages for a Journey through God's Own Country",
+      "imagePath": "/assets/Kerala.jpg",
+      "about": "Kerala Tour Packages: Kerala, situated in the southwestern region of India, is renowned as 'God's Own Country.' This title is attributed not just to the state's stunning natural beauty but also its rich cultural heritage, diverse communities, and warm hospitality. Offering a chance to witness nature's finest, Kerala's tour unveils its major attractions, featuring serene backwaters, exquisite beaches, lush green forests, and picturesque hill stations offering breathtaking landscapes. Opting for Kerala tour packages is an ideal choice for your next travel destination.\n\nThe state boasts a diverse range of flora and fauna, making it an enticing spot for nature enthusiasts. Kerala stands as a popular tourist destination in India, celebrated for its captivating natural beauty, vibrant culture, and delectable cuisine. Kerala tour packages present an opportunity to delve into the state's best, including its mesmerizing beaches, tranquil backwaters, charming hill stations, wildlife sanctuaries, and historical monuments. These customizable packages cater to various budgets, interests, and durations, offering a harmonious blend of nature, culture, and adventure. Kerala, famously termed 'God's Own Country,' provides a unique experience to visitors. With an array of Kerala tour packages available, planning a trip to Kerala has become more accessible and convenient for travelers.\n\nKerala packages come with a myriad of options, encompassing Kerala holiday packages, travel packages, and tour packages, tailored to suit different traveler preferences and needs. Whether you desire backwater explorations, thrilling adventure activities, or leisurely beach experiences, Kerala tour packages are designed to fulfill all desires.\n\nA Kerala trip remains incomplete without immersing yourself in the serene backwaters of Alleppey. These tranquil waterways offer a perfect setting for relaxation and rejuvenation while cruising through their gentle currents. Additionally, Kerala tour packages provide opportunities to delve into the state's rich culture and heritage. Notable attractions include the colonial architecture of Fort Kochi and the captivating traditional art forms of Kathakali and Mohiniyattam.\n\nFor adventure enthusiasts, Kerala tour packages offer thrilling escapades like trekking, camping, and wildlife safaris in the Western Ghats. Popular hill stations like Thekkady, Munnar, and Wayanad boast mesmerizing mountain views and verdant tea plantations. Furthermore, beach towns like Kovalam and Varkala offer exciting water sports and sunbathing experiences.\n\nPerfect for relaxation, Kerala holiday packages are renowned for the state's Ayurvedic treatments and spas, offering rejuvenating experiences. Additionally, Kerala's cuisine, featuring a diverse range of vegetarian and non-vegetarian dishes, is a delightful treat for food enthusiasts.\n\nKerala tour packages promise a unique and unparalleled experience. With its natural beauty, rich culture, and diverse adventure activities, Kerala stands as a must-visit destination for every traveler. So, whether you plan a family vacation, a romantic escapade, or a solo journey, Kerala packages cater to everyone's preferences. Book your Kerala trip today and prepare for an unforgettable experience!",
+      "bestSeller": ["Kerala"],
+      "todos":{
+        "title":"Embrace Excitement and Serenity: Explore Adventurous Pursuits in Kerala",
+        "subtitle":"Discover Kerala's allure with thrilling adventures: trek through lush trails, conquer rocky heights, soar with zip-lines, glide over landscapes, dive into underwater marvels, paddle serene waters, and pedal scenic routes. Experience the thrill!",
+        "todo":[
+          {
+            "title":"Parasailing",
+            "imageUrl":"https://images.unsplash.com/photo-1628690920311-a820459457ba?q=80&w=1812&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "time":"15 minutes approx",
+            "content":"Parasailing in Kerala provides an exhilarating experience, boasting stunning views of the coastline and beaches—a must-try adventure for tourists seeking thrills.",
+            "location":"Kovalam"
+          },
+          {
+            "title":"Trekking",
+            "imageUrl":"https://images.unsplash.com/photo-1467139701929-18c0d27a7516?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "time":"6 hours approx",
+            "content":"Embark on invigorating treks through Kerala's lush forests, rolling hills, and picturesque landscapes, promising an exhilarating adventure for passionate nature enthusiasts.",
+            "location":"Wayanad"
+          },
+          {
+            "title":"Kayaking",
+            "imageUrl":"https://images.unsplash.com/photo-1588472235276-7638965471e2?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "time":"2 hours approx",
+            "content":"Experience the tranquility of Kerala through kayaking, meandering along narrow canals, lagoons, and rivers, embraced by stunning landscapes and verdant greenery.",
+            "location":"Alappuzha Beach"
+          },
+          {
+            "title":"Snorkeling",
+            "imageUrl":"https://images.unsplash.com/photo-1682687982502-1529b3b33f85?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "time":"30 minutes approx",
+            "content":"Delve into Kerala's underwater wonders through snorkeling, discovering a vibrant tapestry of marine life, from colorful coral reefs to an array of fish species, along its stunning coastline.",
+            "location":"Thiruvankulam"
+          },
+          {
+            "title":"Paragliding",
+            "imageUrl":"https://images.unsplash.com/photo-1592208128295-5aaa34f1d72b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "time":"20 minutes approx",
+            "content":"Feel the thrill soar with paragliding in Kerala, offering an adrenaline rush and spectacular aerial vistas of its hills, valleys, and scenic tea plantations.",
+            "location":"Vagamon"
+          },
+          {
+            "title":"Bamboo Rafting",
+            "imageUrl":"https://media2.thrillophilia.com/images/photos/000/039/321/original/Bamboo-Rafting_(1)_(Copy).jpg?",
+            "time":"3 hours approx",
+            "content":"Bamboo Rafting in Kerala presents a distinctive journey sailing through serene backwaters, enveloped by tranquil nature and vibrant greenery, offering an unparalleled experience.",
+            "location":"Thekkady"
+          }
+        ]
+      },
+      "places":{
+        "title":"Explore the Finest: Must-Visit Destinations in Kerala",
+        "subtitle":"Situated in South India, Kerala boasts diverse landscapes, cultural richness, and a tantalizing cuisine. From enchanting beaches to serene backwaters, verdant hills to lush forests, and captivating temples to intriguing museums, Kerala promises a multifaceted experience for every traveler.",
+        "place":[
+          {
+            "title":"Munnar",
+            "imageUrl":"https://images.unsplash.com/photo-1591089101324-2280d9260000?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "content":"Munnar stands as a favored hill station in Kerala, celebrated for its enchanting landscapes, sprawling tea plantations, and captivating wildlife sanctuaries.",
+            "location":"Munnar"
+          },
+          {
+            "title":"Alleppey",
+            "imageUrl":"https://images.unsplash.com/photo-1593693397690-362cb9666fc2?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "content":"Alleppey is renowned for its tranquil backwaters, captivating houseboat cruises, beautiful beaches, and thriving coir industry, solidifying its position as a beloved tourist hotspot in Kerala.",
+            "location":"Alleppey"
+          },
+          {
+            "title":"Wayanad",
+            "imageUrl":"https://images.unsplash.com/photo-1619020905969-ba8d47f8c7cf?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "content":"Wayanad, a picturesque district in Kerala, is famed for its enchanting misty hills, cascading waterfalls, thriving wildlife sanctuaries, and historical caves.",
+            "location":"Wayanad"
+          },
+          {
+            "title":"Fort Kochi",
+            "imageUrl":"https://images.unsplash.com/photo-1590123717647-de5b78ed762e?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "content":"Fort Kochi, nestled within Kochi, Kerala, is a storied neighborhood acclaimed for its colonial-era architecture, churches, synagogues, and vibrant spice markets.",
+            "location":"Fort Kochi"
+          },
+          {
+            "title":"Kovalam",
+            "imageUrl":"https://images.unsplash.com/photo-1576236242220-f658417e04be?q=80&w=1930&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "content":"Kovalam, a sought-after beach town in Kerala, is renowned for its pristine sandy beaches, iconic lighthouse, thrilling water sports, and rejuvenating Ayurvedic spas.",
+            "location":"Kovalam"
+          },
+          {
+            "title":"Varkala",
+            "imageUrl":"https://images.unsplash.com/photo-1621338316421-c8e1ff8ce0ef?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "content":"Varkala, a serene coastal town in Kerala, is celebrated for its captivating cliff-lined beaches, ancient temples, therapeutic mineral springs, and excellent surfing spots.",
+            "location":"Varkala"
+          }
+        ]
+      },
+      "shop":{
+        "title":"Retail Bliss: Top Shopping Destinations in Kerala",
+        "subtitle":"Kerala promises a distinctive shopping extravaganza, featuring a diverse array of markets, boutiques, and malls. Offering spices, tea, handicrafts, clothing, and jewelry, Kerala caters to every shopper's delight with its varied treasures.",
+        "items":[
+          {
+            "title":"Jew Town",
+            "time":"10:00 AM - 08:00 PM",
+            "imageUrl":"https://images.unsplash.com/photo-1443884590026-2e4d21aee71c?q=80&w=2043&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "shopFor":"Antique Items",
+            "location":"Kochi"
+          },
+          {
+            "title":"MG Road",
+            "time":"10:00 AM - 09:00 PM",
+            "imageUrl":"https://images.unsplash.com/photo-1573612664822-d7d347da7b80?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "shopFor":"Boutiques",
+            "location":"Kochi"
+          },
+          {
+            "title":"S.M. Street",
+            "time":"10:00 AM - 08:00 PM",
+            "imageUrl":"https://images.unsplash.com/photo-1615634260167-c8cdede054de?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "shopFor":"Perfumes",
+            "location":"Kozhikode"
+          },
+          {
+            "title":"Connemara Market",
+            "time":"10:00 AM - 08:00 PM",
+            "imageUrl":"https://images.unsplash.com/photo-1542372177-002ea9732b17?q=80&w=1856&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "shopFor":"Souvenirs",
+            "location":"Thiruvananthapuram"
+          },
+          {
+            "title":"Broadway",
+            "time":"10:00 AM - 08:00 PM",
+            "imageUrl":"https://images.unsplash.com/photo-1606988898144-b4e1169b93ef?q=80&w=2041&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "shopFor":"Street Shopping",
+            "location":"Ernakulam"
+          },
+          {
+            "title":"Spice Market",
+            "time":"09:00 AM - 07:00 PM",
+            "imageUrl":"https://images.unsplash.com/flagged/photo-1553617569-8ef7a8da3146?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "shopFor":"Spices",
+            "location":"Thekkady"
+          }
+        
+        ]
+      }
     },
-    "himachalpradesh": {
+
+    "himachalpradesh" : {
       "name": "Himachal Pradesh",
       "title": "Embark on a Journey to the Enchanting Realm of Deities and Unmatched Thrills",
-      "imagePath": "/assets/india-trips.jpg",
-      "about": "asdf",
-      "bestSeller": ["leh-ladakh"],
+      "imagePath": "/assets/Himachal Pradesh.jpg",
+      "about": "About Himachal Pradesh Tour Packages: Just imagine, a place far away from the hustle and bustle of the city life, a place where you’re surrounded by lush greenery and snow-capped mountains, fresh- clean air, hospitable people, aroma of delectable dishes, and the most important one; peace and tranquillity. Well, the place that you just imagined is a reality, and that place is ‘ the land of gods’ Himachal Pradesh.\n\nKnown for its inimitable beauty, Himachal Pradesh in the modern day has become an essential addition in every traveller’s bucket list. Besides the beauty, Himachal is known for its hospitality, rich culture and adventure opportunities that are a favourite of one and all, owing to which, Himachal Pradesh Tour Packages have become a traveller’s delight.\n\nLocated in the heart of the western part of Himalayas, Himachal Pradesh is also known as ‘ Dev Bhumi’, which literally translates to ‘ land of gods’, which is why travellers who opt for Himachal Pradesh tour packages, during their Himachal trip easily notice the presence of the huge number of temples. The principal deity of the state is Shiva, it is believed that when Parvati, the wife of Shiva passed away, he carried her corpse in the entire state and wherever her body parts kept falling, a temple was established there in her honour. So travellers looking for a glimpse into the Hindu religion and the life of Shiva with our Himachal Pradesh tour packages, will for sure have the time of their lives in the place.\n\nHimachal Pradesh is abode to a plethora of natural and man-made marvels. Some of the most famous natural wonders in the state include the Solang Valley, Spiti Valley, Dainkund Hill, Bhagsu Waterfall, Jogini Waterfall, and the Rohtang Pass among others. Some of the most prominent man-made marvels include the Atal Tunnel, Janjheli Village, the world renowned Atal Tunnel, Baijnath temple, and the Hadimba Devi temple among other man made marvels.\n\nHimachal besides its picturesque landscapes, stunning mountains, and diverse culture is also known for its delectable and unique cuisine. The cuisine is a blend of various regional flavours and ingredients. Some of the most famous dishes of Himachal Pradesh include dhaam, which is basically a complete meal. The dhaam consists of a plethora of dishes and flavours, kidney beans curry, fried dal, curd and boor ki kadi are just a few of the many dishes that are a part of dhaam. The most famous place to have dhaam is Kangra. Madra is another famous dish which is mostly found in the Chamba region of Himachal Pradesh, the dish is prepared with soaked chickpeas with a range of spices like cumin, cardamom, cloves, cinnamon powder, and turmeric powder among other ingredients. Besides these dishes, Himachal Pradesh is home to a myriad of other dishes too, which one must try to treat their taste buds.\n\nWith so much being said about Himachal Pradesh, it for sure would make sense why Himachal Pradesh tour packages are so in demand these days. So without further ado, let’s check out the best places in Himachal Pradesh.",
+      "bestSeller": ["Himachal Pradesh"],
       "todos": {
         "title": "Top Adventures to Explore in Himachal Pradesh for an Exciting Experience",
         "subtitle": "Himachal Pradesh presents an array of exhilarating adventures amidst stunning mountain ranges and valleys.",
