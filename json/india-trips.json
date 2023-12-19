@@ -363,14 +363,290 @@
       "title": "A Tapestry of Cultures and Colors",
       "imagePath": "/assets/Destinations/Meghalaya/Meghalaya.jpg",
       "about": "Discover Meghalaya: Embrace serenity amidst lush greenery and tranquil landscapes with our Meghalaya tour packages.\n\nKnown as the 'Abode of Clouds', this northeastern gem promises an escape from bustling city life.\n\nMeghalaya's allure lies in its cultural mosaic, shaped by tribes like the Khasi, Garo, and Jaintias, each with unique traditions passed through generations, especially notable for lineage tracing through the maternal line.\nOur packages unveil the best of Meghalaya's landmarks—from the famed Cherrapunji and Shillong to the serene Umiam Lake and the enlightening Don Bosco Museum.\n\nSavor Meghalaya's distinct cuisine blending diverse tribal flavors, highlighting non-vegetarian dishes like Jadoh, Doh Kleh, and Tungrymbai, alongside an array of locally grown teas.\n\nWhat sets Meghalaya apart is its universal appeal, welcoming travelers with English as its official language. This state seamlessly blends nature, culture, and adventure, showcasing pristine forests, stunning waterfalls, and the awe-inspiring living root bridges, a unique facet of northeastern India.\n\nExplore the best of Meghalaya with our tour packages and delve into its captivating beauty and cultural richness.",
-      "bestSeller": ["meghalaya"]
+      "bestSeller": ["meghalaya"],
+      "todos": {
+        "title": "Best activities to do in Meghalaya for a thrilling adventure",
+        "subtitle": "Meghalaya is an excellent place to create cherished memories with loved ones through its various breathtaking activities like trekking, river canyoning, hiking, and more. You can also enjoy the breathtaking views of nature here.",
+        "todo": [
+          {
+            "title": "Hiking",
+            "imageUrl": "https://curlytales.com/wp-content/uploads/2022/04/Untitled-design-67-2.jpg",
+            "time": "30 minutes approx",
+            "content": "Meghalaya offers stunning hiking opportunities, with its scenic hills, waterfalls, and living root bridges, making for a memorable outdoor adventure.",
+            "location": "Kyllang Rock"
+          },
+          {
+            "title": "Golfing",
+            "imageUrl": "https://cdn.pixabay.com/photo/2016/06/29/09/28/golf-1486354_1280.jpg",
+            "time": "8 hours approx",
+            "content": "Golfing in Meghalaya offers a unique experience with its picturesque courses set amidst rolling hills and refreshing weather.",
+            "location": "Shillong Golf Club"
+          },
+          {
+            "title": "River Canyoning",
+            "imageUrl": "https://images.pexels.com/photos/11622977/pexels-photo-11622977.jpeg?cs=srgb&dl=pexels-dizital-boost-11622977.jpg&fm=jpg",
+            "time": "4 hours approx",
+            "content": "River canyoning in Meghalaya is an exhilarating adventure, exploring hidden gorges and waterfalls while rappelling, sliding, and jumping into natural pools.",
+            "location": "Sohra"
+          },
+          {
+            "title": "Trekking",
+            "imageUrl": "https://images.pexels.com/photos/1365425/pexels-photo-1365425.jpeg",
+            "time": "1 - 2 hours approx",
+            "content": "Trekking in Meghalaya offers stunning views of lush forests, cascading waterfalls, and unique living root bridges, providing a memorable adventure.",
+            "location": "Tyrna Village"
+          },
+          {
+            "title": "Water Sports",
+            "imageUrl": "https://images.pexels.com/photos/1305095/pexels-photo-1305095.jpeg?cs=srgb&dl=pexels-must-bee-1305095.jpg&fm=jpg",
+            "time": "1 - 2 hours approx",
+            "content": "Water sports in Meghalaya offer exciting experiences such as kayaking, rafting, and boating amidst the natural beauty of its rivers and lakes.",
+            "location": "Umiam Lakes"
+          },
+          {
+            "title": "Cave Exploration",
+            "imageUrl": "https://mlqvlpsvnudi.i.optimole.com/Ih6NJYg-MgzrMO2B/w:733/h:550/q:auto/https://www.meghalayatourcabs.com/wp-content/uploads/2015/06/Caves-in-Meghalaya-Tour-Destinations.jpg",
+            "time": "1 - 2 hours approx",
+            "content": "Cave exploration in Meghalaya offers a unique experience, exploring ancient limestone caves with stunning stalactites, stalagmites, and underground rivers.",
+            "location": "East Khasi Hills"
+          }
+        ]
+      },
+      "places": {
+        "title": "Discover the Charm of Meghalaya - Unmissable Destinations for Your Getaway",
+        "subtitle": "Meghalaya beckons both adventure seekers and nature enthusiasts, offering a perfect blend of thrill and tranquility that makes it a top pick for your next vacation.",
+        "place": [
+          {
+            "title": "Umiam Lake",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/Umiam_Lake%2C_Shillong%2C_Meghalaya.jpg",
+            "content": "Umiam Lake, nestled amidst hills and verdant landscapes, invites you to partake in boating, water sports, and behold picturesque vistas.",
+            "location": "Umiam Lake"
+          },
+          {
+            "title": "Balpakram National Park",
+            "imageUrl": "https://imgmedia.lbb.in/media/2019/07/5d288bbf40032f055376b9b0_1562938303506.jpg",
+            "content": "A biodiversity hotspot, Balpakram National Park boasts diverse flora and fauna alongside breathtaking landscapes and cultural significance.",
+            "location": "Garo Hills"
+          },
+          {
+            "title": "Elephant Falls",
+            "imageUrl": "https://travelogyindia.b-cdn.net/storage/app/upload/elephant-falls1.jpg",
+            "content": "A sought-after tourist spot, Elephant Falls showcases a three-tiered waterfall amidst lush greenery and captivating natural beauty.",
+            "location": "Shillong"
+          },
+          {
+            "title": "Double-decker Living Root Bridge",
+            "imageUrl": "https://assets.telegraphindia.com/telegraph/fd9b947a-58eb-40ca-895f-77d821cc796b.jpg",
+            "content": "The marvel of a Double-decker living root bridge, formed from interwoven tree roots, is nestled amidst captivating natural surroundings.",
+            "location": "Cherrapunji"
+          },
+          {
+            "title": "Don Bosco Museum",
+            "imageUrl": "https://i.pinimg.com/originals/58/78/dc/5878dc13bc222a098eccead5e291518d.jpg",
+            "content": "The Don Bosco Museum offers a rich portrayal of Northeast India's cultural diversity through its exhibits and interactive displays.",
+            "location": "East Khasi Hills"
+          },
+          {
+            "title": "Kyllang Rock",
+            "imageUrl": "https://www.connectingtraveller.com/images/localtip/16328547012021-02-24.jpg",
+            "content": "Kyllang Rock, a colossal granite formation, treats visitors to panoramic vistas of the hills and valleys that surround it.",
+            "location": "West Khasi Hills"
+          }
+        ]
+      },
+      "shop": {
+        "title": "Exploring Shopping Delights in Meghalaya",
+        "subtitle": "Embark on a delightful shopping journey in Meghalaya, an Indian northeastern gem, offering vibrant markets brimming with traditional handicrafts, indigenous clothes, bamboo crafts, and delectable local produce.",
+        "items": [
+          {
+            "title": "Polo Bazaar",
+            "time": "8:00 AM - 9:00 PM",
+            "imageUrl": "https://gayathriscookspot.com/wp-content/uploads/2018/11/Khasi-Pulao-1.jpg",
+            "shopFor": "Local fruits, ethnic clothing, Jadoh (traditional rice dish)",
+            "location": "Shillong"
+          },
+          {
+            "title": "OB Shopping Mall",
+            "time": "9:00 AM - 9:00 PM",
+            "imageUrl": "https://img.freepik.com/free-photo/shop-clothing-clothes-shop-hanger-modern-shop-boutique_1150-8886.jpg",
+            "shopFor": "Modern clothing",
+            "location": "Shillong"
+          },
+          {
+            "title": "Glory’s Plaza",
+            "time": "11:00 AM - 8:30 PM",
+            "imageUrl": "https://content.jdmagicbox.com/comp/shillong/m2/9999px364.x364.171001074419.x1m2/catalogue/glory-s-plaza-police-bazar-shillong-malls-y0jhk728r1.jpg?clr=",
+            "shopFor": "Apparels",
+            "location": "Shillong"
+          },
+          {
+            "title": "Rebecca’s Thrift Store",
+            "time": "9:30 AM - 7:00 PM",
+            "imageUrl": "https://images.pexels.com/photos/6068969/pexels-photo-6068969.jpeg?cs=srgb&dl=pexels-cottonbro-studio-6068969.jpg&fm=jpg",
+            "shopFor": "Vintage coats, classic clothing pieces",
+            "location": "Shillong"
+          },
+          {
+            "title": "Bara Bazar",
+            "time": "8:00 AM - 5:00 PM",
+            "imageUrl": "https://thumbs.dreamstime.com/b/police-bazaar-shillong-people-packed-popular-police-bazaar-shillong-meghalaya-north-east-india-126866916.jpg",
+            "shopFor": "Tribal vibrancy ",
+            "location": "Shillong"
+          },
+          {
+            "title": "Purbashree Emporium",
+            "time": "10:00 AM - 7:00 PM",
+            "imageUrl": "https://content3.jdmagicbox.com/comp/shillong/z9/9999px364.x364.140507184319.c3z9/catalogue/purbashree-emporium-shillong-pkog5nndb8.jpg",
+            "shopFor": "Exquisite handicrafts",
+            "location": "Shillong"
+          }
+        ]
+      }
     },
     "andaman": {
       "name": "Andaman & Nicobar Islands",
       "title": "A Tapestry of Cultures and Colors",
-      "imagePath": "/assets/india-trips.jpg",
-      "about": "asdf",
-      "bestSeller": ["andaman"]
+      "imagePath": "/assets/Destinations/Andaman/Andaman.avif",
+      "about": "The only thing you can buy that increases your wealth is travel. Have you ever given these wise words any thought? If not, the captivating Andaman Islands may be the perfect inspiration to begin this journey of reflection.\n\nThis beautiful paradise is the town's talk because it offers so many unique experiences. Everything about these islands, from the pristine waters to the local tribes, carries fascinating tales of the past. The Andaman Tour Packages ensure you don't miss any of this gripping story.\n\nImagine waking up to the sun slowly painting a canvas of colors over the cyan waters. Or how about spending an evening beneath a sky filled with stars while the rhythmic music of the waves plays in the distance? All of this is possible if you have the ideal Andaman Package.\n\nWe're here to tell you that Andaman is more complex than it first appears. There's more to it than just the gorgeous beaches and the delectable seafood. It's about how the fresh sea breeze whispers tales of the azure ocean, how the air smells of freedom, and how each grain of sand on the beaches seems to tell its own story.\n\nImagine yourself delving into these crystal-clear waters, revealing an unparalleled underwater spectacle. You could see a vibrant kaleidoscope of corals and marine life with the Andaman Package, which would enthral you. You could go swimming with the fish and, if you're lucky, maybe even see a few sea turtles! It's nothing less than a fantastical fantasy brought to life.\n\nAre you feeling daring? The islands have a whole uncharted side that is just waiting for you to discover. You'd be surprised at the sheer variety of activities that this natural paradise has to offer, from hiking through the thick tropical forests to kayaking through the lush mangroves. You have unrestricted access to these unforgettable experiences with the exclusive Andaman Nicobar Tour Packages.\n\nIn a nutshell, the Andaman Islands promise you a magical fusion of calm and activity, culture and history, travel and leisure. Additionally, you are promised an experience that is as varied and vibrant as the islands themselves with the painstakingly crafted Andaman Tour Packages.\n\nSo what are you waiting for? Let’s come together and explore the Andamans with the wonderful Andaman tour packages, and start this journey with first visiting the best places in this surreal destination.",
+      "bestSeller": ["andaman"],
+      "todos": {
+        "title": "Thrilling Adventures in Andaman",
+        "subtitle": "Get ready to embrace thrilling adventures in Andaman, a paradise for adrenaline seekers. Immerse yourself in a range of heart-pounding activities set amidst stunning natural landscapes.",
+        "todo": [
+          {
+            "title": "Scuba Diving",
+            "imageUrl": "https://images.pexels.com/photos/1540108/pexels-photo-1540108.jpeg?cs=srgb&dl=pexels-oleksandr-p-1540108.jpg&fm=jpg",
+            "time": "Approximately 1 hour",
+            "content": "Dive into the mesmerizing underwater world at Elephant Beach, exploring vibrant coral reefs and encountering diverse marine life.",
+            "location": "Elephant Beach"
+          },
+          {
+            "title": "Snorkeling",
+            "imageUrl": "https://media2.thrillophilia.com/images/photos/000/027/902/original/Snorkling.jpg?gravity=center&width=1280&height=642&crop=fill&quality=auto&fetch_format=auto&flags=strip_profile&format=jpg&sign_url=true",
+            "time": "Around 2 hours",
+            "content": "Witness the enchanting marine life and vibrant coral reefs up close at Elephant Beach, making for an unforgettable snorkeling experience.",
+            "location": "Elephant Beach"
+          },
+          {
+            "title": "Sea Walk",
+            "imageUrl": "https://e0.pxfuel.com/wallpapers/806/578/desktop-wallpaper-indulge-in-a-sea-walk-in-andaman-to-discover-the-underwater-world.jpg",
+            "time": "About 30 minutes",
+            "content": "Experience the extraordinary underwater world of North Bay Island through a sea walk, where you'll stroll amidst fascinating marine creatures.",
+            "location": "North Bay Island"
+          },
+          {
+            "title": "Jet Skiing",
+            "imageUrl": "https://www.andamansguide.com/wp-content/uploads/2016/08/Jet-Ski-in-Andaman.jpg",
+            "time": "Approximately 30 minutes",
+            "content": "Feel the thrill and speed through the waters of Rajiv Gandhi Water Sports Complex on an exhilarating jet ski ride, a perfect aquatic adventure.",
+            "location": "Rajiv Gandhi Water Sports Complex"
+          },
+          {
+            "title": "Seaplane Ride",
+            "imageUrl": "https://images.pexels.com/photos/1724418/pexels-photo-1724418.jpeg?cs=srgb&dl=pexels-asad-photo-maldives-1724418.jpg&fm=jpg",
+            "time": "Around 2 hours",
+            "content": "Enjoy a breathtaking seaplane ride over Port Blair, offering a unique and exhilarating aerial view of the azure waters and picturesque landscapes.",
+            "location": "Port Blair"
+          },
+          {
+            "title": "Mangrove Kayaking",
+            "imageUrl": "https://img.traveltriangle.com/blog/wp-content/uploads/2019/12/Mangrove-creek.jpg",
+            "time": "Approximately 2 hours",
+            "content": "Embark on a serene kayaking journey through the mangroves of Mayabunder, immersing yourself in the tranquility of this unique ecosystem.",
+            "location": "Mayabunder"
+          }
+        ]
+      },
+      "places": {
+        "title": "Andaman's Top Attractions Beckon with Natural Beauty",
+        "subtitle": "Embark on a journey to Andaman's captivating destinations, where diverse beauty and rich experiences await. From pristine beaches to historical sites, lush forests to underwater wonders, explore the following must-visit places:",
+        "place": [
+          {
+            "title": "Cellular Jail",
+            "imageUrl": "https://cdn.pixabay.com/photo/2019/02/11/04/25/jail-3988719_640.jpg",
+            "content": "Cellular Jail, located in Port Blair, stands as a poignant reminder of India's struggle for independence. The historic prison holds stories of sacrifice and serves as a significant national monument.",
+            "location": "Port Blair"
+          },
+          {
+            "title": "Ross Island",
+            "imageUrl": "https://images.unsplash.com/photo-1585252451680-8ace8e3d8d0e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NHx2ZzhoLVlRVTlXTXx8ZW58MHx8fHx8&w=1000&q=80",
+            "content": "Ross Island, near Port Blair, is a fascinating destination that showcases the remnants of British colonial rule and offers scenic views of the surrounding islands and sea.",
+            "location": "Port Blair"
+          },
+          {
+            "title": "Neil Island",
+            "imageUrl": "https://t3.ftcdn.net/jpg/02/06/20/56/360_F_206205688_mbI2fZWcGe1qHC4SlymS3zTlnSbLFXor.jpg",
+            "content": "Neil Island, a tranquil gem in the Andaman archipelago, captivates with its serene beaches, lush greenery, and the perfect blend of relaxation and natural beauty.",
+            "location": "Neil Island"
+          },
+          {
+            "title": "Elephant Beach",
+            "imageUrl": "https://cdn.pixabay.com/photo/2019/01/13/17/26/beach-3930857_1280.jpg",
+            "content": "Elephant Beach, situated on Havelock Island, entices visitors with its pristine white sands, turquoise waters, and vibrant coral reefs, making it a haven for snorkeling and beach lovers.",
+            "location": "Havelock Island"
+          },
+          {
+            "title": "Chidiya Tapu",
+            "imageUrl": "https://andamanemeraldholidays.com/wp-content/uploads/2022/06/chidiya-tapu-sightseeing-1-1.jpg",
+            "content": "Chidiya Tapu, also known as the Bird Island, offers a picturesque setting where visitors can spot a wide variety of avian species and enjoy breathtaking sunsets over the Andaman Sea.",
+            "location": "Chidiya Tapu"
+          },
+          {
+            "title": "Mount Harriet National Park",
+            "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/7d/90/0c/a-view-on-rs-20-currency.jpg?w=1200&h=1200&s=1",
+            "content": "Mount Harriet National Park, the highest peak in the Andaman Islands, offers mesmerizing panoramic views and the opportunity to explore diverse flora and fauna in a lush forested setting.",
+            "location": "Mount Harriet National Park"
+          }
+        ]
+      },
+      "shop": {
+        "title": "Explore the Best Places to Shop in Andaman Islands: Retail Paradise Unveiled!",
+        "subtitle": "Step into a retail paradise as we guide you through the vibrant shopping scene in Andaman Islands. Discover unique local products, handicrafts, and souvenirs, and indulge in an unforgettable shopping experience.",
+        "items": [
+          {
+            "title": "Aberdeen Bazaar",
+            "time": "09:00 AM - 09:00 PM",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/An_array_of_jewellery_being_sold_at_Rishikesh.jpg/1200px-An_array_of_jewellery_being_sold_at_Rishikesh.jpg",
+            "shopFor": "Handicrafts",
+            "location": "Port Blair"
+          },
+          {
+            "title": "MG Road",
+            "time": "09:00 AM - 09:00 PM",
+            "imageUrl": "https://www.swantour.com/blogs/wp-content/uploads/2019/07/MG-Road-Andaman.jpg",
+            "shopFor": "Souvenirs",
+            "location": "Port Blair"
+          },
+          {
+            "title": "Queen Sea Shell Craft",
+            "time": "09:30 AM - 06:00 PM",
+            "imageUrl": "https://assets.zeezest.com/images/PROD_ZZ%20SEO%20Image%20Resizing%203%20%288%29_1682258711888.png",
+            "shopFor": "Decorative Items",
+            "location": "Port Blair"
+          },
+          {
+            "title": "Sagarika Government Emporium",
+            "time": "09:00 AM - 07:00 PM",
+            "imageUrl": "https://www.andamanisland.in/uploads/andamanislands/attachchments/main/6229cc5192c4d147_610a6b4a56319172_sagarika-government-emporium1.jpg",
+            "shopFor": "Tribal Artwork",
+            "location": "Port Blair"
+          },
+          {
+            "title": "Mini Market",
+            "time": "10:00 AM - 04:00 PM",
+            "imageUrl": "https://img.freepik.com/free-photo/shop-clothing-clothes-shop-hanger-modern-shop-boutique_1150-8886.jpg",
+            "shopFor": "Clothing",
+            "location": "Ross Island"
+          },
+          {
+            "title": "Beachside Shacks",
+            "time": "10:00 AM - 09:00 PM",
+            "imageUrl": "https://media.istockphoto.com/id/647483712/photo/semi-precious-stones-bracelet.jpg?s=612x612&w=0&k=20&c=1AFeMHKYe9P3cwuXSUQSxwQ_dxLSoz3pznwMhJbWxrk=",
+            "shopFor": "Handmade Jewelry",
+            "location": "Havelock Island"
+          }
+        ]
+      }
     },
     "sikkim": {
       "name": "Sikkim",
