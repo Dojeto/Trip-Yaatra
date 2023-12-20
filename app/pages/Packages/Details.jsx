@@ -3,19 +3,22 @@ import { useState } from "react";
 import { AiOutlineClockCircle } from "react-icons/ai";
 import { LiaRupeeSignSolid } from "react-icons/lia";
 import { IoLocationSharp } from "react-icons/io5";
-import Flicking from "@egjs/react-flicking";
 import TripsCard from "@components/TripsCard";
 import Itinerary from "./Itinerary";
 import AboutTrip from "./AboutTrip";
+import Date from "./Date";
+import Others from "./Others";
 
-const info = {
-  about: <AboutTrip />,
-  itinerary: <Itinerary />,
-  date: "date",
-  other: "other",
-};
+const Details = (props) => {
+  const { duration, price, pickdrop, about } = props;
+  console.log(props)
+  const info = {
+    about: <AboutTrip about={about} />,
+    itinerary: <Itinerary />,
+    date: <Date />,
+    other: <Others />,
+  };
 
-const Details = () => {
   const [selected, setSelected] = useState("about");
   const ChangeState = (e) => {
     setSelected(e.target.id);
@@ -33,7 +36,7 @@ const Details = () => {
                 <h2>Duration</h2>
               </div>
               <div className=" font-bold text-lg">
-                <h2>9N - 10D</h2>
+                <h2>{duration}</h2>
               </div>
             </div>
             <div className="text-center m-2">
@@ -44,7 +47,7 @@ const Details = () => {
                 <h2>Starting Price</h2>
               </div>
               <div className=" font-bold text-lg">
-                <h2>₹37,499/-</h2>
+                <h2>₹{price}/-</h2>
               </div>
             </div>
             <div className="text-center mt-2 mb-2">
@@ -55,7 +58,7 @@ const Details = () => {
                 <h2>Pick-up and Drop</h2>
               </div>
               <div className=" font-bold text-lg">
-                <h2>Srinagar - Delhi</h2>
+                <h2>{pickdrop}</h2>
               </div>
             </div>
           </div>
@@ -89,17 +92,57 @@ const Details = () => {
             Other Info
           </button>
         </div>
+        <div>{info[selected]}</div>
         <div>
-          {info[selected]}
+          <h1 className="mt-10 text-3xl font-bold ">Videos</h1>
+          <div className="w-full flex overflow-x-scroll gap-8 no-scrollbar  border-red-500">
+            <iframe
+              className=" rounded-md"
+              width={390}
+              height={220}
+              src="https://www.youtube.com/embed/Qipxi1Qn8iE?si=6v825NToNqEa8BIL"
+              title="YouTube video player"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              allowfullscreen
+            ></iframe>
+            <iframe
+              className=" rounded-md"
+              width={390}
+              height={220}
+              src="https://www.youtube.com/embed/Qipxi1Qn8iE?si=6v825NToNqEa8BIL"
+              title="YouTube video player"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              allowfullscreen
+            ></iframe>
+            <iframe
+              className=" rounded-md"
+              width={390}
+              height={220}
+              src="https://www.youtube.com/embed/Qipxi1Qn8iE?si=6v825NToNqEa8BIL"
+              title="YouTube video player"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              allowfullscreen
+            ></iframe>
+            <iframe
+              className=" rounded-md"
+              width={390}
+              height={220}
+              src="https://www.youtube.com/embed/Qipxi1Qn8iE?si=6v825NToNqEa8BIL"
+              title="YouTube video player"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              allowfullscreen
+            ></iframe>
+          </div>
         </div>
         <div>
-          <h1 className="mt-10 text-3xl font-bold">videos</h1>
+          <h1 className="mt-10 text-3xl font-bold">Photos</h1>
         </div>
         <div>
-          <h1 className="mt-10 text-3xl font-bold">photos</h1>
-        </div>
-        <div>
-          <h1 className="mt-10 text-3xl font-bold">testimonials</h1>
+          <h1 className="mt-10 text-3xl font-bold">Testimonials</h1>
         </div>
       </div>
       <div className=" pl-11 ">

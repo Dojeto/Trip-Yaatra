@@ -1,3 +1,5 @@
+// "use client";
+// import useSWR from "swr";
 import Hero from "@app/pages/Home/Hero";
 import Feature from "@app/pages/Home/Feature";
 import Packages from "@app/pages/Home/Packages";
@@ -7,15 +9,17 @@ import Looking from "./pages/Home/Connect";
 import Faq from "@components/FAQ";
 import Form from "@components/Form";
 
+import tripsData from "@json/trips.json";
+
 export default function Home() {
   return (
-    <main>
+    <main className=" flex flex-col gap-y-9">
       <Hero />
       <Feature />
-      <Packages />
+      <Packages data={tripsData} />
       <Review />
       <Looking />
-      <Secrets />
+      {/* <Secrets /> */}
       <Faq />
       <Form />
     </main>

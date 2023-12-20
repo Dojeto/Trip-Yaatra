@@ -3,7 +3,7 @@ import Accordian from "@components/Accordian";
 const Itinerary = () => {
   return (
     <div>
-      <h1 className=" font-bold mt-5 mb-5 text-2xl">itinerary</h1>
+      <h1 className=" font-bold mt-5 mb-5 text-2xl">Itinerary</h1>
       <Accordian
         title="Arrival At Srinagar - Overnight Stay At Srinagar"
         day="1"

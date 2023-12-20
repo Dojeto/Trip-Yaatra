@@ -1,76 +1,448 @@
 {
   "name": "International",
   "title": "A Tapestry of Cultures and Colors",
-  "imagePath": "assets/International-trips.jpg",
+  "imagePath": "assets/international-trips.jpg",
   "bestSeller": [
-    {
-      "title": "10 Days Srinagar Leh Manali Bike Trip",
-      "imageUrl": "https://images.unsplash.com/photo-1686993999944-f7fd395cdcf7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
-      "date": "24-05-2003",
-      "days": "3/5",
-      "price": 30000,
-      "destination": "Leh Ladakh"
-    },
-    {
-      "title": "7 Days Leh Ladakh Tour Package With Turtuk Village",
-      "imageUrl": "https://images.unsplash.com/photo-1563079288-3aed3f8a06dd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1938&q=80",
-      "date": "24-05-2003",
-      "days": "3/5",
-      "price": 30000,
-      "destination": "spiti"
-    },
-    {
-      "title": "10 Days Srinagar Leh Manali Bike Trip",
-      "imageUrl": "https://images.unsplash.com/photo-1694608108899-b70271860e86?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
-      "date": "24-05-2003",
-      "days": "3/5",
-      "price": 30000,
-      "destination": "Leh Ladakh"
-    },
-    {
-      "title": "7 Days Leh Ladakh Tour Package With Turtuk Village",
-      "imageUrl": "https://images.unsplash.com/photo-1694608108899-b70271860e86?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
-      "date": "24-05-2003",
-      "days": "3/5",
-      "price": 30000,
-      "destination": "spiti"
-    },
-    {
-      "title": "10 Days Srinagar Leh Manali Bike Trip",
-      "imageUrl": "https://images.unsplash.com/photo-1686993999944-f7fd395cdcf7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
-      "date": "24-05-2003",
-      "days": "3/5",
-      "price": 30000,
-      "destination": "Leh Ladakh"
-    },
-    {
-      "title": "7 Days Leh Ladakh Tour Package With Turtuk Village",
-      "imageUrl": "https://images.unsplash.com/photo-1563079288-3aed3f8a06dd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1938&q=80",
-      "date": "24-05-2003",
-      "days": "3/5",
-      "price": 30000,
-      "destination": "spiti"
-    },
-    {
-      "title": "10 Days Srinagar Leh Manali Bike Trip",
-      "imageUrl": "https://images.unsplash.com/photo-1686993999944-f7fd395cdcf7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
-      "date": "24-05-2003",
-      "days": "3/5",
-      "price": 30000,
-      "destination": "Leh Ladakh"
-    },
-    {
-      "title": "7 Days Leh Ladakh Tour Package With Turtuk Village",
-      "imageUrl": "https://images.unsplash.com/photo-1563079288-3aed3f8a06dd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1938&q=80",
-      "date": "24-05-2003",
-      "days": "3/5",
-      "price": 30000,
-      "destination": "spiti"
-    }
+    "7n-8d-best-of-vietnam-tour-package"
   ],
+  "about":"International tour packages provide travelers with the chance to explore and experience destinations beyond their home borders. These comprehensive packages typically encompass transportation, accommodation, meals, and sightseeing activities in a foreign country. For those seeking to discover multiple destinations in a condensed timeframe, international holiday packages prove to be an excellent choice. They present an opportunity to uncover lesser-known, offbeat locales that may not be part of the conventional tourist circuit. From serene islands to charming towns and scenic landscapes, international tour packages are crafted to nourish the soul and refresh the mind. At the core of each international holiday package lies the commitment to hassle-free travel. Whether one is traveling with family, friends, or embarking on a solo journey, these packages manage all aspects of the trip, including flights, lodging, transfers, and guided tours. This allows travelers to concentrate on packing essentials and relishing their journey without being burdened by logistical details. With a diverse array of international tour packages available across various price ranges, finding an option that aligns with both budget and interests is easily achievable. From adventurous excursions to cultural immersions, and beach retreats to romantic escapades, international holiday packages offer an array of possibilities for exploration. Whether planning a honeymoon, family getaway, or a solo adventure, opting for an international tour package provides an ideal means to traverse the globe and craft enduring memories.",
   "packages": {
     "bali": {
-      "title": "Welcome To bali"
+      "name": "Bali",
+      "title": "Embark on a Divine Journey in the Land of Gods, Like Never Before!",
+      "imagePath": "/assets/bali.jpg",
+      "about": "Bali, an enchanting Indonesian island nestled in Southeast Asia, is a captivating blend of natural beauty, rich cultural heritage, and spiritual allure. Its picturesque landscapes, adorned with lush rice terraces, showcase the intricate Balinese subak irrigation system, while the island's pristine beaches and diverse marine life make it a haven for sun-seekers and water enthusiasts. Bali's cultural heart, Ubud, surrounded by verdant rainforests and terraced rice paddies, beckons artists and spiritual seekers. The island's Hindu-influenced culture is evident in its vibrant ceremonies, traditional dances, and sacred temples, with Pura Besakih, the Mother Temple, standing as a testament to its spiritual significance. Bali's culinary scene is a delectable journey, featuring dishes like Babi Guling and Bebek Betutu that tantalize the taste buds. Surfers flock to its shores, chasing world-class waves at spots like Uluwatu and Canggu. Mount Agung, the island's sacred volcano, adds a majestic touch to Bali's landscape. The allure of yoga retreats and holistic wellness practices further enhances Bali's reputation as a sanctuary for rejuvenation. With its warm hospitality and a harmonious blend of tradition and modernity, Bali remains a destination that captivates the hearts of millions of visitors each year.",
+      "bestSeller": [
+        "bali-tour"
+      ],
+      "todos": {
+        "title": "Must-Do Activities for an Unforgettable Bali Experience",
+        "subtitle": "Embark on a journey through the heart of Vietnam, where excitement knows no bounds, and thrilling adventures await at every turn. Brace yourself for the ultimate thrill as we present an array of adrenaline-pumping experiences that promise to make your vacation truly unforgettable.",
+        "todo": [
+          {
+            "title": "Surfing",
+            "imageUrl": "https://images.pexels.com/photos/390051/surfer-wave-sunset-the-indian-ocean-390051.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "time": "4 hours approx",
+            "content": "Catch some of the world's best waves on Bali's southern beaches, popular among surfers of all skill levels.",
+            "location": "Kuta"
+          },
+          {
+            "title": "White Water Rafting",
+            "imageUrl": "https://images.pexels.com/photos/2348108/pexels-photo-2348108.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "time": "3 hours approx",
+            "content": "Navigate the thrilling rapids of Bali's rivers, surrounded by lush tropical forests and rice paddies.",
+            "location": "Ubud"
+          },
+          {
+            "title": "Mt. Batur Sunrise Trekking",
+            "imageUrl": "https://images.pexels.com/photos/5407316/pexels-photo-5407316.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "time": "4 hours approx",
+            "content": "Hike to the summit of this active volcano for a breathtaking sunrise view and a unique adventure.",
+            "location": "Kintamani"
+          },
+          {
+            "title": "Bali Swing",
+            "imageUrl": "https://images.pexels.com/photos/4534200/pexels-photo-4534200.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "time": "30 mins approx",
+            "content": "Swing over jungle canyons and rice fields on this popular Instagram-worthy attraction.",
+            "location": "Ubud"
+          },
+          {
+            "title": "Scuba Diving",
+            "imageUrl": "https://images.pexels.com/photos/2404370/pexels-photo-2404370.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "time": "1 hours approx",
+            "content": "Explore Bali's vibrant underwater world and encounter an array of marine life including manta rays, sharks and turtles.",
+            "location": "Nusa Penida"
+          },
+          {
+            "title": "ATV Ride",
+            "imageUrl": "https://images.pexels.com/photos/2986403/pexels-photo-2986403.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "time": "3 hours approx",
+            "content": "Ride through rice paddies, traditional villages and jungle tracks on an all-terrain vehicle, for a thrilling Bali adventure.",
+            "location": "Ubud"
+          }
+        ]
+      },
+      "places": {
+        "title": "Must-Visit Places in Bali for a Dream Vacation",
+        "subtitle": "Explore Bali's diverse cultural and natural landscapes, from ancient temples and serene rice terraces to stunning beaches and vibrant nightlife. Discover the top places to visit in Bali.",
+        "place": [
+          {
+            "title": "Ubud",
+            "imageUrl": "https://images.pexels.com/photos/19473996/pexels-photo-19473996/free-photo-of-scenic-resort-at-tegenungan-waterfall-in-ubud-bali.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "content": "Bali's cultural heart, home to ancient temples, rice terraces, and traditional arts. Best visited during the day.",
+            "location": "Ubud"
+          },
+          {
+            "title": "Uluwatu Temple",
+            "imageUrl": "https://images.pexels.com/photos/19457464/pexels-photo-19457464/free-photo-of-buddha-sculptures-by-temple.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "content": "A stunning cliffside temple with panoramic ocean views, located in the southern Bukit Peninsula. Best visited during sunset.",
+            "location": "Southern Bukit Peninsula"
+          },
+          {
+            "title": "Tanah Lot",
+            "imageUrl": "https://images.pexels.com/photos/18875283/pexels-photo-18875283/free-photo-of-tanah-lot-in-indonesia.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "content": "An iconic sea temple perched on a rock formation, located in Tabanan. Best visited during sunset.",
+            "location": "Tabanan Regency"
+          },
+          {
+            "title": "Mount Agung",
+            "imageUrl": "https://images.pexels.com/photos/6965412/pexels-photo-6965412.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "content": "Bali's highest volcano and a popular hiking destination, located in Karangasem. Best visited at sunrise",
+            "location": "Karangasem"
+          },
+          {
+            "title": "Tegalalang Rice Terraces",
+            "imageUrl": "https://images.pexels.com/photos/6713726/pexels-photo-6713726.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "content": "Serene rice paddies with Instagram-worthy views, located in central Bali near Ubud. Best visited during the day.",
+            "location": "Gianyar Regency"
+          },
+          {
+            "title": "Nusa Penida",
+            "imageUrl": "https://images.pexels.com/photos/6827322/pexels-photo-6827322.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "content": "A neighboring island with breathtaking beaches and natural landscapes, accessible by boat from Bali. Best visited during the day.",
+            "location": "Southeast of Bali"
+          }
+        ]
+      },
+      "shop": {
+        "title": "Best Places to Shop in Bali",
+        "subtitle": "Vietnam's vibrant markets offer a treasure trove of unique finds, from traditional handicrafts to modern fashion. Immerse yourself in the hustle and bustle of these top shopping destinations, where the spirit of commerce meets the rich tapestry of Vietnamese culture.",
+        "items": [
+          {
+            "title": "Ubud Art Market",
+            "time": "08:00 AM - 05:00 AM",
+            "imageUrl": "https://images.pexels.com/photos/3769010/pexels-photo-3769010.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "shopFor": "Handicrafts & Balinese souvenirs",
+            "location": "Central Ubud"
+          },
+          {
+            "title": "Kuta Art Market",
+            "time": "08:00 AM - 10:00 PM",
+            "imageUrl": "https://images.pexels.com/photos/3758169/pexels-photo-3758169.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "shopFor": "clothing, sarongs, wooden carvings & paintings.",
+            "location": "Kuta"
+          },
+          {
+            "title": "Seminyak Village",
+            "time": "10:00 AM - 10:00 PM",
+            "imageUrl": "https://images.pexels.com/photos/19485117/pexels-photo-19485117/free-photo-of-houses-near-road-in-village-in-winter.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "shopFor": "Fashion brands, jewelry, home decor",
+            "location": "Seminyak"
+          },
+          {
+            "title": "Sukawati Art Market",
+            "time": "08:00 AM - 05:00 AM",
+            "imageUrl": "https://images.pexels.com/photos/318238/pexels-photo-318238.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "shopFor": "Handicrafts, wooden carvings & souvenirs",
+            "location": "Gianyar"
+          },
+          {
+            "title": "Beachwalk Shopping Center",
+            "time": "10:00 AM - 10:00 PM",
+            "imageUrl": "https://images.pexels.com/photos/4329929/pexels-photo-4329929.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "shopFor": "Beachwear & accessories",
+            "location": "Kuta"
+          },
+          {
+            "title": "Bali Collection",
+            "time": "10:00 AM - 10:00 PM",
+            "imageUrl": "https://images.pexels.com/photos/3070211/pexels-photo-3070211.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "shopFor": "Jewelry, home decor & art galleries",
+            "location": "Kuta"
+          }
+        ]
+      }
+    },
+    "vietnam": {
+      "name": "Vietnam",
+      "title": "Beauty and Thrills: An Unforgettable Fusion",
+      "imagePath": "/assets/vietnam.jpg",
+      "about": "Experience the timeless allure of Vietnam with our meticulously crafted tour packages. From the bustling streets of Hanoi to the stunning landscapes of Ha Long Bay, our itineraries promise an immersive journey through the rich history, diverse culture, and breathtaking beauty of this enchanting country. Discover the diverse landscapes that define Vietnam, from pristine beaches and dense jungles to lush rice terraces and awe-inspiring karst formations. Whether you're cruising through Ha Long Bay, trekking in Sapa, exploring Phong Nha-Ke Bang National Park, or simply relaxing in Nha Trang, our packages cater to every traveler's interests. Beyond the landscapes, delve into Vietnam's rich history and cultural heritage, exploring landmarks like the imperial citadel of Hue and the historic tunnels of Cu Chi. Our tours provide a deep understanding of the country's past, shaped by influences from Chinese, French, and indigenous cultures. Meet the warm and welcoming Vietnamese people, experiencing their customs and traditions as you traverse markets in Hanoi or float along the Mekong Delta. Our well-crafted itineraries ensure genuine and memorable encounters that showcase the heart and soul of Vietnam. For culinary enthusiasts, our packages offer a tantalizing journey through Vietnam's vibrant food scene. Sample regional specialties, learn cooking techniques in Hoi An, and immerse yourself in the fragrant herbs and bold flavors of Vietnamese cuisine. Adventure seekers can indulge in heart-pounding activities such as trekking in Sapa, cycling through Ninh Binh's countryside, kayaking in Ha Long Bay, and exploring caves in Phong Nha-Ke Bang National Park. Vietnam's diverse landscapes provide an exhilarating playground for outdoor enthusiasts. Come, let WanderOn guide you through the beauty, history, and adventure that make Vietnam a destination like no other. Uncover the magic of Vietnam with our thoughtfully curated tour packages, creating memories that will last a lifetime.",
+      "bestSeller": ["7n-8d-best-of-vietnam-tour-package"],
+      "todos": {
+        "title": "Unveil Vietnam's Unforgettable Adventures for an Adrenaline-Packed Getaway!",
+        "subtitle": "Embark on a journey through the heart of Vietnam, where excitement knows no bounds, and thrilling adventures await at every turn. Brace yourself for the ultimate thrill as we present an array of adrenaline-pumping experiences that promise to make your vacation truly unforgettable.",
+        "todo": [
+          {
+            "title": "Trekking",
+            "imageUrl": "https://images.pexels.com/photos/3604897/pexels-photo-3604897.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "time": "1 day approx",
+            "content": "Sapa's mountainous terrain and rice terraces make for an unforgettable trekking adventure, with opportunities to experience local culture.",
+            "location": "Sapa"
+          },
+          {
+            "title": "Scuba Diving",
+            "imageUrl": "https://images.pexels.com/photos/2404370/pexels-photo-2404370.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "time": "1 hours approx",
+            "content": "Nha Trang's crystal-clear waters offer scuba diving enthusiasts a chance to explore diverse marine life and stunning coral reefs.",
+            "location": "Nha Trang"
+          },
+          {
+            "title": "Kayaking",
+            "imageUrl": "https://images.pexels.com/photos/2847862/pexels-photo-2847862.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "time": "4 hours approx",
+            "content": "Kayaking in Ha Long Bay's emerald waters allows for a unique perspective of the limestone islands and hidden caves.",
+            "location": "Ha Long Bay"
+          },
+          {
+            "title": "White Water Rafting",
+            "imageUrl": "https://images.pexels.com/photos/11871441/pexels-photo-11871441.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "time": "2 hours approx",
+            "content": "White water rafting in Da Lat offers an adrenaline-packed adventure, with exciting rapids and stunning scenery in the Central Highlands.",
+            "location": "Da Lat"
+          },
+          {
+            "title": "Sandboarding",
+            "imageUrl": "https://media.istockphoto.com/id/653405270/photo/sunset-sand-dune-boarding.jpg?b=1&s=612x612&w=0&k=20&c=VE0ljijGb8PXiPsqGkl0gOrgaJGdPSLTAf5QuyLl4Iw=",
+            "time": "3 hours approx",
+            "content": "Mui Ne's sand dunes provide a thrilling sandboarding experience, with stunning sunset views and the opportunity to try kite-surfing.",
+            "location": "Nimu"
+          },
+          {
+            "title": "Rock Climbing",
+            "imageUrl": "https://images.pexels.com/photos/449609/pexels-photo-449609.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "time": "4 hours approx",
+            "content": "Cat Ba Island's limestone cliffs offer a challenging rock climbing experience with stunning views of Lan Ha Bay.",
+            "location": "Cat Ba Island"
+          }
+        ]
+      },
+      "places": {
+        "title": "Embark on a Journey of Discovery: From Hanoi to Ho Chi Minh!",
+        "subtitle": "Experience the charm and diversity of Vietnam as we guide you through its top destinations, spanning from the cultural richness of Hanoi to the vibrant energy of Ho Chi Minh City. Get ready to uncover the unique flavors, history, and beauty that define each stop on this captivating journey.",
+        "place": [
+          {
+            "title": "Ha Long Bay",
+            "imageUrl": "https://images.unsplash.com/photo-1575986767340-5d17ae767ab0?q=80&w=1933&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "content": "Ha Long Bay is a UNESCO World Heritage Site featuring thousands of limestone islands and islets, making it a must-visit destination in Vietnam.",
+            "location": "Ha Long Bay"
+          },
+          {
+            "title": "Hoi An",
+            "imageUrl": "https://images.unsplash.com/photo-1558334466-afce6bf36c69?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8SG9pJTIwQW58ZW58MHx8MHx8fDA%3D",
+            "content": "Hoi An is a charming city with a well-preserved old town, vibrant lanterns, and delicious cuisine, attracting visitors from around the world.",
+            "location": "Hoi An"
+          },
+          {
+            "title": "Ho Chi Minh City",
+            "imageUrl": "https://images.unsplash.com/photo-1591269469224-0479a5f956c6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8SG8lMjBDaGklMjBNaW5oJTIwQ2l0eXxlbnwwfHwwfHx8MA%3D%3D",
+            "content": "Ho Chi Minh City, formerly known as Saigon, is a bustling metropolis filled with history, culture, and delicious street food.",
+            "location": "Ho Chi Minh City"
+          },
+          {
+            "title": "Nha Trang",
+            "imageUrl": "https://images.unsplash.com/photo-1593152399172-9277bfd12c6e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8TmhhJTIwVHJhbmd8ZW58MHx8MHx8fDA%3D",
+            "content": "Nha Trang is a popular coastal city with crystal-clear waters, beautiful beaches, and a range of water sports activities.",
+            "location": "Ho Chi Minh City"
+          },
+          {
+            "title": "Sapa",
+            "imageUrl": "https://images.unsplash.com/photo-1501775390036-3f8123a8727f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8c2FwYXxlbnwwfHwwfHx8MA%3D%3D",
+            "content": "Sapa is a mountainous town located in the north of Vietnam, known for its scenic rice terraces and hill tribe cultures.",
+            "location": "Sapa"
+          },
+          {
+            "title": "Da Nang",
+            "imageUrl": "https://images.unsplash.com/photo-1560964645-5296b5099677?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8ZGElMjBuYW5nfGVufDB8fDB8fHww",
+            "content": "Da Nang is a coastal city with beautiful beaches, stunning mountains, and a variety of cultural and historical attractions.",
+            "location": "Da Nang"
+          }
+        ]
+      },
+      "shop": {
+        "title": "Indulge in Retail Therapy: Vietnam's Must-Visit Shopping Destinations",
+        "subtitle": "Vietnam's vibrant markets offer a treasure trove of unique finds, from traditional handicrafts to modern fashion. Immerse yourself in the hustle and bustle of these top shopping destinations, where the spirit of commerce meets the rich tapestry of Vietnamese culture.",
+        "items": [
+          {
+            "title": "Ben Thanh Market",
+            "time": "06:00 AM - 06:00 PM",
+            "imageUrl": "https://plus.unsplash.com/premium_photo-1664365805083-80ff9ccfde9d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "shopFor": "Souvenirs",
+            "location": "Ho Chi Minh City"
+          },
+          {
+            "title": "Hoi An Night Market",
+            "time": "05:00 PM - 11:00 PM",
+            "imageUrl": "https://images.unsplash.com/photo-1552993873-0dd1110e025f?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "shopFor": "Handicrafts",
+            "location": "Hoi An"
+          },
+          {
+            "title": "Dong Xuan Market",
+            "time": "06:00 AM - 07:00 PM",
+            "imageUrl": "https://giadinh.mediacdn.vn/2018/hanoi-night-market-1516002901517.jpg",
+            "shopFor": "Traditional Vietnamese items",
+            "location": "Hanoi"
+          },
+          {
+            "title": "Vincom Center",
+            "time": "10:00 AM - 10:00 PM",
+            "imageUrl": "https://farm3.static.flickr.com/2664/4235791848_b29903f344_o.jpg",
+            "shopFor": "Cosmetics",
+            "location": "Ho Chi Minh City"
+          },
+          {
+            "title": "Saigon Square",
+            "time": "09:00 AM - 10:00 PM",
+            "imageUrl": "https://saigononmotorbike.com/assets/media/saigon-square/avatar-saigon-square.jpg",
+            "shopFor": "Jewelry",
+            "location": "Ho Chi Minh City"
+          },
+          {
+            "title": "Sapa Market",
+            "time": "06:00 AM - 09:00 PM",
+            "imageUrl": "https://mettavoyage.com/wp-content/uploads/2023/05/sapa-market-tour-7.jpeg",
+            "shopFor": "Handicrafts",
+            "location": "Sapa"
+          }
+        ]
+      }
+    },
+    "bhutan": {
+      "name": "Bhutan",
+      "title": "A Land of Mystical Beauty and Spiritual Splendor",
+      "imagePath": "/assets/Destinations/Bhutan/Bhutan.jpg",
+      "about": "Bhutan Awaits: Explore a Unique Blend of Culture and Nature!\n\n, nestled in the eastern Himalayas, stands as a remarkable nation celebrated for its distinctiveness. Known for its captivating landscapes and a groundbreaking approach of valuing happiness over mere GDP, Bhutan has emerged as an exceptional destination, making Bhutan tour packages increasingly sought after.\n\nEmbarking on a journey with our Bhutan tour packages reveals the enigmatic allure of this Buddhist nation. With a population of over 750,000, Bhutan places a strong emphasis on sustainable development and a profound reverence for nature, evident throughout your Bhutan trip. Despite its modest size, Bhutan boasts a rich tapestry of attractions—historic temples, untouched mountains, vibrant festivals—tailored to every traveler, be it an adventurer, culture enthusiast, or someone seeking tranquility.\n\nBhutan's cultural legacy, steeped in tradition, offers an authentic and immersive experience for visitors. It's a cultural odyssey, a chance to delve into the heart of a distinctive heritage, one that our Bhutan tour packages promise to unveil.\n\nOne of the most captivating aspects is Bhutanese architecture, a delightful highlight of your Bhutan trip with our Bhutan tour packages. Adorned with elaborate wood carvings and vibrant paintings, traditional Bhutanese structures crafted from earth, stone, and wood stand as a testament to the nation's heritage. The dzongs, these monumental fortresses functioning as monasteries and administrative centers, exemplify Bhutan's rich cultural legacy, leaving an indelible mark on every traveler’s heart.\n\nAs we've delved into Bhutan's cultural richness and architecture, now it’s time to delve deeper into the heart of this captivating country. Let's discover the wonders that await you during your Bhutan trip with our Bhutan tour packages and Bhutan holiday packages. Let the exploration begin!",
+      "bestSeller": ["bhutan"],
+      "todos": {
+        "title": "Unveil Vietnam's Unforgettable Adventures for an Adrenaline-Packed Getaway!",
+        "subtitle": "Embark on a journey through the heart of Vietnam, where excitement knows no bounds, and thrilling adventures await at every turn. Brace yourself for the ultimate thrill as we present an array of adrenaline-pumping experiences that promise to make your vacation truly unforgettable.",
+        "todo": [
+          {
+            "title": "Whitewater Rafting",
+            "imageUrl": "https://images.pexels.com/photos/11871441/pexels-photo-11871441.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "time": "Approximately 3 hours",
+            "content": "Navigate the thrilling rapids of Bhutan's Mo Chhu river, experiencing the adrenaline rush of whitewater rafting amidst breathtaking landscapes.",
+            "location": "Mo Chhu"
+          },
+          {
+            "title": "Trekking",
+            "imageUrl": "https://images.pexels.com/photos/1365425/pexels-photo-1365425.jpeg",
+            "time": "Approximately 1 day",
+            "content": "Embark on an enchanting trek in Paro Valley, where every step unveils awe-inspiring landscapes and cultural treasures waiting to be discovered.",
+            "location": "Paro Valley"
+          },
+          {
+            "title": "Camping",
+            "imageUrl": "https://images.pexels.com/photos/14084003/pexels-photo-14084003.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "time": "Approximately 4 hours",
+            "content": "Immerse yourself in the serenity of Bhutan's Paro Valley through camping, where nature's beauty and tranquility surround you.",
+            "location": "Paro Valley"
+          },
+          {
+            "title": "Kayaking",
+            "imageUrl": "https://images.pexels.com/photos/1522344/pexels-photo-1522344.jpeg?cs=srgb&dl=pexels-shivkumar-sd-1522344.jpg&fm=jpg",
+            "time": "Approximately 1 hour",
+            "content": "Unleash your adventurous spirit with kayaking on Bhutan's Wang Chhu river, navigating thrilling rapids and soaking in mesmerizing river views.",
+            "location": "Wang Chhu"
+          },
+          {
+            "title": "Hot Springs",
+            "imageUrl": "https://images.pexels.com/photos/17508471/pexels-photo-17508471.jpeg?cs=srgb&dl=pexels-vasilis-karkalas-17508471.jpg&fm=jpg",
+            "time": "Approximately 30 minutes",
+            "content": "Indulge in relaxation and rejuvenation at the enchanting hot springs of Paro, where healing waters and serene surroundings create a blissful experience.",
+            "location": "Paro"
+          },
+          {
+            "title": "Paragliding",
+            "imageUrl": "https://images.pexels.com/photos/65677/gerlitz-glacier-mountains-in-the-morning-paragliding-65677.jpeg?cs=srgb&dl=pexels-pixabay-65677.jpg&fm=jpg",
+            "time": "Approximately 1 hour",
+            "content": "Soar through the skies and behold the breathtaking landscapes of Paro, indulging in the exhilarating adventure of paragliding.",
+            "location": "Paro"
+          }
+        ]
+      },
+      "places": {
+        "title": "Bhutan's Mystical Charms: Unveiling the Wonders of the Dragon Kingdom",
+        "subtitle": "Delve into the marvels of Bhutan through its captivating destinations. Immerse yourself in breathtaking landscapes, ancient monasteries, vibrant culture, and spiritual heritage in this enchanting Himalayan kingdom.",
+        "place": [
+          {
+            "title": "Paro",
+            "location": "Paro",
+            "content": "Paro, Bhutan, enchants visitors with its scenic beauty, cultural treasures, and the iconic Tiger's Nest monastery perched dramatically on a cliff.",
+            "imageUrl": "https://images.pexels.com/photos/67548/the-tiger-s-nest-monastery-taktsang-palphug-monastery-buddha-67548.jpeg?cs=srgb&dl=pexels-pixabay-67548.jpg&fm=jpg"
+          },
+          {
+            "title": "Thimphu",
+            "location": "Thimphu",
+            "content": "Thimphu, the capital of Bhutan, offers a fusion of tradition and modernity. Attractions like the Tashichho Dzong, Buddha Dordenma, and vibrant markets captivate visitors.",
+            "imageUrl": "https://images.unsplash.com/photo-1597658333270-8c0d8f0eb845?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Ymh1dGFufGVufDB8fDB8fHww"
+          },
+          {
+            "title": "Punakha",
+            "location": "Punakha",
+            "content": "Punakha, nestled in Bhutan's picturesque valleys, showcases the magnificent Punakha Dzong, serene rivers, and a rich cultural heritage that fascinates visitors.",
+            "imageUrl": "https://travelogyindia.b-cdn.net/storage/app/upload/punakha-valley-tour.jpg"
+          },
+          {
+            "title": "Bumthang",
+            "location": "Bumthang",
+            "content": "Bumthang, known as the cultural heartland of Bhutan, boasts ancient temples, monasteries, stunning landscapes, and a spiritual ambiance that enthralls travelers.",
+            "imageUrl": "https://www.shutterstock.com/image-photo/scenic-bumthang-bhutan-typical-architectural-600nw-1395743372.jpg"
+          },
+          {
+            "title": "Gangtey",
+            "location": "Gangtey",
+            "content": "Gangtey Valley in Bhutan captivates with its Gangtey Monastery, sweeping valley views, and its role as the winter sanctuary for endangered Black-necked Cranes.",
+            "imageUrl": "https://media.istockphoto.com/id/1266380165/photo/village-under-the-mountain-with-trees-in-gangtey-in-bhutan.jpg?s=612x612&w=0&k=20&c=wlRRG86EwpG9Gs5-41GIYvvNmhMeDtp5lZBYSaLjtBo="
+          },
+          {
+            "title": "Wangdue Phodrang",
+            "location": "Wangdue Phodrang",
+            "content": "Wangdue Phodrang in Bhutan is renowned for its majestic Wangdue Phodrang Dzong, perched atop a hill, offering panoramic views and significant cultural heritage.",
+            "imageUrl": "https://i.pinimg.com/736x/db/dd/c4/dbddc47008ae6b683ef6c0093a8c3647.jpg"
+          }
+        ]
+      },
+      "shop": {
+        "title": "Explore Bhutan's Shopping Paradise: Hidden Gems Await!",
+        "subtitle": "Unveil a vibrant shopping experience in Bhutan, where traditional crafts, exquisite textiles, handmade goods, and unique souvenirs await discovery. Wander through local markets, boutiques, and handicraft centers to unearth authentic Bhutanese treasures.",
+        "items": [
+          {
+            "title": "Thimphu Craft Market",
+            "shopFor": "Handicrafts",
+            "location": "Thimphu",
+            "time": "10:00 AM - 06:00 PM",
+            "imageUrl": "https://www.flamingotravels.co.in/_next/image?url=https%3A%2F%2Fimgcdn.flamingotravels.co.in%2FImages%2FPlacesOfInterest%2FShop-Unique-Items-At-Choki-Handicrafts-3%20(1).jpg&w=828&q=90"
+          },
+          {
+            "title": "Norzin Lam Street",
+            "shopFor": "Souvenirs",
+            "location": "Thimphu",
+            "time": "09:00 AM - 07:00 PM",
+            "imageUrl": "https://cdn.pixabay.com/photo/2022/01/14/21/19/buddha-statues-6938201_1280.jpg"
+          },
+          {
+            "title": "Paro Market",
+            "shopFor": "Jewelry",
+            "location": "Paro",
+            "time": "08:00 AM - 07:00 PM",
+            "imageUrl": "https://thumbs.dreamstime.com/b/kashmiri-jewellery-24816561.jpg"
+          },
+          {
+            "title": "Centenary Farmers' Market",
+            "shopFor": "Fruits",
+            "location": "Thimphu",
+            "time": "10:00 AM - 07:00 PM",
+            "imageUrl": "https://bhutansoul.com/wp-content/uploads/2020/01/CentenaryFarmersMarket.jpg"
+          },
+          {
+            "title": "Bhutan Art Gallery",
+            "shopFor": "Sculptures",
+            "location": "Thimphu",
+            "time": "09:00 AM - 06:00 PM",
+            "imageUrl": "https://www.shutterstock.com/image-photo/close-wooden-african-mask-600nw-693065686.jpg"
+          },
+          {
+            "title": "Khuruthang Market",
+            "shopFor": "Traditional Clothing",
+            "location": "Punakha",
+            "time": "10:00 AM - 07:00 PM",
+            "imageUrl": "https://images.unsplash.com/photo-1545206085-d0e519bdcecd?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Y2xvdGhlcyUyMG1hcmtldHxlbnwwfHwwfHx8MA%3D%3D"
+          }
+        ]
+      }
     }
   }
 }
