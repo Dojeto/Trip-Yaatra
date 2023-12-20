@@ -4,7 +4,10 @@ const AboutTrip = (props) => {
     <div>
       <div>
         <h1 className="mt-10 text-3xl font-bold">About</h1>
-        <div dangerouslySetInnerHTML={{ __html: about }}/>
+        <div
+          className="whitespace-pre-line"
+          dangerouslySetInnerHTML={{ __html: about }}
+        />
       </div>
     </div>
   );

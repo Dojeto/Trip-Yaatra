@@ -296,6 +296,302 @@
           }
         ]
       }
+    },
+    "thailand": {
+      "name": "Thailand",
+      "title": "Discover the Land of Smiles and its Infinite Marvels",
+      "imagePath": "/assets/Destinations/Thailand/thailand.jpg",
+      "about": "Discover Thailand through Our Tailored Tour Packages \n\nWelcome to Thailand, where smiles are abundant, and adventure awaits at every turn. Our diverse range of Thailand tour packages is designed to offer a glimpse into the tapestry of this enchanting Southeast Asian paradise.\n\nFrom the vibrant pulse of Bangkok to the pristine shores of Phuket, each Thailand trip we offer promises a unique narrative. Our meticulously crafted Thailand tour packages encapsulate the essence of Thai culture, seamlessly blending historical richness with modern vibrancy.\n\nImmerse yourself in the allure of ancient temples, grand palaces, and lively markets brimming with local flavors. As you explore further with our Thailand packages, discover serene landscapes adorned with traditional villages and verdant rice fields, each turn opening a new chapter in your Thailand vacation.\n\nThailand is a sanctuary of simplicity, safety, and indulgence. Our Thailand tour packages promise an unforgettable experience, where you can unwind in a land that effortlessly balances exotic charm with modern convenience.\n\nAre you ready to embrace the cultural mosaic, timeless beauty, and the infectious energy that defines Thailand? Your adventure beckons—Thailand awaits your exploration. The journey begins with you.",
+      "bestSeller": ["thailand"],
+      "todos": {
+        "title": "Embark on an Adventure-Filled Getaway in Thailand",
+        "subtitle": "Get ready for an exhilarating journey across Thailand's diverse landscapes, where each adventure activity promises to leave you breathless and inspired. From exploring turquoise waters to trekking through lush jungles, Thailand offers the perfect playground for thrill-seekers.",
+        "todo": [
+          {
+            "title": "Scuba Diving",
+            "imageUrl": "https://images.pexels.com/photos/1540108/pexels-photo-1540108.jpeg?cs=srgb&dl=pexels-oleksandr-p-1540108.jpg&fm=jpg",
+            "time": "Approximately 45 minutes",
+            "content": "Take the plunge into Thailand's pristine waters and uncover the secrets of vibrant marine life and stunning coral reefs—a scuba diver's paradise awaits.",
+            "location": "Phi Phi Islands"
+          },
+          {
+            "title": "Rock Climbing",
+            "imageUrl": "https://images.pexels.com/photos/1365425/pexels-photo-1365425.jpeg",
+            "time": "Approximately 4 hours",
+            "content": "Conquer towering limestone cliffs against breathtaking backdrops—rock climbing in Thailand presents thrilling challenges suitable for adventurers of all levels.",
+            "location": "Railay Beach"
+          },
+          {
+            "title": "White-water Rafting",
+            "imageUrl": "https://images.pexels.com/photos/11871441/pexels-photo-11871441.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "time": "Approximately 2 hours",
+            "content": "Roar through exhilarating rapids while navigating scenic rivers—white-water rafting in Thailand delivers an adrenaline-pumping experience for water sports enthusiasts.",
+            "location": "Pai"
+          },
+          {
+            "title": "ATV Adventures",
+            "imageUrl": "https://media2.thrillophilia.com/images/photos/000/335/402/original/1597923983_shutterstock_414619522.jpg?width=975&height=600",
+            "time": "Approximately 2 hours",
+            "content": "Embark on thrilling off-road escapades, exploring Thailand's scenic landscapes on an ATV—this adventure promises an adrenaline rush and a unique way to connect with nature.",
+            "location": "Phuket"
+          },
+          {
+            "title": "Elephant Trekking",
+            "imageUrl": "https://cdn.pixabay.com/photo/2017/05/16/21/39/camp-elephants-2319080_1280.jpg",
+            "time": "Approximately 3 hours",
+            "content": "Immerse yourself in a cultural adventure with elephant trekking in Thailand, connecting with nature while ensuring the welfare of these majestic creatures.",
+            "location": "Chiang Mai"
+          },
+          {
+            "title": "Bungee Jumping",
+            "imageUrl": "https://www.tourismsikkim.in/ServerImage/336f7dc2-a5f3-45a6-be82-2ade54463535.jpeg",
+            "time": "Approximately 2 hours",
+            "content": "Feel the ultimate adrenaline rush as you take a leap into the void—bungee jumping in Thailand offers a heart-pounding experience amid stunning landscapes.",
+            "location": "Pattaya"
+          }
+        ]
+      },
+      "places": {
+        "title": "Discover Thailand's Captivating Destinations",
+        "subtitle": "Explore Thailand's diverse cities and natural wonders, each offering unique experiences and mesmerizing landscapes.",
+        "place": [
+          {
+            "title": "Bangkok",
+            "location": "Bangkok",
+            "content": "Thailand's vibrant capital blends ancient temples, bustling markets, and modern skyscrapers, creating a dynamic cityscape that never sleeps.",
+            "imageUrl": "https://cdn.pixabay.com/photo/2016/11/14/03/29/grand-palace-1822487_1280.jpg"
+          },
+          {
+            "title": "Chiang Mai",
+            "location": "Chiang Mai",
+            "content": "Nestled in Northern Thailand, Chiang Mai boasts rich history, stunning temples, and natural wonders, attracting cultural enthusiasts and nature lovers alike.",
+            "imageUrl": "https://media.istockphoto.com/id/635730734/photo/landmark-pagoda-in-doi-inthanon-national-park-at-chiang-mai.jpg?s=612x612&w=0&k=20&c=g4VNfpNdMTk5mjRUDAyw9VouNZVtItbK-w54PbjbU9g="
+          },
+          {
+            "title": "Phuket",
+            "location": "Phuket",
+            "content": "Thailand's largest island allures with its stunning beaches, vibrant nightlife, and a plethora of water activities, making it a haven for adventurers.",
+            "imageUrl": "https://cdn.pixabay.com/photo/2016/11/14/03/38/phra-nakhon-si-ayutthaya-1822502_1280.jpg"
+          },
+          {
+            "title": "Krabi",
+            "location": "Krabi",
+            "content": "A coastal gem known for towering limestone cliffs, crystal-clear waters, and a paradise for rock climbers and beach enthusiasts.",
+            "imageUrl": "https://media.istockphoto.com/id/1412139218/photo/aerial-drone-view-of-railay-beach-krabi-thailand.webp?b=1&s=170667a&w=0&k=20&c=uSehR44tI1YBSsAZTBf88PlShhGXtkdxvAhAtdG_IQ4="
+          },
+          {
+            "title": "Pai",
+            "location": "Pai",
+            "content": "This tranquil town in Northern Thailand offers a laid-back vibe, hot springs, waterfalls, and picturesque mountain landscapes, perfect for nature lovers.",
+            "imageUrl": "https://cdn.pixabay.com/photo/2019/04/15/08/08/thailand-4128687_1280.jpg"
+          },
+          {
+            "title": "Pattaya",
+            "location": "Pattaya",
+            "content": "Renowned for its lively nightlife, beautiful beaches, and diverse entertainment, Pattaya is a vibrant coastal city offering varied experiences.",
+            "imageUrl": "https://media.istockphoto.com/id/1533495845/photo/sanctuary-of-truth-pattaya-thailand-wooden-temple-by-the-ocean-at-sunset-on-the-beach-of.webp?b=1&s=170667a&w=0&k=20&c=la_gh53uT9j2voyPghcWkuoxxvxsZq3yfr3FW2fhRTs="
+          }
+        ]
+      },
+      "shop": {
+        "title": "Explore Thailand's Shopping Paradises",
+        "subtitle": "Discover a world of shopping delights in Thailand, from bustling markets to modern malls, offering a blend of local crafts and international fashion.",
+        "items": [
+          {
+            "title": "Chatuchak Weekend Market",
+            "shopFor": "Home decor",
+            "location": "Bangkok",
+            "time": "6:00 AM - 6:00 PM",
+            "imageUrl": "https://st.depositphotos.com/1000151/3760/i/450/depositphotos_37600481-stock-photo-chatuchak-market.jpg"
+          },
+          {
+            "title": "CentralWorld",
+            "shopFor": "Clothing",
+            "location": "Bangkok",
+            "time": "10:00 AM - 10:00 PM",
+            "imageUrl": "https://c4.wallpaperflare.com/wallpaper/797/345/217/centralworld-shopping-plaza-and-complex-in-bangkok-thailand-sixth-largest-in-the-world-owned-by-central-pattana-wallpaper-hd-2560%C3%971600-wallpaper-preview.jpg"
+          },
+          {
+            "title": "Jungceylon Shopping Mall",
+            "shopFor": "Clothing",
+            "location": "Phuket",
+            "time": "11:00 AM - 10:00 PM",
+            "imageUrl": "https://png.pngtree.com/thumb_back/fw800/background/20220215/pngtree-jungceylon-shopping-mall-in-patong-phuket-thailandapril-26th-photo-image_12074300.jpg"
+          },
+          {
+            "title": "Tha Pae Walking Street",
+            "shopFor": "Handicrafts",
+            "location": "Chiang Mai",
+            "time": "4:00 PM - 10:00 PM",
+            "imageUrl": "https://previews.123rf.com/images/501room/501room1412/501room141200009/34497835-chiang-mai-thailand-september-29-saturday-market-walking-street-popular-tourist-souvenirs-and-visit.jpg"
+          },
+          {
+            "title": "JJ Green Night Market",
+            "shopFor": "Vintage treasures",
+            "location": "Bangkok",
+            "time": "5:00 PM - 1:00 AM",
+            "imageUrl": "https://i0.wp.com/theholidaze.com/wp-content/uploads/2016/07/night-market-wallpaper.jpg"
+          },
+          {
+            "title": "Walking Street",
+            "shopFor": "Clothing",
+            "location": "Pattaya",
+            "time": "4:00 PM - 3:00 AM",
+            "imageUrl": "https://images.unsplash.com/photo-1538114618364-ae7f63d1ee7d?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGF0dGF5YSUyMGNpdHklMjB0aGFpbGFuZHxlbnwwfHwwfHx8MA%3D%3D"
+          }
+        ]
+      }
+    },
+    "dubai": {
+      "name": "Dubai",
+      "title": "Thrilling Group Excursion to Dubai: The City of Gold",
+      "imagePath": "/assets/Destinations/Dubai/Dubai.jpeg",
+      "about": "Experience Dubai's Marvels with Our Tailored Tour Packages\n\nDubai, often hailed as the City of Gold, unfolds a unique story with each exploration. Our curated Dubai packages invite you to indulge in the golden experiences this vibrant city has to offer, promising an unforgettable journey through this desert marvel.\n\nAs one of the United Arab Emirates' largest emirates, Dubai boasts a stunning array of both natural wonders and iconic landmarks. From the Burj Al Arab to the majestic Burj Khalifa, and the breathtaking Wadi Ghalilah, our Dubai tour packages allow you to explore these wonders and more. Beyond these marvels, Dubai's rich culture and delectable Emirati cuisine await your discovery during your visit with our Dubai holiday package.\n\nOnce a humble fishing village, Dubai has undergone a remarkable transformation, shattering traditional perceptions of desert landscapes. This exotic destination dazzles travelers with its plethora of spectacles, earning its place in every adventurer's heart and bucket list. Particularly favored among honeymooners, Dubai secures its spot among the top 10 honeymoon destinations worldwide, offering the perfect setting for couples through our specialized Dubai honeymoon package and Dubai package for couples.\n\nWith a range of Dubai packages tailored to diverse preferences, whether it's a Dubai family tour package or a Dubai group tour package, we ensure an experience suited to your needs. Select the perfect Dubai tour package while we take care of the rest.\n\nBefore diving into our Dubai packages, envision the diverse destinations awaiting exploration during your Dubai tour package.\n\nDubai boasts an abundance of treasures spread across various landscapes and neighborhoods. From the vibrant Sheikh Zayed Road and inner suburbs to the scenic Dubai Marina, each locality offers a unique charm. Among the cherished landmarks, marvel at the world's tallest man-made tower, the Burj Khalifa, and embrace the innovation at the Museum of the Future. Explore the vast Palm Island, the globe's largest artificial island, and more as you journey through your Dubai tour package.",
+      "bestSeller": ["dubai"],
+      "todos": {
+        "title": "Thrilling Adventures Await You in Dubai!",
+        "subtitle": "No Dubai tour is complete without embracing the adrenaline-pumping adventure activities that define the city's spirit. From sandboarding to skydiving, Dubai offers a myriad of heart-racing experiences that will leave you exhilarated.",
+        "todo": [
+          {
+            "title": "Sand Boarding",
+            "time": "Approximately 3 hours",
+            "location": "Al Badayer",
+            "content": "Sandboarding in Dubai is a must-do activity, offering the perfect terrain for an exciting adventure on the dunes.",
+            "imageUrl": "https://www.visitdubai.com/-/media/gathercontent/article/u/unforgettable-family-holiday-in-dubai/fallback-image/unforgettable-family-holiday-in-dubai-desert-header.jpg"
+          },
+          {
+            "title": "Dune Bashing",
+            "time": "Approximately 6 hours",
+            "location": "The Burlington Tower",
+            "imageUrl": "https://images.unsplash.com/photo-1624062999726-083e5268525d?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZHVuZSUyMGJhc2hpbmd8ZW58MHx8MHx8fDA%3D",
+            "content": "Experience an adrenaline rush with dune bashing, an unforgettable adventure that will etch lasting memories."
+          },
+          {
+            "title": "Skydiving",
+            "time": "Approximately 3 hours",
+            "location": "Dubai Marina",
+            "imageUrl": "https://images.pexels.com/photos/4135041/pexels-photo-4135041.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "content": "Skydiving is among the best adventure sports in Dubai. Conquer your fears by taking a leap from a plane high above the iconic Dubai Marina."
+          },
+          {
+            "title": "Bungee Jumping",
+            "time": "Approximately 20 minutes",
+            "location": "Meydan Road, Dubai",
+            "imageUrl": "https://assets.traveltriangle.com/blog/wp-content/uploads/2019/09/Bungee-Jumping-In-Dubai-og.jpg",
+            "content": "For the adventurous souls, bungee jumping in Dubai should be at the top of your list, providing an enthralling experience."
+          },
+          {
+            "title": "Shark Diving",
+            "time": "Approximately 2 hours",
+            "location": "Dubai Mall",
+            "imageUrl": "https://images.unsplash.com/photo-1560275619-4cc5fa59d3ae?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c2hhcmslMjBkaXZpbmd8ZW58MHx8MHx8fDA%3D",
+            "content": "Embark on a thrilling shark diving experience in Dubai, offering a close and personal encounter with these magnificent creatures."
+          },
+          {
+            "title": "Jet Skiing",
+            "time": "Approximately 1 hour",
+            "location": "Palm Jumeirah Beach, Dubai",
+            "imageUrl": "https://cdn.pixabay.com/photo/2019/06/20/20/05/jet-ski-4287967_1280.jpg",
+            "content": "Jet skiing in Dubai provides the perfect opportunity to explore the city from a different perspective while enjoying the thrill of sightseeing."
+          }
+        ]
+      },
+      "places": {
+        "title": "Explore Dubai's Iconic Destinations",
+        "subtitle": "Dubai, a city of marvels and wonders, offers a wealth of experiences for visitors seeking adventure, luxury shopping, and family-friendly attractions.",
+        "place": [
+          {
+            "title": "The Dubai Mall",
+            "time": "Approximately 3 hours",
+            "location": "Dubai",
+            "imageUrl": "https://cdn.pixabay.com/photo/2017/09/03/18/15/uae-2711481_640.jpg",
+            "content": "Known for its luxurious stores such as Harry Winston and Cartier, The Dubai Mall is a shopper's paradise offering high-end retail experiences."
+          },
+          {
+            "title": "Burj Khalifa",
+            "time": "Approximately 1 hour",
+            "location": "Downtown Dubai",
+            "imageUrl": "https://images.unsplash.com/flagged/photo-1559717865-a99cac1c95d8?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YnVyaiUyMGtoYWxpZmF8ZW58MHx8MHx8fDA%3D",
+            "content": "As the world's tallest building, Burj Khalifa is a must-visit attraction, offering breathtaking views and an unparalleled experience for families and tourists."
+          },
+          {
+            "title": "Burj Al Arab",
+            "time": "Approximately 1 day",
+            "location": "Umm Suqeim 3, Dubai",
+            "imageUrl": "https://www.100hdwallpapers.com/wallpapers/1600x1200/burj_al_arab_dubai_uae-standard_wallpapers.jpg",
+            "content": "The iconic sail-shaped Burj Al Arab stands tall as the world's tallest hotel, symbolizing modern Dubai's luxury and elegance."
+          },
+          {
+            "title": "Atlantis, The Palm",
+            "time": "Approximately 4 hours",
+            "location": "Jumeirah, Dubai",
+            "imageUrl": "https://images.unsplash.com/photo-1634148551170-d37d021e0cc9?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8YXRsYW50aXMlMjB0aGUlMjBwYWxtfGVufDB8fDB8fHww",
+            "content": "Situated on Palm Jumeirah, Atlantis The Palm boasts the first-ever private beach, offering captivating views of the Arabian Gulf."
+          },
+          {
+            "title": "Palm Islands",
+            "time": "Approximately 4 hours",
+            "location": "Dubai",
+            "imageUrl": "https://images.pexels.com/photos/10593605/pexels-photo-10593605.jpeg?cs=srgb&dl=pexels-abid-bin-nazar-10593605.jpg&fm=jpg",
+            "content": "A symbol of luxury, Palm Islands feature lavish restaurants and thrilling water parks, embodying Dubai's opulence."
+          },
+          {
+            "title": "Museum Of The Future",
+            "time": "Approximately 1 hour",
+            "location": "Trade Centre, Dubai",
+            "imageUrl": "https://images.pexels.com/photos/17117853/pexels-photo-17117853.jpeg?cs=srgb&dl=pexels-editz-central-editors-17117853.jpg&fm=jpg",
+            "content": "A testament to Dubai's innovative spirit, the Museum of the Future is a creative hub showcasing futuristic marvels."
+          }
+        ]
+      },
+      "shop": {
+        "title": "Indulge in Dubai's Shopping Extravaganza",
+        "subtitle": "Explore Dubai's vibrant shopping scene, offering a blend of international luxury and local treasures.",
+        "items": [
+          {
+            "title": "Wafi Mall Dubai",
+            "shopFor": "Immerse yourself in an Egyptian-themed shopping experience",
+            "time": "10:00 AM - 10:00 PM",
+            "location": "Umm Hurair 2 - Dubai",
+            "imageUrl": "https://cdn.pixabay.com/photo/2015/03/25/22/07/dubai-689550_1280.jpg"
+          },
+          {
+            "title": "Mall of the Emirates",
+            "shopFor": "Discover a vast array of international and Arabic goods",
+            "time": "10:00 AM - 11:00 PM",
+            "location": "Al Barsha 1 - Dubai",
+            "imageUrl": "https://st2.depositphotos.com/1040166/8051/i/450/depositphotos_80511384-stock-photo-mall-of-the-emirates.jpg"
+          },
+          {
+            "title": "Dubai Mall",
+            "shopFor": "Explore the world's largest shopping mall",
+            "time": "10:00 AM - 10:00 PM",
+            "location": "Next to Burj Khalifa - Dubai",
+            "imageUrl": "https://thumbs.dreamstime.com/b/dubai-mall-downtown-uae-73435163.jpg"
+          },
+          {
+            "title": "Ibn Battuta Mall",
+            "shopFor": "Indulge in a shopping spree for fashion and accessories",
+            "time": "10:00 AM - 10:00 PM",
+            "location": "Jebel Ali Village - Dubai",
+            "imageUrl": "https://images.unsplash.com/photo-1655375648819-8ae3fc7beca8?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+          },
+          {
+            "title": "Dubai Outlet Mall",
+            "shopFor": "Enjoy discounted prices and find incredible deals",
+            "time": "10:00 AM - 10:00 PM",
+            "location": "Dubai Al-Ain Road",
+            "imageUrl": "https://images.unsplash.com/photo-1562280963-8a5475740a10?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZHViYWklMjBtYWxsfGVufDB8fDB8fHww"
+          },
+          {
+            "title": "Mercato Shopping Mall",
+            "shopFor": "Immerse yourself in the charm of international fashion and lifestyle brands",
+            "time": "10:00 AM - 10:00 PM",
+            "location": "Jumeirah Beach Rd, Dubai",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Mercato_Shopping_Mall_on_5_June_2007_Pict_2.jpg/1200px-Mercato_Shopping_Mall_on_5_June_2007_Pict_2.jpg"
+          }
+        ]
+      }
     }
   }
 }
