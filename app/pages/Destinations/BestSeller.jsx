@@ -18,7 +18,7 @@ const TripsPackages = (props) => {
       </div>
       <div className="grid grid-cols-3 gap-x-8 gap-y-5 lg:grid-cols-2 md:grid-cols-1">
         {/* <div className="flex flex-wrap justify-center items-start"> */}
-        {data?.bestSeller.map((val, i) => (
+        {data?.bestSeller?.map((val, i) => (
           <PackageCard
             key={i}
             imageUrl={tripsData[val].imageUrl}
