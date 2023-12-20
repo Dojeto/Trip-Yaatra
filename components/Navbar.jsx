@@ -101,6 +101,9 @@ const Navbar = () => {
                 <Link href={"/international-trips/vietnam"} shallow>
                   <div className="p-1 text-sm">Vietnam</div>
                 </Link>
+                <Link href={"/international-trips/bhutan"} shallow>
+                  <div className="p-1 text-sm">Bhutan</div>
+                </Link>
                 <Link href={"/international-trips/bali"} shallow>
                   <div className="p-1 text-sm">Bali</div>
                 </Link>
