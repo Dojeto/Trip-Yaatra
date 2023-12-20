@@ -125,16 +125,16 @@
   },
   "meghalaya": {
     "tour": "india",
-    "title": "Exploring the Best of Andaman Islands: An 8-Day Tour Package",
-    "imageUrl": "/assets/Destinations/Andaman/Andaman.jpg",
+    "title": "8 Days Ultimate Adventure Trip to Meghalaya",
+    "imageUrl": "/assets/Destinations/Meghalaya/Meghalaya-trip.avif",
     "date": "06-01-24",
     "duration": "7N - 8D",
-    "price": "24,499",
-    "link": "/trips/andaman",
-    "tagline": "Explore The Untamed Beauty, Coupled With Unparalleled Adventure",
-    "destination": "Andaman",
-    "pickanddrop": "Delhi",
-    "about": "Spiti - The White Wonder: Experience the Unparalleled Beauty of the Ultimate Cold Desert.A trip to Spiti Valley is an exploration of unparalleled beauty, where the unique landscape stands out like a deserted wonder. Separated from fertile Lahaul by the towering 4551m Kunzum La, Spiti is a piece of Tibet nestled within India. Our Winter Edition – Spiti Valley Tour Package for 2024 invites you to revel in the snow-clad vistas of this magnificent cold desert.As you journey through Spiti, scattered villages emerge like mirages in a breathtaking moonscape, capturing your imagination unlike any other panorama you've ever encountered. The snow-covered whitewashed mud-brick homes, along with the iconic Key Monastery perched on high, create an otherworldly spectacle.Spiti Valley reignites a love for the forgotten. Send a postcard from the highest post office in the world or embark on fossil hunts in Spiti's villages. In Langza, a fossil village, a life-sized golden statue of Buddha welcomes you. The sedimentary rocks here conceal remnants of ancient plants and marine life, dating back millions of years. If fortunate, you might spot one!Amidst the shades of gray and white, the turquoise ribbon of the Spiti River emerges as your constant companion. Traversing a broad valley before veering south into the precipitous gorges of the Hangrang Valley at Sumdo. Spiti draws travelers, including streams of Indian motorcyclists, as a 'mini-Ladakh without tourist crowds.' This title rings true, as its pristine nature (high-altitude desert) and rich Tibetan Buddhist culture remain beautifully intact.",
+    "price": "25,999",
+    "link": "/trips/meghalaya",
+    "tagline": "Ultimate Adventure in Meghalaya: 8 Days Tour",
+    "destination": "Meghalaya",
+    "pickanddrop": "Guwahati",
+    "about": "Embark on an Ultimate Adventure Trip to Meghalaya and immerse yourself in breathtaking landscapes, rich cultural heritage, and thrilling outdoor activities this beautiful region offers.\n\nFrom charming Shillong to pristine Mawphlang village, and the stunning Laitlum Canyon to famous Double Decker Living Root Bridges, this Meghalaya Tour Package promises an unforgettable adventure.\n\nBegin your journey at picturesque Umiam Lake, surrounded by lush hills. Then, explore the sacred Mawphlang Sacred Grove, hiking ancient forests with rare medicinal plants.\n\nExperience the thrill of the Mawrynkhang Bamboo Trek in Wahkhen, crossing bamboo bridges and wooden ladders to reach majestic pinnacle rock.\n\nContinue to Shnonpdeng for water activities on Umgnot River and visit Asia's cleanest village, Mawlynnong.\n\nTrek through Cherrapunji's dense forests to witness the awe-inspiring Double Decker Living Root Bridges. Marvel at Nohkalikai and Wei Sawdong Falls.\n\nAs your adventure concludes, enjoy the scenic drive back to Guwahati, with a serene stop at Umiam Lake.\n\nThis ultimate adventure blends nature, culture, and adrenaline-pumping activities, ensuring an exhilarating experience and cherished memories in mystical Meghalaya.",
     "ytvideo": "",
     "itinerary": [
       {
@@ -154,6 +154,38 @@
     "similartrips": [],
     "trending": true
   },
+  "sikkim": {
+    "tour": "india",
+    "title": "7 Days Offbeat Sikkim Tour Package",
+    "imageUrl": "/assets/Destinations/Sikkim/Sikkim.jpg",
+    "date": "06-01-24",
+    "duration": "7N - 8D",
+    "price": "25,999",
+    "link": "/trips/sikkim",
+    "tagline": "Ultimate Adventure in Meghalaya: 8 Days Tour",
+    "destination": "Sikkim",
+    "pickanddrop": "Guwahati",
+    "about": "Embark on an Ultimate Adventure Trip to Meghalaya and immerse yourself in breathtaking landscapes, rich cultural heritage, and thrilling outdoor activities this beautiful region offers.\n\nFrom charming Shillong to pristine Mawphlang village, and the stunning Laitlum Canyon to famous Double Decker Living Root Bridges, this Meghalaya Tour Package promises an unforgettable adventure.\n\nBegin your journey at picturesque Umiam Lake, surrounded by lush hills. Then, explore the sacred Mawphlang Sacred Grove, hiking ancient forests with rare medicinal plants.\n\nExperience the thrill of the Mawrynkhang Bamboo Trek in Wahkhen, crossing bamboo bridges and wooden ladders to reach majestic pinnacle rock.\n\nContinue to Shnonpdeng for water activities on Umgnot River and visit Asia's cleanest village, Mawlynnong.\n\nTrek through Cherrapunji's dense forests to witness the awe-inspiring Double Decker Living Root Bridges. Marvel at Nohkalikai and Wei Sawdong Falls.\n\nAs your adventure concludes, enjoy the scenic drive back to Guwahati, with a serene stop at Umiam Lake.\n\nThis ultimate adventure blends nature, culture, and adrenaline-pumping activities, ensuring an exhilarating experience and cherished memories in mystical Meghalaya.",
+    "ytvideo": "",
+    "itinerary": [
+      {
+        "title": "Arrival At Srinagar - Overnight Stay At Srinagar",
+        "description": "test"
+      }
+    ],
+    "notes": "",
+    "videos": [],
+    "photos": [],
+    "testimonials": [],
+    "costing": [],
+    "inclusions": "",
+    "exclusions": "",
+    "other": "",
+    "thingtocarry": "",
+    "similartrips": [],
+    "trending": true
+  },
+  
   "7n-8d-best-of-vietnam-tour-package": {
     "tour": "international",
     "title": "Vietnam:Timeless Beauty, Endless Adventures",
@@ -202,6 +234,37 @@
       {
         "title": "Hanoi Arrival - Half-Day City Tour. Overnight Stay At Hanoi",
         "description": "Arrive at Noi Bai International Airport in Hanoi Meet your local guide and transfer to your hotel In the afternoon we will start exploring Hanoi by visiting the famous Train Street Next, we will visit Ba Dinh Square – the biggest square in Hanoi that houses the Complex of Ho Chi Minh alongside There you will visit the Ho Chi Minh Mausoleum, Ho Chi Minh's house-on-stilts, and his fish pond We will also visit the Japanese-style one-pillar Pagoda Further, you will visit Tran Quoc Pagoda located on a small peninsula on the East side of the dazzling West Lake, which is the most ancient pagoda in Hanoi with a history line of more than 1,500 years Later, we will stroll around the Old Quarters of Hanoi and the Hoan Kiem Lake (the “Sword” Lake) After completing the day's sightseeing you will transfer back to your hotel Overnight stay in Hanoi"
+      }
+    ],
+    "notes": "",
+    "videos": [],
+    "photos": [],
+    "testimonials": [],
+    "costing": [],
+    "inclusions": "",
+    "exclusions": "",
+    "other": "",
+    "thingtocarry": "",
+    "similartrips": [],
+    "trending": true
+  },
+  "bhutan": {
+    "tour": "international",
+    "title": "8 Days Bhutan Trip With Phobjikha Valley",
+    "imageUrl": "/assets/Destinations/Bhutan/bhutan-package.avif",
+    "date": "10-01-24",
+    "duration": "7N - 8D",
+    "price": "39,999",
+    "link": "/trips/bhutan",
+    "tagline": "A Journey to Bliss in the Himalayas",
+    "destination": "Bagdogra (Siliguri)",
+    "pickanddrop": "Bagdogra (Siliguri)",
+    "about": "Explore the Mystical Realm of Bhutan with our Tour Packages. Bhutan, famously known as the Land of the Thunder Dragon, nestled amidst the majestic Himalayas, offers a captivating journey enriched with natural splendor and a unique cultural tapestry. Our Bhutan Tour Packages unveil this serene destination, inviting you to experience its enchanting beauty and pursue the happiness-filled vacation you've been longing for. The expedition commences at Phuentsholing, the entryway to Bhutan. Crossing over from the Indian town of Jaigaon, a world of wonder unfolds. Phuentsholing, a vibrant hub, harmonizes Bhutanese and Indian influences, showcasing bustling cross-border trade and a flourishing local economy. The scenic drive from Phuentsholing to Thimphu weaves through picturesque landscapes, leaving behind the hustle as it reveals tranquil vistas.Upon arrival in Thimphu, the capital city charms with a blend of tradition and modernity. Walking through its streets allows a profound connection with its vibrant essence. Renowned for being the sole city without traffic lights globally, Thimphu offers an array of imported garments, local souvenirs, and exquisite handicrafts. Strolling through its lanes provides a peek into the harmonious coexistence of heritage and advancement.The journey further unfolds to Punakha, a serene valley revered for its beauty. En route, Dochula Pass unveils breathtaking Himalayan panoramas, inviting a moment of respite with a steaming cup of coffee or tea. Punakha, rich in cultural heritage, boasts the grand Punakha Dzong, the nation's second oldest and second-largest dzong. This architectural wonder not only embodies Bhutan's legacy but also serves as the winter abode of the Je Khenpo, the chief abbot. The expedition culminates in Paro, an idyllic region adorned with verdant rice fields and the crystal-clear Paro River. Paro's crown jewel is the Taktsang Monastery, the iconic Tiger's Nest Temple. Perched dramatically on a cliff, this sacred site offers an awe-inspiring trek and holds profound significance in Bhutan's spiritual realm. Exploring Paro unveils the country's rich history, invites visits to the unique National Museum, and allows for indulging in souvenirs showcasing Bhutanese craftsmanship.",
+    "ytvideo": "",
+    "itinerary": [
+      {
+        "title": "Hanoi Arrival - Half-Day City Tour. Overnight Stay At Hanoi",
+        "description": "Arrive at Noi Bai International Airport in Hanoi Meet your local guide and transfer to your hotel In the afternoon we will start exploring Hanoi by visiting the famous Train Street Next, we will visit Ba Dinh Square – the biggest square in Hanoi that houses the Complex of Ho Chi Minh alongside There you will visit the Ho Chi Minh Mausoleum, Ho Chi Minh's house-on-stilts, and his fish pond We will also visit the Japanese-style one-pillar Pagoda"
       }
     ],
     "notes": "",
