@@ -3,9 +3,152 @@
   "title": "A Tapestry of Cultures and Colors",
   "imagePath": "assets/international-trips.jpg",
   "bestSeller": ["7n-8d-best-of-vietnam-tour-package"],
+  "about": "International tour packages provide travelers with the chance to explore and experience destinations beyond their home borders. These comprehensive packages typically encompass transportation, accommodation, meals, and sightseeing activities in a foreign country. For those seeking to discover multiple destinations in a condensed timeframe, international holiday packages prove to be an excellent choice. They present an opportunity to uncover lesser-known, offbeat locales that may not be part of the conventional tourist circuit. From serene islands to charming towns and scenic landscapes, international tour packages are crafted to nourish the soul and refresh the mind. At the core of each international holiday package lies the commitment to hassle-free travel. Whether one is traveling with family, friends, or embarking on a solo journey, these packages manage all aspects of the trip, including flights, lodging, transfers, and guided tours. This allows travelers to concentrate on packing essentials and relishing their journey without being burdened by logistical details. With a diverse array of international tour packages available across various price ranges, finding an option that aligns with both budget and interests is easily achievable. From adventurous excursions to cultural immersions, and beach retreats to romantic escapades, international holiday packages offer an array of possibilities for exploration. Whether planning a honeymoon, family getaway, or a solo adventure, opting for an international tour package provides an ideal means to traverse the globe and craft enduring memories.",
   "packages": {
     "bali": {
-      "title": "Welcome To bali"
+      "name": "Bali",
+      "title": "Embark on a Divine Journey in the Land of Gods, Like Never Before!",
+      "imagePath": "/assets/bali.jpg",
+      "about": "Bali, an enchanting Indonesian island nestled in Southeast Asia, is a captivating blend of natural beauty, rich cultural heritage, and spiritual allure. Its picturesque landscapes, adorned with lush rice terraces, showcase the intricate Balinese subak irrigation system, while the island's pristine beaches and diverse marine life make it a haven for sun-seekers and water enthusiasts. Bali's cultural heart, Ubud, surrounded by verdant rainforests and terraced rice paddies, beckons artists and spiritual seekers. The island's Hindu-influenced culture is evident in its vibrant ceremonies, traditional dances, and sacred temples, with Pura Besakih, the Mother Temple, standing as a testament to its spiritual significance. Bali's culinary scene is a delectable journey, featuring dishes like Babi Guling and Bebek Betutu that tantalize the taste buds. Surfers flock to its shores, chasing world-class waves at spots like Uluwatu and Canggu. Mount Agung, the island's sacred volcano, adds a majestic touch to Bali's landscape. The allure of yoga retreats and holistic wellness practices further enhances Bali's reputation as a sanctuary for rejuvenation. With its warm hospitality and a harmonious blend of tradition and modernity, Bali remains a destination that captivates the hearts of millions of visitors each year.",
+      "bestSeller": ["bali-tour"],
+      "todos": {
+        "title": "Must-Do Activities for an Unforgettable Bali Experience",
+        "subtitle": "Embark on a journey through the heart of Vietnam, where excitement knows no bounds, and thrilling adventures await at every turn. Brace yourself for the ultimate thrill as we present an array of adrenaline-pumping experiences that promise to make your vacation truly unforgettable.",
+        "todo": [
+          {
+            "title": "Surfing",
+            "imageUrl": "https://images.pexels.com/photos/390051/surfer-wave-sunset-the-indian-ocean-390051.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "time": "4 hours approx",
+            "content": "Catch some of the world's best waves on Bali's southern beaches, popular among surfers of all skill levels.",
+            "location": "Kuta"
+          },
+          {
+            "title": "White Water Rafting",
+            "imageUrl": "https://images.pexels.com/photos/2348108/pexels-photo-2348108.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "time": "3 hours approx",
+            "content": "Navigate the thrilling rapids of Bali's rivers, surrounded by lush tropical forests and rice paddies.",
+            "location": "Ubud"
+          },
+          {
+            "title": "Mt. Batur Sunrise Trekking",
+            "imageUrl": "https://images.pexels.com/photos/5407316/pexels-photo-5407316.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "time": "4 hours approx",
+            "content": "Hike to the summit of this active volcano for a breathtaking sunrise view and a unique adventure.",
+            "location": "Kintamani"
+          },
+          {
+            "title": "Bali Swing",
+            "imageUrl": "https://images.pexels.com/photos/4534200/pexels-photo-4534200.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "time": "30 mins approx",
+            "content": "Swing over jungle canyons and rice fields on this popular Instagram-worthy attraction.",
+            "location": "Ubud"
+          },
+          {
+            "title": "Scuba Diving",
+            "imageUrl": "https://images.pexels.com/photos/2404370/pexels-photo-2404370.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "time": "1 hours approx",
+            "content": "Explore Bali's vibrant underwater world and encounter an array of marine life including manta rays, sharks and turtles.",
+            "location": "Nusa Penida"
+          },
+          {
+            "title": "ATV Ride",
+            "imageUrl": "https://images.pexels.com/photos/2986403/pexels-photo-2986403.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "time": "3 hours approx",
+            "content": "Ride through rice paddies, traditional villages and jungle tracks on an all-terrain vehicle, for a thrilling Bali adventure.",
+            "location": "Ubud"
+          }
+        ]
+      },
+      "places": {
+        "title": "Must-Visit Places in Bali for a Dream Vacation",
+        "subtitle": "Explore Bali's diverse cultural and natural landscapes, from ancient temples and serene rice terraces to stunning beaches and vibrant nightlife. Discover the top places to visit in Bali.",
+        "place": [
+          {
+            "title": "Ubud",
+            "imageUrl": "https://images.pexels.com/photos/19473996/pexels-photo-19473996/free-photo-of-scenic-resort-at-tegenungan-waterfall-in-ubud-bali.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "content": "Bali's cultural heart, home to ancient temples, rice terraces, and traditional arts. Best visited during the day.",
+            "location": "Ubud"
+          },
+          {
+            "title": "Uluwatu Temple",
+            "imageUrl": "https://images.pexels.com/photos/19457464/pexels-photo-19457464/free-photo-of-buddha-sculptures-by-temple.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "content": "A stunning cliffside temple with panoramic ocean views, located in the southern Bukit Peninsula. Best visited during sunset.",
+            "location": "Southern Bukit Peninsula"
+          },
+          {
+            "title": "Tanah Lot",
+            "imageUrl": "https://images.pexels.com/photos/18875283/pexels-photo-18875283/free-photo-of-tanah-lot-in-indonesia.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "content": "An iconic sea temple perched on a rock formation, located in Tabanan. Best visited during sunset.",
+            "location": "Tabanan Regency"
+          },
+          {
+            "title": "Mount Agung",
+            "imageUrl": "https://images.pexels.com/photos/6965412/pexels-photo-6965412.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "content": "Bali's highest volcano and a popular hiking destination, located in Karangasem. Best visited at sunrise",
+            "location": "Karangasem"
+          },
+          {
+            "title": "Tegalalang Rice Terraces",
+            "imageUrl": "https://images.pexels.com/photos/6713726/pexels-photo-6713726.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "content": "Serene rice paddies with Instagram-worthy views, located in central Bali near Ubud. Best visited during the day.",
+            "location": "Gianyar Regency"
+          },
+          {
+            "title": "Nusa Penida",
+            "imageUrl": "https://images.pexels.com/photos/6827322/pexels-photo-6827322.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "content": "A neighboring island with breathtaking beaches and natural landscapes, accessible by boat from Bali. Best visited during the day.",
+            "location": "Southeast of Bali"
+          }
+        ]
+      },
+      "shop": {
+        "title": "Best Places to Shop in Bali",
+        "subtitle": "Vietnam's vibrant markets offer a treasure trove of unique finds, from traditional handicrafts to modern fashion. Immerse yourself in the hustle and bustle of these top shopping destinations, where the spirit of commerce meets the rich tapestry of Vietnamese culture.",
+        "items": [
+          {
+            "title": "Ubud Art Market",
+            "time": "08:00 AM - 05:00 AM",
+            "imageUrl": "https://images.pexels.com/photos/3769010/pexels-photo-3769010.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "shopFor": "Handicrafts & Balinese souvenirs",
+            "location": "Central Ubud"
+          },
+          {
+            "title": "Kuta Art Market",
+            "time": "08:00 AM - 10:00 PM",
+            "imageUrl": "https://images.pexels.com/photos/3758169/pexels-photo-3758169.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "shopFor": "clothing, sarongs, wooden carvings & paintings.",
+            "location": "Kuta"
+          },
+          {
+            "title": "Seminyak Village",
+            "time": "10:00 AM - 10:00 PM",
+            "imageUrl": "https://images.pexels.com/photos/19485117/pexels-photo-19485117/free-photo-of-houses-near-road-in-village-in-winter.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "shopFor": "Fashion brands, jewelry, home decor",
+            "location": "Seminyak"
+          },
+          {
+            "title": "Sukawati Art Market",
+            "time": "08:00 AM - 05:00 AM",
+            "imageUrl": "https://images.pexels.com/photos/318238/pexels-photo-318238.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "shopFor": "Handicrafts, wooden carvings & souvenirs",
+            "location": "Gianyar"
+          },
+          {
+            "title": "Beachwalk Shopping Center",
+            "time": "10:00 AM - 10:00 PM",
+            "imageUrl": "https://images.pexels.com/photos/4329929/pexels-photo-4329929.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "shopFor": "Beachwear & accessories",
+            "location": "Kuta"
+          },
+          {
+            "title": "Bali Collection",
+            "time": "10:00 AM - 10:00 PM",
+            "imageUrl": "https://images.pexels.com/photos/3070211/pexels-photo-3070211.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "shopFor": "Jewelry, home decor & art galleries",
+            "location": "Kuta"
+          }
+        ]
+      }
     },
     "vietnam": {
       "name": "Vietnam",
@@ -589,6 +732,151 @@
             "time": "10:00 AM - 10:00 PM",
             "location": "Jumeirah Beach Rd, Dubai",
             "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Mercato_Shopping_Mall_on_5_June_2007_Pict_2.jpg/1200px-Mercato_Shopping_Mall_on_5_June_2007_Pict_2.jpg"
+          }
+        ]
+      }
+    },
+    "malaysia": {
+      "name": "Malaysia",
+      "title": "Malaysia Tour Packages: Discover Beauty and Diversity",
+      "imagePath": "",
+      "about": "",
+      "bestSeller": ["dubai"],
+      "todos": {
+        "title": "Thrilling Adventure Activities in Malaysia for Your Vacation",
+        "subtitle": "Uncover the Thrill: Adventure Activities in Malaysia Await! From breathtaking landscapes to diverse wildlife, prepare for an unforgettable journey filled with adrenaline-pumping experiences in this captivating Southeast Asian destination",
+        "todo": [
+          {
+            "title": "Jungle Trekking",
+            "imageUrl": "https://images.unsplash.com/photo-1521115715763-2fcaa0608e9b?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "time": "4 hours approx",
+            "content": "Experience the Thrill: Jungle Trekking Adventure in Malaysia. Delve into lush rainforests, encounter diverse wildlife, and revel in stunning natural beauty.",
+            "location": "Taman Negara"
+          },
+          {
+            "title": "Microlight Aircraft",
+            "imageUrl": "https://www.sherburnaeroclub.com/storage/medialibrary/microlights-vs-light-aircrafts-16517504879oFxw.jpg",
+            "time": "15 minutes approx",
+            "content": "Embrace Thrills: Soar Above Malaysia's Landscapes in a Microlight Aircraft. Experience breathtaking aerial views that will leave you in awe.",
+            "location": "Kuala Lumpur"
+          },
+          {
+            "title": "Whitewater Rafting",
+            "imageUrl": "https://images.unsplash.com/photo-1593107757644-25f0b23e9297?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "time": "3 hours approx",
+            "content": "Get Set for an Adrenaline Rush: Conquer Thrilling Rapids with Whitewater Rafting in Malaysia. Experience breathtaking river scenery on this thrilling adventure.",
+            "location": "Sungai Selangor"
+          },
+          {
+            "title": "Skyway Cable Car",
+            "imageUrl": "https://images.unsplash.com/photo-1630313759127-74ce46326bb5?q=80&w=2073&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "time": "15 minutes approx",
+            "content": "Experience the Majesty: Glide Across Malaysia's Skies on a Skyway Cable Car. Marvel at breathtaking panoramic views of the surrounding landscapes.",
+            "location": "Langkawi"
+          },
+          {
+            "title": "Wildlife Safaris",
+            "imageUrl": "https://images.unsplash.com/photo-1569865225466-ff4c18a1754f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "time": "5 hours approx",
+            "content": "Explore Captivating Wildlife Safaris in Malaysia's Lush Rainforests and Biodiverse Habitats. Encounter Exotic Animals for Unforgettable Wildlife Encounters.",
+            "location": "Taman Negara"
+          },
+          {
+            "title": "Bungee Jumping",
+            "imageUrl": "https://images.unsplash.com/photo-1595778039451-58a7c2946e7d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "time": "5 minutes approx",
+            "content": "Experience the Ultimate Thrill: Bungee Jumping Adventures in Malaysia. Feel the Adrenaline Rush of Freefalling for an Unforgettable Adventure.",
+            "location": "Kuala Lumpur"
+          }
+        ]
+      },
+      "places": {
+        "title": "Unforgettable Adventures Await: Explore Malaysia's Top Must-Visit Destinations!",
+        "subtitle": "Unveil Malaysia's Allure: Diverse Landscapes, Rich Heritage, Vibrant Cityscapes. Explore Top Destinations – Stunning Beaches to Historic Sites.",
+        "place": [
+          {
+            "title": "Langkawi Island",
+            "location": "Langkawi Island",
+            "content": "Langkawi Island: Malaysia's Tropical Paradise. Experience Pristine Beaches, Turquoise Waters, and Breathtaking Natural Landscapes.",
+            "imageUrl": "https://i.ytimg.com/vi/er5SfhGgvNk/maxresdefault.jpg"
+          },
+          {
+            "title": "Kuala Lumpur",
+            "location": "Kuala Lumpur",
+            "content": "Kuala Lumpur: Malaysia's Vibrant Capital. Explore Iconic Skyline, Cultural Diversity, Bustling Markets, and Modern Attractions.",
+            "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-674x446/0a/b1/ac/e8.jpg"
+          },
+          {
+            "title": "Penang",
+            "location": "Penang",
+            "content": "Penang: Malaysia's Captivating Island. Explore UNESCO-listed George Town, Delectable Street Food, and Rich Multicultural Heritage.",
+            "imageUrl": "https://a.cdn-hotels.com/gdcs/production37/d629/c1af3626-18e0-4621-b255-8af464a0ef63.jpg"
+          },
+          {
+            "title": "Malacca",
+            "location": "Malacca",
+            "content": "Malacca: Malaysia's Historic Gem. Discover UNESCO-listed Heritage Sites, Vibrant Jonker Street, and Delectable Nyonya Cuisine.",
+            "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-674x446/06/71/3c/b2.jpg"
+          },
+          {
+            "title": "Kinabatangan",
+            "location": "Kinabatangan",
+            "content": "Kinabatangan, Malaysia: A Wildlife Haven. Explore Lush Rainforests, River Cruises, Orangutans, Proboscis Monkeys, and Diverse Bird Species for an Extraordinary Experience.",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/Pekan_Kota_Kinabatangan_Kinabatangan_Sabah.jpg"
+          },
+          {
+            "title": "Mount Kinabalu",
+            "location": "Mount Kinabalu",
+            "content": "Mount Kinabalu: Malaysia's Majestic Peak. A Challenging Climb, Stunning Vistas, and the Chance to Conquer Southeast Asia's Highest Summit Await Adventurers.",
+            "imageUrl": "https://www.intrepidtravel.com/adventures/wp-content/uploads/2019/05/Intrepid-Travel-borneo_mt-kinabalu_female-pax.jpg"
+          }
+        ]
+      },
+      "shop": {
+        "title": "Discover Malaysia's Premier Shopping Destinations!",
+        "subtitle": "Explore Retail Delights: Malaysia's Shopper's Paradise! From diverse malls to bustling street markets and traditional bazaars, uncover an unforgettable shopping experience. Discover the Top Places to Shop in Malaysia!",
+        "items": [
+          {
+            "title": "Petaling Street",
+            "shopFor": "Clothing",
+            "location": "Kuala Lumpur",
+            "time": "04:00 PM - 10:00 PM",
+            "imageUrl": "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/473000/473312-Petaling-Street-Market.jpg"
+          },
+          {
+            "title": "Central Market",
+            "shopFor": "Souvenirs",
+            "location": "Kuala Lumpur",
+            "time": "10:00 AM - 10:00 PM",
+            "imageUrl": "https://thumbs.dreamstime.com/b/souvenir-store-central-market-kuala-lumpur-sept-was-founded-used-as-wet-current-art-deco-style-building-152147742.jpg"
+          },
+          {
+            "title": "Suria KLCC",
+            "shopFor": "Designer Boutiques",
+            "location": "Kuala Lumpur",
+            "time": "10:00 AM - 10:00 PM",
+            "imageUrl": "https://images.unsplash.com/photo-1573612664822-d7d347da7b80?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+          },
+          {
+            "title": "Berjaya Times Square",
+            "shopFor": "Candies",
+            "location": "Kuala Lumpur",
+            "time": "10:00 AM - 10:00 PM",
+            "imageUrl": "https://images.unsplash.com/photo-1601493701002-3223e7e1ebaf?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+          },
+          {
+            "title": "Gurney Plaza",
+            "shopFor": "Apparels",
+            "location": "Penang",
+            "time": "10:00 AM - 10:00 PM",
+            "imageUrl": "https://5.imimg.com/data5/HH/JP/GLADMIN-52487796/solution-for-apparels-500x500.png"
+          },
+          {
+            "title": "Cameron Square",
+            "shopFor": "Gadgets",
+            "location": "Pahang",
+            "time": "10:00 AM - 10:00 PM",
+            "imageUrl": "https://images.unsplash.com/photo-1526738549149-8e07eca6c147?q=80&w=1925&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
           }
         ]
       }

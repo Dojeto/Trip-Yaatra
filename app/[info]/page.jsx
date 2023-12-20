@@ -31,10 +31,10 @@ const Trips = ({ params }) => {
       <PackageHero
         imageUrl={data?.imagePath}
         title={data?.title}
-        content=""
         name={data?.name}
+        about={data?.about}
       />
-      <ReadMoreContent />
+      <ReadMoreContent name={data?.name} about={data?.about} />
       <BestSeller data={data} />
       <Packages data={tripsData} info={info} />
       {/* <Secrets /> */}

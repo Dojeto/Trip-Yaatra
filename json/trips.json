@@ -217,6 +217,37 @@
     "similartrips": [],
     "trending": true
   },
+  "bali-tour": {
+    "tour": "international",
+    "title": "Bali: Island of Gods",
+    "imageUrl": "/assets/bali-package.jpg",
+    "date": "10-05-10",
+    "duration": "6N - 7D",
+    "price": "27,999",
+    "link": "/trips/bali-tour",
+    "tagline": "Bali, the Indonesian paradise, captivates with its stunning landscapes, vibrant culture, and spiritual allure.",
+    "destination": "Mumbai",
+    "pickanddrop": "Mumbai",
+    "about": "Bali, an enchanting Indonesian island nestled in Southeast Asia, is a captivating blend of natural beauty, rich cultural heritage, and spiritual allure. Its picturesque landscapes, adorned with lush rice terraces, showcase the intricate Balinese subak irrigation system, while the island's pristine beaches and diverse marine life make it a haven for sun-seekers and water enthusiasts. Bali's cultural heart, Ubud, surrounded by verdant rainforests and terraced rice paddies, beckons artists and spiritual seekers. The island's Hindu-influenced culture is evident in its vibrant ceremonies, traditional dances, and sacred temples, with Pura Besakih, the Mother Temple, standing as a testament to its spiritual significance. Bali's culinary scene is a delectable journey, featuring dishes like Babi Guling and Bebek Betutu that tantalize the taste buds. Surfers flock to its shores, chasing world-class waves at spots like Uluwatu and Canggu. Mount Agung, the island's sacred volcano, adds a majestic touch to Bali's landscape. The allure of yoga retreats and holistic wellness practices further enhances Bali's reputation as a sanctuary for rejuvenation. With its warm hospitality and a harmonious blend of tradition and modernity, Bali remains a destination that captivates the hearts of millions of visitors each year.",
+    "ytvideo": "",
+    "itinerary": [
+      {
+        "title": "Hanoi Arrival - Half-Day City Tour. Overnight Stay At Hanoi",
+        "description": "Arrive at Noi Bai International Airport in Hanoi Meet your local guide and transfer to your hotel In the afternoon we will start exploring Hanoi by visiting the famous Train Street Next, we will visit Ba Dinh Square – the biggest square in Hanoi that houses the Complex of Ho Chi Minh alongside There you will visit the Ho Chi Minh Mausoleum, Ho Chi Minh's house-on-stilts, and his fish pond We will also visit the Japanese-style one-pillar Pagoda Further, you will visit Tran Quoc Pagoda located on a small peninsula on the East side of the dazzling West Lake, which is the most ancient pagoda in Hanoi with a history line of more than 1,500 years Later, we will stroll around the Old Quarters of Hanoi and the Hoan Kiem Lake (the “Sword” Lake) After completing the day's sightseeing you will transfer back to your hotel Overnight stay in Hanoi"
+      }
+    ],
+    "notes": "",
+    "videos": [],
+    "photos": [],
+    "testimonials": [],
+    "costing": [],
+    "inclusions": "",
+    "exclusions": "",
+    "other": "",
+    "thingtocarry": "",
+    "similartrips": [],
+    "trending": true
+  },
   "bhutan": {
     "tour": "international",
     "title": "8 Days Bhutan Trip With Phobjikha Valley",
