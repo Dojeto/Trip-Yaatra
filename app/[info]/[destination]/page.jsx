@@ -28,7 +28,6 @@ const page = ({ params }) => {
           <Hero
             imageUrl={data.packages[destination].imagePath}
             title={data.packages[destination].title}
-            content=""
             name={data.packages[destination].name}
             about = {data.packages[destination].about}
           />

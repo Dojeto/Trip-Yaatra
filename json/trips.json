@@ -185,130 +185,6 @@
     "similartrips": [],
     "trending": true
   },
-  "uttarakhand": {
-    "tour": "india",
-    "title": "Experience the Unexplored: 7-Day Offbeat Uttarakhand Tour Package",
-    "imageUrl": "/assets/Destinations/UTTARAKHAND/UTTARAKHAND.jpg",
-    "date": "Any dateof your choice",
-    "duration": "7N - 8D",
-    "price": "25,999",
-    "link": "/trips/uttarakhand",
-    "tagline": "Ultimate Adventure in Uttarakhand: 8 Days Tour",
-    "destination": "Uttarakhand",
-    "pickanddrop": "Delhi",
-    "about": "Embark on an extraordinary expedition through Uttarakhand, a land of diverse landscapes, spiritual sanctuaries, and thrilling escapades that promise an unforgettable journey. Begin your odyssey in the scenic town of Nainital, nestled amidst the Kumaon hills around the emerald Naini Lake. Explore the revered temples and vibrant markets, soaking in the cultural richness. Venture deeper into the heart of the Himalayas to witness the breathtaking beauty of Ranikhet, surrounded by lush forests and panoramic mountain vistas. Trek through the mystical trails of Valley of Flowers, a UNESCO World Heritage Site, adorned with vibrant blooms and rare flora. Delve into the adrenaline rush of adventure sports in Rishikesh, where the Ganges River offers thrilling white-water rafting experiences. Visit the sacred town of Haridwar, immersing yourself in the spiritual fervor of evening Ganga Aarti ceremonies. Conclude your expedition with a tranquil sojourn in Mussoorie, fondly called the Queen of Hills, and savor the panoramic views from atop Lal Tibba. This ultimate escapade through Uttarakhand seamlessly weaves together spirituality, adventure, and natural splendor, creating cherished memories of an enchanting journey.",
-    "ytvideo": "",
-    "itinerary": [
-      {
-        "title": "Arrival At Srinagar - Overnight Stay At Srinagar",
-        "description": "test"
-      }
-    ],
-    "notes": "",
-    "videos": [],
-    "photos": [],
-    "testimonials": [],
-    "costing": [],
-    "inclusions": "",
-    "exclusions": "",
-    "other": "",
-    "thingtocarry": "",
-    "similartrips": [],
-    "trending": true
-  },
-  "himachalpradesh": {
-    "tour": "india",
-    "title": "7-Day Himachal Tour: Ex-Chandigarh - A Himalayan Adventure!",
-    "imageUrl": "/assets/Destinations/himachalpradesh/himachalpradesh.jpg",
-    "date": "Any dateof your choice",
-    "duration": "6N - 7D",
-    "price": "23,999",
-    "link": "/trips/himachalpradesh",
-    "tagline": "Ultimate Adventure in Himachal Pradesh: 7 Days Tour",
-    "destination": "Himachal Pradesh",
-    "pickanddrop": "Chandigarh",
-    "about": "Embark on an extraordinary odyssey through Himachal Pradesh, a land of majestic peaks, sprawling valleys, and diverse cultural treasures. Commence your adventure in the historic town of Shimla, graced with colonial architecture and panoramic views, then journey through the scenic landscapes to Manali, where the allure of snow-capped mountains invites thrilling escapades and serene moments alike. Explore the spiritual enclave of Dharamshala, embracing Tibetan heritage in the picturesque setting of McLeod Ganj. Venture further to Spiti Valley, an ethereal expanse offering glimpses of ancient monasteries and raw, untouched beauty. Traverse the enchanting terrains of Kinnaur, where verdant fields and traditional hamlets captivate the senses. Experience the vibrant culture of Kullu before concluding your expedition amidst the serene vistas of Dalhousie, each stop on this epic journey revealing a tapestry of spirituality, adventure, and cultural richness that defines Himachal Pradesh's irresistible charm.",
-    "ytvideo": "",
-    "itinerary": [
-      {
-        "title": "Arrival At Srinagar - Overnight Stay At Srinagar",
-        "description": "test"
-      }
-    ],
-    "notes": "",
-    "videos": [],
-    "photos": [],
-    "testimonials": [],
-    "costing": [],
-    "inclusions": "",
-    "exclusions": "",
-    "other": "",
-    "thingtocarry": "",
-    "similartrips": [],
-    "trending": true
-  },
-  "kerala": {
-    "tour": "india",
-    "title": "Discover the Hidden Gems: 7-Day Offbeat Kerala Tour Package",
-    "imageUrl": "/assets/Destinations/kerala/kerala.jpg",
-    "date": "Any dateof your choice",
-    "duration": "6N - 7D",
-    "price": "26,999",
-    "link": "/trips/kerala",
-    "tagline": "Ultimate Adventure in Kerala: 7 Days Tour",
-    "destination": "Kerala",
-    "pickanddrop": "Kochi to Trivandrum",
-    "about": "Embark on a captivating odyssey through Kerala, a land known for its verdant landscapes, tranquil backwaters, and vibrant cultural tapestry, promising an unparalleled expedition. Begin your sojourn in the bustling city of Kochi, where history resonates through its colonial heritage and ancient spice trade routes. Explore the iconic Chinese fishing nets, the enchanting Mattancherry Palace, and the vibrant streets of Fort Kochi adorned with street art and diverse cultures. Cruise through the serene backwaters of Alleppey on a traditional houseboat, drifting past emerald-green paddy fields and quaint villages that offer a glimpse into Kerala's rustic charm. Immerse yourself in the lush tea plantations of Munnar, breathing in the crisp mountain air while wandering through aromatic tea gardens and cascading waterfalls. Discover the rich biodiversity of Thekkady's Periyar Wildlife Sanctuary, where a boat safari unveils the fascinating wildlife amidst dense forests. Indulge your senses in the traditional art forms of Kathakali and Mohiniyattam, and relish the tantalizing flavors of Kerala's culinary delights, from spicy seafood to traditional Sadhya meals. Conclude your expedition in the tranquil embrace of Kovalam's pristine beaches, basking in the golden sunsets over the Arabian Sea. This ultimate voyage through Kerala seamlessly blends cultural experiences, natural wonders, and serene vistas, crafting cherished memories of an enchanting escapade.",
-    "ytvideo": "",
-    "itinerary": [
-      {
-        "title": "Arrival At Srinagar - Overnight Stay At Srinagar",
-        "description": "test"
-      }
-    ],
-    "notes": "",
-    "videos": [],
-    "photos": [],
-    "testimonials": [],
-    "costing": [],
-    "inclusions": "",
-    "exclusions": "",
-    "other": "",
-    "thingtocarry": "",
-    "similartrips": [],
-    "trending": true
-  },
-  "rajasthan": {
-    "tour": "india",
-    "title": "Unveil Hidden Treasures: 7-Day Offbeat Rajasthan Tour",
-    "imageUrl": "/assets/Destinations/rajasthan/rajasthan.jpg",
-    "date": "Any dateof your choice",
-    "duration": "6N - 7D",
-    "price": "24,999",
-    "link": "/trips/rajasthan",
-    "tagline": "Ultimate Adventure in Rajasthan: 7 Days Tour",
-    "destination": "Rajasthan",
-    "pickanddrop": "Gurugram",
-    "about": "Embark on an enchanting expedition through Rajasthan, a land steeped in regal grandeur, vibrant hues, and rich cultural heritage. Begin your journey in the majestic city of Jaipur, known as the Pink City, adorned with magnificent palaces, bustling bazaars, and the iconic Amber Fort. Explore the historic Mehrangarh Fort in Jodhpur, surrounded by blue-hued houses, and delve into the city's captivating tales of valor and royalty. Traverse through the golden sands of Thar Desert in Jaisalmer, where intricately carved havelis and the imposing Jaisalmer Fort narrate stories of ancient opulence. Witness the holy city of Pushkar, with its sacred lake and the renowned Brahma Temple, offering a spiritual respite amidst the bustling markets. Discover the romantic city of Udaipur, adorned with shimmering lakes, ornate palaces like the City Palace, and the ethereal charm of the Lake Pichola. Immerse yourself in Rajasthan's folk music and dance, savor the aromatic flavors of Rajasthani cuisine, and witness the colorful festivals that epitomize the state's cultural richness. This ultimate Rajasthan expedition promises a captivating blend of royal splendor, architectural marvels, and cultural extravagance, creating enduring memories of a majestic sojourn.",
-    "ytvideo": "",
-    "itinerary": [
-      {
-        "title": "Arrival At Srinagar - Overnight Stay At Srinagar",
-        "description": "test"
-      }
-    ],
-    "notes": "",
-    "videos": [],
-    "photos": [],
-    "testimonials": [],
-    "costing": [],
-    "inclusions": "",
-    "exclusions": "",
-    "other": "",
-    "thingtocarry": "",
-    "similartrips": [],
-    "trending": true
-  },
 
   "7n-8d-best-of-vietnam-tour-package": {
     "tour": "international",
@@ -322,6 +198,37 @@
     "destination": "Hanoi- Ho Chi Minh",
     "pickanddrop": "Hanoi- Ho Chi Minh",
     "about": "Vietnam, renowned for its rich blend of history, culture, and natural splendor, attracts millions of tourists annually. The country boasts captivating cities, each with its distinct characteristics and attractions, making a Vietnam tour package an ideal choice for a memorable vacation. Hanoi, the capital, seamlessly marries old-world charm with modernity, inviting visitors to explore its ancient temples, winding streets, bustling markets, and trendy cafes. Ho Chi Minh City, also known as Saigon, stands out as Vietnam's largest city, featuring a unique blend of colonial architecture, modern skyscrapers, and traditional markets. It serves as a historical and cultural hub, with museums and landmarks showcasing the nation's rich past. Other noteworthy cities like Hue, home to the historic Imperial City, and Hoi An, a coastal town with well-preserved ancient architecture, offer diverse experiences. A visit to the breathtaking Halong Bay, characterized by towering limestone cliffs and emerald waters, is an essential part of any Vietnam itinerary. Overall, Vietnam provides a plethora of experiences, and its cities, whether for history, culture, cuisine, or natural beauty, promise an unforgettable journey through this captivating destination.",
+    "ytvideo": "",
+    "itinerary": [
+      {
+        "title": "Hanoi Arrival - Half-Day City Tour. Overnight Stay At Hanoi",
+        "description": "Arrive at Noi Bai International Airport in Hanoi Meet your local guide and transfer to your hotel In the afternoon we will start exploring Hanoi by visiting the famous Train Street Next, we will visit Ba Dinh Square – the biggest square in Hanoi that houses the Complex of Ho Chi Minh alongside There you will visit the Ho Chi Minh Mausoleum, Ho Chi Minh's house-on-stilts, and his fish pond We will also visit the Japanese-style one-pillar Pagoda Further, you will visit Tran Quoc Pagoda located on a small peninsula on the East side of the dazzling West Lake, which is the most ancient pagoda in Hanoi with a history line of more than 1,500 years Later, we will stroll around the Old Quarters of Hanoi and the Hoan Kiem Lake (the “Sword” Lake) After completing the day's sightseeing you will transfer back to your hotel Overnight stay in Hanoi"
+      }
+    ],
+    "notes": "",
+    "videos": [],
+    "photos": [],
+    "testimonials": [],
+    "costing": [],
+    "inclusions": "",
+    "exclusions": "",
+    "other": "",
+    "thingtocarry": "",
+    "similartrips": [],
+    "trending": true
+  },
+  "bali-tour": {
+    "tour": "international",
+    "title": "Bali: Island of Gods",
+    "imageUrl": "/assets/bali-package.jpg",
+    "date": "10-05-10",
+    "duration": "6N - 7D",
+    "price": "27,999",
+    "link": "/trips/bali-tour",
+    "tagline": "Bali, the Indonesian paradise, captivates with its stunning landscapes, vibrant culture, and spiritual allure.",
+    "destination": "Mumbai",
+    "pickanddrop": "Mumbai",
+    "about": "Bali, an enchanting Indonesian island nestled in Southeast Asia, is a captivating blend of natural beauty, rich cultural heritage, and spiritual allure. Its picturesque landscapes, adorned with lush rice terraces, showcase the intricate Balinese subak irrigation system, while the island's pristine beaches and diverse marine life make it a haven for sun-seekers and water enthusiasts. Bali's cultural heart, Ubud, surrounded by verdant rainforests and terraced rice paddies, beckons artists and spiritual seekers. The island's Hindu-influenced culture is evident in its vibrant ceremonies, traditional dances, and sacred temples, with Pura Besakih, the Mother Temple, standing as a testament to its spiritual significance. Bali's culinary scene is a delectable journey, featuring dishes like Babi Guling and Bebek Betutu that tantalize the taste buds. Surfers flock to its shores, chasing world-class waves at spots like Uluwatu and Canggu. Mount Agung, the island's sacred volcano, adds a majestic touch to Bali's landscape. The allure of yoga retreats and holistic wellness practices further enhances Bali's reputation as a sanctuary for rejuvenation. With its warm hospitality and a harmonious blend of tradition and modernity, Bali remains a destination that captivates the hearts of millions of visitors each year.",
     "ytvideo": "",
     "itinerary": [
       {
