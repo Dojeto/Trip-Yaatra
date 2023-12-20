@@ -2,9 +2,7 @@
   "name": "International",
   "title": "A Tapestry of Cultures and Colors",
   "imagePath": "assets/international-trips.jpg",
-  "bestSeller": [
-    "7n-8d-best-of-vietnam-tour-package"
-  ],
+  "bestSeller": ["7n-8d-best-of-vietnam-tour-package"],
   "packages": {
     "bali": {
       "title": "Welcome To bali"
@@ -14,9 +12,7 @@
       "title": "Beauty and Thrills: An Unforgettable Fusion",
       "imagePath": "/assets/vietnam.jpg",
       "about": "Experience the timeless allure of Vietnam with our meticulously crafted tour packages. From the bustling streets of Hanoi to the stunning landscapes of Ha Long Bay, our itineraries promise an immersive journey through the rich history, diverse culture, and breathtaking beauty of this enchanting country. Discover the diverse landscapes that define Vietnam, from pristine beaches and dense jungles to lush rice terraces and awe-inspiring karst formations. Whether you're cruising through Ha Long Bay, trekking in Sapa, exploring Phong Nha-Ke Bang National Park, or simply relaxing in Nha Trang, our packages cater to every traveler's interests. Beyond the landscapes, delve into Vietnam's rich history and cultural heritage, exploring landmarks like the imperial citadel of Hue and the historic tunnels of Cu Chi. Our tours provide a deep understanding of the country's past, shaped by influences from Chinese, French, and indigenous cultures. Meet the warm and welcoming Vietnamese people, experiencing their customs and traditions as you traverse markets in Hanoi or float along the Mekong Delta. Our well-crafted itineraries ensure genuine and memorable encounters that showcase the heart and soul of Vietnam. For culinary enthusiasts, our packages offer a tantalizing journey through Vietnam's vibrant food scene. Sample regional specialties, learn cooking techniques in Hoi An, and immerse yourself in the fragrant herbs and bold flavors of Vietnamese cuisine. Adventure seekers can indulge in heart-pounding activities such as trekking in Sapa, cycling through Ninh Binh's countryside, kayaking in Ha Long Bay, and exploring caves in Phong Nha-Ke Bang National Park. Vietnam's diverse landscapes provide an exhilarating playground for outdoor enthusiasts. Come, let WanderOn guide you through the beauty, history, and adventure that make Vietnam a destination like no other. Uncover the magic of Vietnam with our thoughtfully curated tour packages, creating memories that will last a lifetime.",
-      "bestSeller": [
-        "7n-8d-best-of-vietnam-tour-package"
-      ],
+      "bestSeller": ["7n-8d-best-of-vietnam-tour-package"],
       "todos": {
         "title": "Unveil Vietnam's Unforgettable Adventures for an Adrenaline-Packed Getaway!",
         "subtitle": "Embark on a journey through the heart of Vietnam, where excitement knows no bounds, and thrilling adventures await at every turn. Brace yourself for the ultimate thrill as we present an array of adrenaline-pumping experiences that promise to make your vacation truly unforgettable.",
@@ -155,7 +151,296 @@
           }
         ]
       }
+    },
+    "bhutan": {
+      "name": "Bhutan",
+      "title": "A Land of Mystical Beauty and Spiritual Splendor",
+      "imagePath": "/assets/Destinations/Bhutan/Bhutan.jpg",
+      "about": "Bhutan Awaits: Explore a Unique Blend of Culture and Nature!\n\n, nestled in the eastern Himalayas, stands as a remarkable nation celebrated for its distinctiveness. Known for its captivating landscapes and a groundbreaking approach of valuing happiness over mere GDP, Bhutan has emerged as an exceptional destination, making Bhutan tour packages increasingly sought after.\n\nEmbarking on a journey with our Bhutan tour packages reveals the enigmatic allure of this Buddhist nation. With a population of over 750,000, Bhutan places a strong emphasis on sustainable development and a profound reverence for nature, evident throughout your Bhutan trip. Despite its modest size, Bhutan boasts a rich tapestry of attractions—historic temples, untouched mountains, vibrant festivals—tailored to every traveler, be it an adventurer, culture enthusiast, or someone seeking tranquility.\n\nBhutan's cultural legacy, steeped in tradition, offers an authentic and immersive experience for visitors. It's a cultural odyssey, a chance to delve into the heart of a distinctive heritage, one that our Bhutan tour packages promise to unveil.\n\nOne of the most captivating aspects is Bhutanese architecture, a delightful highlight of your Bhutan trip with our Bhutan tour packages. Adorned with elaborate wood carvings and vibrant paintings, traditional Bhutanese structures crafted from earth, stone, and wood stand as a testament to the nation's heritage. The dzongs, these monumental fortresses functioning as monasteries and administrative centers, exemplify Bhutan's rich cultural legacy, leaving an indelible mark on every traveler’s heart.\n\nAs we've delved into Bhutan's cultural richness and architecture, now it’s time to delve deeper into the heart of this captivating country. Let's discover the wonders that await you during your Bhutan trip with our Bhutan tour packages and Bhutan holiday packages. Let the exploration begin!",
+      "bestSeller": ["bhutan"],
+      "todos": {
+        "title": "Unveil Vietnam's Unforgettable Adventures for an Adrenaline-Packed Getaway!",
+        "subtitle": "Embark on a journey through the heart of Vietnam, where excitement knows no bounds, and thrilling adventures await at every turn. Brace yourself for the ultimate thrill as we present an array of adrenaline-pumping experiences that promise to make your vacation truly unforgettable.",
+        "todo": [
+          {
+            "title": "Whitewater Rafting",
+            "imageUrl": "https://images.pexels.com/photos/11871441/pexels-photo-11871441.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "time": "Approximately 3 hours",
+            "content": "Navigate the thrilling rapids of Bhutan's Mo Chhu river, experiencing the adrenaline rush of whitewater rafting amidst breathtaking landscapes.",
+            "location": "Mo Chhu"
+          },
+          {
+            "title": "Trekking",
+            "imageUrl": "https://images.pexels.com/photos/1365425/pexels-photo-1365425.jpeg",
+            "time": "Approximately 1 day",
+            "content": "Embark on an enchanting trek in Paro Valley, where every step unveils awe-inspiring landscapes and cultural treasures waiting to be discovered.",
+            "location": "Paro Valley"
+          },
+          {
+            "title": "Camping",
+            "imageUrl": "https://images.pexels.com/photos/14084003/pexels-photo-14084003.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "time": "Approximately 4 hours",
+            "content": "Immerse yourself in the serenity of Bhutan's Paro Valley through camping, where nature's beauty and tranquility surround you.",
+            "location": "Paro Valley"
+          },
+          {
+            "title": "Kayaking",
+            "imageUrl": "https://images.pexels.com/photos/1522344/pexels-photo-1522344.jpeg?cs=srgb&dl=pexels-shivkumar-sd-1522344.jpg&fm=jpg",
+            "time": "Approximately 1 hour",
+            "content": "Unleash your adventurous spirit with kayaking on Bhutan's Wang Chhu river, navigating thrilling rapids and soaking in mesmerizing river views.",
+            "location": "Wang Chhu"
+          },
+          {
+            "title": "Hot Springs",
+            "imageUrl": "https://images.pexels.com/photos/17508471/pexels-photo-17508471.jpeg?cs=srgb&dl=pexels-vasilis-karkalas-17508471.jpg&fm=jpg",
+            "time": "Approximately 30 minutes",
+            "content": "Indulge in relaxation and rejuvenation at the enchanting hot springs of Paro, where healing waters and serene surroundings create a blissful experience.",
+            "location": "Paro"
+          },
+          {
+            "title": "Paragliding",
+            "imageUrl": "https://images.pexels.com/photos/65677/gerlitz-glacier-mountains-in-the-morning-paragliding-65677.jpeg?cs=srgb&dl=pexels-pixabay-65677.jpg&fm=jpg",
+            "time": "Approximately 1 hour",
+            "content": "Soar through the skies and behold the breathtaking landscapes of Paro, indulging in the exhilarating adventure of paragliding.",
+            "location": "Paro"
+          }
+        ]
+      },
+      "places": {
+        "title": "Bhutan's Mystical Charms: Unveiling the Wonders of the Dragon Kingdom",
+        "subtitle": "Delve into the marvels of Bhutan through its captivating destinations. Immerse yourself in breathtaking landscapes, ancient monasteries, vibrant culture, and spiritual heritage in this enchanting Himalayan kingdom.",
+        "place": [
+          {
+            "title": "Paro",
+            "location": "Paro",
+            "content": "Paro, Bhutan, enchants visitors with its scenic beauty, cultural treasures, and the iconic Tiger's Nest monastery perched dramatically on a cliff.",
+            "imageUrl": "https://images.pexels.com/photos/67548/the-tiger-s-nest-monastery-taktsang-palphug-monastery-buddha-67548.jpeg?cs=srgb&dl=pexels-pixabay-67548.jpg&fm=jpg"
+          },
+          {
+            "title": "Thimphu",
+            "location": "Thimphu",
+            "content": "Thimphu, the capital of Bhutan, offers a fusion of tradition and modernity. Attractions like the Tashichho Dzong, Buddha Dordenma, and vibrant markets captivate visitors.",
+            "imageUrl": "https://images.unsplash.com/photo-1597658333270-8c0d8f0eb845?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Ymh1dGFufGVufDB8fDB8fHww"
+          },
+          {
+            "title": "Punakha",
+            "location": "Punakha",
+            "content": "Punakha, nestled in Bhutan's picturesque valleys, showcases the magnificent Punakha Dzong, serene rivers, and a rich cultural heritage that fascinates visitors.",
+            "imageUrl": "https://travelogyindia.b-cdn.net/storage/app/upload/punakha-valley-tour.jpg"
+          },
+          {
+            "title": "Bumthang",
+            "location": "Bumthang",
+            "content": "Bumthang, known as the cultural heartland of Bhutan, boasts ancient temples, monasteries, stunning landscapes, and a spiritual ambiance that enthralls travelers.",
+            "imageUrl": "https://www.shutterstock.com/image-photo/scenic-bumthang-bhutan-typical-architectural-600nw-1395743372.jpg"
+          },
+          {
+            "title": "Gangtey",
+            "location": "Gangtey",
+            "content": "Gangtey Valley in Bhutan captivates with its Gangtey Monastery, sweeping valley views, and its role as the winter sanctuary for endangered Black-necked Cranes.",
+            "imageUrl": "https://media.istockphoto.com/id/1266380165/photo/village-under-the-mountain-with-trees-in-gangtey-in-bhutan.jpg?s=612x612&w=0&k=20&c=wlRRG86EwpG9Gs5-41GIYvvNmhMeDtp5lZBYSaLjtBo="
+          },
+          {
+            "title": "Wangdue Phodrang",
+            "location": "Wangdue Phodrang",
+            "content": "Wangdue Phodrang in Bhutan is renowned for its majestic Wangdue Phodrang Dzong, perched atop a hill, offering panoramic views and significant cultural heritage.",
+            "imageUrl": "https://i.pinimg.com/736x/db/dd/c4/dbddc47008ae6b683ef6c0093a8c3647.jpg"
+          }
+        ]
+      },
+      "shop": {
+        "title": "Explore Bhutan's Shopping Paradise: Hidden Gems Await!",
+        "subtitle": "Unveil a vibrant shopping experience in Bhutan, where traditional crafts, exquisite textiles, handmade goods, and unique souvenirs await discovery. Wander through local markets, boutiques, and handicraft centers to unearth authentic Bhutanese treasures.",
+        "items": [
+          {
+            "title": "Thimphu Craft Market",
+            "shopFor": "Handicrafts",
+            "location": "Thimphu",
+            "time": "10:00 AM - 06:00 PM",
+            "imageUrl": "https://www.flamingotravels.co.in/_next/image?url=https%3A%2F%2Fimgcdn.flamingotravels.co.in%2FImages%2FPlacesOfInterest%2FShop-Unique-Items-At-Choki-Handicrafts-3%20(1).jpg&w=828&q=90"
+          },
+          {
+            "title": "Norzin Lam Street",
+            "shopFor": "Souvenirs",
+            "location": "Thimphu",
+            "time": "09:00 AM - 07:00 PM",
+            "imageUrl": "https://cdn.pixabay.com/photo/2022/01/14/21/19/buddha-statues-6938201_1280.jpg"
+          },
+          {
+            "title": "Paro Market",
+            "shopFor": "Jewelry",
+            "location": "Paro",
+            "time": "08:00 AM - 07:00 PM",
+            "imageUrl": "https://thumbs.dreamstime.com/b/kashmiri-jewellery-24816561.jpg"
+          },
+          {
+            "title": "Centenary Farmers' Market",
+            "shopFor": "Fruits",
+            "location": "Thimphu",
+            "time": "10:00 AM - 07:00 PM",
+            "imageUrl": "https://bhutansoul.com/wp-content/uploads/2020/01/CentenaryFarmersMarket.jpg"
+          },
+          {
+            "title": "Bhutan Art Gallery",
+            "shopFor": "Sculptures",
+            "location": "Thimphu",
+            "time": "09:00 AM - 06:00 PM",
+            "imageUrl": "https://www.shutterstock.com/image-photo/close-wooden-african-mask-600nw-693065686.jpg"
+          },
+          {
+            "title": "Khuruthang Market",
+            "shopFor": "Traditional Clothing",
+            "location": "Punakha",
+            "time": "10:00 AM - 07:00 PM",
+            "imageUrl": "https://images.unsplash.com/photo-1545206085-d0e519bdcecd?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Y2xvdGhlcyUyMG1hcmtldHxlbnwwfHwwfHx8MA%3D%3D"
+          }
+        ]
+      }
+    },
+    "malaysia":{
+      "name": "Malaysia",
+      "title":"Malaysia Tour Packages: Discover Beauty and Diversity",
+      "imagePath":"",
+      "about":"",
+      "bestSeller": ["malaysia"],
+      "todos": {
+        "title": "Thrilling Adventure Activities in Malaysia for Your Vacation",
+        "subtitle": "Uncover the Thrill: Adventure Activities in Malaysia Await! From breathtaking landscapes to diverse wildlife, prepare for an unforgettable journey filled with adrenaline-pumping experiences in this captivating Southeast Asian destination",
+        "todo": [
+          {
+            "title": "Jungle Trekking",
+            "imageUrl": "https://images.unsplash.com/photo-1521115715763-2fcaa0608e9b?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "time": "4 hours approx",
+            "content": "Experience the Thrill: Jungle Trekking Adventure in Malaysia. Delve into lush rainforests, encounter diverse wildlife, and revel in stunning natural beauty.",
+            "location": "Taman Negara"
+          },
+          {
+            "title": "Microlight Aircraft",
+            "imageUrl": "https://www.sherburnaeroclub.com/storage/medialibrary/microlights-vs-light-aircrafts-16517504879oFxw.jpg",
+            "time": "15 minutes approx",
+            "content": "Embrace Thrills: Soar Above Malaysia's Landscapes in a Microlight Aircraft. Experience breathtaking aerial views that will leave you in awe.",
+            "location": "Kuala Lumpur"
+          },
+          {
+            "title": "Whitewater Rafting",
+            "imageUrl": "https://images.unsplash.com/photo-1593107757644-25f0b23e9297?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "time": "3 hours approx",
+            "content": "Get Set for an Adrenaline Rush: Conquer Thrilling Rapids with Whitewater Rafting in Malaysia. Experience breathtaking river scenery on this thrilling adventure.",
+            "location": "Sungai Selangor"
+          },
+          {
+            "title": "Skyway Cable Car",
+            "imageUrl": "https://images.unsplash.com/photo-1630313759127-74ce46326bb5?q=80&w=2073&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "time": "15 minutes approx",
+            "content":"Experience the Majesty: Glide Across Malaysia's Skies on a Skyway Cable Car. Marvel at breathtaking panoramic views of the surrounding landscapes.",
+            "location": "Langkawi"
+          },
+          {
+            "title": "Wildlife Safaris",
+            "imageUrl": "https://images.unsplash.com/photo-1569865225466-ff4c18a1754f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "time": "5 hours approx",
+            "content": "Explore Captivating Wildlife Safaris in Malaysia's Lush Rainforests and Biodiverse Habitats. Encounter Exotic Animals for Unforgettable Wildlife Encounters.",
+            "location": "Taman Negara"
+          },
+          {
+            "title": "Bungee Jumping",
+            "imageUrl": "https://images.unsplash.com/photo-1595778039451-58a7c2946e7d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "time": "5 minutes approx",
+            "content": "Experience the Ultimate Thrill: Bungee Jumping Adventures in Malaysia. Feel the Adrenaline Rush of Freefalling for an Unforgettable Adventure.",
+            "location": "Kuala Lumpur"
+          }
+        ]
+      },
+      "places":{
+        "title":"Unforgettable Adventures Await: Explore Malaysia's Top Must-Visit Destinations!",
+        "subtitle":"Unveil Malaysia's Allure: Diverse Landscapes, Rich Heritage, Vibrant Cityscapes. Explore Top Destinations – Stunning Beaches to Historic Sites.",
+        "place":[
+          {
+            "title":"Langkawi Island",
+            "location":"Langkawi Island",
+            "content":"Langkawi Island: Malaysia's Tropical Paradise. Experience Pristine Beaches, Turquoise Waters, and Breathtaking Natural Landscapes.",
+            "imageUrl":"https://i.ytimg.com/vi/er5SfhGgvNk/maxresdefault.jpg"
+          },
+          {
+            "title":"Kuala Lumpur",
+            "location":"Kuala Lumpur",
+            "content":"Kuala Lumpur: Malaysia's Vibrant Capital. Explore Iconic Skyline, Cultural Diversity, Bustling Markets, and Modern Attractions.",
+            "imageUrl":"https://media.tacdn.com/media/attractions-splice-spp-674x446/0a/b1/ac/e8.jpg"
+          },
+          {
+            "title":"Penang",
+            "location":"Penang",
+            "content":"Penang: Malaysia's Captivating Island. Explore UNESCO-listed George Town, Delectable Street Food, and Rich Multicultural Heritage.",
+            "imageUrl":"https://a.cdn-hotels.com/gdcs/production37/d629/c1af3626-18e0-4621-b255-8af464a0ef63.jpg"
+          },
+          {
+            "title":"Malacca",
+            "location":"Malacca",
+            "content":"Malacca: Malaysia's Historic Gem. Discover UNESCO-listed Heritage Sites, Vibrant Jonker Street, and Delectable Nyonya Cuisine.",
+            "imageUrl":"https://media.tacdn.com/media/attractions-splice-spp-674x446/06/71/3c/b2.jpg"
+          },
+          {
+            "title":"Kinabatangan",
+            "location":"Kinabatangan",
+            "content":"Kinabatangan, Malaysia: A Wildlife Haven. Explore Lush Rainforests, River Cruises, Orangutans, Proboscis Monkeys, and Diverse Bird Species for an Extraordinary Experience.",
+            "imageUrl":"https://upload.wikimedia.org/wikipedia/commons/1/18/Pekan_Kota_Kinabatangan_Kinabatangan_Sabah.jpg"
+          },
+          {
+            "title":"Mount Kinabalu",
+            "location":"Mount Kinabalu",
+            "content":"Mount Kinabalu: Malaysia's Majestic Peak. A Challenging Climb, Stunning Vistas, and the Chance to Conquer Southeast Asia's Highest Summit Await Adventurers.",
+            "imageUrl":"https://www.intrepidtravel.com/adventures/wp-content/uploads/2019/05/Intrepid-Travel-borneo_mt-kinabalu_female-pax.jpg"
+          }
+        ]
+      },
+      "shop":{
+        "title":"Discover Malaysia's Premier Shopping Destinations!",
+        "subtitle":"Explore Retail Delights: Malaysia's Shopper's Paradise! From diverse malls to bustling street markets and traditional bazaars, uncover an unforgettable shopping experience. Discover the Top Places to Shop in Malaysia!",
+        "items":[
+          {
+            "title":"Petaling Street",
+            "shopFor":"Clothing",
+            "location":"Kuala Lumpur",
+            "time":"04:00 PM - 10:00 PM",
+            "imageUrl":"https://a.travel-assets.com/findyours-php/viewfinder/images/res70/473000/473312-Petaling-Street-Market.jpg"
+          },
+          {
+            "title":"Central Market",
+            "shopFor":"Souvenirs",
+            "location":"Kuala Lumpur",
+            "time":"10:00 AM - 10:00 PM",
+            "imageUrl":"https://thumbs.dreamstime.com/b/souvenir-store-central-market-kuala-lumpur-sept-was-founded-used-as-wet-current-art-deco-style-building-152147742.jpg"
+          },
+          {
+            "title":"Suria KLCC",
+            "shopFor":"Designer Boutiques",
+            "location":"Kuala Lumpur",
+            "time":"10:00 AM - 10:00 PM",
+            "imageUrl":"https://images.unsplash.com/photo-1573612664822-d7d347da7b80?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+          },
+          {
+            "title":"Berjaya Times Square",
+            "shopFor":"Candies",
+            "location":"Kuala Lumpur",
+            "time":"10:00 AM - 10:00 PM",
+            "imageUrl":"https://images.unsplash.com/photo-1601493701002-3223e7e1ebaf?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+          },
+          {
+            "title":"Gurney Plaza",
+            "shopFor":"Apparels",
+            "location":"Penang",
+            "time":"10:00 AM - 10:00 PM",
+            "imageUrl":"https://5.imimg.com/data5/HH/JP/GLADMIN-52487796/solution-for-apparels-500x500.png"
+          },
+          {
+            "title":"Cameron Square",
+            "shopFor":"Gadgets",
+            "location":"Pahang",
+            "time":"10:00 AM - 10:00 PM",
+            "imageUrl":"https://images.unsplash.com/photo-1526738549149-8e07eca6c147?q=80&w=1925&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+          }
+        ]
+      }
     }
   }
 }
-
