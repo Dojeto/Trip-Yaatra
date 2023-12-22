@@ -99,19 +99,39 @@ const Navbar = () => {
 
               <ul className="p-4">
                 <Link href={"/international-trips/vietnam"} shallow>
-                  <div className="p-1 text-sm">Vietnam</div>
+                  <div className="px-2 py-1 text-sm border-[1px] border-transparent rounded-md hover:bg-[#01afd10d] hover:border-darkvl hover:text-darkbl">
+                    Vietnam
+                  </div>
                 </Link>
                 <Link href={"/international-trips/bhutan"} shallow>
-                  <div className="p-1 text-sm">Bhutan</div>
+                  <div className="px-2 py-1 text-sm border-[1px] border-transparent rounded-md hover:bg-[#01afd10d] hover:border-darkvl hover:text-darkbl">
+                    Bhutan
+                  </div>
                 </Link>
                 <Link href={"/international-trips/bali"} shallow>
-                  <div className="p-1 text-sm">Bali</div>
+                  <div className="px-2 py-1 text-sm border-[1px] border-transparent rounded-md hover:bg-[#01afd10d] hover:border-darkvl hover:text-darkbl">
+                    Bali
+                  </div>
                 </Link>
                 <Link href={"/international-trips/thailand"} shallow>
-                  <div className="p-1 text-sm">Thailand</div>
+                  <div className="px-2 py-1 text-sm border-[1px] border-transparent rounded-md hover:bg-[#01afd10d] hover:border-darkvl hover:text-darkbl">
+                    Thailand
+                  </div>
+                </Link>
+                <Link href={"/international-trips/dubai"} shallow>
+                  <div className="px-2 py-1 text-sm border-[1px] border-transparent rounded-md hover:bg-[#01afd10d] hover:border-darkvl hover:text-darkbl">
+                    Dubai
+                  </div>
                 </Link>
                 <Link href={"/international-trips/maldives"} shallow>
-                  <div className="p-1 text-sm">Maldives</div>
+                  <div className="px-2 py-1 text-sm border-[1px] border-transparent rounded-md hover:bg-[#01afd10d] hover:border-darkvl hover:text-darkbl">
+                    Maldives
+                  </div>
+                </Link>
+                <Link href={"/international-trips/malaysia"} shallow>
+                  <div className="px-2 py-1 text-sm border-[1px] border-transparent rounded-md hover:bg-[#01afd10d] hover:border-darkvl hover:text-darkbl">
+                    Malaysia
+                  </div>
                 </Link>
               </ul>
             </div>

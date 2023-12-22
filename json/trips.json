@@ -278,5 +278,67 @@
     "thingtocarry": "",
     "similartrips": [],
     "trending": true
+  },
+  "thailand": {
+    "tour": "international",
+    "title": "Fantastic 10 Days Thailand Tour Package",
+    "imageUrl": "/assets/Destinations/Thailand/thailand-package.avif",
+    "date": "10-01-24",
+    "duration": "9N - 10D",
+    "price": "89,999",
+    "link": "/trips/thailand",
+    "tagline": "A Journey to Bliss in the Himalayas",
+    "destination": "Thailand",
+    "pickanddrop": "Phuket - Bangkok Airport",
+    "about": "Embark on an unforgettable 10-day journey through Thailand with our captivating tour package, promising an immersive experience across the country's most enchanting destinations. From the moment you arrive in Phuket and seamlessly transfer to Krabi, you'll be captivated by Thailand's natural beauty.\n\nThe tour highlights include an exhilarating 4 Island Tour by Speed Boat. Discover the stunning beauty of Phranang Cave Beach, Tup Island, Poda Island, and Chicken Island. Immerse yourself in crystal-clear waters, relax on pristine beaches, and enjoy thrilling water sports. The Phi Phi Island Tour is another highlight, featuring Maya Bay and Monkey Beach, surrounded by breathtaking limestone caves.\n\nExploring Phuket during the City Tour offers visits to Karon View Point, Wat Chalong Temple, and the iconic Buddha Statue of Phuket. In Pattaya, get mesmerized by the renowned Alcazar Show, a cultural extravaganza. The Coral Island Tour offers snorkeling and sea walker diving amidst vibrant marine life.\n\nAt Safari World and Marine Park, get up close to exotic animals in open-air zoos and enjoy entertaining dolphin and sea lion shows. It's a day packed with excitement and joy.\n\nIn Bangkok, delve into the city's rich heritage with temple visits and a visit to the dazzling Gems Gallery showcasing precious stones. The tour culminates with a full day at Safari World and Marine Park, making for a spectacular finale to this extraordinary journey.\n\nOur Fantastic 10-Day Thailand Tour Package promises cherished memories and unparalleled experiences. Thailand's awe-inspiring landscapes, cultural treasures, and family-friendly adventures await. Don't miss this chance to create lasting memories with your loved ones.",
+    "ytvideo": "",
+    "itinerary": [
+      {
+        "title": "Hanoi Arrival - Half-Day City Tour. Overnight Stay At Hanoi",
+        "description": "Arrive at Noi Bai International Airport in Hanoi Meet your local guide and transfer to your hotel In the afternoon we will start exploring Hanoi by visiting the famous Train Street Next, we will visit Ba Dinh Square – the biggest square in Hanoi that houses the Complex of Ho Chi Minh alongside There you will visit the Ho Chi Minh Mausoleum, Ho Chi Minh's house-on-stilts, and his fish pond We will also visit the Japanese-style one-pillar Pagoda"
+      }
+    ],
+    "notes": "",
+    "videos": [],
+    "photos": [],
+    "testimonials": [],
+    "costing": [],
+    "inclusions": "",
+    "exclusions": "",
+    "other": "",
+    "thingtocarry": "",
+    "similartrips": [],
+    "trending": true
+  },
+  "dubai": {
+    "tour": "international",
+    "title": " 6 Days Dubai Tour Package With Abu Dhabi With Flights",
+    "imageUrl": "/assets/Destinations/Dubai/dubai.avif",
+    "date": "10-01-24",
+    "duration": "5N - 6D",
+    "price": "99,999",
+    "link": "/trips/dubai",
+    "tagline": "From Humble Origins to a Cultural Marvel",
+    "destination": "Dubai",
+    "pickanddrop": "Mumbai",
+    "about": "Unveiling Dubai's Transformation: A Fusion of Traditions and Wonders\n\nDubai, a city that epitomizes grandeur, innovation, and cultural richness, has evolved from a humble fishing village into a global icon. The cityscape offers a myriad of wonders, from the awe-inspiring Burj Khalifa to the exhilarating rides on the fastest roller coasters. It's a living canvas that showcases the transformation from vast desert plains to a bustling cultural hub.\n\nA Tale of Contrasts and Grandeur\nDubai is a world of contrasts. Lavish shopping centers stand tall alongside stunning architectural marvels. The city embodies opulence, yet retains its essence in Emirati culture, reflected in the bustling backstreets, mesmerizing mosques, and delectable cuisine. Every facet adds depth to this extraordinary experience.\n\nEmbarking on a City Tour: Dubai's Multifaceted Charm\nExplore the diversity of Dubai through a city tour that unveils its multifaceted charm. From the awe-inspiring Burj Khalifa to immersive desert nights steeped in culture, the tour offers glimpses of the Persian Gulf's grandeur, including the iconic Palm Islands. Architectural wonders, vibrant mosques, and the captivating Dubai Fountain Show await your discovery.\n\nThe Thrill of Ras al Khaimah: An Adventure Haven\nVenture into Ras al Khaimah, nestled in the Al Hajar mountains, a haven for adventure enthusiasts. Here, adrenaline reigns supreme, offering tours to Jebel Jais, the world's highest mountain peak, and the thrill of the longest zipline. Untouched landscapes reveal mountain farms and communities, showcasing the region's pristine beauty.\n\nJoin Us for a Luxurious Emirati Experience\nJoin our group trip to Dubai from Mumbai and immerse yourself in the luxurious embrace of Emirati culture. Don't miss this incredible opportunity to explore a city that blends opulence, tradition, and modernity in a seamless tapestry.",
+    "ytvideo": "",
+    "itinerary": [
+      {
+        "title": "Hanoi Arrival - Half-Day City Tour. Overnight Stay At Hanoi",
+        "description": "Arrive at Noi Bai International Airport in Hanoi Meet your local guide and transfer to your hotel In the afternoon we will start exploring Hanoi by visiting the famous Train Street Next, we will visit Ba Dinh Square – the biggest square in Hanoi that houses the Complex of Ho Chi Minh alongside There you will visit the Ho Chi Minh Mausoleum, Ho Chi Minh's house-on-stilts, and his fish pond We will also visit the Japanese-style one-pillar Pagoda"
+      }
+    ],
+    "notes": "",
+    "videos": [],
+    "photos": [],
+    "testimonials": [],
+    "costing": [],
+    "inclusions": "",
+    "exclusions": "",
+    "other": "",
+    "thingtocarry": "",
+    "similartrips": [],
+    "trending": true
   }
 }
