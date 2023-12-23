@@ -1170,6 +1170,151 @@
           }
         ]
       }
+    },
+    "singapore":{
+      "name": "Singapore",
+      "title":"Singapore Tour Packages: Explore the Lion City",
+      "imagePath":"",
+      "about":"",
+      "bestSeller": ["singapore"],
+      "todos":{
+        "title":"Singapore Tour Packages: Discover the Lion City's Top Attractions",
+        "subtitle":"Singapore Tour Packages: Explore the Lion City's Top Attractions. From iconic landmarks to vibrant neighborhoods, Singapore offers a captivating experience for every traveler. Discover the Top Attractions in Singapore!",
+        "todo":[
+          {
+            "title":"Indoor Skydiving",
+            "imageUrl":"https://res.klook.com/images/fl_lossy.progressive,q_65/c_fill,w_3000,h_1999,f_auto/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/ttl0rldevrkcbwdscqaw/AirRiderIndoorSkydivingExperience-Klook.jpg",
+            "time":"2 hours approx",
+            "content":"Experience the Thrill of Freefalling at iFly Singapore - The Ultimate Indoor Skydiving Destination, Where Adventure Knows No Bounds!",
+            "location":"iFlySingapore"
+          },
+          {
+            "title":"Water Adventure",
+            "imageUrl":"https://images.unsplash.com/photo-1682687982360-3fbab65f9d50?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "time":"4 hours approx",
+            "content":"Immerse Yourself in Aquatic Thrills in Singapore! Enjoy Jet Skiing, Kayaking, and Snorkeling Amidst Stunning Coastal Scenery for an Unforgettable Water Adventure.",
+            "location":"Adventure Cove Waterpark"
+          },
+          {
+            "title":"Formula One Adventure",
+            "imageUrl":"https://images.unsplash.com/photo-1696178948555-277f8d36ae4d?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "time":"2 hours approx",
+            "content":"Feel the Heart-Pounding Excitement of Formula One Racing in Singapore! World-Class Drivers Compete on the Iconic Marina Bay Street Circuit, Crafting an Unforgettable Motorsport Adventure.",
+            "location":"Marina Bay Sands Hotel"
+          },
+          {
+            "title":"Reverse Bungy",
+            "imageUrl":"https://res.klook.com/image/upload/c_fill,w_750,h_560/q_80/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/ewdhcpeolzpkb2hu0ajv.jpg",
+            "time":"15 minutes approx",
+            "content":"Get Ready for an Unforgettable Rush! Experience the Thrill of Reverse Bungy in Singapore, Catapulting You into the Sky for Exhilarating Speeds and Breathtaking Views!",
+            "location":"Clarke Quay"
+          },
+          {
+            "title":"Indoor Surfing",
+            "imageUrl":"https://images.unsplash.com/photo-1502680390469-be75c86b636f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "time":"1 hour approx",
+            "content":"Ride Perfect Waves Indoors! Experience the Thrill of Surfing at Singapore's Indoor Destinations, Perfecting Skills Regardless of Weather Conditions for Surf Enthusiasts.",
+            "location":"Wavehouse Sentosa"
+          },
+          {
+            "title":"Kayaking",
+            "imageUrl":"https://images.unsplash.com/photo-1525721653822-f9975a57cd4c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "time":"2 hours approx",
+            "content":"Embark on a Kayaking Adventure in Singapore! Explore Scenic Waterways, Mangroves, Urban Rivers, and Coastal Areas, Immersing Yourself in Nature's Beauty Along the Way.",
+            "location":"Singapore River"
+          }
+        ]
+      },
+      "places":{
+        "title":"Unveiling Singapore's Finest: Discover the Best Places to Visit for a Journey of Wonders!",
+        "subtitle":"Step into Singapore's Vibrant World of Attractions! Explore Iconic Landmarks and Hidden Gems, Unveiling Unforgettable Experiences in this Enchanting City-State.",
+        "place":[
+          {
+            "title":"Marina Bay Sands",
+            "location":"Marina Bay Sands",
+            "content":"Marina Bay Sands: An Architectural Marvel. Dominating Singapore's Skyline with Iconic Triple Towers, Luxurious Accommodations, World-Class Dining, and a Breathtaking Rooftop Infinity Pool.",
+            "imageUrl":"https://images.unsplash.com/photo-1525625293386-3f8f99389edd?q=80&w=1952&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+          },
+          {
+            "title":"Gardens by the Bay",
+            "location":"Gardens by the Bay",
+            "content":"Gardens by the Bay: A Breathtaking Horticultural Paradise. Explore Iconic Supertrees, Lush Gardens, Stunning Floral Displays, and Mesmerizing Conservatories like the Cloud Forest and Flower Dome.",
+            "imageUrl":"https://images.unsplash.com/photo-1552415274-73ad7198cb93?q=80&w=1934&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+          },
+          {
+            "title":"Underwater World",
+            "location":"Underwater World",
+            "content":"Dive into the Fascinating Marine World at Underwater World Singapore! Immerse Yourself in a Captivating Underwater Journey, Encounter Diverse Marine Life, and Enjoy Thrilling Interactive Exhibits.",
+            "imageUrl":"https://images.unsplash.com/photo-1617994679330-2883951d0073?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+          },
+          {
+            "title":"Nocturnal Wildlife Park",
+            "location":"Nocturnal Wildlife Park",
+            "content":"Enter the Enchanting Realm of Singapore's Nocturnal Wildlife Park! Witness Captivating Nocturnal Creatures and Immerse Yourself in a Mesmerizing Nighttime Adventure.",
+            "imageUrl":"https://images.unsplash.com/photo-1650256138189-c8cc8362d38c?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+          },
+          {
+            "title":"National Museum of Singapore",
+            "location":"National Museum of Singapore",
+            "content":"The National Museum of Singapore: A Cultural Gem Preserving the Nation's Rich Heritage. Discover Captivating Exhibitions, Interactive Displays, and Immersive Storytelling.",
+            "imageUrl":"https://images.unsplash.com/photo-1513038630932-13873b1a7f29?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+          },
+          {
+            "title":"Universal Studios Singapore",
+            "location":"Universal Studios Singapore",
+            "content":"Experience the Magic of Universal Studios Singapore! Thrilling Rides, Live Entertainment, and Beloved Characters Bring Your Favorite Movies to Life in an Unforgettable Theme Park Adventure.",
+            "imageUrl":"https://images.unsplash.com/photo-1532568547949-a09f1afe4d1b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+          }
+        ]
+      },
+      "shop":{
+        "title":"Retail Paradise: Must-Visit Shopping Destinations in Singapore",
+        "subtitle":"Step into Singapore's Vibrant Shopping Scene! Explore a Shopper's Paradise with a Diverse Range of Malls, Markets, and Boutiques, Showcasing International Brands and Local Treasures.",
+        "items":[
+          {
+            "title":"Orchard Road",
+            "shopFor":"Apparel",
+            "location":"Orchard Road",
+            "time":"10:00 AM - 10:00 PM",
+            "imageUrl":"https://images.unsplash.com/photo-1555529771-835f59fc5efe?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+          },
+          {
+            "title":"Marina Bay Sands",
+            "shopFor":"Footwear",
+            "location":"Marina Bay Sands",
+            "time":"10:30 AM - 11:00 PM",
+            "imageUrl":"https://plus.unsplash.com/premium_photo-1682435561654-20d84cef00eb?q=80&w=1918&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+          },
+          {
+            "title":"Chinatown",
+            "shopFor":"Souvenirs",
+            "location":"Chinatown",
+            "time":"10:00 AM - 08:00 PM",
+            "imageUrl":"https://images.unsplash.com/photo-1604255977447-c7c985c139b0?q=80&w=1858&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+          },
+          {
+            "title":"Little India",
+            "shopFor":"Trinkets",
+            "location":"Little India",
+            "time":"10:00 AM - 09:00 PM",
+            "imageUrl":"https://thumbs.dreamstime.com/b/tunisian-bazaar-trinkets-3275825.jpg"
+          },
+          {
+            "title":"Clarke Quay",
+            "shopFor":"Jewelry",
+            "location":"Clarke Quay",
+            "time":"11:00 AM - 12:00 PM",
+            "imageUrl":"https://images.unsplash.com/photo-1606760227091-3dd870d97f1d?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+          },
+          {
+            "title":"Mustafa Centre",
+            "shopFor":"Chocolates",
+            "location":"Mustafa Centre",
+            "time":"06:00 AM - 12:00 PM",
+            "imageUrl":"https://images.unsplash.com/photo-1599599810769-bcde5a160d32?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+          }
+        ]
+      }
     }
   }
 }
