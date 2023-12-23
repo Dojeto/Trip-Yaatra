@@ -138,6 +138,11 @@ const Navbar = () => {
                     Malaysia
                   </div>
                 </Link>
+                <Link href={"/international-trips/singapore"} shallow>
+                  <div className="px-2 py-1 text-sm border-[1px] border-transparent rounded-md hover:bg-[#01afd10d] hover:border-darkvl hover:text-darkbl">
+                    Singapore
+                  </div>
+                </Link>
               </ul>
             </div>
           </div>
