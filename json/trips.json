@@ -340,5 +340,36 @@
     "thingtocarry": "",
     "similartrips": [],
     "trending": true
+  },
+  "maldives": {
+    "tour": "international",
+    "title": "5 Days Maldive Tour Package With Customized Resort",
+    "imageUrl": "/assets/Destinations/Maldives/maldives.jpg",
+    "date": "10-01-24",
+    "duration": "4N - 5D",
+    "price": "79,999",
+    "link": "/trips/maldives",
+    "tagline": "A paradise of sun, sand, and smiles indeed",
+    "destination": "Male",
+    "pickanddrop": "Male",
+    "about": "The Maldives, a paradise on Earth, beckons with its azure waters, coral islands, and luxury beyond compare. Our Maldives Tour Packages offer a seamless blend of relaxation and adventure, ensuring an unforgettable escape to this tropical haven. From romantic getaways to family-friendly vacations, our meticulously crafted itineraries cater to diverse preferences.\n\nIndulge in the lap of luxury with overwater bungalows, where the gentle lull of the waves becomes your lullaby. Snorkel amidst vibrant coral reefs, discovering the underwater wonders that make the Maldives a diver's dream. Our Maldives Packages from India provide convenient flights, comfortable accommodations, and an array of experiences tailored to your liking.\n\nFor couples seeking a romantic retreat, our Maldives Honeymoon Packages promise intimate moments against the backdrop of breathtaking sunsets. Picture private dinners on the beach, spa treatments for two, and leisurely strolls on pristine shores.\n\nFamilies can create lasting memories with our Maldives Family Packages, designed to cater to all ages. Enjoy water sports, island-hopping, and engaging activities that ensure everyone has a fantastic time in this tropical wonderland.\n\nThe Maldives, with its unique charm and warm hospitality, awaits your discovery. Allow our Maldives Tour Packages to be your guide to this slice of paradise, where every moment is a celebration of life, love, and luxury. Dive into the beauty of the Maldives and let the memories created here linger in your heart forever.",
+    "ytvideo": "",
+    "itinerary": [
+      {
+        "title": "Hanoi Arrival - Half-Day City Tour. Overnight Stay At Hanoi",
+        "description": "Arrive at Noi Bai International Airport in Hanoi Meet your local guide and transfer to your hotel In the afternoon we will start exploring Hanoi by visiting the famous Train Street Next, we will visit Ba Dinh Square – the biggest square in Hanoi that houses the Complex of Ho Chi Minh alongside There you will visit the Ho Chi Minh Mausoleum, Ho Chi Minh's house-on-stilts, and his fish pond We will also visit the Japanese-style one-pillar Pagoda"
+      }
+    ],
+    "notes": "",
+    "videos": [],
+    "photos": [],
+    "testimonials": [],
+    "costing": [],
+    "inclusions": "",
+    "exclusions": "",
+    "other": "",
+    "thingtocarry": "",
+    "similartrips": [],
+    "trending": true
   }
 }

@@ -736,6 +736,296 @@
         ]
       }
     },
+    "turkey": {
+      "name": "Turkey",
+      "title": "Embark on a Dreamy Adventure",
+      "imagePath": "/assets/Destinations/Turkey/Turkey.jpg",
+      "about": "Turkey, a captivating blend of European and Asian influence, boasts a rich tapestry of history and culture. Its ancient roots and diverse landscapes make it a top-tier tourist destination. With its stunning vistas, coastal splendor, and iconic cities, Turkey invites exploration.\n\nHome to over 82 million people, Turkey embraces a secular democratic outlook while preserving its Islamic heritage. Istanbul, the country's largest city, stands as a testament to its economic, cultural, and historical significance, while Ankara serves as the capital. Customized Turkey tour packages offer a glimpse into its cities, each showcasing scenic wonders.\n\nTurkish, the official language, resonates throughout the land where Islam is practiced by the majority. The country's allure is further accentuated by its natural beauty, providing a serene haven for travelers. Turkey tour packages from India remain amongst the world's most sought-after travel experiences.\n\nOne cannot overlook the tantalizing Turkish cuisine, a true delight for the senses. The cuisine, bursting with Mediterranean flavors, fresh seafood, grilled meats, and aromatic spices, adds to the country's tranquil allure. A journey through Turkey promises an odyssey through time, culture, and culinary excellence.",
+
+      "todos": {
+        "title": "Unleash Your Adventurous Spirit: Top 6 Thrilling Activities in Turkey!",
+        "subtitle": "Turkey offers a myriad of heart-pounding activities for thrill-seekers and adventure enthusiasts. From enchanting landscapes to stunning coastlines, here are the top six adventure activities:",
+        "todo": [
+          {
+            "title": "Hot Air Ballooning",
+            "duration": "1 hour approx",
+            "content": "Embark on a magical journey over Cappadocia with a hot air balloon ride. Witness unique rock formations and fairy chimneys.",
+            "location": "Cappadocia",
+            "imageUrl": "https://images.pexels.com/photos/5700576/pexels-photo-5700576.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+          },
+          {
+            "title": "Scuba Diving",
+            "duration": "1 hour approx",
+            "content": "Explore crystal-clear waters and rich marine life in Kaş through scuba diving—a haven for diving enthusiasts.",
+            "location": "Kaş",
+            "imageUrl": "https://images.pexels.com/photos/1540108/pexels-photo-1540108.jpeg?cs=srgb&dl=pexels-oleksandr-p-1540108.jpg&fm=jpg"
+          },
+          {
+            "title": "Whitewater Rafting",
+            "duration": "3 hours approx",
+            "content": "Experience the thrill of whitewater rafting in Köprülü Canyon National Park, featuring rapids suitable for all levels.",
+            "location": "Köprülü Canyon",
+            "imageUrl": "https://images.unsplash.com/photo-1593107757644-25f0b23e9297?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+          },
+          {
+            "title": "Kiteboarding",
+            "duration": "2 hours approx",
+            "content": "Adventure awaits kiteboarders in the Gulf of Gokova, known for consistent winds and thrilling water conditions.",
+            "location": "Gulf of Gokova",
+            "imageUrl": "https://cdn.create.vista.com/api/media/small/9164006/stock-photo-kiteboarder"
+          },
+          {
+            "title": "Paragliding",
+            "duration": "30 minutes approx",
+            "content": "Soar high above Ölüdeniz with paragliding and take in breathtaking views of the turquoise waters and surrounding mountains.",
+            "location": "Ölüdeniz",
+            "imageUrl": "https://images.pexels.com/photos/65677/gerlitz-glacier-mountains-in-the-morning-paragliding-65677.jpeg?cs=srgb&dl=pexels-pixabay-65677.jpg&fm=jpg"
+          },
+          {
+            "title": "Rock Climbing ",
+            "duration": "2 hours approx",
+            "content": "Geyikbayırı offers fantastic rock climbing experiences with routes suitable for climbers of all levels.",
+            "location": "Geyikbayırı",
+            "imageUrl": "https://images.pexels.com/photos/449609/pexels-photo-449609.jpeg?auto=compress&cs=tinysrgb&w=600"
+          }
+        ]
+      },
+      "places": {
+        "title": "Exploring Turkey's Diversity: Uncover its Fascinating Destinations!",
+        "content": "From bustling Istanbul to geological wonders, Turkey is rich in cultural diversity and natural marvels. Discover the diverse destinations:",
+        "place": [
+          {
+            "title": "Istanbul",
+            "location": "Istanbul",
+            "content": "A vibrant mosaic where East meets West, boasting a rich historical heritage and modern cosmopolitan vibe.",
+            "imageUrl": "https://images.pexels.com/photos/3999943/pexels-photo-3999943.jpeg?cs=srgb&dl=pexels-caner-cankisi-3999943.jpg&fm=jpg"
+          },
+          {
+            "title": "Cappadocia",
+            "location": "Cappadocia",
+            "content": "Central Turkey's geological wonderland featuring fairy chimneys, cave dwellings, and underground cities.",
+            "imageUrl": "https://media.istockphoto.com/id/1340007371/photo/sunrise-in-goreme.jpg?s=612x612&w=0&k=20&c=s2WtE0IpdKzERtPaW8eCANfG4F9DoXR3byVEvCSg5A0="
+          },
+          {
+            "title": "Bodrum",
+            "location": "Bodrum",
+            "content": "A sought-after resort town along Turkey's Aegean coast, known for scenic beaches and vibrant nightlife.",
+            "imageUrl": "https://cdn.pixabay.com/photo/2016/03/14/10/59/bodrum-1255296_1280.jpg"
+          },
+          {
+            "title": "Pamukkale",
+            "location": "Pamukkale",
+            "content": "Western Turkey's natural marvel boasting hot springs and stunning cascading white travertine terraces.",
+            "imageUrl": "https://c4.wallpaperflare.com/wallpaper/896/655/639/pamukkale-turkey-wallpaper-preview.jpg"
+          },
+          {
+            "title": "Antalya",
+            "location": "Antalya",
+            "content": "Nestled on Turkey's southern coast, charming visitors with beautiful beaches, ancient ruins, and an old town.",
+            "imageUrl": "https://cdn.pixabay.com/photo/2021/06/10/15/52/antalya-6326400_640.jpg"
+          },
+          {
+            "title": "Ankara",
+            "location": "Ankara",
+            "content": "The capital city of Turkey, featuring modern architecture, a lively nightlife, and significant historical landmarks.",
+            "imageUrl": "https://c4.wallpaperflare.com/wallpaper/825/188/974/ankara-mosque-city-lights-wallpaper-preview.jpg"
+          }
+        ]
+      },
+      "shop": {
+        "title": "Shopping Paradise: Best Places to Shop in Turkey!",
+        "content": "Turkey offers a vibrant shopping scene with a mix of local treasures and international brands. Here are the best places to shop:",
+        "items": [
+          {
+            "title": "Grand Bazaar",
+            "location": "Istanbul",
+            "time": "9:00 AM - 7:00 PM",
+            "shopFor": "Souvenirs",
+            "imageUrl": "https://images.pexels.com/photos/7529243/pexels-photo-7529243.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+          },
+          {
+            "title": "Spice Bazaar",
+            "location": "Istanbul",
+            "time": "8:00 AM - 7:00 PM",
+            "shopFor": "Spices",
+            "imageUrl": "https://media.istockphoto.com/id/91814755/photo/colorful-spice-baskets-on-a-market-stand.jpg?s=612x612&w=0&k=20&c=a8y8RsCa0xoG5qaDcW-F2JwiGzbdHxVq5cpfVD6cF7A="
+          },
+          {
+            "title": "Bagdat Street",
+            "location": "Istanbul",
+            "time": "10:00 AM - 9:00 PM",
+            "shopFor": "Boutiques",
+            "imageUrl": "https://www.shutterstock.com/image-photo/istanbul-turkey-people-walking-on-600nw-1162614742.jpg"
+          },
+          {
+            "title": "ANKAmall",
+            "location": "Ankara",
+            "time": "9:00 AM - 10:00 PM",
+            "shopFor": "Clothing",
+            "imageUrl": "https://img.freepik.com/free-photo/shop-clothing-clothes-shop-hanger-modern-shop-boutique_1150-8886.jpg"
+          },
+          {
+            "title": "Forum Camlik",
+            "location": "Pamukkale",
+            "time": "10:00 AM - 8:00 PM",
+            "shopFor": "Stones",
+            "imageUrl": "https://media.istockphoto.com/id/647483712/photo/semi-precious-stones-bracelet.jpg?s=612x612&w=0&k=20&c=1AFeMHKYe9P3cwuXSUQSxwQ_dxLSoz3pznwMhJbWxrk="
+          },
+          {
+            "title": "Terracity",
+            "location": "Antalya",
+            "time": "10:00 AM - 10:00 PM",
+            "shopFor": "Turkish Textiles",
+            "imageUrl": "https://www.textilegence.com/wp-content/uploads/2023/08/turkish-textile-detail.jpg"
+          }
+        ]
+      }
+    },
+    "maldives": {
+      "name": "Maldives",
+      "title": "A paradise of sun, sand, and smiles indeed",
+      "imagePath": "/assets/Destinations/Maldives/Maldives.jpeg",
+      "about": "The Maldives, a paradise on Earth, beckons with its azure waters, coral islands, and luxury beyond compare. Our Maldives Tour Packages offer a seamless blend of relaxation and adventure, ensuring an unforgettable escape to this tropical haven. From romantic getaways to family-friendly vacations, our meticulously crafted itineraries cater to diverse preferences.\n\nIndulge in the lap of luxury with overwater bungalows, where the gentle lull of the waves becomes your lullaby. Snorkel amidst vibrant coral reefs, discovering the underwater wonders that make the Maldives a diver's dream. Our Maldives Packages from India provide convenient flights, comfortable accommodations, and an array of experiences tailored to your liking.\n\nFor couples seeking a romantic retreat, our Maldives Honeymoon Packages promise intimate moments against the backdrop of breathtaking sunsets. Picture private dinners on the beach, spa treatments for two, and leisurely strolls on pristine shores.\n\nFamilies can create lasting memories with our Maldives Family Packages, designed to cater to all ages. Enjoy water sports, island-hopping, and engaging activities that ensure everyone has a fantastic time in this tropical wonderland.\n\nThe Maldives, with its unique charm and warm hospitality, awaits your discovery. Allow our Maldives Tour Packages to be your guide to this slice of paradise, where every moment is a celebration of life, love, and luxury. Dive into the beauty of the Maldives and let the memories created here linger in your heart forever.",
+      "bestSeller": ["maldives"],
+      "todos": {
+        "title": "Activities in the Exotic Maldives Paradise!",
+        "subtitle": "Whether it's exploring underwater wonders, skimming across the water on a jet ski, or enjoying a thrilling parasailing experience, the Maldives offers a plethora of adventurous activities amidst its breathtaking natural landscapes.",
+        "todo": [
+          {
+            "title": "Snorkeling",
+            "location": "Maafushi Island",
+            "duration": "Approximately 4 hours",
+            "content": "Immerse yourself in the turquoise waters around Maafushi Island, snorkeling amidst vibrant coral reefs and encountering colorful marine life.",
+            "imageUrl": "https://media2.thrillophilia.com/images/photos/000/027/902/original/Snorkling.jpg?gravity=center&width=1280&height=642&crop=fill&quality=auto&fetch_format=auto&flags=strip_profile&format=jpg&sign_url=true"
+          },
+          {
+            "title": "Scuba Diving",
+            "location": "North Male Atoll",
+            "duration": "Approximately 1 hour",
+            "content": "Dive into the depths of the North Male Atoll, exploring captivating coral gardens and encountering awe-inspiring marine creatures.",
+            "imageUrl": "https://images.pexels.com/photos/1540108/pexels-photo-1540108.jpeg?cs=srgb&dl=pexels-oleksandr-p-1540108.jpg&fm=jpg"
+          },
+          {
+            "title": "Jet Skiing",
+            "location": "Baa Atoll",
+            "duration": "Approximately 1 hour",
+            "content": "Feel the rush of adrenaline as you zip across the crystal-clear waters of Baa Atoll on a thrilling jet skiing adventure, surrounded by breathtaking tropical beauty.",
+            "imageUrl": "https://www.andamansguide.com/wp-content/uploads/2016/08/Jet-Ski-in-Andaman.jpg"
+          },
+          {
+            "title": "Parasailing",
+            "location": "North Male Atoll",
+            "duration": "Approximately 15 minutes",
+            "content": "Float high above the Maldivian paradise, suspended by a parachute as you go parasailing, capturing panoramic views of turquoise waters and pristine islands.",
+            "imageUrl": "https://images.unsplash.com/photo-1505738313577-5357ff512f16?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGFyYXNhaWxpbmd8ZW58MHx8MHx8fDA%3D"
+          },
+          {
+            "title": "Fishing",
+            "location": "Atoll Fishing",
+            "duration": "Approximately 6 hours",
+            "content": "Cast your line into the abundant waters of Atoll Fishing, embarking on an unforgettable fishing experience surrounded by breathtaking natural beauty.",
+            "imageUrl": "https://www.hurawalhi.com/wp-content/uploads/2019/04/Fishing.jpg"
+          },
+          {
+            "title": "Surfing",
+            "location": "North Male Atoll",
+            "duration": "Approximately 4 hours",
+            "content": "Ride the waves in the Maldives' surfing paradise, where pristine breaks and warm waters offer an exhilarating experience for surfers of all levels.",
+            "imageUrl": "https://media.istockphoto.com/id/1218968711/photo/young-surfer-rides-the-ocean-wave-in-maldives.jpg?s=612x612&w=0&k=20&c=PIYg5svK_ER7gsYYoNsssiaBTje_AGS7rRl0I6Np7Fk="
+          }
+        ]
+      },
+      "places": {
+        "title": "Must-Visit Places in the Enchanting Maldives!",
+        "subtitle": "The Maldives is a collection of breathtaking islands known for their unparalleled beauty. Here are some top places to visit, offering a blend of natural wonders and luxurious experiences:",
+        "place": [
+          {
+            "title": "Male",
+            "location": "Male",
+            "content": "Male is a vibrant hub offering a blend of local culture, historical landmarks, and bustling markets.",
+            "imageUrl": "https://media.istockphoto.com/id/538010535/photo/maldivian-capital-from-above.jpg?s=612x612&w=0&k=20&c=d3S2dA405UKYQieCVkACNvTMbFYDBL9NYxyInFZqgac="
+          },
+          {
+            "title": "Hulhumale",
+            "location": "Hulhumale",
+            "content": "Hulhumale is a growing residential area and a popular destination for tourists, offering beautiful beaches and recreational activities.",
+            "imageUrl": "https://media.istockphoto.com/id/518527497/photo/hulhumale-island-republic-of-the-maldives.jpg?s=612x612&w=0&k=20&c=-sHxCuDupEzuqyX5IEKQ1Zn0E2VNWEJ2C7JWMw1lIgg="
+          },
+          {
+            "title": "Sun Island",
+            "location": "South Ari Atoll",
+            "content": "Sun Island is a stunning tropical paradise known for its pristine beaches, lush greenery, and luxurious resorts.",
+            "imageUrl": "https://images.pexels.com/photos/12807062/pexels-photo-12807062.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+          },
+          {
+            "title": "COMO Cocoa Island",
+            "location": "South Male Atoll",
+            "content": "COMO Cocoa Island is an idyllic private island resort renowned for its pristine beaches, turquoise waters, and luxurious overwater villas.",
+            "imageUrl": "https://c4.wallpaperflare.com/wallpaper/510/180/991/maldives-asia-private-islands-bungalows-water-resorts-in-south-asia-indian-ocean-wallpaper-hd-1920%C3%971080-wallpaper-thumb.jpg"
+          },
+          {
+            "title": "Addu Atoll",
+            "location": "Southernmost part of the Maldives",
+            "content": "Addu Atoll offers a tranquil escape with beautiful islands, fascinating history, and diverse marine life.",
+            "imageUrl": "https://media.istockphoto.com/id/1129593438/photo/aerial-view-of-canareef-resort-maldives-herathera-island-addu-atoll.jpg?s=612x612&w=0&k=20&c=AGqQwCTPqKOyOj4AV1uold2bud8Ij0lsL_sC0vsbhsI="
+          },
+          {
+            "title": "Maafushi",
+            "location": "Maafushi",
+            "content": "Maafushi offers stunning beaches, vibrant marine life, and a range of accommodations and activities for visitors to enjoy.",
+            "imageUrl": "https://media.istockphoto.com/id/1250927988/photo/maafushi-island-in-maldives-by-dji-mavic-pro.jpg?s=612x612&w=0&k=20&c=DJrlj028HZNLcvI643CKzPdTmhO66of2hXZ6dt2nl00="
+          }
+        ]
+      },
+      "shop": {
+        "title": "Must-Visit Shopping Spots in the Maldives!",
+        "subtitle": "These spots offer a diverse range of products, from local handicrafts and clothing to cosmetics and stylish beachwear, allowing visitors to find unique souvenirs and items amidst the tropical paradise of the Maldives.",
+        "items": [
+          {
+            "title": "Male Local Market",
+            "location": "Male",
+            "shopFor": "Handicrafts",
+            "openingHours": "07:00 AM - 06:00 PM",
+            "imageUrl": "https://as1.ftcdn.net/v2/jpg/04/93/75/60/1000_F_493756051_UZho1HGSDwErSz5UVCoThUUcssgwxj6f.jpg"
+          },
+          {
+            "title": "Majeedhee Magu",
+            "location": "Male",
+            "shopFor": "Cosmetics",
+            "openingHours": "09:00 AM - 06:00 PM",
+            "imageUrl": "https://www.holidify.com/images/cmsuploads/compressed/33609621782_a1a7f508d7_b_20190715122132.jpg"
+          },
+          {
+            "title": "STO Trade Centre",
+            "location": "Male",
+            "shopFor": "Clothing",
+            "openingHours": "09:00 AM - 10:00 PM",
+            "imageUrl": "https://img.freepik.com/free-photo/shop-clothing-clothes-shop-hanger-modern-shop-boutique_1150-8886.jpg"
+          },
+          {
+            "title": "Le Cute",
+            "location": "Male",
+            "shopFor": "Perfumes",
+            "openingHours": "09:00 AM - 11:00 PM",
+            "imageUrl": "https://images.pexels.com/photos/965989/pexels-photo-965989.jpeg"
+          },
+          {
+            "title": "Island Bazaar",
+            "location": "Male",
+            "shopFor": "Jewelry",
+            "openingHours": "09:00 AM - 10:00 PM",
+            "imageUrl": "https://www.swantour.com/blogs/wp-content/uploads/2018/12/island-bazaar-maldives.jpg"
+          },
+          {
+            "title": "Nala Boutique",
+            "location": "North Male Atoll",
+            "shopFor": "Stylish Beachwear",
+            "openingHours": "09:00 AM - 10:00 PM",
+            "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/e3/65/44/nala-boutique.jpg?w=1200&h=-1&s=1"
+          }
+        ]
+      }
+    },
     "malaysia": {
       "name": "Malaysia",
       "title": "Malaysia Tour Packages: Discover Beauty and Diversity",
