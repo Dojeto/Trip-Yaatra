@@ -448,6 +448,882 @@
         ]
       }
     },
+    "thailand": {
+      "name": "Thailand",
+      "title": "Discover the Land of Smiles and its Infinite Marvels",
+      "imagePath": "/assets/Destinations/Thailand/thailand.jpg",
+      "about": "Discover Thailand through Our Tailored Tour Packages \n\nWelcome to Thailand, where smiles are abundant, and adventure awaits at every turn. Our diverse range of Thailand tour packages is designed to offer a glimpse into the tapestry of this enchanting Southeast Asian paradise.\n\nFrom the vibrant pulse of Bangkok to the pristine shores of Phuket, each Thailand trip we offer promises a unique narrative. Our meticulously crafted Thailand tour packages encapsulate the essence of Thai culture, seamlessly blending historical richness with modern vibrancy.\n\nImmerse yourself in the allure of ancient temples, grand palaces, and lively markets brimming with local flavors. As you explore further with our Thailand packages, discover serene landscapes adorned with traditional villages and verdant rice fields, each turn opening a new chapter in your Thailand vacation.\n\nThailand is a sanctuary of simplicity, safety, and indulgence. Our Thailand tour packages promise an unforgettable experience, where you can unwind in a land that effortlessly balances exotic charm with modern convenience.\n\nAre you ready to embrace the cultural mosaic, timeless beauty, and the infectious energy that defines Thailand? Your adventure beckons—Thailand awaits your exploration. The journey begins with you.",
+      "bestSeller": ["thailand"],
+      "todos": {
+        "title": "Embark on an Adventure-Filled Getaway in Thailand",
+        "subtitle": "Get ready for an exhilarating journey across Thailand's diverse landscapes, where each adventure activity promises to leave you breathless and inspired. From exploring turquoise waters to trekking through lush jungles, Thailand offers the perfect playground for thrill-seekers.",
+        "todo": [
+          {
+            "title": "Scuba Diving",
+            "imageUrl": "https://images.pexels.com/photos/1540108/pexels-photo-1540108.jpeg?cs=srgb&dl=pexels-oleksandr-p-1540108.jpg&fm=jpg",
+            "time": "Approximately 45 minutes",
+            "content": "Take the plunge into Thailand's pristine waters and uncover the secrets of vibrant marine life and stunning coral reefs—a scuba diver's paradise awaits.",
+            "location": "Phi Phi Islands"
+          },
+          {
+            "title": "Rock Climbing",
+            "imageUrl": "https://images.pexels.com/photos/1365425/pexels-photo-1365425.jpeg",
+            "time": "Approximately 4 hours",
+            "content": "Conquer towering limestone cliffs against breathtaking backdrops—rock climbing in Thailand presents thrilling challenges suitable for adventurers of all levels.",
+            "location": "Railay Beach"
+          },
+          {
+            "title": "White-water Rafting",
+            "imageUrl": "https://images.pexels.com/photos/11871441/pexels-photo-11871441.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "time": "Approximately 2 hours",
+            "content": "Roar through exhilarating rapids while navigating scenic rivers—white-water rafting in Thailand delivers an adrenaline-pumping experience for water sports enthusiasts.",
+            "location": "Pai"
+          },
+          {
+            "title": "ATV Adventures",
+            "imageUrl": "https://media2.thrillophilia.com/images/photos/000/335/402/original/1597923983_shutterstock_414619522.jpg?width=975&height=600",
+            "time": "Approximately 2 hours",
+            "content": "Embark on thrilling off-road escapades, exploring Thailand's scenic landscapes on an ATV—this adventure promises an adrenaline rush and a unique way to connect with nature.",
+            "location": "Phuket"
+          },
+          {
+            "title": "Elephant Trekking",
+            "imageUrl": "https://cdn.pixabay.com/photo/2017/05/16/21/39/camp-elephants-2319080_1280.jpg",
+            "time": "Approximately 3 hours",
+            "content": "Immerse yourself in a cultural adventure with elephant trekking in Thailand, connecting with nature while ensuring the welfare of these majestic creatures.",
+            "location": "Chiang Mai"
+          },
+          {
+            "title": "Bungee Jumping",
+            "imageUrl": "https://www.tourismsikkim.in/ServerImage/336f7dc2-a5f3-45a6-be82-2ade54463535.jpeg",
+            "time": "Approximately 2 hours",
+            "content": "Feel the ultimate adrenaline rush as you take a leap into the void—bungee jumping in Thailand offers a heart-pounding experience amid stunning landscapes.",
+            "location": "Pattaya"
+          }
+        ]
+      },
+      "places": {
+        "title": "Discover Thailand's Captivating Destinations",
+        "subtitle": "Explore Thailand's diverse cities and natural wonders, each offering unique experiences and mesmerizing landscapes.",
+        "place": [
+          {
+            "title": "Bangkok",
+            "location": "Bangkok",
+            "content": "Thailand's vibrant capital blends ancient temples, bustling markets, and modern skyscrapers, creating a dynamic cityscape that never sleeps.",
+            "imageUrl": "https://cdn.pixabay.com/photo/2016/11/14/03/29/grand-palace-1822487_1280.jpg"
+          },
+          {
+            "title": "Chiang Mai",
+            "location": "Chiang Mai",
+            "content": "Nestled in Northern Thailand, Chiang Mai boasts rich history, stunning temples, and natural wonders, attracting cultural enthusiasts and nature lovers alike.",
+            "imageUrl": "https://media.istockphoto.com/id/635730734/photo/landmark-pagoda-in-doi-inthanon-national-park-at-chiang-mai.jpg?s=612x612&w=0&k=20&c=g4VNfpNdMTk5mjRUDAyw9VouNZVtItbK-w54PbjbU9g="
+          },
+          {
+            "title": "Phuket",
+            "location": "Phuket",
+            "content": "Thailand's largest island allures with its stunning beaches, vibrant nightlife, and a plethora of water activities, making it a haven for adventurers.",
+            "imageUrl": "https://cdn.pixabay.com/photo/2016/11/14/03/38/phra-nakhon-si-ayutthaya-1822502_1280.jpg"
+          },
+          {
+            "title": "Krabi",
+            "location": "Krabi",
+            "content": "A coastal gem known for towering limestone cliffs, crystal-clear waters, and a paradise for rock climbers and beach enthusiasts.",
+            "imageUrl": "https://media.istockphoto.com/id/1412139218/photo/aerial-drone-view-of-railay-beach-krabi-thailand.webp?b=1&s=170667a&w=0&k=20&c=uSehR44tI1YBSsAZTBf88PlShhGXtkdxvAhAtdG_IQ4="
+          },
+          {
+            "title": "Pai",
+            "location": "Pai",
+            "content": "This tranquil town in Northern Thailand offers a laid-back vibe, hot springs, waterfalls, and picturesque mountain landscapes, perfect for nature lovers.",
+            "imageUrl": "https://cdn.pixabay.com/photo/2019/04/15/08/08/thailand-4128687_1280.jpg"
+          },
+          {
+            "title": "Pattaya",
+            "location": "Pattaya",
+            "content": "Renowned for its lively nightlife, beautiful beaches, and diverse entertainment, Pattaya is a vibrant coastal city offering varied experiences.",
+            "imageUrl": "https://media.istockphoto.com/id/1533495845/photo/sanctuary-of-truth-pattaya-thailand-wooden-temple-by-the-ocean-at-sunset-on-the-beach-of.webp?b=1&s=170667a&w=0&k=20&c=la_gh53uT9j2voyPghcWkuoxxvxsZq3yfr3FW2fhRTs="
+          }
+        ]
+      },
+      "shop": {
+        "title": "Explore Thailand's Shopping Paradises",
+        "subtitle": "Discover a world of shopping delights in Thailand, from bustling markets to modern malls, offering a blend of local crafts and international fashion.",
+        "items": [
+          {
+            "title": "Chatuchak Weekend Market",
+            "shopFor": "Home decor",
+            "location": "Bangkok",
+            "time": "6:00 AM - 6:00 PM",
+            "imageUrl": "https://st.depositphotos.com/1000151/3760/i/450/depositphotos_37600481-stock-photo-chatuchak-market.jpg"
+          },
+          {
+            "title": "CentralWorld",
+            "shopFor": "Clothing",
+            "location": "Bangkok",
+            "time": "10:00 AM - 10:00 PM",
+            "imageUrl": "https://c4.wallpaperflare.com/wallpaper/797/345/217/centralworld-shopping-plaza-and-complex-in-bangkok-thailand-sixth-largest-in-the-world-owned-by-central-pattana-wallpaper-hd-2560%C3%971600-wallpaper-preview.jpg"
+          },
+          {
+            "title": "Jungceylon Shopping Mall",
+            "shopFor": "Clothing",
+            "location": "Phuket",
+            "time": "11:00 AM - 10:00 PM",
+            "imageUrl": "https://png.pngtree.com/thumb_back/fw800/background/20220215/pngtree-jungceylon-shopping-mall-in-patong-phuket-thailandapril-26th-photo-image_12074300.jpg"
+          },
+          {
+            "title": "Tha Pae Walking Street",
+            "shopFor": "Handicrafts",
+            "location": "Chiang Mai",
+            "time": "4:00 PM - 10:00 PM",
+            "imageUrl": "https://previews.123rf.com/images/501room/501room1412/501room141200009/34497835-chiang-mai-thailand-september-29-saturday-market-walking-street-popular-tourist-souvenirs-and-visit.jpg"
+          },
+          {
+            "title": "JJ Green Night Market",
+            "shopFor": "Vintage treasures",
+            "location": "Bangkok",
+            "time": "5:00 PM - 1:00 AM",
+            "imageUrl": "https://i0.wp.com/theholidaze.com/wp-content/uploads/2016/07/night-market-wallpaper.jpg"
+          },
+          {
+            "title": "Walking Street",
+            "shopFor": "Clothing",
+            "location": "Pattaya",
+            "time": "4:00 PM - 3:00 AM",
+            "imageUrl": "https://images.unsplash.com/photo-1538114618364-ae7f63d1ee7d?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGF0dGF5YSUyMGNpdHklMjB0aGFpbGFuZHxlbnwwfHwwfHx8MA%3D%3D"
+          }
+        ]
+      }
+    },
+    "dubai": {
+      "name": "Dubai",
+      "title": "Thrilling Group Excursion to Dubai: The City of Gold",
+      "imagePath": "/assets/Destinations/Dubai/Dubai.jpeg",
+      "about": "Experience Dubai's Marvels with Our Tailored Tour Packages\n\nDubai, often hailed as the City of Gold, unfolds a unique story with each exploration. Our curated Dubai packages invite you to indulge in the golden experiences this vibrant city has to offer, promising an unforgettable journey through this desert marvel.\n\nAs one of the United Arab Emirates' largest emirates, Dubai boasts a stunning array of both natural wonders and iconic landmarks. From the Burj Al Arab to the majestic Burj Khalifa, and the breathtaking Wadi Ghalilah, our Dubai tour packages allow you to explore these wonders and more. Beyond these marvels, Dubai's rich culture and delectable Emirati cuisine await your discovery during your visit with our Dubai holiday package.\n\nOnce a humble fishing village, Dubai has undergone a remarkable transformation, shattering traditional perceptions of desert landscapes. This exotic destination dazzles travelers with its plethora of spectacles, earning its place in every adventurer's heart and bucket list. Particularly favored among honeymooners, Dubai secures its spot among the top 10 honeymoon destinations worldwide, offering the perfect setting for couples through our specialized Dubai honeymoon package and Dubai package for couples.\n\nWith a range of Dubai packages tailored to diverse preferences, whether it's a Dubai family tour package or a Dubai group tour package, we ensure an experience suited to your needs. Select the perfect Dubai tour package while we take care of the rest.\n\nBefore diving into our Dubai packages, envision the diverse destinations awaiting exploration during your Dubai tour package.\n\nDubai boasts an abundance of treasures spread across various landscapes and neighborhoods. From the vibrant Sheikh Zayed Road and inner suburbs to the scenic Dubai Marina, each locality offers a unique charm. Among the cherished landmarks, marvel at the world's tallest man-made tower, the Burj Khalifa, and embrace the innovation at the Museum of the Future. Explore the vast Palm Island, the globe's largest artificial island, and more as you journey through your Dubai tour package.",
+      "bestSeller": ["dubai"],
+      "todos": {
+        "title": "Thrilling Adventures Await You in Dubai!",
+        "subtitle": "No Dubai tour is complete without embracing the adrenaline-pumping adventure activities that define the city's spirit. From sandboarding to skydiving, Dubai offers a myriad of heart-racing experiences that will leave you exhilarated.",
+        "todo": [
+          {
+            "title": "Sand Boarding",
+            "time": "Approximately 3 hours",
+            "location": "Al Badayer",
+            "content": "Sandboarding in Dubai is a must-do activity, offering the perfect terrain for an exciting adventure on the dunes.",
+            "imageUrl": "https://www.visitdubai.com/-/media/gathercontent/article/u/unforgettable-family-holiday-in-dubai/fallback-image/unforgettable-family-holiday-in-dubai-desert-header.jpg"
+          },
+          {
+            "title": "Dune Bashing",
+            "time": "Approximately 6 hours",
+            "location": "The Burlington Tower",
+            "imageUrl": "https://images.unsplash.com/photo-1624062999726-083e5268525d?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZHVuZSUyMGJhc2hpbmd8ZW58MHx8MHx8fDA%3D",
+            "content": "Experience an adrenaline rush with dune bashing, an unforgettable adventure that will etch lasting memories."
+          },
+          {
+            "title": "Skydiving",
+            "time": "Approximately 3 hours",
+            "location": "Dubai Marina",
+            "imageUrl": "https://images.pexels.com/photos/4135041/pexels-photo-4135041.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "content": "Skydiving is among the best adventure sports in Dubai. Conquer your fears by taking a leap from a plane high above the iconic Dubai Marina."
+          },
+          {
+            "title": "Bungee Jumping",
+            "time": "Approximately 20 minutes",
+            "location": "Meydan Road, Dubai",
+            "imageUrl": "https://assets.traveltriangle.com/blog/wp-content/uploads/2019/09/Bungee-Jumping-In-Dubai-og.jpg",
+            "content": "For the adventurous souls, bungee jumping in Dubai should be at the top of your list, providing an enthralling experience."
+          },
+          {
+            "title": "Shark Diving",
+            "time": "Approximately 2 hours",
+            "location": "Dubai Mall",
+            "imageUrl": "https://images.unsplash.com/photo-1560275619-4cc5fa59d3ae?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c2hhcmslMjBkaXZpbmd8ZW58MHx8MHx8fDA%3D",
+            "content": "Embark on a thrilling shark diving experience in Dubai, offering a close and personal encounter with these magnificent creatures."
+          },
+          {
+            "title": "Jet Skiing",
+            "time": "Approximately 1 hour",
+            "location": "Palm Jumeirah Beach, Dubai",
+            "imageUrl": "https://cdn.pixabay.com/photo/2019/06/20/20/05/jet-ski-4287967_1280.jpg",
+            "content": "Jet skiing in Dubai provides the perfect opportunity to explore the city from a different perspective while enjoying the thrill of sightseeing."
+          }
+        ]
+      },
+      "places": {
+        "title": "Explore Dubai's Iconic Destinations",
+        "subtitle": "Dubai, a city of marvels and wonders, offers a wealth of experiences for visitors seeking adventure, luxury shopping, and family-friendly attractions.",
+        "place": [
+          {
+            "title": "The Dubai Mall",
+            "time": "Approximately 3 hours",
+            "location": "Dubai",
+            "imageUrl": "https://cdn.pixabay.com/photo/2017/09/03/18/15/uae-2711481_640.jpg",
+            "content": "Known for its luxurious stores such as Harry Winston and Cartier, The Dubai Mall is a shopper's paradise offering high-end retail experiences."
+          },
+          {
+            "title": "Burj Khalifa",
+            "time": "Approximately 1 hour",
+            "location": "Downtown Dubai",
+            "imageUrl": "https://images.unsplash.com/flagged/photo-1559717865-a99cac1c95d8?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YnVyaiUyMGtoYWxpZmF8ZW58MHx8MHx8fDA%3D",
+            "content": "As the world's tallest building, Burj Khalifa is a must-visit attraction, offering breathtaking views and an unparalleled experience for families and tourists."
+          },
+          {
+            "title": "Burj Al Arab",
+            "time": "Approximately 1 day",
+            "location": "Umm Suqeim 3, Dubai",
+            "imageUrl": "https://www.100hdwallpapers.com/wallpapers/1600x1200/burj_al_arab_dubai_uae-standard_wallpapers.jpg",
+            "content": "The iconic sail-shaped Burj Al Arab stands tall as the world's tallest hotel, symbolizing modern Dubai's luxury and elegance."
+          },
+          {
+            "title": "Atlantis, The Palm",
+            "time": "Approximately 4 hours",
+            "location": "Jumeirah, Dubai",
+            "imageUrl": "https://images.unsplash.com/photo-1634148551170-d37d021e0cc9?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8YXRsYW50aXMlMjB0aGUlMjBwYWxtfGVufDB8fDB8fHww",
+            "content": "Situated on Palm Jumeirah, Atlantis The Palm boasts the first-ever private beach, offering captivating views of the Arabian Gulf."
+          },
+          {
+            "title": "Palm Islands",
+            "time": "Approximately 4 hours",
+            "location": "Dubai",
+            "imageUrl": "https://images.pexels.com/photos/10593605/pexels-photo-10593605.jpeg?cs=srgb&dl=pexels-abid-bin-nazar-10593605.jpg&fm=jpg",
+            "content": "A symbol of luxury, Palm Islands feature lavish restaurants and thrilling water parks, embodying Dubai's opulence."
+          },
+          {
+            "title": "Museum Of The Future",
+            "time": "Approximately 1 hour",
+            "location": "Trade Centre, Dubai",
+            "imageUrl": "https://images.pexels.com/photos/17117853/pexels-photo-17117853.jpeg?cs=srgb&dl=pexels-editz-central-editors-17117853.jpg&fm=jpg",
+            "content": "A testament to Dubai's innovative spirit, the Museum of the Future is a creative hub showcasing futuristic marvels."
+          }
+        ]
+      },
+      "shop": {
+        "title": "Indulge in Dubai's Shopping Extravaganza",
+        "subtitle": "Explore Dubai's vibrant shopping scene, offering a blend of international luxury and local treasures.",
+        "items": [
+          {
+            "title": "Wafi Mall Dubai",
+            "shopFor": "Immerse yourself in an Egyptian-themed shopping experience",
+            "time": "10:00 AM - 10:00 PM",
+            "location": "Umm Hurair 2 - Dubai",
+            "imageUrl": "https://cdn.pixabay.com/photo/2015/03/25/22/07/dubai-689550_1280.jpg"
+          },
+          {
+            "title": "Mall of the Emirates",
+            "shopFor": "Discover a vast array of international and Arabic goods",
+            "time": "10:00 AM - 11:00 PM",
+            "location": "Al Barsha 1 - Dubai",
+            "imageUrl": "https://st2.depositphotos.com/1040166/8051/i/450/depositphotos_80511384-stock-photo-mall-of-the-emirates.jpg"
+          },
+          {
+            "title": "Dubai Mall",
+            "shopFor": "Explore the world's largest shopping mall",
+            "time": "10:00 AM - 10:00 PM",
+            "location": "Next to Burj Khalifa - Dubai",
+            "imageUrl": "https://thumbs.dreamstime.com/b/dubai-mall-downtown-uae-73435163.jpg"
+          },
+          {
+            "title": "Ibn Battuta Mall",
+            "shopFor": "Indulge in a shopping spree for fashion and accessories",
+            "time": "10:00 AM - 10:00 PM",
+            "location": "Jebel Ali Village - Dubai",
+            "imageUrl": "https://images.unsplash.com/photo-1655375648819-8ae3fc7beca8?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+          },
+          {
+            "title": "Dubai Outlet Mall",
+            "shopFor": "Enjoy discounted prices and find incredible deals",
+            "time": "10:00 AM - 10:00 PM",
+            "location": "Dubai Al-Ain Road",
+            "imageUrl": "https://images.unsplash.com/photo-1562280963-8a5475740a10?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZHViYWklMjBtYWxsfGVufDB8fDB8fHww"
+          },
+          {
+            "title": "Mercato Shopping Mall",
+            "shopFor": "Immerse yourself in the charm of international fashion and lifestyle brands",
+            "time": "10:00 AM - 10:00 PM",
+            "location": "Jumeirah Beach Rd, Dubai",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Mercato_Shopping_Mall_on_5_June_2007_Pict_2.jpg/1200px-Mercato_Shopping_Mall_on_5_June_2007_Pict_2.jpg"
+          }
+        ]
+      }
+    },
+    "turkey": {
+      "name": "Turkey",
+      "title": "Embark on a Dreamy Adventure",
+      "imagePath": "/assets/Destinations/Turkey/Turkey.jpg",
+      "about": "Turkey, a captivating blend of European and Asian influence, boasts a rich tapestry of history and culture. Its ancient roots and diverse landscapes make it a top-tier tourist destination. With its stunning vistas, coastal splendor, and iconic cities, Turkey invites exploration.\n\nHome to over 82 million people, Turkey embraces a secular democratic outlook while preserving its Islamic heritage. Istanbul, the country's largest city, stands as a testament to its economic, cultural, and historical significance, while Ankara serves as the capital. Customized Turkey tour packages offer a glimpse into its cities, each showcasing scenic wonders.\n\nTurkish, the official language, resonates throughout the land where Islam is practiced by the majority. The country's allure is further accentuated by its natural beauty, providing a serene haven for travelers. Turkey tour packages from India remain amongst the world's most sought-after travel experiences.\n\nOne cannot overlook the tantalizing Turkish cuisine, a true delight for the senses. The cuisine, bursting with Mediterranean flavors, fresh seafood, grilled meats, and aromatic spices, adds to the country's tranquil allure. A journey through Turkey promises an odyssey through time, culture, and culinary excellence.",
+
+      "todos": {
+        "title": "Unleash Your Adventurous Spirit: Top 6 Thrilling Activities in Turkey!",
+        "subtitle": "Turkey offers a myriad of heart-pounding activities for thrill-seekers and adventure enthusiasts. From enchanting landscapes to stunning coastlines, here are the top six adventure activities:",
+        "todo": [
+          {
+            "title": "Hot Air Ballooning",
+            "duration": "1 hour approx",
+            "content": "Embark on a magical journey over Cappadocia with a hot air balloon ride. Witness unique rock formations and fairy chimneys.",
+            "location": "Cappadocia",
+            "imageUrl": "https://images.pexels.com/photos/5700576/pexels-photo-5700576.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+          },
+          {
+            "title": "Scuba Diving",
+            "duration": "1 hour approx",
+            "content": "Explore crystal-clear waters and rich marine life in Kaş through scuba diving—a haven for diving enthusiasts.",
+            "location": "Kaş",
+            "imageUrl": "https://images.pexels.com/photos/1540108/pexels-photo-1540108.jpeg?cs=srgb&dl=pexels-oleksandr-p-1540108.jpg&fm=jpg"
+          },
+          {
+            "title": "Whitewater Rafting",
+            "duration": "3 hours approx",
+            "content": "Experience the thrill of whitewater rafting in Köprülü Canyon National Park, featuring rapids suitable for all levels.",
+            "location": "Köprülü Canyon",
+            "imageUrl": "https://images.unsplash.com/photo-1593107757644-25f0b23e9297?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+          },
+          {
+            "title": "Kiteboarding",
+            "duration": "2 hours approx",
+            "content": "Adventure awaits kiteboarders in the Gulf of Gokova, known for consistent winds and thrilling water conditions.",
+            "location": "Gulf of Gokova",
+            "imageUrl": "https://cdn.create.vista.com/api/media/small/9164006/stock-photo-kiteboarder"
+          },
+          {
+            "title": "Paragliding",
+            "duration": "30 minutes approx",
+            "content": "Soar high above Ölüdeniz with paragliding and take in breathtaking views of the turquoise waters and surrounding mountains.",
+            "location": "Ölüdeniz",
+            "imageUrl": "https://images.pexels.com/photos/65677/gerlitz-glacier-mountains-in-the-morning-paragliding-65677.jpeg?cs=srgb&dl=pexels-pixabay-65677.jpg&fm=jpg"
+          },
+          {
+            "title": "Rock Climbing ",
+            "duration": "2 hours approx",
+            "content": "Geyikbayırı offers fantastic rock climbing experiences with routes suitable for climbers of all levels.",
+            "location": "Geyikbayırı",
+            "imageUrl": "https://images.pexels.com/photos/449609/pexels-photo-449609.jpeg?auto=compress&cs=tinysrgb&w=600"
+          }
+        ]
+      },
+      "places": {
+        "title": "Exploring Turkey's Diversity: Uncover its Fascinating Destinations!",
+        "content": "From bustling Istanbul to geological wonders, Turkey is rich in cultural diversity and natural marvels. Discover the diverse destinations:",
+        "place": [
+          {
+            "title": "Istanbul",
+            "location": "Istanbul",
+            "content": "A vibrant mosaic where East meets West, boasting a rich historical heritage and modern cosmopolitan vibe.",
+            "imageUrl": "https://images.pexels.com/photos/3999943/pexels-photo-3999943.jpeg?cs=srgb&dl=pexels-caner-cankisi-3999943.jpg&fm=jpg"
+          },
+          {
+            "title": "Cappadocia",
+            "location": "Cappadocia",
+            "content": "Central Turkey's geological wonderland featuring fairy chimneys, cave dwellings, and underground cities.",
+            "imageUrl": "https://media.istockphoto.com/id/1340007371/photo/sunrise-in-goreme.jpg?s=612x612&w=0&k=20&c=s2WtE0IpdKzERtPaW8eCANfG4F9DoXR3byVEvCSg5A0="
+          },
+          {
+            "title": "Bodrum",
+            "location": "Bodrum",
+            "content": "A sought-after resort town along Turkey's Aegean coast, known for scenic beaches and vibrant nightlife.",
+            "imageUrl": "https://cdn.pixabay.com/photo/2016/03/14/10/59/bodrum-1255296_1280.jpg"
+          },
+          {
+            "title": "Pamukkale",
+            "location": "Pamukkale",
+            "content": "Western Turkey's natural marvel boasting hot springs and stunning cascading white travertine terraces.",
+            "imageUrl": "https://c4.wallpaperflare.com/wallpaper/896/655/639/pamukkale-turkey-wallpaper-preview.jpg"
+          },
+          {
+            "title": "Antalya",
+            "location": "Antalya",
+            "content": "Nestled on Turkey's southern coast, charming visitors with beautiful beaches, ancient ruins, and an old town.",
+            "imageUrl": "https://cdn.pixabay.com/photo/2021/06/10/15/52/antalya-6326400_640.jpg"
+          },
+          {
+            "title": "Ankara",
+            "location": "Ankara",
+            "content": "The capital city of Turkey, featuring modern architecture, a lively nightlife, and significant historical landmarks.",
+            "imageUrl": "https://c4.wallpaperflare.com/wallpaper/825/188/974/ankara-mosque-city-lights-wallpaper-preview.jpg"
+          }
+        ]
+      },
+      "shop": {
+        "title": "Shopping Paradise: Best Places to Shop in Turkey!",
+        "content": "Turkey offers a vibrant shopping scene with a mix of local treasures and international brands. Here are the best places to shop:",
+        "items": [
+          {
+            "title": "Grand Bazaar",
+            "location": "Istanbul",
+            "time": "9:00 AM - 7:00 PM",
+            "shopFor": "Souvenirs",
+            "imageUrl": "https://images.pexels.com/photos/7529243/pexels-photo-7529243.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+          },
+          {
+            "title": "Spice Bazaar",
+            "location": "Istanbul",
+            "time": "8:00 AM - 7:00 PM",
+            "shopFor": "Spices",
+            "imageUrl": "https://media.istockphoto.com/id/91814755/photo/colorful-spice-baskets-on-a-market-stand.jpg?s=612x612&w=0&k=20&c=a8y8RsCa0xoG5qaDcW-F2JwiGzbdHxVq5cpfVD6cF7A="
+          },
+          {
+            "title": "Bagdat Street",
+            "location": "Istanbul",
+            "time": "10:00 AM - 9:00 PM",
+            "shopFor": "Boutiques",
+            "imageUrl": "https://www.shutterstock.com/image-photo/istanbul-turkey-people-walking-on-600nw-1162614742.jpg"
+          },
+          {
+            "title": "ANKAmall",
+            "location": "Ankara",
+            "time": "9:00 AM - 10:00 PM",
+            "shopFor": "Clothing",
+            "imageUrl": "https://img.freepik.com/free-photo/shop-clothing-clothes-shop-hanger-modern-shop-boutique_1150-8886.jpg"
+          },
+          {
+            "title": "Forum Camlik",
+            "location": "Pamukkale",
+            "time": "10:00 AM - 8:00 PM",
+            "shopFor": "Stones",
+            "imageUrl": "https://media.istockphoto.com/id/647483712/photo/semi-precious-stones-bracelet.jpg?s=612x612&w=0&k=20&c=1AFeMHKYe9P3cwuXSUQSxwQ_dxLSoz3pznwMhJbWxrk="
+          },
+          {
+            "title": "Terracity",
+            "location": "Antalya",
+            "time": "10:00 AM - 10:00 PM",
+            "shopFor": "Turkish Textiles",
+            "imageUrl": "https://www.textilegence.com/wp-content/uploads/2023/08/turkish-textile-detail.jpg"
+          }
+        ]
+      }
+    },
+    "maldives": {
+      "name": "Maldives",
+      "title": "A paradise of sun, sand, and smiles indeed",
+      "imagePath": "/assets/Destinations/Maldives/Maldives.jpeg",
+      "about": "The Maldives, a paradise on Earth, beckons with its azure waters, coral islands, and luxury beyond compare. Our Maldives Tour Packages offer a seamless blend of relaxation and adventure, ensuring an unforgettable escape to this tropical haven. From romantic getaways to family-friendly vacations, our meticulously crafted itineraries cater to diverse preferences.\n\nIndulge in the lap of luxury with overwater bungalows, where the gentle lull of the waves becomes your lullaby. Snorkel amidst vibrant coral reefs, discovering the underwater wonders that make the Maldives a diver's dream. Our Maldives Packages from India provide convenient flights, comfortable accommodations, and an array of experiences tailored to your liking.\n\nFor couples seeking a romantic retreat, our Maldives Honeymoon Packages promise intimate moments against the backdrop of breathtaking sunsets. Picture private dinners on the beach, spa treatments for two, and leisurely strolls on pristine shores.\n\nFamilies can create lasting memories with our Maldives Family Packages, designed to cater to all ages. Enjoy water sports, island-hopping, and engaging activities that ensure everyone has a fantastic time in this tropical wonderland.\n\nThe Maldives, with its unique charm and warm hospitality, awaits your discovery. Allow our Maldives Tour Packages to be your guide to this slice of paradise, where every moment is a celebration of life, love, and luxury. Dive into the beauty of the Maldives and let the memories created here linger in your heart forever.",
+      "bestSeller": ["maldives"],
+      "todos": {
+        "title": "Activities in the Exotic Maldives Paradise!",
+        "subtitle": "Whether it's exploring underwater wonders, skimming across the water on a jet ski, or enjoying a thrilling parasailing experience, the Maldives offers a plethora of adventurous activities amidst its breathtaking natural landscapes.",
+        "todo": [
+          {
+            "title": "Snorkeling",
+            "location": "Maafushi Island",
+            "duration": "Approximately 4 hours",
+            "content": "Immerse yourself in the turquoise waters around Maafushi Island, snorkeling amidst vibrant coral reefs and encountering colorful marine life.",
+            "imageUrl": "https://media2.thrillophilia.com/images/photos/000/027/902/original/Snorkling.jpg?gravity=center&width=1280&height=642&crop=fill&quality=auto&fetch_format=auto&flags=strip_profile&format=jpg&sign_url=true"
+          },
+          {
+            "title": "Scuba Diving",
+            "location": "North Male Atoll",
+            "duration": "Approximately 1 hour",
+            "content": "Dive into the depths of the North Male Atoll, exploring captivating coral gardens and encountering awe-inspiring marine creatures.",
+            "imageUrl": "https://images.pexels.com/photos/1540108/pexels-photo-1540108.jpeg?cs=srgb&dl=pexels-oleksandr-p-1540108.jpg&fm=jpg"
+          },
+          {
+            "title": "Jet Skiing",
+            "location": "Baa Atoll",
+            "duration": "Approximately 1 hour",
+            "content": "Feel the rush of adrenaline as you zip across the crystal-clear waters of Baa Atoll on a thrilling jet skiing adventure, surrounded by breathtaking tropical beauty.",
+            "imageUrl": "https://www.andamansguide.com/wp-content/uploads/2016/08/Jet-Ski-in-Andaman.jpg"
+          },
+          {
+            "title": "Parasailing",
+            "location": "North Male Atoll",
+            "duration": "Approximately 15 minutes",
+            "content": "Float high above the Maldivian paradise, suspended by a parachute as you go parasailing, capturing panoramic views of turquoise waters and pristine islands.",
+            "imageUrl": "https://images.unsplash.com/photo-1505738313577-5357ff512f16?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGFyYXNhaWxpbmd8ZW58MHx8MHx8fDA%3D"
+          },
+          {
+            "title": "Fishing",
+            "location": "Atoll Fishing",
+            "duration": "Approximately 6 hours",
+            "content": "Cast your line into the abundant waters of Atoll Fishing, embarking on an unforgettable fishing experience surrounded by breathtaking natural beauty.",
+            "imageUrl": "https://www.hurawalhi.com/wp-content/uploads/2019/04/Fishing.jpg"
+          },
+          {
+            "title": "Surfing",
+            "location": "North Male Atoll",
+            "duration": "Approximately 4 hours",
+            "content": "Ride the waves in the Maldives' surfing paradise, where pristine breaks and warm waters offer an exhilarating experience for surfers of all levels.",
+            "imageUrl": "https://media.istockphoto.com/id/1218968711/photo/young-surfer-rides-the-ocean-wave-in-maldives.jpg?s=612x612&w=0&k=20&c=PIYg5svK_ER7gsYYoNsssiaBTje_AGS7rRl0I6Np7Fk="
+          }
+        ]
+      },
+      "places": {
+        "title": "Must-Visit Places in the Enchanting Maldives!",
+        "subtitle": "The Maldives is a collection of breathtaking islands known for their unparalleled beauty. Here are some top places to visit, offering a blend of natural wonders and luxurious experiences:",
+        "place": [
+          {
+            "title": "Male",
+            "location": "Male",
+            "content": "Male is a vibrant hub offering a blend of local culture, historical landmarks, and bustling markets.",
+            "imageUrl": "https://media.istockphoto.com/id/538010535/photo/maldivian-capital-from-above.jpg?s=612x612&w=0&k=20&c=d3S2dA405UKYQieCVkACNvTMbFYDBL9NYxyInFZqgac="
+          },
+          {
+            "title": "Hulhumale",
+            "location": "Hulhumale",
+            "content": "Hulhumale is a growing residential area and a popular destination for tourists, offering beautiful beaches and recreational activities.",
+            "imageUrl": "https://media.istockphoto.com/id/518527497/photo/hulhumale-island-republic-of-the-maldives.jpg?s=612x612&w=0&k=20&c=-sHxCuDupEzuqyX5IEKQ1Zn0E2VNWEJ2C7JWMw1lIgg="
+          },
+          {
+            "title": "Sun Island",
+            "location": "South Ari Atoll",
+            "content": "Sun Island is a stunning tropical paradise known for its pristine beaches, lush greenery, and luxurious resorts.",
+            "imageUrl": "https://images.pexels.com/photos/12807062/pexels-photo-12807062.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+          },
+          {
+            "title": "COMO Cocoa Island",
+            "location": "South Male Atoll",
+            "content": "COMO Cocoa Island is an idyllic private island resort renowned for its pristine beaches, turquoise waters, and luxurious overwater villas.",
+            "imageUrl": "https://c4.wallpaperflare.com/wallpaper/510/180/991/maldives-asia-private-islands-bungalows-water-resorts-in-south-asia-indian-ocean-wallpaper-hd-1920%C3%971080-wallpaper-thumb.jpg"
+          },
+          {
+            "title": "Addu Atoll",
+            "location": "Southernmost part of the Maldives",
+            "content": "Addu Atoll offers a tranquil escape with beautiful islands, fascinating history, and diverse marine life.",
+            "imageUrl": "https://media.istockphoto.com/id/1129593438/photo/aerial-view-of-canareef-resort-maldives-herathera-island-addu-atoll.jpg?s=612x612&w=0&k=20&c=AGqQwCTPqKOyOj4AV1uold2bud8Ij0lsL_sC0vsbhsI="
+          },
+          {
+            "title": "Maafushi",
+            "location": "Maafushi",
+            "content": "Maafushi offers stunning beaches, vibrant marine life, and a range of accommodations and activities for visitors to enjoy.",
+            "imageUrl": "https://media.istockphoto.com/id/1250927988/photo/maafushi-island-in-maldives-by-dji-mavic-pro.jpg?s=612x612&w=0&k=20&c=DJrlj028HZNLcvI643CKzPdTmhO66of2hXZ6dt2nl00="
+          }
+        ]
+      },
+      "shop": {
+        "title": "Must-Visit Shopping Spots in the Maldives!",
+        "subtitle": "These spots offer a diverse range of products, from local handicrafts and clothing to cosmetics and stylish beachwear, allowing visitors to find unique souvenirs and items amidst the tropical paradise of the Maldives.",
+        "items": [
+          {
+            "title": "Male Local Market",
+            "location": "Male",
+            "shopFor": "Handicrafts",
+            "openingHours": "07:00 AM - 06:00 PM",
+            "imageUrl": "https://as1.ftcdn.net/v2/jpg/04/93/75/60/1000_F_493756051_UZho1HGSDwErSz5UVCoThUUcssgwxj6f.jpg"
+          },
+          {
+            "title": "Majeedhee Magu",
+            "location": "Male",
+            "shopFor": "Cosmetics",
+            "openingHours": "09:00 AM - 06:00 PM",
+            "imageUrl": "https://www.holidify.com/images/cmsuploads/compressed/33609621782_a1a7f508d7_b_20190715122132.jpg"
+          },
+          {
+            "title": "STO Trade Centre",
+            "location": "Male",
+            "shopFor": "Clothing",
+            "openingHours": "09:00 AM - 10:00 PM",
+            "imageUrl": "https://img.freepik.com/free-photo/shop-clothing-clothes-shop-hanger-modern-shop-boutique_1150-8886.jpg"
+          },
+          {
+            "title": "Le Cute",
+            "location": "Male",
+            "shopFor": "Perfumes",
+            "openingHours": "09:00 AM - 11:00 PM",
+            "imageUrl": "https://images.pexels.com/photos/965989/pexels-photo-965989.jpeg"
+          },
+          {
+            "title": "Island Bazaar",
+            "location": "Male",
+            "shopFor": "Jewelry",
+            "openingHours": "09:00 AM - 10:00 PM",
+            "imageUrl": "https://www.swantour.com/blogs/wp-content/uploads/2018/12/island-bazaar-maldives.jpg"
+          },
+          {
+            "title": "Nala Boutique",
+            "location": "North Male Atoll",
+            "shopFor": "Stylish Beachwear",
+            "openingHours": "09:00 AM - 10:00 PM",
+            "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/e3/65/44/nala-boutique.jpg?w=1200&h=-1&s=1"
+          }
+        ]
+      }
+    },
+    "malaysia": {
+      "name": "Malaysia",
+      "title": "Malaysia Tour Packages: Discover Beauty and Diversity",
+      "imagePath": "",
+      "about": "",
+      "bestSeller": ["dubai"],
+      "todos": {
+        "title": "Thrilling Adventure Activities in Malaysia for Your Vacation",
+        "subtitle": "Uncover the Thrill: Adventure Activities in Malaysia Await! From breathtaking landscapes to diverse wildlife, prepare for an unforgettable journey filled with adrenaline-pumping experiences in this captivating Southeast Asian destination",
+        "todo": [
+          {
+            "title": "Jungle Trekking",
+            "imageUrl": "https://images.unsplash.com/photo-1521115715763-2fcaa0608e9b?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "time": "4 hours approx",
+            "content": "Experience the Thrill: Jungle Trekking Adventure in Malaysia. Delve into lush rainforests, encounter diverse wildlife, and revel in stunning natural beauty.",
+            "location": "Taman Negara"
+          },
+          {
+            "title": "Microlight Aircraft",
+            "imageUrl": "https://www.sherburnaeroclub.com/storage/medialibrary/microlights-vs-light-aircrafts-16517504879oFxw.jpg",
+            "time": "15 minutes approx",
+            "content": "Embrace Thrills: Soar Above Malaysia's Landscapes in a Microlight Aircraft. Experience breathtaking aerial views that will leave you in awe.",
+            "location": "Kuala Lumpur"
+          },
+          {
+            "title": "Whitewater Rafting",
+            "imageUrl": "https://images.unsplash.com/photo-1593107757644-25f0b23e9297?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "time": "3 hours approx",
+            "content": "Get Set for an Adrenaline Rush: Conquer Thrilling Rapids with Whitewater Rafting in Malaysia. Experience breathtaking river scenery on this thrilling adventure.",
+            "location": "Sungai Selangor"
+          },
+          {
+            "title": "Skyway Cable Car",
+            "imageUrl": "https://images.unsplash.com/photo-1630313759127-74ce46326bb5?q=80&w=2073&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "time": "15 minutes approx",
+            "content": "Experience the Majesty: Glide Across Malaysia's Skies on a Skyway Cable Car. Marvel at breathtaking panoramic views of the surrounding landscapes.",
+            "location": "Langkawi"
+          },
+          {
+            "title": "Wildlife Safaris",
+            "imageUrl": "https://images.unsplash.com/photo-1569865225466-ff4c18a1754f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "time": "5 hours approx",
+            "content": "Explore Captivating Wildlife Safaris in Malaysia's Lush Rainforests and Biodiverse Habitats. Encounter Exotic Animals for Unforgettable Wildlife Encounters.",
+            "location": "Taman Negara"
+          },
+          {
+            "title": "Bungee Jumping",
+            "imageUrl": "https://images.unsplash.com/photo-1595778039451-58a7c2946e7d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "time": "5 minutes approx",
+            "content": "Experience the Ultimate Thrill: Bungee Jumping Adventures in Malaysia. Feel the Adrenaline Rush of Freefalling for an Unforgettable Adventure.",
+            "location": "Kuala Lumpur"
+          }
+        ]
+      },
+      "places": {
+        "title": "Unforgettable Adventures Await: Explore Malaysia's Top Must-Visit Destinations!",
+        "subtitle": "Unveil Malaysia's Allure: Diverse Landscapes, Rich Heritage, Vibrant Cityscapes. Explore Top Destinations – Stunning Beaches to Historic Sites.",
+        "place": [
+          {
+            "title": "Langkawi Island",
+            "location": "Langkawi Island",
+            "content": "Langkawi Island: Malaysia's Tropical Paradise. Experience Pristine Beaches, Turquoise Waters, and Breathtaking Natural Landscapes.",
+            "imageUrl": "https://i.ytimg.com/vi/er5SfhGgvNk/maxresdefault.jpg"
+          },
+          {
+            "title": "Kuala Lumpur",
+            "location": "Kuala Lumpur",
+            "content": "Kuala Lumpur: Malaysia's Vibrant Capital. Explore Iconic Skyline, Cultural Diversity, Bustling Markets, and Modern Attractions.",
+            "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-674x446/0a/b1/ac/e8.jpg"
+          },
+          {
+            "title": "Penang",
+            "location": "Penang",
+            "content": "Penang: Malaysia's Captivating Island. Explore UNESCO-listed George Town, Delectable Street Food, and Rich Multicultural Heritage.",
+            "imageUrl": "https://a.cdn-hotels.com/gdcs/production37/d629/c1af3626-18e0-4621-b255-8af464a0ef63.jpg"
+          },
+          {
+            "title": "Malacca",
+            "location": "Malacca",
+            "content": "Malacca: Malaysia's Historic Gem. Discover UNESCO-listed Heritage Sites, Vibrant Jonker Street, and Delectable Nyonya Cuisine.",
+            "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-674x446/06/71/3c/b2.jpg"
+          },
+          {
+            "title": "Kinabatangan",
+            "location": "Kinabatangan",
+            "content": "Kinabatangan, Malaysia: A Wildlife Haven. Explore Lush Rainforests, River Cruises, Orangutans, Proboscis Monkeys, and Diverse Bird Species for an Extraordinary Experience.",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/Pekan_Kota_Kinabatangan_Kinabatangan_Sabah.jpg"
+          },
+          {
+            "title": "Mount Kinabalu",
+            "location": "Mount Kinabalu",
+            "content": "Mount Kinabalu: Malaysia's Majestic Peak. A Challenging Climb, Stunning Vistas, and the Chance to Conquer Southeast Asia's Highest Summit Await Adventurers.",
+            "imageUrl": "https://www.intrepidtravel.com/adventures/wp-content/uploads/2019/05/Intrepid-Travel-borneo_mt-kinabalu_female-pax.jpg"
+          }
+        ]
+      },
+      "shop": {
+        "title": "Discover Malaysia's Premier Shopping Destinations!",
+        "subtitle": "Explore Retail Delights: Malaysia's Shopper's Paradise! From diverse malls to bustling street markets and traditional bazaars, uncover an unforgettable shopping experience. Discover the Top Places to Shop in Malaysia!",
+        "items": [
+          {
+            "title": "Petaling Street",
+            "shopFor": "Clothing",
+            "location": "Kuala Lumpur",
+            "time": "04:00 PM - 10:00 PM",
+            "imageUrl": "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/473000/473312-Petaling-Street-Market.jpg"
+          },
+          {
+            "title": "Central Market",
+            "shopFor": "Souvenirs",
+            "location": "Kuala Lumpur",
+            "time": "10:00 AM - 10:00 PM",
+            "imageUrl": "https://thumbs.dreamstime.com/b/souvenir-store-central-market-kuala-lumpur-sept-was-founded-used-as-wet-current-art-deco-style-building-152147742.jpg"
+          },
+          {
+            "title": "Suria KLCC",
+            "shopFor": "Designer Boutiques",
+            "location": "Kuala Lumpur",
+            "time": "10:00 AM - 10:00 PM",
+            "imageUrl": "https://images.unsplash.com/photo-1573612664822-d7d347da7b80?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+          },
+          {
+            "title": "Berjaya Times Square",
+            "shopFor": "Candies",
+            "location": "Kuala Lumpur",
+            "time": "10:00 AM - 10:00 PM",
+            "imageUrl": "https://images.unsplash.com/photo-1601493701002-3223e7e1ebaf?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+          },
+          {
+            "title": "Gurney Plaza",
+            "shopFor": "Apparels",
+            "location": "Penang",
+            "time": "10:00 AM - 10:00 PM",
+            "imageUrl": "https://5.imimg.com/data5/HH/JP/GLADMIN-52487796/solution-for-apparels-500x500.png"
+          },
+          {
+            "title": "Cameron Square",
+            "shopFor": "Gadgets",
+            "location": "Pahang",
+            "time": "10:00 AM - 10:00 PM",
+            "imageUrl": "https://images.unsplash.com/photo-1526738549149-8e07eca6c147?q=80&w=1925&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+          }
+        ]
+      }
+    },
+    "singapore": {
+      "name": "Singapore",
+      "title": "Singapore Tour Packages: Explore the Lion City",
+      "imagePath": "",
+      "about": "",
+      "bestSeller": ["dubai"],
+      "todos": {
+        "title": "Singapore Tour Packages: Discover the Lion City's Top Attractions",
+        "subtitle": "Singapore Tour Packages: Explore the Lion City's Top Attractions. From iconic landmarks to vibrant neighborhoods, Singapore offers a captivating experience for every traveler. Discover the Top Attractions in Singapore!",
+        "todo": [
+          {
+            "title": "Indoor Skydiving",
+            "imageUrl": "https://res.klook.com/images/fl_lossy.progressive,q_65/c_fill,w_3000,h_1999,f_auto/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/ttl0rldevrkcbwdscqaw/AirRiderIndoorSkydivingExperience-Klook.jpg",
+            "time": "2 hours approx",
+            "content": "Experience the Thrill of Freefalling at iFly Singapore - The Ultimate Indoor Skydiving Destination, Where Adventure Knows No Bounds!",
+            "location": "iFlySingapore"
+          },
+          {
+            "title": "Water Adventure",
+            "imageUrl": "https://images.unsplash.com/photo-1682687982360-3fbab65f9d50?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "time": "4 hours approx",
+            "content": "Immerse Yourself in Aquatic Thrills in Singapore! Enjoy Jet Skiing, Kayaking, and Snorkeling Amidst Stunning Coastal Scenery for an Unforgettable Water Adventure.",
+            "location": "Adventure Cove Waterpark"
+          },
+          {
+            "title": "Formula One Adventure",
+            "imageUrl": "https://images.unsplash.com/photo-1696178948555-277f8d36ae4d?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "time": "2 hours approx",
+            "content": "Feel the Heart-Pounding Excitement of Formula One Racing in Singapore! World-Class Drivers Compete on the Iconic Marina Bay Street Circuit, Crafting an Unforgettable Motorsport Adventure.",
+            "location": "Marina Bay Sands Hotel"
+          },
+          {
+            "title": "Reverse Bungy",
+            "imageUrl": "https://res.klook.com/image/upload/c_fill,w_750,h_560/q_80/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/ewdhcpeolzpkb2hu0ajv.jpg",
+            "time": "15 minutes approx",
+            "content": "Get Ready for an Unforgettable Rush! Experience the Thrill of Reverse Bungy in Singapore, Catapulting You into the Sky for Exhilarating Speeds and Breathtaking Views!",
+            "location": "Clarke Quay"
+          },
+          {
+            "title": "Indoor Surfing",
+            "imageUrl": "https://images.unsplash.com/photo-1502680390469-be75c86b636f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "time": "1 hour approx",
+            "content": "Ride Perfect Waves Indoors! Experience the Thrill of Surfing at Singapore's Indoor Destinations, Perfecting Skills Regardless of Weather Conditions for Surf Enthusiasts.",
+            "location": "Wavehouse Sentosa"
+          },
+          {
+            "title": "Kayaking",
+            "imageUrl": "https://images.unsplash.com/photo-1525721653822-f9975a57cd4c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "time": "2 hours approx",
+            "content": "Embark on a Kayaking Adventure in Singapore! Explore Scenic Waterways, Mangroves, Urban Rivers, and Coastal Areas, Immersing Yourself in Nature's Beauty Along the Way.",
+            "location": "Singapore River"
+          }
+        ]
+      },
+      "places": {
+        "title": "Unveiling Singapore's Finest: Discover the Best Places to Visit for a Journey of Wonders!",
+        "subtitle": "Step into Singapore's Vibrant World of Attractions! Explore Iconic Landmarks and Hidden Gems, Unveiling Unforgettable Experiences in this Enchanting City-State.",
+        "place": [
+          {
+            "title": "Marina Bay Sands",
+            "location": "Marina Bay Sands",
+            "content": "Marina Bay Sands: An Architectural Marvel. Dominating Singapore's Skyline with Iconic Triple Towers, Luxurious Accommodations, World-Class Dining, and a Breathtaking Rooftop Infinity Pool.",
+            "imageUrl": "https://images.unsplash.com/photo-1525625293386-3f8f99389edd?q=80&w=1952&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+          },
+          {
+            "title": "Gardens by the Bay",
+            "location": "Gardens by the Bay",
+            "content": "Gardens by the Bay: A Breathtaking Horticultural Paradise. Explore Iconic Supertrees, Lush Gardens, Stunning Floral Displays, and Mesmerizing Conservatories like the Cloud Forest and Flower Dome.",
+            "imageUrl": "https://images.unsplash.com/photo-1552415274-73ad7198cb93?q=80&w=1934&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+          },
+          {
+            "title": "Underwater World",
+            "location": "Underwater World",
+            "content": "Dive into the Fascinating Marine World at Underwater World Singapore! Immerse Yourself in a Captivating Underwater Journey, Encounter Diverse Marine Life, and Enjoy Thrilling Interactive Exhibits.",
+            "imageUrl": "https://images.unsplash.com/photo-1617994679330-2883951d0073?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+          },
+          {
+            "title": "Nocturnal Wildlife Park",
+            "location": "Nocturnal Wildlife Park",
+            "content": "Enter the Enchanting Realm of Singapore's Nocturnal Wildlife Park! Witness Captivating Nocturnal Creatures and Immerse Yourself in a Mesmerizing Nighttime Adventure.",
+            "imageUrl": "https://images.unsplash.com/photo-1650256138189-c8cc8362d38c?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+          },
+          {
+            "title": "National Museum of Singapore",
+            "location": "National Museum of Singapore",
+            "content": "The National Museum of Singapore: A Cultural Gem Preserving the Nation's Rich Heritage. Discover Captivating Exhibitions, Interactive Displays, and Immersive Storytelling.",
+            "imageUrl": "https://images.unsplash.com/photo-1513038630932-13873b1a7f29?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+          },
+          {
+            "title": "Universal Studios Singapore",
+            "location": "Universal Studios Singapore",
+            "content": "Experience the Magic of Universal Studios Singapore! Thrilling Rides, Live Entertainment, and Beloved Characters Bring Your Favorite Movies to Life in an Unforgettable Theme Park Adventure.",
+            "imageUrl": "https://images.unsplash.com/photo-1532568547949-a09f1afe4d1b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+          }
+        ]
+      },
+      "shop": {
+        "title": "Retail Paradise: Must-Visit Shopping Destinations in Singapore",
+        "subtitle": "Step into Singapore's Vibrant Shopping Scene! Explore a Shopper's Paradise with a Diverse Range of Malls, Markets, and Boutiques, Showcasing International Brands and Local Treasures.",
+        "items": [
+          {
+            "title": "Orchard Road",
+            "shopFor": "Apparel",
+            "location": "Orchard Road",
+            "time": "10:00 AM - 10:00 PM",
+            "imageUrl": "https://images.unsplash.com/photo-1555529771-835f59fc5efe?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+          },
+          {
+            "title": "Marina Bay Sands",
+            "shopFor": "Footwear",
+            "location": "Marina Bay Sands",
+            "time": "10:30 AM - 11:00 PM",
+            "imageUrl": "https://plus.unsplash.com/premium_photo-1682435561654-20d84cef00eb?q=80&w=1918&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+          },
+          {
+            "title": "Chinatown",
+            "shopFor": "Souvenirs",
+            "location": "Chinatown",
+            "time": "10:00 AM - 08:00 PM",
+            "imageUrl": "https://images.unsplash.com/photo-1604255977447-c7c985c139b0?q=80&w=1858&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+          },
+          {
+            "title": "Little India",
+            "shopFor": "Trinkets",
+            "location": "Little India",
+            "time": "10:00 AM - 09:00 PM",
+            "imageUrl": "https://thumbs.dreamstime.com/b/tunisian-bazaar-trinkets-3275825.jpg"
+          },
+          {
+            "title": "Clarke Quay",
+            "shopFor": "Jewelry",
+            "location": "Clarke Quay",
+            "time": "11:00 AM - 12:00 PM",
+            "imageUrl": "https://images.unsplash.com/photo-1606760227091-3dd870d97f1d?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+          },
+          {
+            "title": "Mustafa Centre",
+            "shopFor": "Chocolates",
+            "location": "Mustafa Centre",
+            "time": "06:00 AM - 12:00 PM",
+            "imageUrl": "https://images.unsplash.com/photo-1599599810769-bcde5a160d32?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+          }
+        ]
+      }
+    },
     "srilanka": {
       "name": "Srilanka",
       "title": "Discover Sri Lanka: A Tropical Paradise",
