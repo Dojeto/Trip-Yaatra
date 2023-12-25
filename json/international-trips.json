@@ -5,7 +5,7 @@
   "bestSeller": [
     "7n-8d-best-of-vietnam-tour-package"
   ],
-  "about":"International tour packages provide travelers with the chance to explore and experience destinations beyond their home borders. These comprehensive packages typically encompass transportation, accommodation, meals, and sightseeing activities in a foreign country. For those seeking to discover multiple destinations in a condensed timeframe, international holiday packages prove to be an excellent choice. They present an opportunity to uncover lesser-known, offbeat locales that may not be part of the conventional tourist circuit. From serene islands to charming towns and scenic landscapes, international tour packages are crafted to nourish the soul and refresh the mind. At the core of each international holiday package lies the commitment to hassle-free travel. Whether one is traveling with family, friends, or embarking on a solo journey, these packages manage all aspects of the trip, including flights, lodging, transfers, and guided tours. This allows travelers to concentrate on packing essentials and relishing their journey without being burdened by logistical details. With a diverse array of international tour packages available across various price ranges, finding an option that aligns with both budget and interests is easily achievable. From adventurous excursions to cultural immersions, and beach retreats to romantic escapades, international holiday packages offer an array of possibilities for exploration. Whether planning a honeymoon, family getaway, or a solo adventure, opting for an international tour package provides an ideal means to traverse the globe and craft enduring memories.",
+  "about": "International tour packages provide travelers with the chance to explore and experience destinations beyond their home borders. These comprehensive packages typically encompass transportation, accommodation, meals, and sightseeing activities in a foreign country. For those seeking to discover multiple destinations in a condensed timeframe, international holiday packages prove to be an excellent choice. They present an opportunity to uncover lesser-known, offbeat locales that may not be part of the conventional tourist circuit. From serene islands to charming towns and scenic landscapes, international tour packages are crafted to nourish the soul and refresh the mind. At the core of each international holiday package lies the commitment to hassle-free travel. Whether one is traveling with family, friends, or embarking on a solo journey, these packages manage all aspects of the trip, including flights, lodging, transfers, and guided tours. This allows travelers to concentrate on packing essentials and relishing their journey without being burdened by logistical details. With a diverse array of international tour packages available across various price ranges, finding an option that aligns with both budget and interests is easily achievable. From adventurous excursions to cultural immersions, and beach retreats to romantic escapades, international holiday packages offer an array of possibilities for exploration. Whether planning a honeymoon, family getaway, or a solo adventure, opting for an international tour package provides an ideal means to traverse the globe and craft enduring memories.",
   "packages": {
     "bali": {
       "name": "Bali",
@@ -159,7 +159,9 @@
       "title": "Beauty and Thrills: An Unforgettable Fusion",
       "imagePath": "/assets/vietnam.jpg",
       "about": "Experience the timeless allure of Vietnam with our meticulously crafted tour packages. From the bustling streets of Hanoi to the stunning landscapes of Ha Long Bay, our itineraries promise an immersive journey through the rich history, diverse culture, and breathtaking beauty of this enchanting country. Discover the diverse landscapes that define Vietnam, from pristine beaches and dense jungles to lush rice terraces and awe-inspiring karst formations. Whether you're cruising through Ha Long Bay, trekking in Sapa, exploring Phong Nha-Ke Bang National Park, or simply relaxing in Nha Trang, our packages cater to every traveler's interests. Beyond the landscapes, delve into Vietnam's rich history and cultural heritage, exploring landmarks like the imperial citadel of Hue and the historic tunnels of Cu Chi. Our tours provide a deep understanding of the country's past, shaped by influences from Chinese, French, and indigenous cultures. Meet the warm and welcoming Vietnamese people, experiencing their customs and traditions as you traverse markets in Hanoi or float along the Mekong Delta. Our well-crafted itineraries ensure genuine and memorable encounters that showcase the heart and soul of Vietnam. For culinary enthusiasts, our packages offer a tantalizing journey through Vietnam's vibrant food scene. Sample regional specialties, learn cooking techniques in Hoi An, and immerse yourself in the fragrant herbs and bold flavors of Vietnamese cuisine. Adventure seekers can indulge in heart-pounding activities such as trekking in Sapa, cycling through Ninh Binh's countryside, kayaking in Ha Long Bay, and exploring caves in Phong Nha-Ke Bang National Park. Vietnam's diverse landscapes provide an exhilarating playground for outdoor enthusiasts. Come, let WanderOn guide you through the beauty, history, and adventure that make Vietnam a destination like no other. Uncover the magic of Vietnam with our thoughtfully curated tour packages, creating memories that will last a lifetime.",
-      "bestSeller": ["7n-8d-best-of-vietnam-tour-package"],
+      "bestSeller": [
+        "7n-8d-best-of-vietnam-tour-package"
+      ],
       "todos": {
         "title": "Unveil Vietnam's Unforgettable Adventures for an Adrenaline-Packed Getaway!",
         "subtitle": "Embark on a journey through the heart of Vietnam, where excitement knows no bounds, and thrilling adventures await at every turn. Brace yourself for the ultimate thrill as we present an array of adrenaline-pumping experiences that promise to make your vacation truly unforgettable.",
@@ -304,7 +306,9 @@
       "title": "A Land of Mystical Beauty and Spiritual Splendor",
       "imagePath": "/assets/Destinations/Bhutan/Bhutan.jpg",
       "about": "Bhutan Awaits: Explore a Unique Blend of Culture and Nature!\n\n, nestled in the eastern Himalayas, stands as a remarkable nation celebrated for its distinctiveness. Known for its captivating landscapes and a groundbreaking approach of valuing happiness over mere GDP, Bhutan has emerged as an exceptional destination, making Bhutan tour packages increasingly sought after.\n\nEmbarking on a journey with our Bhutan tour packages reveals the enigmatic allure of this Buddhist nation. With a population of over 750,000, Bhutan places a strong emphasis on sustainable development and a profound reverence for nature, evident throughout your Bhutan trip. Despite its modest size, Bhutan boasts a rich tapestry of attractions—historic temples, untouched mountains, vibrant festivals—tailored to every traveler, be it an adventurer, culture enthusiast, or someone seeking tranquility.\n\nBhutan's cultural legacy, steeped in tradition, offers an authentic and immersive experience for visitors. It's a cultural odyssey, a chance to delve into the heart of a distinctive heritage, one that our Bhutan tour packages promise to unveil.\n\nOne of the most captivating aspects is Bhutanese architecture, a delightful highlight of your Bhutan trip with our Bhutan tour packages. Adorned with elaborate wood carvings and vibrant paintings, traditional Bhutanese structures crafted from earth, stone, and wood stand as a testament to the nation's heritage. The dzongs, these monumental fortresses functioning as monasteries and administrative centers, exemplify Bhutan's rich cultural legacy, leaving an indelible mark on every traveler’s heart.\n\nAs we've delved into Bhutan's cultural richness and architecture, now it’s time to delve deeper into the heart of this captivating country. Let's discover the wonders that await you during your Bhutan trip with our Bhutan tour packages and Bhutan holiday packages. Let the exploration begin!",
-      "bestSeller": ["bhutan"],
+      "bestSeller": [
+        "bhutan"
+      ],
       "todos": {
         "title": "Unveil Vietnam's Unforgettable Adventures for an Adrenaline-Packed Getaway!",
         "subtitle": "Embark on a journey through the heart of Vietnam, where excitement knows no bounds, and thrilling adventures await at every turn. Brace yourself for the ultimate thrill as we present an array of adrenaline-pumping experiences that promise to make your vacation truly unforgettable.",
@@ -440,6 +444,147 @@
             "location": "Punakha",
             "time": "10:00 AM - 07:00 PM",
             "imageUrl": "https://images.unsplash.com/photo-1545206085-d0e519bdcecd?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Y2xvdGhlcyUyMG1hcmtldHxlbnwwfHwwfHx8MA%3D%3D"
+          }
+        ]
+      }
+    },
+    "srilanka": {
+      "name": "Srilanka",
+      "title": "Discover Sri Lanka: A Tropical Paradise",
+      "imagePath": "/assets/srilanka.jpg",
+      "about": "Embark on a journey to the 'Pearl of the Indian Ocean' with our enticing Sri Lanka Tour Packages. Immerse yourself in the rich history, cultural heritage, and breathtaking natural landscapes that define this small yet extraordinary island nation in South Asia. Experience Nature's Embrace: Nestled in the Indian Ocean, Sri Lanka captivates with lush tea plantations, pristine beaches, and majestic mountains. Our thoughtfully curated Sri Lanka packages invite you to rest in nature's lap and plan an exotic vacation, blending serene beauty with an exotic cultural experience. A Tapestry of Diversity: With its diverse culture, Sri Lanka stands as a testament to a harmonious blend of tradition and modernity. From the lush green mountains to the expansive golden beaches, our Sri Lanka packages offer the best of both worlds, creating a balanced and enriching travel experience. Historical Marvels and Cultural Gems: Delve into a history that spans over 2,500 years as you explore UNESCO World Heritage Sites like the ancient city of Polonnaruwa, the sacred city of Kandy, and the iconic Sigiriya rock fortress. Marvel at intricate architecture, witness ancient ruins, and immerse yourself in the rich tapestry of Sri Lanka's history and traditions. Wildlife Safari Adventures: For wildlife enthusiasts, our Sri Lanka tour packages include visits to over 26 national parks and reserves. Embark on a thrilling safari at Yala National Park, where you can spot elephants, leopards, and a diverse array of exotic animals in their natural habitat. Beach Bliss: Sri Lanka boasts some of the world's most beautiful beaches. From sun-kissed shores to turquoise waters, our packages ensure that you soak in the coastal charm.",
+      "bestSeller": [
+        "sri-lanka-tour-package"
+      ],
+      "todos": {
+        "title": "Unleash Adventure in Sri Lanka:",
+        "subtitle": "Explore the thrill of adventure in Sri Lanka with our curated activities that promise excitement, awe, and unforgettable memories.",
+        "todo": [
+          {
+            "title": "Surfing",
+            "imageUrl": "https://images.pexels.com/photos/390051/surfer-wave-sunset-the-indian-ocean-390051.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "duration": "Approximately 2 hours",
+            "content": "Ride the consistent waves, feel the warmth of the water, and embrace the laid-back atmosphere that makes Hikkaduwa a surfer's paradise."
+          },
+          {
+            "title": "Scuba Diving Delight",
+            "duration": "Around 1 hour",
+            "imageUrl": "https://images.pexels.com/photos/3098970/pexels-photo-3098970.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "content": "Dive into the vibrant coral reefs, explore intriguing shipwrecks, and witness the diverse marine life that defines Hikkaduwa's reputation as a scuba diver's haven."
+          },
+          {
+            "title": "Wildlife Safaris",
+            "duration": "Approximately 3 hours",
+            "imageUrl": "https://images.pexels.com/photos/2862070/pexels-photo-2862070.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "content": "Embark on a safari adventure in Yala National Park, where elephants, leopards, and a myriad of bird species roam freely in their natural habitat."
+          },
+          {
+            "title": "Hot Air Ballooning",
+            "duration": "Around 1 hour",
+            "imageUrl": "https://images.pexels.com/photos/3389955/pexels-photo-3389955.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "content": "Soar above Dambulla's landscapes in a hot air balloon, capturing breathtaking views of ancient temples, lush forests, and the picturesque beauty of Sri Lanka."
+          },
+          {
+            "title": "Zip-Lining Thrills",
+            "duration": "Approximately 2 hours",
+            "imageUrl": "https://images.pexels.com/photos/14393119/pexels-photo-14393119.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "content": "Experience the adrenaline rush amidst Kitulgala's lush forests with zip-lining adventures designed for all levels of experience."
+          },
+          {
+            "title": "White River Rafting",
+            "duration": "Around 3 hours",
+            "imageUrl": "https://images.pexels.com/photos/17593044/pexels-photo-17593044/free-photo-of-white-water-rafting.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "content": "Navigate through Kitulgala's white-water rapids ranging from class 2 to 4, and immerse yourself in the excitement of a thrilling white river rafting experience."
+          }
+        ]
+      },
+      "places": {
+        "title": "Discover the Treasures of Sri Lanka:",
+        "subtitle": "Embark on a journey through the diverse landscapes and cultural tapestry of Sri Lanka. Each destination tells a unique story, inviting you to explore ancient wonders, cultural treasures, and the natural beauty that defines this enchanting island nation.",
+        "place": [
+          {
+            "title": "Sigiriya – Majestic Rock Fortress",
+            "location": "Sigiriya",
+            "imageUrl": "https://images.pexels.com/photos/5667499/pexels-photo-5667499.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "content": "Uncover the secrets of an ancient rock fortress that stands as a testament to Sri Lanka's rich history. Dating back to the 5th century, Sigiriya boasts stunning panoramic views, impressive ruins, and a captivating story."
+          },
+          {
+            "title": "Kandy – Cultural Hub",
+            "location": "Kandy",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Kandy_Lake_(9).jpg",
+            "content": "Immerse yourself in the cultural and religious heart of Sri Lanka. Kandy is renowned for the Temple of the Tooth Relic, offering scenic beauty, traditional dance, and a spiritual journey."
+          },
+          {
+            "title": "Ella – Picturesque Hill Station",
+            "location": "Ella",
+            "imageUrl": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0b/25/74/18.jpg",
+            "content": "Escape to the serene landscapes of Ella, a picturesque hill station surrounded by stunning views, hiking trails, tea plantations, and enchanting waterfalls. A haven for nature lovers seeking tranquility."
+          },
+          {
+            "title": "Nuwara Eliya – \"Little England\"",
+            "location": "Nuwara Eliya",
+            "imageUrl": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcRARnD10jLLK_rrQUf6-zmo9_3JuADCBKQAN8e9sJxQlP55yMrjjsVXKlcfCDlEJOP2bRDbxxhg7zekyz80jFA3ssHUN7JYLZbHb-_Ib5o",
+            "content": "Step into the charm of \"Little England,\" Nuwara Eliya, known for its tea culture, colonial architecture, and breathtaking scenic beauty. Indulge in the essence of tea country."
+          },
+          {
+            "title": "Mirissa – Coastal Paradise",
+            "location": "Mirissa",
+            "imageUrl": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcSkN7KV9gkDs2sqlBCSGuFePxmmLFi9yYeeFu9koIPKix6LqGLlQrTIVdZBMZqiuNBxqYB6DHSLf04T3FkkP8haIIdgFWC3etw0SG_hHg",
+            "content": "Experience the laid-back vibes of Mirissa, a coastal town celebrated for its beautiful beaches, excellent surfing, thrilling whale watching excursions, and vibrant nightlife."
+          },
+          {
+            "title": "Colombo – Dynamic Capital",
+            "location": "Colombo",
+            "imageUrl": "https://www.andbeyond.com/wp-content/uploads/sites/5/colombo-sri-lanka.jpg",
+            "content": "Uncover the dynamic spirit of Sri Lanka's capital city. Colombo blends historical sites with modern culture, offering delicious cuisine, bustling markets, and a vibrant atmosphere."
+          }
+        ]
+      },
+      "shop": {
+        "title": "Shop and Explore: A Retail Adventure in Sri Lanka",
+        "subtitle": "Embark on a shopping journey across Sri Lanka, where each location presents a unique blend of culture, history, and local flavor. Whether you're in search of tech treasures, antique gems, cultural souvenirs, or the finest Ceylon tea, these destinations promise an enriching shopping experience in the heart of this diverse island nation.",
+        "items": [
+          {
+            "title": "Pettah Market - Colombo",
+            "location": "Colombo",
+            "time": "06:00 AM - 06:00 PM",
+            "imageUrl": "https://www.coteriescm.com/wp-content/uploads/2020/05/Inventory-Optimise.jpg",
+            "shopFor": "Electronics"
+          },
+          {
+            "title": "Galle Fort - Galle",
+            "location": "Galle",
+            "time": "09:00 AM - 06:00 PM",
+            "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipODJHHyo2Kjy0nXfSOUiQGVBSLDxHSv9Qq3noai=s1360-w1360-h1020",
+            "shopFor": "Antiques"
+          },
+          {
+            "title": "Laksala - Colombo",
+            "location": "Colombo",
+            "time": "09:00 AM - 06:00 PM",
+            "imageUrl": "https://media.timeout.com/images/101819933/image.jpg",
+            "shopFor": "Souvenirs"
+          },
+          {
+            "title": "Barefoot - Colombo",
+            "location": "Colombo",
+            "time": "09:30 AM - 07:00 PM",
+            "imageUrl": "https://m.psecn.photoshelter.com/img-get/I0000jVqW.gbbrl4/s/1200/I0000jVqW.gbbrl4.jpg",
+            "shopFor": "Clothing"
+          },
+          {
+            "title": "Kandy City Center - Kandy",
+            "location": "Kandy",
+            "time": "10:00 AM - 08:00 PM",
+            "imageUrl": "https://images.pexels.com/photos/3962292/pexels-photo-3962292.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "shopFor": "Super Market"
+          },
+          {
+            "title": "Tea Shops - Ella",
+            "location": "Ella",
+            "time": "08:00 AM - 06:00 PM",
+            "imageUrl": "https://images.pexels.com/photos/219897/pexels-photo-219897.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "shopFor": "Ceylon Tea"
           }
         ]
       }
