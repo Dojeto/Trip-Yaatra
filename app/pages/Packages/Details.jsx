@@ -9,12 +9,23 @@ import AboutTrip from "./AboutTrip";
 import Date from "./Date";
 import Others from "./Others";
 import Review from "@components/Review";
+import Link from "next/link";
 const Details = (props) => {
-  const { duration, price, pickdrop, about } = props;
-  console.log(props);
+  const {
+    duration,
+    price,
+    pickdrop,
+    about,
+    notes,
+    photos,
+    videos,
+    ytvideo,
+    similartrips,
+  } = props;
+  // console.log(props);
   const info = {
     about: <AboutTrip about={about} />,
-    itinerary: <Itinerary />,
+    itinerary: <Itinerary notes={notes} />,
     date: <Date />,
     other: <Others />,
   };
@@ -23,6 +34,7 @@ const Details = (props) => {
   const ChangeState = (e) => {
     setSelected(e.target.id);
   };
+  // console.log(similartrips);
   return (
     <div className=" max-w-full w-screen grid grid-cols-3 tblt:flex tblt:flex-col tblt:overflow-x-hidden">
       <div className=" ml-20 col-span-2 h-full tblt:mx-20">
@@ -96,91 +108,40 @@ const Details = (props) => {
         <div>
           <h1 className="mt-10 text-3xl font-bold ">Videos</h1>
           <div className="w-full flex overflow-x-scroll gap-8 no-scrollbar">
-            <iframe
-              className=" rounded-md"
-              width={390}
-              height={220}
-              src="https://www.youtube.com/embed/Qipxi1Qn8iE?si=6v825NToNqEa8BIL"
-              title="YouTube video player"
-              frameborder="0"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-              allowfullscreen
-            ></iframe>
-            <iframe
-              className=" rounded-md"
-              width={390}
-              height={220}
-              src="https://www.youtube.com/embed/Qipxi1Qn8iE?si=6v825NToNqEa8BIL"
-              title="YouTube video player"
-              frameborder="0"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-              allowfullscreen
-            ></iframe>
-            <iframe
-              className=" rounded-md"
-              width={390}
-              height={220}
-              src="https://www.youtube.com/embed/Qipxi1Qn8iE?si=6v825NToNqEa8BIL"
-              title="YouTube video player"
-              frameborder="0"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-              allowfullscreen
-            ></iframe>
-            <iframe
-              className=" rounded-md"
-              width={390}
-              height={220}
-              src="https://www.youtube.com/embed/Qipxi1Qn8iE?si=6v825NToNqEa8BIL"
-              title="YouTube video player"
-              frameborder="0"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-              allowfullscreen
-            ></iframe>
+            {videos.map((ele,i) => {
+              return (
+                <>
+                  <iframe
+                    key={i}
+                    className=" rounded-md"
+                    width={390}
+                    height={220}
+                    src={ele}
+                    title="YouTube video player"
+                    frameBorder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                    allowFullScreen
+                  ></iframe>
+                </>
+              );
+            })}
           </div>
         </div>
         <div>
           <h1 className="mt-10 text-3xl font-bold">Photos</h1>
           <div className="w-full flex overflow-x-scroll gap-8 no-scrollbar">
-            <img
-              src="/assets/leh.png"
-              alt=""
-              className=" w-80 aspect-video object-cover rounded-xl"
-            />
-            <img
-              src="/assets/leh.png"
-              alt=""
-              className=" w-80 aspect-video object-cover rounded-xl"
-            />
-            <img
-              src="/assets/leh.png"
-              alt=""
-              className=" w-80 aspect-video object-cover rounded-xl"
-            />
-            <img
-              src="/assets/leh.png"
-              alt=""
-              className=" w-80 aspect-video object-cover rounded-xl"
-            />
-            <img
-              src="/assets/leh.png"
-              alt=""
-              className=" w-80 aspect-video object-cover rounded-xl"
-            />
-            <img
-              src="/assets/leh.png"
-              alt=""
-              className=" w-80 aspect-video object-cover rounded-xl"
-            />
-            <img
-              src="/assets/leh.png"
-              alt=""
-              className=" w-80 aspect-video object-cover rounded-xl"
-            />
-            <img
-              src="/assets/leh.png"
-              alt=""
-              className=" w-80 aspect-video object-cover rounded-xl"
-            />
+            {photos.map((ele,i) => {
+              return (
+                <>
+                  <img
+                    key={i}
+                    src={ele}
+                    alt=""
+                    className=" w-80 aspect-video object-cover rounded-xl"
+                  />
+                </>
+              );
+            })}
           </div>
         </div>
         {/* <div>
@@ -198,7 +159,7 @@ const Details = (props) => {
               className=" rounded-md"
               width={390}
               height={220}
-              src="https://www.youtube.com/embed/Qipxi1Qn8iE?si=6v825NToNqEa8BIL"
+              src={ytvideo}
               title="YouTube video player"
               frameborder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -264,22 +225,13 @@ const Details = (props) => {
       <div>
         <h1 className="mt-10 mx-20 text-3xl font-bold">similar trips</h1>
         <div className=" flex m-7 ml-[70px]">
-          <TripsCard
-            imageUrl="/assets/bg.jpg"
-            title="10 Days Srinagar Leh Manali Bike Trip"
-          />
-          <TripsCard
-            imageUrl="/assets/bg.jpg"
-            title="10 Days Srinagar Leh Manali Bike Trip"
-          />
-          <TripsCard
-            imageUrl="/assets/bg.jpg"
-            title="10 Days Srinagar Leh Manali Bike Trip"
-          />
-          <TripsCard
-            imageUrl="/assets/bg.jpg"
-            title="10 Days Srinagar Leh Manali Bike Trip"
-          />
+          {similartrips.map((ele) => {
+            return (
+              <Link href={ele.link} shallow>
+                <TripsCard imageUrl={ele.imageUrl} title={ele.title} />
+              </Link>
+            );
+          })}
         </div>
       </div>
     </div>
