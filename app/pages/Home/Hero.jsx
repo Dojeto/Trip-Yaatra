@@ -3,7 +3,8 @@ import Link from "next/link";
 import { FaFacebookF, FaTwitter, FaLinkedinIn } from "react-icons/fa";
 import { BiLogoInstagramAlt } from "react-icons/bi";
 
-const Hero = () => {
+const Hero = (props) => {
+  const { data }  = props;
   return (
     <div
       className="relative bg-cover bg-center w-full max-w-full h-screen flex flex-col justify-center items-center"
@@ -50,7 +51,7 @@ const Hero = () => {
 
         {/* section */}
       </div>
-      <Search />
+      <Search data = {data} />
 
       <div className="w-8 absolute bottom-10 left-1/2">
         <svg
