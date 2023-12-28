@@ -183,7 +183,6 @@
     "about": "Embark on an Ultimate Adventure Trip to Meghalaya and immerse yourself in breathtaking landscapes, rich cultural heritage, and thrilling outdoor activities this beautiful region offers.\n\nFrom charming Shillong to pristine Mawphlang village, and the stunning Laitlum Canyon to famous Double Decker Living Root Bridges, this Meghalaya Tour Package promises an unforgettable adventure.\n\nBegin your journey at picturesque Umiam Lake, surrounded by lush hills. Then, explore the sacred Mawphlang Sacred Grove, hiking ancient forests with rare medicinal plants.\n\nExperience the thrill of the Mawrynkhang Bamboo Trek in Wahkhen, crossing bamboo bridges and wooden ladders to reach majestic pinnacle rock.\n\nContinue to Shnonpdeng for water activities on Umgnot River and visit Asia's cleanest village, Mawlynnong.\n\nTrek through Cherrapunji's dense forests to witness the awe-inspiring Double Decker Living Root Bridges. Marvel at Nohkalikai and Wei Sawdong Falls.\n\nAs your adventure concludes, enjoy the scenic drive back to Guwahati, with a serene stop at Umiam Lake.\n\nThis ultimate adventure blends nature, culture, and adrenaline-pumping activities, ensuring an exhilarating experience and cherished memories in mystical Meghalaya.",
     "ytvideo": "",
     "itinerary": [
-      
       {
         "title": "Arrival At Srinagar - Overnight Stay At Srinagar",
         "description": "test"
@@ -204,9 +203,9 @@
     "similartrips": [],
     "trending": true
   },
-  "rajasthan":{
+  "rajasthan": {
     "tour": "india",
-    "title":"7 Days Backpacking Trip To The Rajasthan",
+    "title": "7 Days Backpacking Trip To The Rajasthan",
     "imageUrl": "/assets/Destinations/rajasthan/rajasthan.jpg",
     "date": "06-01-24",
     "duration": "6N - 7D",
@@ -238,9 +237,9 @@
     "similartrips": [],
     "trending": true
   },
-  "himachalpradesh":{
-    "tour":"india",
-    "title":"7 Days Amazing Himachal Tour Package Ex- Chandigarh",
+  "himachalpradesh": {
+    "tour": "india",
+    "title": "7 Days Amazing Himachal Tour Package Ex- Chandigarh",
     "imageUrl": "/assets/Destinations/himachalpradesh/himachalpradesh.jpg",
     "date": "06-01-24",
     "duration": "6N - 7D",
@@ -271,11 +270,10 @@
     "thingtocarry": "",
     "similartrips": [],
     "trending": true
-
   },
-  "uttarakhand":{
+  "uttarakhand": {
     "tour": "india",
-    "title":"Magnificient Uttarakhand",
+    "title": "Magnificient Uttarakhand",
     "imageUrl": "/assets/Destinations/UTTARAKHAND/UTTARAKHAND.jpg",
     "date": "06-01-24",
     "duration": "3N - 4D",
@@ -307,9 +305,9 @@
     "similartrips": [],
     "trending": true
   },
-  "kerala":{
+  "kerala": {
     "tour": "india",
-    "title":"7 Days Backpacking Tour to Kerala",
+    "title": "7 Days Backpacking Tour to Kerala",
     "imageUrl": "/assets/Destinations/kerala/kerala.jpg",
     "date": "06-01-24",
     "duration": "6N - 7D",
@@ -341,16 +339,6 @@
     "similartrips": [],
     "trending": true
   },
-
-
-
-
-
-
-
-
-
-
 
   "7n-8d-best-of-vietnam-tour-package": {
     "tour": "international",
@@ -590,8 +578,8 @@
     "similartrips": ["maldives", "bali-tour"],
     "trending": true
   },
-  "singapore-tour":{
-      "tour": "international",
+  "singapore-tour": {
+    "tour": "international",
     "title": "Singapore Tour Package With Sentosa Island",
     "imageUrl": "/assets/Destinations/Singapore/singapore.avif",
     "date": "10-01-24",
@@ -600,13 +588,13 @@
     "link": "/trips/singapore-tour",
     "tagline": "A paradise of sun, sand, and smiles indeed",
     "destination": "Singapore",
-    "pickanddrop":"Changi Airport",
-    "about":"Imagine a journey that takes you into a world of wonders – that's the magic of our Singapore tour. From the moment you arrive, be ready to be swept off your feet. Step into a realm of excitement as you embark on the captivating Night Safari. Witness animals come alive in their nocturnal habitat, creating unforgettable memories.\n\nThe heart of Singapore beckons with a vibrant city tour. Discover iconic landmarks like the Merlion Statue and the stunning Marina Floating Bay. Sentosa Island invites you to embrace adventure. Glide over the island on a cable car, race down thrilling Luge tracks, and be dazzled by the Wings of Time spectacle.\n\nFind yourself atop the world at Sands Sky Park Observation Deck, gazing upon the stunning skyline. Gardens by the Bay mesmerizes with its surreal Supertrees and lush domes, evoking awe and joy.\n\nRelaxation is woven into the fabric of this journey. A day of leisure lets you explore Singapore your way – bask on beautiful beaches, dive into Universal Studios' fun, or immerse in interactive museums.\n\nAs you depart, a treasure trove of joyful memories accompanies you. Our Singapore tour isn't just a trip; it's a symphony of adventure, relaxation, and happiness. Let these memories be the stars that light up your heart for years to come.",
-    "ytvideo":"",
-    "itinerary":[
+    "pickanddrop": "Changi Airport",
+    "about": "Imagine a journey that takes you into a world of wonders – that's the magic of our Singapore tour. From the moment you arrive, be ready to be swept off your feet. Step into a realm of excitement as you embark on the captivating Night Safari. Witness animals come alive in their nocturnal habitat, creating unforgettable memories.\n\nThe heart of Singapore beckons with a vibrant city tour. Discover iconic landmarks like the Merlion Statue and the stunning Marina Floating Bay. Sentosa Island invites you to embrace adventure. Glide over the island on a cable car, race down thrilling Luge tracks, and be dazzled by the Wings of Time spectacle.\n\nFind yourself atop the world at Sands Sky Park Observation Deck, gazing upon the stunning skyline. Gardens by the Bay mesmerizes with its surreal Supertrees and lush domes, evoking awe and joy.\n\nRelaxation is woven into the fabric of this journey. A day of leisure lets you explore Singapore your way – bask on beautiful beaches, dive into Universal Studios' fun, or immerse in interactive museums.\n\nAs you depart, a treasure trove of joyful memories accompanies you. Our Singapore tour isn't just a trip; it's a symphony of adventure, relaxation, and happiness. Let these memories be the stars that light up your heart for years to come.",
+    "ytvideo": "",
+    "itinerary": [
       {
-        "title":"Arrive In Singapore. Embark On The Night Safari Tour.",
-        "description":"Upon your arrival in Singapore, breeze through the airport's immigration process. Our representative will be there to assist you in boarding your transfers to your hotel. Upon arrival, settle in and take some time to unwind. Later in the evening, embark on an exhilarating journey to Singapore's Nocturnal Zoo. Experience the captivating Night Safari tour, exploring the park's seven unique zones and observing the fascinating wildlife up close. After an enchanting night, return to your hotel for an overnight stay in Singapore."
+        "title": "Arrive In Singapore. Embark On The Night Safari Tour.",
+        "description": "Upon your arrival in Singapore, breeze through the airport's immigration process. Our representative will be there to assist you in boarding your transfers to your hotel. Upon arrival, settle in and take some time to unwind. Later in the evening, embark on an exhilarating journey to Singapore's Nocturnal Zoo. Experience the captivating Night Safari tour, exploring the park's seven unique zones and observing the fascinating wildlife up close. After an enchanting night, return to your hotel for an overnight stay in Singapore."
       }
     ],
     "notes": [
@@ -624,9 +612,4 @@
     "similartrips": [],
     "trending": true
   }
-<<<<<<< HEAD
 }
-=======
-  
-}
->>>>>>> 481c76cf12dbd33655b11c81b2da4d751f7686a7
