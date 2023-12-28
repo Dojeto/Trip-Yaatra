@@ -72,11 +72,11 @@ const Navbar = () => {
               Blogs
             </Link>
           </button>
-          <button className="uppercase bg-transparent hover:bg-gray-200 hover:text-gray-700 hover:rounded-md px-4 py-2 transform hover:scale-105 transition-transform duration-300 ease-in-out w-32 h-10">
+          {/* <button className="uppercase bg-transparent hover:bg-gray-200 hover:text-gray-700 hover:rounded-md px-4 py-2 transform hover:scale-105 transition-transform duration-300 ease-in-out w-32 h-10">
             <Link href={""} shallow>
               Contact
             </Link>
-          </button>
+          </button> */}
           <button className="uppercase bg-transparent hover:bg-gray-200 hover:text-gray-700 hover:rounded-md px-4 py-2 transform hover:scale-105 transition-transform duration-300 ease-in-out w-32 h-10">
             <Link href={"/about-us"} shallow>
               About Us
