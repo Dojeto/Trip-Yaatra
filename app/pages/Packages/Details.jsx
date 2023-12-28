@@ -8,13 +8,24 @@ import Itinerary from "./Itinerary";
 import AboutTrip from "./AboutTrip";
 import Date from "./Date";
 import Others from "./Others";
-
+import Review from "@components/Review";
+import Link from "next/link";
 const Details = (props) => {
-  const { duration, price, pickdrop, about } = props;
-  console.log(props)
+  const {
+    duration,
+    price,
+    pickdrop,
+    about,
+    notes,
+    photos,
+    videos,
+    ytvideo,
+    similartrips,
+  } = props;
+  // console.log(props);
   const info = {
     about: <AboutTrip about={about} />,
-    itinerary: <Itinerary />,
+    itinerary: <Itinerary notes={notes} />,
     date: <Date />,
     other: <Others />,
   };
@@ -23,9 +34,10 @@ const Details = (props) => {
   const ChangeState = (e) => {
     setSelected(e.target.id);
   };
+  // console.log(similartrips);
   return (
-    <div className=" max-w-full w-screen grid grid-cols-3">
-      <div className=" ml-20 col-span-2 h-full">
+    <div className=" max-w-full w-screen grid grid-cols-3 tblt:flex tblt:flex-col tblt:overflow-x-hidden">
+      <div className=" ml-20 col-span-2 h-full tblt:mx-20">
         <div className="flex m-7">
           <div className=" flex gap-7">
             <div className="text-center m-2">
@@ -69,25 +81,25 @@ const Details = (props) => {
             onClick={(e) => {
               ChangeState(e);
             }}
-            className=" bg-zinc-300 w-52 p-2 rounded-sm text-lg font-semibold"
+            className=" bg-zinc-300 w-52 p-2 rounded-sm text-lg font-semibold hover:scale-105 transition-all hover:bg-[#3a3a3a] hover:text-white"
           >
-            itinerary
+            Itinerary
           </button>
           <button
             id="date"
             onClick={(e) => {
               ChangeState(e);
             }}
-            className=" bg-zinc-300 w-52 p-2 rounded-sm text-lg font-semibold"
+            className=" bg-zinc-300 w-52 p-2 rounded-sm text-lg font-semibold  hover:scale-105 transition-all hover:bg-[#3a3a3a] hover:text-white"
           >
-            Dates & Costing
+            What's Included?
           </button>
           <button
             id="other"
             onClick={(e) => {
               ChangeState(e);
             }}
-            className=" bg-zinc-300 w-52 p-2 rounded-sm text-lg font-semibold"
+            className=" bg-zinc-300 w-52 p-2 rounded-sm text-lg font-semibold hover:scale-105 transition-all hover:bg-[#3a3a3a] hover:text-white"
           >
             Other Info
           </button>
@@ -95,57 +107,48 @@ const Details = (props) => {
         <div>{info[selected]}</div>
         <div>
           <h1 className="mt-10 text-3xl font-bold ">Videos</h1>
-          <div className="w-full flex overflow-x-scroll gap-8 no-scrollbar  border-red-500">
-            <iframe
-              className=" rounded-md"
-              width={390}
-              height={220}
-              src="https://www.youtube.com/embed/Qipxi1Qn8iE?si=6v825NToNqEa8BIL"
-              title="YouTube video player"
-              frameborder="0"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-              allowfullscreen
-            ></iframe>
-            <iframe
-              className=" rounded-md"
-              width={390}
-              height={220}
-              src="https://www.youtube.com/embed/Qipxi1Qn8iE?si=6v825NToNqEa8BIL"
-              title="YouTube video player"
-              frameborder="0"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-              allowfullscreen
-            ></iframe>
-            <iframe
-              className=" rounded-md"
-              width={390}
-              height={220}
-              src="https://www.youtube.com/embed/Qipxi1Qn8iE?si=6v825NToNqEa8BIL"
-              title="YouTube video player"
-              frameborder="0"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-              allowfullscreen
-            ></iframe>
-            <iframe
-              className=" rounded-md"
-              width={390}
-              height={220}
-              src="https://www.youtube.com/embed/Qipxi1Qn8iE?si=6v825NToNqEa8BIL"
-              title="YouTube video player"
-              frameborder="0"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-              allowfullscreen
-            ></iframe>
+          <div className="w-full flex overflow-x-scroll gap-8 no-scrollbar">
+            {videos.map((ele,i) => {
+              return (
+                <>
+                  <iframe
+                    key={i}
+                    className=" rounded-md"
+                    width={390}
+                    height={220}
+                    src={ele}
+                    title="YouTube video player"
+                    frameBorder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                    allowFullScreen
+                  ></iframe>
+                </>
+              );
+            })}
           </div>
         </div>
         <div>
           <h1 className="mt-10 text-3xl font-bold">Photos</h1>
+          <div className="w-full flex overflow-x-scroll gap-8 no-scrollbar">
+            {photos.map((ele,i) => {
+              return (
+                <>
+                  <img
+                    key={i}
+                    src={ele}
+                    alt=""
+                    className=" w-80 aspect-video object-cover rounded-xl"
+                  />
+                </>
+              );
+            })}
+          </div>
         </div>
-        <div>
+        {/* <div>
           <h1 className="mt-10 text-3xl font-bold">Testimonials</h1>
-        </div>
+        </div> */}
       </div>
-      <div className=" pl-11 ">
+      <div className=" pl-11 tblt:hidden">
         <div className=" top-32 sticky h-fit mt-14 w-11/12">
           <h1 className=" font-semibold text-lg text-center">
             Trips so perfect that Travelers want you to know more about their
@@ -156,7 +159,7 @@ const Details = (props) => {
               className=" rounded-md"
               width={390}
               height={220}
-              src="https://www.youtube.com/embed/Qipxi1Qn8iE?si=6v825NToNqEa8BIL"
+              src={ytvideo}
               title="YouTube video player"
               frameborder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -220,24 +223,15 @@ const Details = (props) => {
         </div>
       </div>
       <div>
-        <h1 className="mt-10 ml-20 text-3xl font-bold">similar trips</h1>
+        <h1 className="mt-10 mx-20 text-3xl font-bold">similar trips</h1>
         <div className=" flex m-7 ml-[70px]">
-          <TripsCard
-            imageUrl="/assets/bg.jpg"
-            title="10 Days Srinagar Leh Manali Bike Trip"
-          />
-          <TripsCard
-            imageUrl="/assets/bg.jpg"
-            title="10 Days Srinagar Leh Manali Bike Trip"
-          />
-          <TripsCard
-            imageUrl="/assets/bg.jpg"
-            title="10 Days Srinagar Leh Manali Bike Trip"
-          />
-          <TripsCard
-            imageUrl="/assets/bg.jpg"
-            title="10 Days Srinagar Leh Manali Bike Trip"
-          />
+          {similartrips.map((ele) => {
+            return (
+              <Link href={ele.link} shallow>
+                <TripsCard imageUrl={ele.imageUrl} title={ele.title} />
+              </Link>
+            );
+          })}
         </div>
       </div>
     </div>
