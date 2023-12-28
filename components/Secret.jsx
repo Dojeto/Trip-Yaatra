@@ -2,7 +2,7 @@ import Image from "next/image";
 
 const Secreats = () => {
   return (
-    <div className=" mt-[70px] flex items-center justify-center mb-[70px] px-40 ">
+    <div className=" mt-[70px] flex items-center justify-center mb-[70px] px-40 tblt:hidden">
       <div className="flex items-end justify-between flex-row text-center">
         <div className="flex flex-col items-center justify-start gap-1">
           <span className="text-2xl font-bold text-gray-600 md:text-xl sm:text-lg">
