@@ -1,14 +1,16 @@
 "use client";
+import Link from "next/link";
 import { useState } from "react";
 import { RiSearchLine } from "react-icons/ri";
-const tripPackages = [
-  "Beach Vacation Package",
-  "Mountain Adventure Package",
-  "City Exploration Package",
-  "Safari Expedition Package",
-  // Add more trip packages here
-];
+
 const Search = (props) => {
+  const { data } = props;
+
+  const nestedObjects = Object.values(data);
+
+  const tripPackages = nestedObjects.flatMap((nestedObj) => [
+    [nestedObj.title, nestedObj.link],
+  ]);
   const [searchText, setSearchText] = useState("");
   const [searchResults, setSearchResults] = useState([]);
 
@@ -19,21 +21,15 @@ const Search = (props) => {
   };
 
   const displayResults = (inputText) => {
-    // Check if the input text is empty
     if (inputText === "") {
       setSearchResults([]);
       return;
     }
 
     const filteredPackages = tripPackages.filter((packageName) =>
-      packageName.toLowerCase().includes(inputText)
+      packageName[0].toLowerCase().includes(inputText)
     );
     setSearchResults(filteredPackages);
-  };
-
-  const handleResultClick = (result) => {
-    setSearchText(result);
-    setSearchResults([]);
   };
 
   return (
@@ -50,13 +46,14 @@ const Search = (props) => {
         {searchResults.length > 0 && (
           <div className="absolute z-10 left-0 w-full top-[72px] bg-white border shadow-lg text-black ">
             {searchResults.map((result, index) => (
-              <div
-                key={index}
-                className="px-4 py-2 cursor-pointer hover:bg-gray-200"
-                onClick={() => handleResultClick(result)}
-              >
-                {result}
-              </div>
+              <Link key={index} href={result[1]} shallow>
+                <div
+                  key={index}
+                  className="px-4 py-2 cursor-pointer hover:bg-gray-200"
+                >
+                  {result[0]}
+                </div>
+              </Link>
             ))}
           </div>
         )}
