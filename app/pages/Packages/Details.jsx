@@ -21,11 +21,12 @@ const Details = (props) => {
     videos,
     ytvideo,
     similartrips,
+    itinerary
   } = props;
   // console.log(props);
   const info = {
     about: <AboutTrip about={about} />,
-    itinerary: <Itinerary notes={notes} />,
+    itinerary: <Itinerary notes={notes} itinerary={itinerary}/>,
     date: <Date />,
     other: <Others />,
   };

@@ -14,7 +14,7 @@ import tripsData from "@json/trips.json";
 export default function Home() {
   return (
     <main className=" flex flex-col gap-y-9">
-      <Hero />
+      <Hero data={tripsData} />
       <Feature />
       <Packages data={tripsData} />
       <Looking />
