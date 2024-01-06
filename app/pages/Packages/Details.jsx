@@ -8,7 +8,6 @@ import Itinerary from "./Itinerary";
 import AboutTrip from "./AboutTrip";
 import Date from "./Date";
 import Others from "./Others";
-import Review from "@components/Review";
 import Link from "next/link";
 const Details = (props) => {
   const {
@@ -18,7 +17,6 @@ const Details = (props) => {
     about,
     notes,
     photos,
-    videos,
     ytvideo,
     similartrips,
     itinerary
@@ -63,8 +61,8 @@ const Details = (props) => {
                 <h2>₹{price}/-</h2>
               </div>
             </div>
-            <div className="text-center mt-2 mb-2">
-              <div className=" bg-zinc-300 rounded-full w-fit p-3 ml-8 mt-3 mb-3">
+            <div className="text-center flex flex-col items-center mt-2 mb-2">
+              <div className=" bg-zinc-300 rounded-full w-fit p-3 mt-3 mb-3">
                 <IoLocationSharp size={32} />
               </div>
               <div>
@@ -106,28 +104,6 @@ const Details = (props) => {
           </button>
         </div>
         <div>{info[selected]}</div>
-        <div>
-          <h1 className="mt-10 text-3xl font-bold ">Videos</h1>
-          <div className="w-full flex overflow-x-scroll gap-8 no-scrollbar">
-            {videos.map((ele,i) => {
-              return (
-                <>
-                  <iframe
-                    key={i}
-                    className=" rounded-md"
-                    width={390}
-                    height={220}
-                    src={ele}
-                    title="YouTube video player"
-                    frameBorder="0"
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                    allowFullScreen
-                  ></iframe>
-                </>
-              );
-            })}
-          </div>
-        </div>
         <div>
           <h1 className="mt-10 text-3xl font-bold">Photos</h1>
           <div className="w-full flex overflow-x-scroll gap-8 no-scrollbar">

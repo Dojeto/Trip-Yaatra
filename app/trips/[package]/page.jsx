@@ -44,7 +44,6 @@ const page = ({ params }) => {
         about={data[params.package].about}
         notes={data[params.package].notes}
         photos={data[params.package].photos}
-        videos={data[params.package].videos}
         ytvideo={data[params.package].ytvideo}
         itinerary = {data[params.package].itinerary}
         similartrips = {valuesArray}
