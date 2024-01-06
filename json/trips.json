@@ -448,7 +448,6 @@
     "imageUrl": "/assets/Destinations/Thailand/thailand-package.avif",
     "date": "10-01-24",
     "duration": "9N - 10D",
-    "price": "89,999",
     "link": "/trips/thailand",
     "tagline": "A Journey to Bliss in the Himalayas",
     "destination": "Thailand",
@@ -510,32 +509,51 @@
     "imageUrl": "/assets/Destinations/Dubai/dubai.avif",
     "date": "10-01-24",
     "duration": "5N - 6D",
-    "price": "99,999",
+    "price": "68,999",
     "link": "/trips/dubai",
     "tagline": "From Humble Origins to a Cultural Marvel",
     "destination": "Dubai",
-    "pickanddrop": "Mumbai",
+    "pickanddrop": "Dubai Airport",
     "about": "Unveiling Dubai's Transformation: A Fusion of Traditions and Wonders\n\nDubai, a city that epitomizes grandeur, innovation, and cultural richness, has evolved from a humble fishing village into a global icon. The cityscape offers a myriad of wonders, from the awe-inspiring Burj Khalifa to the exhilarating rides on the fastest roller coasters. It's a living canvas that showcases the transformation from vast desert plains to a bustling cultural hub.\n\nA Tale of Contrasts and Grandeur\nDubai is a world of contrasts. Lavish shopping centers stand tall alongside stunning architectural marvels. The city embodies opulence, yet retains its essence in Emirati culture, reflected in the bustling backstreets, mesmerizing mosques, and delectable cuisine. Every facet adds depth to this extraordinary experience.\n\nEmbarking on a City Tour: Dubai's Multifaceted Charm\nExplore the diversity of Dubai through a city tour that unveils its multifaceted charm. From the awe-inspiring Burj Khalifa to immersive desert nights steeped in culture, the tour offers glimpses of the Persian Gulf's grandeur, including the iconic Palm Islands. Architectural wonders, vibrant mosques, and the captivating Dubai Fountain Show await your discovery.\n\nThe Thrill of Ras al Khaimah: An Adventure Haven\nVenture into Ras al Khaimah, nestled in the Al Hajar mountains, a haven for adventure enthusiasts. Here, adrenaline reigns supreme, offering tours to Jebel Jais, the world's highest mountain peak, and the thrill of the longest zipline. Untouched landscapes reveal mountain farms and communities, showcasing the region's pristine beauty.\n\nJoin Us for a Luxurious Emirati Experience\nJoin our group trip to Dubai from Mumbai and immerse yourself in the luxurious embrace of Emirati culture. Don't miss this incredible opportunity to explore a city that blends opulence, tradition, and modernity in a seamless tapestry.",
     "ytvideo": "",
     "itinerary": [
       {
-        "title": "Hanoi Arrival - Half-Day City Tour. Overnight Stay At Hanoi",
-        "description": "Arrive at Noi Bai International Airport in Hanoi Meet your local guide and transfer to your hotel In the afternoon we will start exploring Hanoi by visiting the famous Train Street Next, we will visit Ba Dinh Square – the biggest square in Hanoi that houses the Complex of Ho Chi Minh alongside There you will visit the Ho Chi Minh Mausoleum, Ho Chi Minh's house-on-stilts, and his fish pond We will also visit the Japanese-style one-pillar Pagoda"
+        "title": " Arrive in Dubai. Evening Marina Dinner Cruise.",
+        "description": "<ul><li>Upon your arrival at the Dubai Airport and meet our representative who will help you board your transfers.</li><li>Reach your hotel in Dubai, check in and rest for a while.</li><li>In the evening head to the Dubai Marina to embark on a Dinner Cruise through the creek.</li><li>Enjoy the surrounding views of the Dubai Skyline with flavourful dishes from all over the world along with Tanoura Show and Belly Dance.</li><li>After enjoying the cruise dinner experience, head back to the hotel.</li><li>Overnight stay at the hotel in Dubai.</li></ul>"
+      },
+      {
+        "title": "Dubai City Tour - Burj Khalifa (124th Floor With Café Pass) - Dubai Mall - Fountain Show.",
+        "description": "<ul><li>Post breakfast, get ready for the city tour.</li><li>Board the transfers that will take you through the famous Sheik Zayed Road which is lined with some of the prominent landmarks.</li><li>On this tour, enjoy the panoramic view of Jumeirah Mosque, Burj Al Arab Hotel View, the Palm, Atlantis Hotel and Jumeirah Beach.</li><li>Later, transfer to the tallest building in the world - the Burj Khalifa.</li><li>From the top of the 124th floor of Burj Khalifa, get a glimpse into the city beneath and beyond!</li><li>Next, explore the Dubai Mall, a mall like no other, along with the musical fountain show.</li><li>After completing the city tour, head back to the hotel.</li><li>Overnight stay in the hotel.</li></ul>"
+      },
+      {
+        "title": " Desert Safari With BBQ Dinner.",
+        "description": "<ul><li>Wake up and have your breakfast at the hotel.</li><li>The first half of the day is free for you to explore Dubai as per your choice.</li><li>During this time you can visit some iconic landmarks in Dubai like Dubai Frame or the Miracle Garden.</li><li>Around 3:30 pm board your transfers for an exciting Desert Safari, just like the famous Arabian Nights.</li><li>Upon reaching, hit the golden sands and indulge in activities like camel Safari, Dune Bashing, etc.</li><li>After the safari enjoys activities like shisha, Belly dance show, Tanura show, and Fire show followed by BBQ dinner.</li><li>Return back to your hotel for an overnight stay in Dubai.</li></ul>"
+      },
+      {
+        "title": " Day Excursion to Abu Dhabi. Visit Ferrari World. Indian Dinner at an Indian Restaurant",
+        "description": "<ul><li>Post breakfast, get ready for the Abu Dhabi city tour by 8 am.</li><li>Upon reaching Abu Dhabi, we will first visit the Sheik Zayed Mosque - one of the largest and most beautiful mosques in the world.</li><li>Next, we will spend the rest of the day at the Ferrari World with a One Day One Park ticket (park timings 11 am to 8 pm).</li><li>After spending a fun day at the Ferrari World, enjoy an Indian Dinner on the way to Dubai.</li><li>Overnight stay in Dubai.</li></ul>"
+      },
+      {
+        "title": " Leisure Day | DIY",
+        "description": "<ul><li>Have your breakfast in the morning and spend the rest of the day at leisure.</li><li>You can choose from a number of activities which will be an add-on cost to the trip.</li><li>Here are a few things you can do Aquaventure Waterpark, Sky Diving at the Palm, Ain Dubai, Shopping at the Global Village, Dubai Heritage Village, and Water Activities at Jumeirah Beach</li><li>After completing your sightseeing, return back to the hotel.</li><li>Overnight stay in Dubai.</li></ul>"
+      },
+      {
+        "title": "Visit the Lost Chamber Aquarium. Departure.",
+        "description": "<ul><li>Post breakfast in the morning, pack your bags are check-out from the hotel.</li><li>Visit the Lost Chamber Aquarium which has a spectacular collection of tropical marine life.</li><li>Explore and see radiant reef fish, seahorses, rays, sharks and countless other creatures.</li><li>You will also visit the Ambassadors Lagoon for an amazing underwater experience.</li><li>Later, board your transfers to the Dubai airport.</li><li>Your amazing Dubai Tour concludes once you are dropped off at the airport.</li><li>Continue your onward journey with a lot of happy memories from Dubai.</li></ul>"
       }
     ],
     "notes": [
       "Note 1: Age Limit for Group Departures: Please note that the age limit for our group departures is set between 16 to 42 years. This age range is specifically tailored to accommodate the dynamic and energizing itineraries we offer to our travelers. However, we are more than happy to personalize trips for travelers beyond the specified age bracket upon request.",
       "Note 2: Itinerary Flexibility: Kindly be aware that several factors, including weather conditions, road situations, and the physical capabilities of participants, may prompt alterations to the planned itinerary. We reserve the right to modify any schedule in the interest of ensuring safety, comfort, and the overall well-being of our travelers. Adjustments, if any, will be made with careful consideration to enhance your experience while prioritizing your safety and convenience."
     ],
-    "videos": [],
-    "photos": [],
+    "photos": ["https://images.pexels.com/photos/2044434/pexels-photo-2044434.jpeg?auto=compress&cs=tinysrgb&w=600","https://images.pexels.com/photos/325193/pexels-photo-325193.jpeg?auto=compress&cs=tinysrgb&w=600","https://images.pexels.com/photos/1467300/pexels-photo-1467300.jpeg?auto=compress&cs=tinysrgb&w=600","https://images.pexels.com/photos/1470502/pexels-photo-1470502.jpeg?auto=compress&cs=tinysrgb&w=600","https://images.pexels.com/photos/219692/pexels-photo-219692.jpeg?auto=compress&cs=tinysrgb&w=600"],
     "testimonials": [],
     "costing": [],
     "inclusions": "",
     "exclusions": "",
     "other": "",
     "thingtocarry": "",
-    "similartrips": [],
+    "similartrips": ["bhutan","singapore"],
     "trending": true
   },
   "maldives": {
@@ -544,7 +562,6 @@
     "imageUrl": "/assets/Destinations/Maldives/maldives.jpg",
     "date": "10-01-24",
     "duration": "4N - 5D",
-    "price": "79,999",
     "link": "/trips/maldives",
     "tagline": "A paradise of sun, sand, and smiles indeed",
     "destination": "Male",
@@ -553,23 +570,38 @@
     "ytvideo": "",
     "itinerary": [
       {
-        "title": "Hanoi Arrival - Half-Day City Tour. Overnight Stay At Hanoi",
-        "description": "Arrive at Noi Bai International Airport in Hanoi Meet your local guide and transfer to your hotel In the afternoon we will start exploring Hanoi by visiting the famous Train Street Next, we will visit Ba Dinh Square – the biggest square in Hanoi that houses the Complex of Ho Chi Minh alongside There you will visit the Ho Chi Minh Mausoleum, Ho Chi Minh's house-on-stilts, and his fish pond We will also visit the Japanese-style one-pillar Pagoda"
+        "title": "Arrival in Maldives",
+        "description": "<ul><li>Welcome to the tropical paradise of Maldives! After reaching there, get transferred by a speedboat/sea plane to your resort check-in to your room.</li><li>Spend the day relaxing and admiring the views of crystal clear waters ebbing sandy beaches.</li></ul>"
+      },
+      {
+        "title": "Day at leisure | Optional Water sports",
+        "description": "<ul><li>After a hearty breakfast today, we have many recommendations for you.</li><li>You may choose to take a sunbath on the beach, go for a swim or do absolutely nothing!.</li><li>If adventure is what you like, opt for some water sports like snorkeling, windsurfing, or have fun on a banana boat ride</li></ul>"
+      },
+      {
+        "title": "Day at Leisure | Optional activity: Night Fishing",
+        "description": "<ul><li>Wake up and head for a fulfilling breakfast and spend the day chilling at the resort and relaxing around the beach.</li><li>Our special recommendation for today is Maldives favorite traditional activity-Night fishing.</li><li>Using hand lines and raw fish as bait, this has all the ingredients for an adventurous family outing. Catch some nocturnal fish under the beautiful starlit sky.</li><li>The ambiance, the mood everything is so magical and we assure you will enjoy this rare experience to the hilt.</li><li>Return to your hotel after this truly exciting adventure and rest overnight as you pack your bags to return home tomorrow.</li></ul>"
+      },
+      {
+        "title": "Day at Leisure ",
+        "description": "<ul><li>Wake up and head for a fulfilling breakfast and spend the day chilling at the resort and relaxing around the beach.</li><li>Our special recommendation for today is Maldives favorite traditional activity-Night fishing.</li><li>Using hand lines and raw fish as bait, this has all the ingredients for an adventurous family outing. Catch some nocturnal fish under the beautiful starlit sky.</li><li>The ambiance, the mood everything is so magical and we assure you will enjoy this rare experience to the hilt.</li><li>Return to your hotel after this truly exciting adventure and rest overnight as you pack your bags to return home tomorrow.</li></ul>"
+      },
+      {
+        "title": "Drop back to the airport",
+        "description": "<ul><li>Wake up and after breakfast get ready to transfer to Male airport with some amazing memories of this paradise.</li></ul>"
       }
     ],
     "notes": [
       "Note 1: Age Limit for Group Departures: Please note that the age limit for our group departures is set between 16 to 42 years. This age range is specifically tailored to accommodate the dynamic and energizing itineraries we offer to our travelers. However, we are more than happy to personalize trips for travelers beyond the specified age bracket upon request.",
       "Note 2: Itinerary Flexibility: Kindly be aware that several factors, including weather conditions, road situations, and the physical capabilities of participants, may prompt alterations to the planned itinerary. We reserve the right to modify any schedule in the interest of ensuring safety, comfort, and the overall well-being of our travelers. Adjustments, if any, will be made with careful consideration to enhance your experience while prioritizing your safety and convenience."
     ],
-    "videos": [],
-    "photos": [],
+    "photos": ["https://images.pexels.com/photos/1483053/pexels-photo-1483053.jpeg?auto=compress&cs=tinysrgb&w=600","https://images.pexels.com/photos/1450363/pexels-photo-1450363.jpeg?auto=compress&cs=tinysrgb&w=600","https://images.pexels.com/photos/3601426/pexels-photo-3601426.jpeg?auto=compress&cs=tinysrgb&w=600","https://images.pexels.com/photos/1430676/pexels-photo-1430676.jpeg?auto=compress&cs=tinysrgb&w=600"],
     "testimonials": [],
     "costing": [],
     "inclusions": "",
     "exclusions": "",
     "other": "",
     "thingtocarry": "",
-    "similartrips": [],
+    "similartrips": ["dubai","vietnam"],
     "trending": true
   },
   "sri-lanka": {
