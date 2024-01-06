@@ -7,7 +7,7 @@ import data from "@json/trips.json";
 const page = ({ params }) => {
   // const { data, error, isLoading } = useSWR(`/api/trips`, fetcher);
   // if (!isLoading && !error) {
-  //   console.log(data);  
+  //   console.log(data);
   // }
   const filterObject = (obj, keysToKeep) => {
     return Object.fromEntries(
@@ -45,8 +45,8 @@ const page = ({ params }) => {
         notes={data[params.package].notes}
         photos={data[params.package].photos}
         ytvideo={data[params.package].ytvideo}
-        itinerary = {data[params.package].itinerary}
-        similartrips = {valuesArray}
+        itinerary={data[params.package].itinerary}
+        similartrips={valuesArray}
       />
     </>
   );
