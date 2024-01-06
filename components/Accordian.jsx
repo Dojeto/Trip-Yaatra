@@ -29,7 +29,7 @@ const Accordian = (props) => {
         </div>
       </button>
       <div
-        className={`p-3 list-inside	 bg-zinc-300 mt-2 rounded-xl w-96 mb-4 ${
+        className={`p-2  bg-zinc-300 mt-2 rounded-xl w-7/12 mb-4 list-inside ${
           isShowing ? "" : "hidden"
         }`}
         dangerouslySetInnerHTML={{

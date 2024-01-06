@@ -8,7 +8,6 @@ import Itinerary from "./Itinerary";
 import AboutTrip from "./AboutTrip";
 import Date from "./Date";
 import Others from "./Others";
-import Review from "@components/Review";
 import Link from "next/link";
 const Details = (props) => {
   const {
@@ -18,7 +17,6 @@ const Details = (props) => {
     about,
     notes,
     photos,
-    videos,
     ytvideo,
     similartrips,
     itinerary,
@@ -111,28 +109,6 @@ const Details = (props) => {
           </button>
         </div>
         <div>{info[selected]}</div>
-        <div>
-          <h1 className="mt-10 text-3xl font-bold ">Videos</h1>
-          <div className="w-full flex overflow-x-scroll gap-8 no-scrollbar">
-            {videos.map((ele, i) => {
-              return (
-                <>
-                  <iframe
-                    key={i}
-                    className=" rounded-md"
-                    width={390}
-                    height={220}
-                    src={ele}
-                    title="YouTube video player"
-                    frameBorder="0"
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                    allowFullScreen
-                  ></iframe>
-                </>
-              );
-            })}
-          </div>
-        </div>
         <div>
           <h1 className="mt-10 text-3xl font-bold">Photos</h1>
           <div className="w-full flex overflow-x-scroll gap-8 no-scrollbar">
