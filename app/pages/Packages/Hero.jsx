@@ -30,7 +30,7 @@ const Hero = (props) => {
           <div className="   w-1/2 flex justify-center items-end  tblt:w-full tblt:m-3">
             <div className=" h-1/2 w-2/3 flex items-center tblt:w-full tblt:h-fit">
               <div className="tblt:flex tblt:justify-around tblt:items-center tblt:w-full">
-                <button className=" mt-2 mr-6 border-2 rounded-xl w-60 h-14 tblt:w-40 tblt:text-base sm:w-32  sm:text-sm text-black bg-white uppercase font-semibold text-lg hover:scale-105 transform transition-transform duration-300">
+                <button className=" my-2 mr-6 border-2 rounded-xl w-60 h-14 tblt:w-40 tblt:text-base sm:w-32  sm:text-sm text-black bg-white uppercase font-semibold text-lg hover:scale-105 transform transition-transform duration-300">
                   Get itinerary
                 </button>
                 <button className=" p-2 border-2 rounded-xl w-60 h-14  sm:w-32 tblt:w-40 tblt:text-base sm:text-sm text-black bg-white uppercase text-lg font-semibold hover:scale-105 transform transition-transform duration-300">
