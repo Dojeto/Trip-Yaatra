@@ -131,32 +131,57 @@
     "imageUrl": "/assets/Destinations/Andaman/Andaman.jpg",
     "date": "06-01-24",
     "duration": "7N - 8D",
-    "price": "24,499",
+    "price": "35,999",
     "link": "/trips/andaman",
     "tagline": "Explore The Untamed Beauty, Coupled With Unparalleled Adventure",
     "destination": "Andaman",
-    "pickanddrop": "Delhi",
-    "about": "Spiti - The White Wonder: Experience the Unparalleled Beauty of the Ultimate Cold Desert.A trip to Spiti Valley is an exploration of unparalleled beauty, where the unique landscape stands out like a deserted wonder. Separated from fertile Lahaul by the towering 4551m Kunzum La, Spiti is a piece of Tibet nestled within India. Our Winter Edition – Spiti Valley Tour Package for 2024 invites you to revel in the snow-clad vistas of this magnificent cold desert.As you journey through Spiti, scattered villages emerge like mirages in a breathtaking moonscape, capturing your imagination unlike any other panorama you've ever encountered. The snow-covered whitewashed mud-brick homes, along with the iconic Key Monastery perched on high, create an otherworldly spectacle.Spiti Valley reignites a love for the forgotten. Send a postcard from the highest post office in the world or embark on fossil hunts in Spiti's villages. In Langza, a fossil village, a life-sized golden statue of Buddha welcomes you. The sedimentary rocks here conceal remnants of ancient plants and marine life, dating back millions of years. If fortunate, you might spot one!Amidst the shades of gray and white, the turquoise ribbon of the Spiti River emerges as your constant companion. Traversing a broad valley before veering south into the precipitous gorges of the Hangrang Valley at Sumdo. Spiti draws travelers, including streams of Indian motorcyclists, as a 'mini-Ladakh without tourist crowds.' This title rings true, as its pristine nature (high-altitude desert) and rich Tibetan Buddhist culture remain beautifully intact.",
+    "pickanddrop": "Port Blair Hotel",
+    "about": "Embark on a mesmerizing expedition through the pristine archipelago of the Andaman Islands, a paradise of azure waters, palm-fringed beaches, and vibrant marine life. Start your adventure in Port Blair, the capital city, and explore its historical landmarks such as the Cellular Jail, a poignant symbol of India's struggle for independence. Delve into the underwater wonders of the Andaman Sea with snorkeling or scuba diving at Havelock Island's stunning Radhanagar Beach, known for its crystal-clear waters and diverse coral reefs. Traverse to Neil Island, where the laid-back atmosphere and breathtaking natural beauty at places like Bharatpur Beach and Laxmanpur Beach enthrall the senses. Explore the hidden gems of the archipelago, like the limestone formations at Elephant Beach or the serene vibes of Long Island. Encounter the indigenous culture of the Andamanese people while visiting Anthropological Museum and experiencing the local lifestyle in villages like Wandoor and Diglipur. Conclude your expedition with a tranquil retreat at the secluded beaches of Little Andaman or indulging in water sports at the secluded North Bay Island. This ultimate Andaman escapade promises an immersive blend of history, adventure, and tropical serenity, crafting cherished memories of an unforgettable journey.",
     "ytvideo": "",
     "itinerary": [
       {
-        "title": "Arrival At Srinagar - Overnight Stay At Srinagar",
-        "description": "test"
+        "title":"Arrival In Andaman. Visit Chidiyatapu Sunset",
+        "description":"<ul><li>Arrive at Port Blair in the morning/afternoon by flight and reach the hotel on your own.</li><li>Our representative will be in the hotel to help you out with the check-in process.</li><li>In the second half of the day, we will go for a sunset experience at Chidiatapu.</li><li>Around 30 km from the main city, Chidiatapu offers an amazing sunset experience.</li><li>Spend a couple of hours enjoying the mesmerizing sunset at Chidiyatapu</li><li>Return back to your hotel in Port Blair.</li><li>Overnight stay in Port Blair.</li></ul>"
+      },
+      {
+        "title":"Port Blair To Havelock In Ferry. Later Radhanagar Beach Visit Until Sunset",
+        "description":"<ul><li>Have your breakfast at the hotel and board your ferry to reach Havelock Island.</li><li>Upon reaching Havelock Island, transfers to your hotel.</li><li>Next, we will take you to one of Asia's best beaches, Radhanagar Beach.</li><li>Explore this white sand beach and bask in the beauty of this natural wonder and witness an amazing sunset.</li><li>Post this, we will go back to the hotel where you relax and unwind.</li><li>Overnight stay in Havelock Island.</li></ul>"
+      },
+      {
+        "title":"Excursion To Elephant Beach By Boat Ride Tour With Snorkelling And Jet Skiing",
+        "description":"<ul><li>Post breakfast in the morning, get ready for an exciting day.</li><li>Today, we begin our journey to the most visited snorkeling destination on Havelock Island, Elephant Beach.</li><li>After a 30-minute boat ride from Havelock Island, we will reach Elephant Beach which flaunts one of the best reefs around Havelock Island.</li><li>The great thing is that the reef here starts at a depth of less than a meter.</li><li>Upon reaching Elephant Beach, we will rest and relax or stroll leisurely on the beach.</li><li>You can also choose to indulge in various water sports for an adrenaline rush on the beach.</li><li>Later, a guide will take you for a complimentary snorkeling session at Elephant Beach. (Snorkeling and Jet Skiing at Elephant Beach depends upon the association guidelines).</li><li>After completing your excursion to Elephant beach, we will start our return journey.</li><li>Reach your dock on Havelock Island and get transferred to your hotel.</li><li>Overnight stay in Havelock Island.</li></ul>"
+      },
+      {
+        "title":"Transfer From Havelock To Neil Island. Later We Will Visit Bharatpur Beach, Natural Bridge And Laxmanpur Beach For Sunset. Overnight Stay In Neil Island",
+        "description":"<ul><li>Post breakfast and check-out, get ready to board your Ferry for Neil Island. Reach Neil island known for its pristine white beaches and natural rock formations, do check-in, rest, visit Natural Bridge, Bharatpur Beach for swimming and water activities, and Laxmanpur beach for sunset. Return, have dinner, and rest.</li></ul>"
+      },
+      {
+        "title":"Neil Island To Port Blair Transfer",
+        "description":"<ul><li>Post breakfast and check-out, head to Neil jetty to board a ferry to Port Blair.</li><li>Upon reaching Port Blair, check-in to the hotel and rest for a while.</li><li>Later in the evening, head out to attend the Sound and Light Show at Cellular Jail – where the heroic saga of the Indian freedom struggle is brought alive.</li><li>Come back to the hotel and rest.</li><li>Overnight stay in Port Blair.</li></ul> "
+      },
+      {
+        "title":"Excursion To Baratang Island - Limestone Caves And Mangrove Boat Ride",
+        "description":"<ul><li>Start your day late night approx. 03:00 am today and board your transfers to Baratang Island through the dense tropical forest and Jarawa Tribal Reserve in a convoy.</li><li>On the way, you might see a member of the Jarawa Tribe while passing through the tribal reserve.</li><li>After crossing the forest, you would reach the Baratang jetty from where the Launch service is available to cross the sea bay.</li><li>Enjoy the breathtaking fiber boat ride through a fascinating Mangrove drive, which leads to the start point of the trek to Limestone Caves.</li><li>Trek through dense forest to reach the Limestone Cave. Made up of the mineral calcite (calcium carbonate) the cave contains a beautiful cave formation.</li><li>Upon completing the sightseeing for the day, start your return journey through the same route.</li><li>Overnight stay in Port Blair.</li></ul>"
+      },
+      {
+        "title":"Departure",
+        "description":"<ul><li>Wake up and have your breakfast at the hotel.</li><li>Pack your bag and board your transfer to the airport.</li><li>Your amazing Andaman Tour concludes once you are dropped off at the Port Blair airport for your onward journey.</li></ul>"
       }
+
     ],
     "notes": [
       "Note 1: Age Limit for Group Departures: Please note that the age limit for our group departures is set between 16 to 42 years. This age range is specifically tailored to accommodate the dynamic and energizing itineraries we offer to our travelers. However, we are more than happy to personalize trips for travelers beyond the specified age bracket upon request.",
       "Note 2: Itinerary Flexibility: Kindly be aware that several factors, including weather conditions, road situations, and the physical capabilities of participants, may prompt alterations to the planned itinerary. We reserve the right to modify any schedule in the interest of ensuring safety, comfort, and the overall well-being of our travelers. Adjustments, if any, will be made with careful consideration to enhance your experience while prioritizing your safety and convenience."
     ],
     "videos": [],
-    "photos": [],
+    "photos": ["https://images.unsplash.com/photo-1586053226626-febc8817962f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D","https://images.unsplash.com/photo-1542429296407-20c78e10f375?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D","https://images.unsplash.com/photo-1579317344982-256c49ab1e0d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D","https://images.unsplash.com/photo-1621521089957-5c7b0cd9bf92?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"],
     "testimonials": [],
     "costing": [],
     "inclusions": "",
     "exclusions": "",
     "other": "",
     "thingtocarry": "",
-    "similartrips": [],
+    "similartrips": ["rajasthan","himachalpradesh","meghalaya","uttarakhand","kerala","sikkim","kashmir"],
     "trending": true
   },
   "meghalaya": {
@@ -174,8 +199,32 @@
     "ytvideo": "",
     "itinerary": [
       {
-        "title": "Arrival At Srinagar - Overnight Stay At Srinagar",
-        "description": "test"
+        "title": "Guwahati Arrival | Overnight Stay In Kaziranga",
+        "description": "<ul><li>Arrive at Lokpriya Gopinath Bordoloi International Airport by morning 11 AM</li><li>Depart for Kaziranga, Reach Kaziranga by evening.</li><li>Overnight stay at Kaziranga.</li></ul>"
+      },
+      {
+        "title":"Jungle Safari | Overnight In Shillong",
+        "description":"<ul><li>Wake up early, Enjoy the beautiful Jungle Safari.</li><li>Have breakfast and depart for Shillong.</li><li>Reach Shillong by evening.</li></ul>"
+      },
+      {
+        "title":"Laitlum Grand Canyon | Krang Shuri Waterfalls | Overnight At Shnongpdeng",
+        "description":"<ul><li>Wake up and enjoy your breakfast.</li><li>Check out and depart for Laitlum Canyons.</li><li>Spend your time awestruck by the amazing beauty.</li><li>Head towards Shnongpdeng.</li><li>On the way visit the beautiful Krang Shuri Falls.</li><li>Reach Shnongpdeng and witness the crystal clear water river Umngot.</li><li>Check in to the camps and relax in the evening.</li><li>Bonfire, Dinner & sleep overnight.</li></ul> "
+      },
+      {
+        "title":"Water Activities | Mawlynnong | Cherrapunjee",
+        "description":"<ul><li>Enjoy your breakfast with a sight of crystal clear water of the river.</li><li>Enjoy various water activities.</li><li>Post Lunch, Head towards Mawlynnong - Asia's cleanest Village.</li><li>Reach Cherrapunjee by evening and Check in to the Hotel.</li><li>Overnight stay at Cherrapunjee.</li></ul>"
+      },
+      {
+        "title":"Single Root Bridge | Double Decker Bridge | Overnight Stay In Cherrapunjee",
+        "description":"<ul><li>Post breakfast, depart for Tyrna Village.</li><li>Reach Tyrna & first start your trek to the Single Root Bridge.</li><li>Later visit the astonishing Double Decker Bridge. Trek back to Tyrna Village (This trek consists of 3300 steps one side, a total of 6600 steps in the entire trek) & start your journey to Cherrapunjee.</li><li>Overnight stay at Cherrapunjee.</li></ul>"
+      },
+      {
+        "title":"Mawsmai Caves | Nohkalikai Waterfall | Wei Sawdong Waterfalls | Overnight At Shillong",
+        "description":"<ul><li>Wake up and enjoy your breakfast with a view.</li><li>Check out and depart for the Mighty Nohkalikai Falls and the mesmerizing Wei Sawdong Waterfalls.</li><li>Explore Mawsmai Caves.</li><li>Have your Lunch and reach Shillong and explore Police Bazaar.</li><li>Overnight stay at Shillong.</li></ul>"
+      },
+      {
+        "title":"Umiam Lake | Departure Back To Guwahati And Fly Back",
+        "description":"<ul><li>After a delicious breakfast, Depart for Guwahati Airport.</li><li>On the way visit Umiam Lake.</li><li>Reach Guwahati Airport in the Evening. Book your flights after 5 PM.</li><li>Reach your home with a suitcase full of memories.</li></ul>"
       }
     ],
     "notes": [
@@ -183,14 +232,14 @@
       "Note 2: Itinerary Flexibility: Kindly be aware that several factors, including weather conditions, road situations, and the physical capabilities of participants, may prompt alterations to the planned itinerary. We reserve the right to modify any schedule in the interest of ensuring safety, comfort, and the overall well-being of our travelers. Adjustments, if any, will be made with careful consideration to enhance your experience while prioritizing your safety and convenience."
     ],
     "videos": [],
-    "photos": [],
+    "photos": ["https://images.unsplash.com/photo-1625654325562-762dcec9e6f2?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D","https://images.unsplash.com/photo-1521437620269-f477f5437820?q=80&w=1973&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D","https://images.unsplash.com/photo-1609276804051-8c5e906cc430?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D","https://images.unsplash.com/photo-1593813738953-fb3c93e0769d?q=80&w=1908&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"],
     "testimonials": [],
     "costing": [],
     "inclusions": "",
     "exclusions": "",
     "other": "",
     "thingtocarry": "",
-    "similartrips": [],
+    "similartrips": ["sikkim","himachalpradesh","rajasthan","uttarakhand","kerala","andaman","kashmir"],
     "trending": true
   },
   "sikkim": {
@@ -335,7 +384,7 @@
     "imageUrl": "/assets/Destinations/kerala/kerala.jpg",
     "date": "06-01-24",
     "duration": "6N - 7D",
-    "price": "₹26,999/-",
+    "price": "26,999",
     "link": "/trips/kerala",
     "tagline": "Ultimate Adventure in kerala: 7 Days Tour",
     "destination": "Kerala",
@@ -344,23 +393,48 @@
     "ytvideo": "",
     "itinerary": [
       {
-        "title": "",
-        "description": ""
+        "title": "Arrival In Kochi. Sightseeing In Kochi.",
+        "description": "<ul><li>Arrive at the Kochi Airport/ Railway Station and reach your hotel in Kochi on your own.</li><li>Upon reaching your hotel, check-in and rest till evening.</li><li>In the evening, you will visit Fort Kochi to marvel at the beautiful colonial buildings.</li><li>Spend the rest of the time by indulging in a shopping spree at the local markets.</li><li>Overnight stay in Kochi.</li></ul>"
+      },
+      {
+        "title": "Kochi To Munnar. En Route Visit Athirapally Waterfalls.",
+        "description": "<ul><li>Have a hearty breakfast in the morning, and get ready to board your transfers to Munnar - a popular hill station in Kerala.</li><li>Board your transfers to first visit the Athirappilly Waterfalls which is around 73 kms from Kochi.</li><li>Marvel at the largest waterfalls in Kerala that falls from a whooping height of 80 ft.</li><li>After admiring the cascading waterfalls, continue your return journey to Munnar.</li><li>Upon reaching Munnar, check-in to the hotel and call it a day.</li><li>Overnight stay in Munnar.</li></ul>"
+      },
+      {
+        "title": "Local Sightseeing In Munnar. Drive Through The Tea Plantations.",
+        "description": "<ul><li>Wake up to a beautiful morning in Munnar.</li><li>Have your breakfast at the hotel and get ready for the day.</li><li>We will start by visiting the Eravikulam National Park which is a natural habitat of Nilgiri Tahr, the endangered mountain goat.</li><li>Next, you will visit the Tata Tea Museum to get an insight into the history of tea plantations and processing from ancient times till today.</li><li>Further, spend some time admiring the views of the Mattupetty Dam backed with green rolling hills.</li><li>We will conclude our sightseeing by visiting the Echo Point where you can spend some leisure time amidst the lush green hills covered with forests and tea plantations.</li><li>Overnight stay in Munnar.</li></ul>"
+      },
+      {
+        "title": "Munnar To Alleppey. Enjoy The Serene Backwaters.",
+        "description": "<ul><li>Post breakfast in the morning, get ready and board your transfers.</li><li>Enjoy your ride through the coastal landscapes of Kerala to Alleppey.</li><li>Upon reaching Alleppey, board your day cruise where you will also have your local lunch.</li><li>Enjoy a beautiful afternoon by spending some leisure time in the backwaters.</li><li>Later, check-in to your hotel in Alleppey and call it a day.</li><li>Overnight stay in Alleppey.</li></ul>"
+      },
+      {
+        "title": "Alleppey To Varkala. En Route Visit Jatayu Earth’s Center.",
+        "description": "<ul><li>Have your breakfast in the morning and get ready for the day.</li><li>Board your transfers to the popular coastal town of Varkala.</li><li>On the way to Varkala, we will take a short detour to marvel at the world’s largest bird sculpture at Jatayu Earth’s Center.</li><li>After spending some time exploring the surrounding nature park, we will continue our journey to Varkala.</li><li>Upon reaching Varkala, check-in to the hotel and rest for the day.</li><li>Overnight stay in Varkala.</li></ul>"
+      },
+      {
+        "title": "Local Sightseeing In Varkala. Visit Munroe Island.",
+        "description": "<ul><li>Wake up to a beautiful morning in Kerala and have your breakfast at the hotel.</li><li>Get ready and board your transfers to Munroe Island, located 50 km north of Varkala.</li><li>Explore Munroe Island which is at the beautiful confluence of Ashtamudi Lake and Kallada River.</li><li>Later, start your return journey back to Varkala.</li><li>In the evening, we will visit a cliff in Varkala to watch a beautiful sunset over the vast ocean.</li><li>The rest of the time is free for you to explore the cafes around.</li><li>Overnight stay in Varkala.</li></ul>"
+      },
+      {
+        "title": "Departure. Varkala To Thiruvananthapuram.",
+        "description": "<ul><li>Have your breakfast at the hotel and get ready to board your transfers.</li><li>Your tour concludes once you are dropped off at Trivandrum Airport for your onward journey.</li><li>Depart with a bag of happy memories.</li></ul>"
       }
+      
     ],
     "notes": [
       "Note 1: Age Limit for Group Departures: Please note that the age limit for our group departures is set between 16 to 42 years. This age range is specifically tailored to accommodate the dynamic and energizing itineraries we offer to our travelers. However, we are more than happy to personalize trips for travelers beyond the specified age bracket upon request.",
       "Note 2: Itinerary Flexibility: Kindly be aware that several factors, including weather conditions, road situations, and the physical capabilities of participants, may prompt alterations to the planned itinerary. We reserve the right to modify any schedule in the interest of ensuring safety, comfort, and the overall well-being of our travelers. Adjustments, if any, will be made with careful consideration to enhance your experience while prioritizing your safety and convenience."
     ],
     "videos": [],
-    "photos": [],
+    "photos": ["https://images.unsplash.com/photo-1593693397690-362cb9666fc2?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D","https://images.unsplash.com/photo-1580818135730-ebd11086660b?q=80&w=2057&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D","https://images.unsplash.com/photo-1614090699960-b4c81be49f3c?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D","https://images.unsplash.com/photo-1601220840366-d29aedc7e987?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"],
     "testimonials": [],
     "costing": [],
     "inclusions": "",
     "exclusions": "",
     "other": "",
     "thingtocarry": "",
-    "similartrips": [],
+    "similartrips": ["himachalpradesh","rajasthan","uttarakhand","andaman","kashmir","meghalaya","sikkim"],
     "trending": true
   },
 
