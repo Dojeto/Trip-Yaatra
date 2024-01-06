@@ -23,7 +23,7 @@ const Accordian = (props) => {
         type="button"
       >
         <div className=" flex items-center">
-          <div className=" w-[80px] text-left">Day-{day}:</div>
+          <div className=" w-[80px] text-left font-bold">Day-{day}:</div>
           <div className=" w-full text-left">{title}</div>
           <dir>{isShowing ? <AiOutlineCaretDown /> : <AiFillCaretRight />}</dir>
         </div>
