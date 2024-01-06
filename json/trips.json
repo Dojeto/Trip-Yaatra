@@ -11,7 +11,7 @@
     "destination": "Leh",
     "pickanddrop": "Leh - Leh",
     "about": "Ladakh isn't just another mountainous backdrop for your Instagram feed—it's a Himalayan wonderland where dreams unfold. Here, where the mountains kiss the horizon and the Indus River weaves tales of a vibrant civilization, you'll find a cold desert brimming with life's warmth. The journey to Ladakh commences with a flight to Leh, treating you to breathtaking vistas of snow-capped peaks from your window seat, offering a glimpse of the adventure that awaits.Upon arrival in Leh, marvel at the unique beauty of this city nestled within the embrace of the Himalayas. Roaming through the city, our itinerary unfolds, visiting the Hall of Fame, Shanti Stupa, Pathar Sahib Gurudwara, and Magnetic Hill—an intriguing rendezvous with science! Yet, the pinnacle of our journey lies in Turtuk village, one of the northernmost settlements in our country. A cultural departure from mainstream Ladakhi traditions, Turtuk Village proudly embraces Islamic practices.The Leh trip, coupled with Turtuk village exploration, takes us on adrenaline-packed rides to the majestic Khardung La, the enchanting colors of Pangong Tso, and the mesmerizing Nubra Valley desert. Such a comprehensive Leh-to-Leh package is a rarity! Come, be a part of this adventure-filled journey across Ladakh.",
-    "ytvideo": "https://www.youtube.com/embed/ziABaAUq5Ck?si=4Td2EDEGoJglqFLU",
+    "ytvideo": "",
     "itinerary": [
       {
         "title": "Leh Arrival and Acclimatization",
@@ -78,8 +78,32 @@
     "ytvideo": "",
     "itinerary": [
       {
-        "title": "Arrival At Srinagar - Overnight Stay At Srinagar",
-        "description": "test"
+        "title": "Reach Rampur  - Overnight Stay",
+        "description": "<ul><li>Start your journey from Shimla towards Rampur Bushahr.</li><li>Reach hotel by late afternoon.</li><li>Briefing about the adventure that lies ahead and rest of the day to relax and acclimatize.</li><li>Dinner and Overnight sleep.</li></ul>"
+      },
+      {
+        "title": "Rampur to Tabo via Nako - Ka Loops. Overnight stay at Tabo.",
+        "description": "<ul><li>Wake up early morning &amp; after breakfast start your journey to Spiti Valley.Enter Spiti valley through Sumdo Border. Visit Nako village en route tabo.</li><li>Cross the Ka loops en route Tabo.</li><li>Reach Tabo by evening and check-in to the homestay.</li><li>Dinner &amp; sleep overnight.</li></ul>"
+      },
+      {
+        "title": "Tabo to Kaza via Dhankar. Overnight stay at Kaza",
+        "description": "<ul><li>Wake up early morning and have your breakfast.</li><li>Visit the oldest monastery of Spiti Valley - Tabo Monastery.</li><li>Further, we visit Dhankar village and  cover Dhankar Monastery.</li><li>Dhankar monastery offers a spectacular view of confluence of frozen Spiti and Pin river.</li><li>Further, we head for kaza and checkin into homestay.</li><li>Dinner and sleep overnight.</li></ul>"
+      },
+      {
+        "title": "Visit Key Monastery, Chicham Bridge, Kibber - Overnight stay at Kaza.",
+        "description": "<ul><li>Wake up early morning and after having the breakfast, head for Spiti Valley divine sightseeing.</li><li>Visit the most scenic monastery of Spiti Valley - The Key Monastery.</li><li>Further, drive to the highest suspension bridge in Asia - The Chicham Bridge.</li><li>Visit Kibber village - famous for snow leopard sightseeing.</li><li>Come back to Kaza by evening. Dinner and sleep overnight.</li></ul>"
+      },
+      {
+        "title": "Visit Langza ,Komic & Hikkim Village. Overnight stay at Kaza",
+        "description": "<ul><li>Wake up early morning and have your breakfast.</li><li>Enjoy the scenic drive to Langza - the fossil village. Visit the famous Buddha statue in Langza surrounded by white mountains.</li><li>Visit the iconic villages of Spiti - Hikkim(location of the World's Highest Post Office), Komik(the highest village in the world connected through a motorable road)</li><li>Come back to Kaza by evening.</li><li>Dinner and sleep overnight.</li></ul>"
+      },
+      {
+        "title": "Kaza to Rampur . Overnight stay Rampur",
+        "description": "<ul><li>Wake up early morning and after breakfast check-out of the homestay.</li><li>Depart for Rampur &amp; Reach homestay by night.</li><li>Check-in to the homestay. Dinner and sleep overnight.</li></ul>"
+      },
+      {
+        "title": "Rampur to Shimla - Overnight travel to delhi",
+        "description": "<ul><li>After having breakfast and some leisure, check-out of the hotel.</li><li>Start your journey towards Shimla.</li><li>Reach Shimla by evening.</li><li>Overnight travel to delhi</li></ul>"
       }
     ],
     "notes": [
@@ -87,14 +111,22 @@
       "Note 2: Itinerary Flexibility: Kindly be aware that several factors, including weather conditions, road situations, and the physical capabilities of participants, may prompt alterations to the planned itinerary. We reserve the right to modify any schedule in the interest of ensuring safety, comfort, and the overall well-being of our travelers. Adjustments, if any, will be made with careful consideration to enhance your experience while prioritizing your safety and convenience."
     ],
     "videos": [],
-    "photos": [],
+    "photos": [
+      "https://media.istockphoto.com/id/930852852/photo/dhankar-gompa-india-spiti-valley.jpg?s=612x612&w=0&k=20&c=F4zopbUYwgi56-fhSrjfzgscV8Jac4UYWvCB0vl8gN0=",
+      "https://c1.wallpaperflare.com/preview/409/738/507/buddha-statue-langza-village-himachal-pradesh-spiti-valley-snow-mountains-history-village.jpg",
+      "https://siaphotography.in/assets/img/phototours/photography-tours-609979464.jpg",
+      "https://himalayanecotourism.com/pictures/spiti/spiti-valley-ss-32.jpg",
+      "https://www.shutterstock.com/shutterstock/videos/1111421879/thumb/1.jpg?ip=x480",
+      "https://plus.unsplash.com/premium_photo-1661963698896-6ecc8afcf6fa?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8c3BpdGklMjB2YWxsZXl8ZW58MHx8MHx8fDA%3D",
+      "https://www.himalayanecotourism.com/pictures/spiti/spiti-valley-photo-74.jpg"
+    ],
     "testimonials": [],
     "costing": [],
     "inclusions": "",
     "exclusions": "",
     "other": "",
     "thingtocarry": "",
-    "similartrips": [],
+    "similartrips": ["leh-ladakh", "kashmir", "meghalaya", "sikkim"],
     "trending": true
   },
   "kashmir": {
@@ -107,13 +139,33 @@
     "link": "/trips/kashmir",
     "tagline": "Explore The Untamed Beauty, Coupled With Unparalleled Adventure",
     "destination": "Srinagar",
-    "pickanddrop": "Delhi",
+    "pickanddrop": "Srinagar",
     "about": "Spiti - The White Wonder: Experience the Unparalleled Beauty of the Ultimate Cold Desert.A trip to Spiti Valley is an exploration of unparalleled beauty, where the unique landscape stands out like a deserted wonder. Separated from fertile Lahaul by the towering 4551m Kunzum La, Spiti is a piece of Tibet nestled within India. Our Winter Edition – Spiti Valley Tour Package for 2024 invites you to revel in the snow-clad vistas of this magnificent cold desert.As you journey through Spiti, scattered villages emerge like mirages in a breathtaking moonscape, capturing your imagination unlike any other panorama you've ever encountered. The snow-covered whitewashed mud-brick homes, along with the iconic Key Monastery perched on high, create an otherworldly spectacle.Spiti Valley reignites a love for the forgotten. Send a postcard from the highest post office in the world or embark on fossil hunts in Spiti's villages. In Langza, a fossil village, a life-sized golden statue of Buddha welcomes you. The sedimentary rocks here conceal remnants of ancient plants and marine life, dating back millions of years. If fortunate, you might spot one!Amidst the shades of gray and white, the turquoise ribbon of the Spiti River emerges as your constant companion. Traversing a broad valley before veering south into the precipitous gorges of the Hangrang Valley at Sumdo. Spiti draws travelers, including streams of Indian motorcyclists, as a 'mini-Ladakh without tourist crowds.' This title rings true, as its pristine nature (high-altitude desert) and rich Tibetan Buddhist culture remain beautifully intact.",
     "ytvideo": "",
     "itinerary": [
       {
-        "title": "Arrival At Srinagar - Overnight Stay At Srinagar",
-        "description": "test"
+        "title": "Srinagar Arrival | Local Sightseeing Of Srinagar",
+        "description": "<ul><li>Arrive at the Srinagar airport after a scenic flight over the snow-capped mountains.</li><li>From Srinagar airport you will have to reach your houseboat and check in.</li><li>Have some rest and have your lunch.</li><li>Meet our representative and get ready to explore Srinagar.</li><li>You will first visit the beautiful Mughal Gardens which consists of 2 separate gardens - Shalimar Garden &amp; Nishat Garden</li><li>Return back and enjoy a 1 hour Shikara ride while admiring the surroundings mountains.</li><li>After completing the ride return back to your houseboat and enjoy your dinner.</li><li>Overnight stay in Srinagar.</li></ul>"
+      },
+      {
+        "title": "Srinagar to Gulmarg. Enjoy Asia’s Highest Gandola Ride",
+        "description": "<ul><li>Wake up in the morning, have your breakfast and get ready for the day.</li><li>We will then take you to Gulmarg -  that appears straight out of painting.</li><li>Board your vehicle for a 2-hour scenic drive to Gulmarg, where you can enjoy breathtaking views of the Himalayan snow-clad peaks and the scenic vistas of Tanmarg.</li><li>Upon reaching Gulmarg, embark on the highest gondola ride in Gulmarg - which offers stunning views of the Kashmir Valley.</li><li>Later, check in to your hotel and visit one of Asia’s highest Golf Course of Gulmarg, followed by a visit to a church.</li><li>You can then, spend the rest of the day at leisure..</li><li>In Gulmarg, you can indulge in a number of winter adventure sports like skiing, snowboarding, etc.</li><li>After exploring Gulmarg, return back to your hotel for dinner.</li><li>Overnight stay in Gulmarg.</li></ul>"
+      },
+      {
+        "title": "Gulmarg to Pahalgam. Visit Drung Waterfall",
+        "description": "<ul><li>After breakfast in the morning, get ready to begin your day.</li><li>Board your vehicle as we will take you to Pahalgam today.</li><li>Before going to Pahalgam, we will first visit the famous Drung Waterfall (Only ATVs are allowed for access, &amp; depends on the freezing of the waterfall.).</li><li>Next, embark on tour transfers to Pahalgam which will be a 4-hour scenic drive via Pampore and Avantipura</li><li>We switch from the national highway 1A at Khanabal and drive through the second-largest city of Anantnag.</li><li>Upon reaching Pahalgam, check in to the hotel and spend the rest of the evening at leisure.</li><li>Have your dinner and rest for the day.</li><li>Overnight stay in Pahalgam.</li></ul>"
+      },
+      {
+        "title": "Pahalgam to Srinagar. Visit the Aru Valley, Betaab Valley and Chandanwari",
+        "description": "<ul><li>Wake up to a beautiful morning in Pahalgam and have your breakfast.</li><li>Get ready for the day and board your transfers.</li><li>We will start the day by visiting the Aru Valley known for its lush meadows, pristine lakes &amp; mountains.</li><li>Next, we will head to the famous Betaab Valley, one of the favorite spots for many Bollywood filmmakers.</li><li>Further, we will head to the scenic rocky valley of Chandanwari (depending on the weather condition) where you can also enjoy an exciting pony ride (at your own expense).</li><li>Later, we will start our drive back to Srinagar.</li><li>Upon reaching Srinagar, check-in to the hotel and have dinner.</li><li>Overnight stay in Srinagar.</li></ul>"
+      },
+      {
+        "title": "Trek from Nilnag Lake to Yusmarg OR Dhoodhpathri",
+        "description": "<ul><li>Post breakfast at the hotel in Srinagar, get ready to start a fun day.</li><li>You will then take you to Nilnag lake, which is approximately a 2 hour drive.</li><li>Nilnag is famous for it's blue water and its surrounding pine tree forests.</li><li>Further, we will start our trek from Nilnag lake to Yusmarg which is also known as 'Meadow of Jesus'.</li><li>It is approx a 5 Km trek which will take approx 3 hours to complete.</li><li>OR</li><li>If there is Heavy Snowfall, we will take you for a trek to Dhoodhpathri.</li><li>In the evening, we will come back to Srinagar.</li><li>Overnight stay in Srinagar.</li></ul>"
+      },
+      {
+        "title": "Departure. Depart with a bag of happy memories.",
+        "description": "<ul><li>Post breakfast in the morning, get ready to board your return transfers.</li><li>Depart with a lot of memories to cherish.</li></ul>"
       }
     ],
     "notes": [
@@ -121,14 +173,21 @@
       "Note 2: Itinerary Flexibility: Kindly be aware that several factors, including weather conditions, road situations, and the physical capabilities of participants, may prompt alterations to the planned itinerary. We reserve the right to modify any schedule in the interest of ensuring safety, comfort, and the overall well-being of our travelers. Adjustments, if any, will be made with careful consideration to enhance your experience while prioritizing your safety and convenience."
     ],
     "videos": [],
-    "photos": ["/assets/leh.png"],
+    "photos": [
+      "https://images.hindustantimes.com/img/2022/04/09/1600x900/India-Kashmir-Tourism-1_1649516088292_1649516149207.jpg",
+      "https://img.freepik.com/free-photo/young-woman-hiker-taking-photo-with-smartphone-mountains-peak-winter_335224-427.jpg?size=626&ext=jpg&ga=GA1.1.1803636316.1700870400&semt=ais",
+      "https://images.pexels.com/photos/10679346/pexels-photo-10679346.jpeg",
+      "https://media.istockphoto.com/id/1171962535/photo/srinagar-kashmir.jpg?s=612x612&w=0&k=20&c=5y9sU7boA-TFyr7LBVyfpmoKT9A2Y7WxA2tqdIE0zBw=",
+      "https://media.istockphoto.com/id/1149569073/photo/beautiful-scenery-of-snowy-pine-trees-with-sunset-at-background.jpg?s=612x612&w=0&k=20&c=n0kOTvAbsErHnbj8svHzUnTzTOHi5YA3nWz4nR4mBWA=",
+      "https://thumbs.dreamstime.com/b/local-kashmiri-people-walking-nishat-garden-winter-season-srinagar-kashmir-india-srinagar-kashmir-india-january-local-224395274.jpg"
+    ],
     "testimonials": [],
     "costing": [],
     "inclusions": "",
     "exclusions": "",
     "other": "",
     "thingtocarry": "",
-    "similartrips": [],
+    "similartrips": ["leh-ladakh", "spiti-valley", "meghalaya", "sikkim"],
     "trending": true
   },
   "andaman": {
@@ -239,7 +298,7 @@
     "imageUrl": "/assets/Destinations/rajasthan/rajasthan.jpg",
     "date": "06-01-24",
     "duration": "6N - 7D",
-    "price": "₹24,999/-",
+    "price": "24,999",
     "link": "/trips/rajasthan",
     "tagline": "Ultimate Adventure in Rajasthan: 8 Days Tour",
     "destination": "Rajasthan",

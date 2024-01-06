@@ -206,7 +206,7 @@ const Details = (props) => {
       </div>
       <div className="ml-20 tblt:mx-20">
         <h1 className="mt-10 text-3xl font-bold">similar trips</h1>
-        <div className=" flex w-[200%] overflow-x-scroll no-scrollbar tblt:w-full">
+        <div className=" flex w-[220%] overflow-x-scroll no-scrollbar tblt:w-full">
           {similartrips.map((ele) => {
             return (
               <Link href={ele.link} shallow>
