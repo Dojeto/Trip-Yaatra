@@ -9,7 +9,7 @@ import {
 import { AiOutlineMail } from "react-icons/ai";
 const UpperFooter = () => {
   return (
-    <footer className="mt-[80px] relative">
+    <footer className="mt-[80px] relative overflow-hidden">
       {/* <Image
         src="/assets/Home/desktop-footer.png"
         alt="upperfooter"
@@ -57,7 +57,17 @@ const UpperFooter = () => {
             <div className="w-60 h-full xl:w-full">
               <h1 className="text-xl font-bold xl:text-center">About Us</h1>
               <p className="text-sm leading-[126.19%] pt-3 xs:text-xs">
-                At Trip Yaatra, we're a contemporary travel community dedicated to offering comprehensive travel packages across India and internationally. Our aim is to craft exceptional travel itineraries that foster group travel experiences for individuals with similar interests. Our array of services includes road trips, trekking expeditions, corporate excursions, and personalized tour packages. When you travel with us, expect a seamless experience with excellent accommodation, guided sightseeing, all within a budget-friendly package. Share your travel dates with us and get ready to embark on an unparalleled journey.
+                At Trip Yaatra, we're a contemporary travel community dedicated
+                to offering comprehensive travel packages across India and
+                internationally. Our aim is to craft exceptional travel
+                itineraries that foster group travel experiences for individuals
+                with similar interests. Our array of services includes road
+                trips, trekking expeditions, corporate excursions, and
+                personalized tour packages. When you travel with us, expect a
+                seamless experience with excellent accommodation, guided
+                sightseeing, all within a budget-friendly package. Share your
+                travel dates with us and get ready to embark on an unparalleled
+                journey.
               </p>
             </div>
           </div>

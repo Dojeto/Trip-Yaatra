@@ -15,7 +15,10 @@ const Feature = () => {
       {/* Desktop view */}
       <div className="flex gap-12 lg:gap-8 md:gap-4 xs:hidden">
         <div className=" w-full flex flex-col gap-8 lg:gap-8 md:gap-4">
-          <div className=" h-[430px] first-letter relative">
+          <Link
+            href="/international-trips/bali"
+            className=" h-[430px] first-letter relative"
+          >
             <img
               src="https://images.unsplash.com/photo-1604999333679-b86d54738315?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1925&q=80"
               className="absolute rounded-xl inset-0 w-full h-full object-cover brightness-[.7]"
@@ -27,8 +30,8 @@ const Feature = () => {
               </div>
               Bali
             </div>
-          </div>
-          <div className="h-64 relative">
+          </Link>
+          <Link href="/international-trips/dubai" className="h-64 relative">
             <img
               src="https://images.unsplash.com/photo-1580674684081-7617fbf3d745?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80"
               className="absolute rounded-xl inset-0 w-full h-full object-cover brightness-[.7] "
@@ -40,10 +43,10 @@ const Feature = () => {
               </div>
               Dubai, UAE
             </div>
-          </div>
+          </Link>
         </div>
         <div className=" w-full flex flex-col gap-8 lg:gap-8 md:gap-4">
-          <div className="h-64 relative">
+          <Link href="/india-trips/ladakh" className="h-64 relative">
             <img
               src="https://images.unsplash.com/photo-1536295243470-d7cba4efab7b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2038&q=80"
               className="absolute rounded-xl inset-0 w-full h-full object-cover brightness-[.7] "
@@ -53,10 +56,13 @@ const Feature = () => {
               <div className="inline pr-3">
                 <HiLocationMarker className="inline" />
               </div>
-              <Link href="/india-trips/ladakh">Leh Ladakh</Link>
+              Leh Ladakh
             </div>
-          </div>
-          <div className=" h-[430px] first-letter relative">
+          </Link>
+          <Link
+            href="/international-trips/bhutan"
+            className=" h-[430px] first-letter relative"
+          >
             <img
               src="https://images.unsplash.com/photo-1608659377921-e985721b3d04?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
               className="absolute rounded-xl inset-0 w-full h-full object-cover brightness-[.7]"
@@ -68,7 +74,7 @@ const Feature = () => {
               </div>
               Bhutan
             </div>
-          </div>
+          </Link>
         </div>
       </div>
       {/* Mobile view */}

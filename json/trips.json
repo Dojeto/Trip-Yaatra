@@ -5,29 +5,62 @@
     "imageUrl": "/assets/Destinations/Ladakh/Turtuk-village.jpg",
     "date": "10-05-24",
     "duration": "6N - 7D",
-    "price": "27,499",
+    "price": "27,999",
     "link": "/trips/leh-ladakh",
     "tagline": "Embark on a Journey of Untamed Beauty and Unparalleled Adventure",
     "destination": "Leh",
     "pickanddrop": "Leh - Leh",
     "about": "Ladakh isn't just another mountainous backdrop for your Instagram feed—it's a Himalayan wonderland where dreams unfold. Here, where the mountains kiss the horizon and the Indus River weaves tales of a vibrant civilization, you'll find a cold desert brimming with life's warmth. The journey to Ladakh commences with a flight to Leh, treating you to breathtaking vistas of snow-capped peaks from your window seat, offering a glimpse of the adventure that awaits.Upon arrival in Leh, marvel at the unique beauty of this city nestled within the embrace of the Himalayas. Roaming through the city, our itinerary unfolds, visiting the Hall of Fame, Shanti Stupa, Pathar Sahib Gurudwara, and Magnetic Hill—an intriguing rendezvous with science! Yet, the pinnacle of our journey lies in Turtuk village, one of the northernmost settlements in our country. A cultural departure from mainstream Ladakhi traditions, Turtuk Village proudly embraces Islamic practices.The Leh trip, coupled with Turtuk village exploration, takes us on adrenaline-packed rides to the majestic Khardung La, the enchanting colors of Pangong Tso, and the mesmerizing Nubra Valley desert. Such a comprehensive Leh-to-Leh package is a rarity! Come, be a part of this adventure-filled journey across Ladakh.",
-    "ytvideo": "https://youtu.be/RIho0_cTN6k?si=kmJTsS5Ha9wu7woX",
+    "ytvideo": "",
     "itinerary": [
       {
-        "title": "Arrival At Srinagar - Overnight Stay At Srinagar",
-        "description": "test"
+        "title": "Leh Arrival and Acclimatization",
+        "description": "<ul><li>Welcome to Leh, the heart of Ladakh! After a thrilling journey, it's time to take a break and let your body adjust to the altitude.</li><li>Check in and indulge in a day of complete relaxation to rejuvenate your senses. Let your body acclimatize and feel the refreshing mountain air fill your lungs.</li><li>Enjoy your meal &amp; stay while getting acclimatized to the climate.</li><li>Overnight stay at the hotel.</li></ul>"
+      },
+      {
+        "title": "Leh Local Sightseeing, Overnight stay in Leh",
+        "description": "<ul><li>It's time to wake up and start your day with a delicious breakfast at the hotel. Get ready to explore the mesmerizing city of Leh with our local sightseeing tour.</li><li>The city is adorned with many architectural and natural wonders that will leave you spellbound.</li><li>Visit the Hall of Fame, a museum dedicated to the Indian Army's bravery and sacrifices.</li><li>Next, witness the marvel of the Magnetic Hill, where your vehicle will appear to defy gravity, and the Pathar Sahib Gurudwara, a Sikh shrine built to commemorate the visit of Guru Nanak Dev to Ladakh.</li><li>As the evening sets in, it's time to unwind and get accustomed to the high altitude. Enjoy some free time for leisure and exploration.</li><li>Take a walk through the colorful Leh market, shop for souvenirs, or sip on some hot tea at the charming cafes around.</li><li>Return to your hotel by evening for a delicious dinner and a cozy overnight stay. Ladakh has so much to offer, and you're just getting started!</li></ul>"
+      },
+      {
+        "title": "Leh to Nubra Over Khardung La, Overnight stay in Nubra",
+        "description": "<ul><li>Get ready for an adventure-packed day as you kick-start your morning with a hearty breakfast at the hotel.</li><li>Today, we'll take you on a thrilling ride to Nubra Valley via Khardung-La, which is not only one of the highest motorable roads in the world but also offers stunning views of the snow-capped peaks that surround it.</li><li>Before reaching Nubra Valley, we'll make a pit stop at the majestic Shanti Stupa, a stunning white-domed Buddhist stupa offering panoramic views of the city.</li><li>Afterward, we'll continue our journey to Nubra Valley, where you'll check in to your hotel and get ready for some fun-filled activities.</li><li>First on the list is a visit to the sand dunes, famously known as the cold deserts of India (Hunder). Here, you can take a camel safari (self-paid) and feel the cool desert breeze as you ride through the golden sands.</li><li>To add more charm to your trip, we'll also take you to visit some of the ancient monasteries around, where you can learn about the culture and traditions of the locals.</li><li>As the sun sets, return to your hotel and unwind with a delicious dinner, followed by a peaceful sleep under the starry sky.</li></ul>"
+      },
+      {
+        "title": "Nubra Valley To Turtuk To Nubra Valley - Overnight Stay At Diskit.",
+        "description": "<ul><li>Wake up to a beautiful sunrise, and post breakfast depart for Turtuk, a remote village of about 4,000 residents inhabited by ethnic Muslims.</li><li>Steeped in history, culture, and traditions, Turtuk offers a fascinating glimpse into the lives of its hospitable locals who will welcome you with open arms.</li><li>Spend some time in the pristine landscapes of Turtuk Village &amp; Come back to Diskit by evening.</li><li>Treat your taste buds to a delectable dinner and settle in for a cozy night's sleep that will leave you feeling refreshed and energized.</li></ul>"
+      },
+      {
+        "title": "Nubra Valley To Pangong Tso Via Shyok Valley- Overnight Stay At Pangong Tso.",
+        "description": "<ul><li>Rise and shine to a tasty breakfast, and start your journey to the famous Pangong tso via the Agam and Shyok villages. This stunning lake in Asia transforms its mesmerizing color 4-5 times a day!</li><li>Prepare to be amazed by the largest lake in Asia, Pangong Tso, also known as the Lake of the Great Hollow. Marvel at its ever-changing shades of blue, which reflect the sunlight and surrounding mountains of varying hues and colors.</li><li>Take in the panoramic views of the stunning Pangong Lake, nestled amidst the towering mountains of Ladakh. At an elevation of 4300 meters, the cool air is a refreshing escape from the summer heat.</li><li>Check into your campsite and unwind with a delicious dinner and a restful sleep under the starry night sky.</li></ul>"
+      },
+      {
+        "title": "Pangong Tso To Leh Via Chang La, Overnight stay in leh",
+        "description": "<ul><li>Wake up early morning to witness a mesmerizing sunrise.</li><li>Enjoy a delicious breakfast and bid adieu to the stunning Pangong Tso as you journey back to Leh. Along the way, visit one the highest motorable roads in the world - Chang-La Pass, which stands tall at 5350 meters above sea level.</li><li>Explore the picturesque landscapes that surround the Chang-La Pass and soak in the breathtaking views of the towering mountains and lush green valleys.</li><li>As you make your way back to Leh, take some time to explore the vibrant local markets and cafes, and pick up some souvenirs for your loved ones back home.</li><li>With the sun setting in the distance, wind down your day with a delicious dinner and a restful night's sleep in your cozy hotel room. It's the perfect end to an unforgettable journey through the captivating landscapes of Leh.</li></ul>"
+      },
+      {
+        "title": "Departure",
+        "description": "<ul><li>Pack your bags and your heart with cherished memories as you bid adieu to this mesmerizing land.</li><li>After a hearty breakfast, it's time to head to the airport and say goodbye to the beauty of Leh.</li></ul>"
       }
     ],
-    "notes": "",
+    "notes": [
+      "Note 1: Age Limit for Group Departures: Please note that the age limit for our group departures is set between 16 to 42 years. This age range is specifically tailored to accommodate the dynamic and energizing itineraries we offer to our travelers. However, we are more than happy to personalize trips for travelers beyond the specified age bracket upon request.",
+      "Note 2: Itinerary Flexibility: Kindly be aware that several factors, including weather conditions, road situations, and the physical capabilities of participants, may prompt alterations to the planned itinerary. We reserve the right to modify any schedule in the interest of ensuring safety, comfort, and the overall well-being of our travelers. Adjustments, if any, will be made with careful consideration to enhance your experience while prioritizing your safety and convenience."
+    ],
     "videos": [],
-    "photos": [],
+    "photos": [
+      "https://media.istockphoto.com/id/1253261932/photo/rider-on-motorbike.jpg?s=612x612&w=0&k=20&c=4ZlL7L0v4VshPEiTR1avnd8X8cPU871nvlEEb_8EQGk=",
+      "https://media.istockphoto.com/id/471931813/photo/traveller-at-mountains.webp?b=1&s=170667a&w=0&k=20&c=Q0es4H17kBVbJOITHzDAtK7D0z22kbZSIBKpAoeMxvE=",
+      "https://siaphotography.in/assets/img/blog/blog-584121952.jpg",
+      "https://media1.thrillophilia.com/filestore/vcantpfefzyuaa76cxqlwyepvten_0F25D377-76BB-4CAF-AC3C-3880C8FE0249.jpeg",
+      "https://img.freepik.com/free-photo/magnetic-hill-mountain-blue-sky-road-way-leh-ladakh-india_1150-11111.jpg"
+    ],
     "testimonials": [],
     "costing": [],
     "inclusions": "",
     "exclusions": "",
     "other": "",
     "thingtocarry": "",
-    "similartrips": [],
+    "similartrips": ["spiti-valley", "kashmir", "meghalaya", "sikkim"],
     "trending": true
   },
   "spiti-valley": {
@@ -45,20 +78,55 @@
     "ytvideo": "",
     "itinerary": [
       {
-        "title": "Arrival At Srinagar - Overnight Stay At Srinagar",
-        "description": "test"
+        "title": "Reach Rampur  - Overnight Stay",
+        "description": "<ul><li>Start your journey from Shimla towards Rampur Bushahr.</li><li>Reach hotel by late afternoon.</li><li>Briefing about the adventure that lies ahead and rest of the day to relax and acclimatize.</li><li>Dinner and Overnight sleep.</li></ul>"
+      },
+      {
+        "title": "Rampur to Tabo via Nako - Ka Loops. Overnight stay at Tabo.",
+        "description": "<ul><li>Wake up early morning &amp; after breakfast start your journey to Spiti Valley.Enter Spiti valley through Sumdo Border. Visit Nako village en route tabo.</li><li>Cross the Ka loops en route Tabo.</li><li>Reach Tabo by evening and check-in to the homestay.</li><li>Dinner &amp; sleep overnight.</li></ul>"
+      },
+      {
+        "title": "Tabo to Kaza via Dhankar. Overnight stay at Kaza",
+        "description": "<ul><li>Wake up early morning and have your breakfast.</li><li>Visit the oldest monastery of Spiti Valley - Tabo Monastery.</li><li>Further, we visit Dhankar village and  cover Dhankar Monastery.</li><li>Dhankar monastery offers a spectacular view of confluence of frozen Spiti and Pin river.</li><li>Further, we head for kaza and checkin into homestay.</li><li>Dinner and sleep overnight.</li></ul>"
+      },
+      {
+        "title": "Visit Key Monastery, Chicham Bridge, Kibber - Overnight stay at Kaza.",
+        "description": "<ul><li>Wake up early morning and after having the breakfast, head for Spiti Valley divine sightseeing.</li><li>Visit the most scenic monastery of Spiti Valley - The Key Monastery.</li><li>Further, drive to the highest suspension bridge in Asia - The Chicham Bridge.</li><li>Visit Kibber village - famous for snow leopard sightseeing.</li><li>Come back to Kaza by evening. Dinner and sleep overnight.</li></ul>"
+      },
+      {
+        "title": "Visit Langza ,Komic & Hikkim Village. Overnight stay at Kaza",
+        "description": "<ul><li>Wake up early morning and have your breakfast.</li><li>Enjoy the scenic drive to Langza - the fossil village. Visit the famous Buddha statue in Langza surrounded by white mountains.</li><li>Visit the iconic villages of Spiti - Hikkim(location of the World's Highest Post Office), Komik(the highest village in the world connected through a motorable road)</li><li>Come back to Kaza by evening.</li><li>Dinner and sleep overnight.</li></ul>"
+      },
+      {
+        "title": "Kaza to Rampur . Overnight stay Rampur",
+        "description": "<ul><li>Wake up early morning and after breakfast check-out of the homestay.</li><li>Depart for Rampur &amp; Reach homestay by night.</li><li>Check-in to the homestay. Dinner and sleep overnight.</li></ul>"
+      },
+      {
+        "title": "Rampur to Shimla - Overnight travel to delhi",
+        "description": "<ul><li>After having breakfast and some leisure, check-out of the hotel.</li><li>Start your journey towards Shimla.</li><li>Reach Shimla by evening.</li><li>Overnight travel to delhi</li></ul>"
       }
     ],
-    "notes": "",
+    "notes": [
+      "Note 1: Age Limit for Group Departures: Please note that the age limit for our group departures is set between 16 to 42 years. This age range is specifically tailored to accommodate the dynamic and energizing itineraries we offer to our travelers. However, we are more than happy to personalize trips for travelers beyond the specified age bracket upon request.",
+      "Note 2: Itinerary Flexibility: Kindly be aware that several factors, including weather conditions, road situations, and the physical capabilities of participants, may prompt alterations to the planned itinerary. We reserve the right to modify any schedule in the interest of ensuring safety, comfort, and the overall well-being of our travelers. Adjustments, if any, will be made with careful consideration to enhance your experience while prioritizing your safety and convenience."
+    ],
     "videos": [],
-    "photos": [],
+    "photos": [
+      "https://media.istockphoto.com/id/930852852/photo/dhankar-gompa-india-spiti-valley.jpg?s=612x612&w=0&k=20&c=F4zopbUYwgi56-fhSrjfzgscV8Jac4UYWvCB0vl8gN0=",
+      "https://c1.wallpaperflare.com/preview/409/738/507/buddha-statue-langza-village-himachal-pradesh-spiti-valley-snow-mountains-history-village.jpg",
+      "https://siaphotography.in/assets/img/phototours/photography-tours-609979464.jpg",
+      "https://himalayanecotourism.com/pictures/spiti/spiti-valley-ss-32.jpg",
+      "https://www.shutterstock.com/shutterstock/videos/1111421879/thumb/1.jpg?ip=x480",
+      "https://plus.unsplash.com/premium_photo-1661963698896-6ecc8afcf6fa?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8c3BpdGklMjB2YWxsZXl8ZW58MHx8MHx8fDA%3D",
+      "https://www.himalayanecotourism.com/pictures/spiti/spiti-valley-photo-74.jpg"
+    ],
     "testimonials": [],
     "costing": [],
     "inclusions": "",
     "exclusions": "",
     "other": "",
     "thingtocarry": "",
-    "similartrips": [],
+    "similartrips": ["leh-ladakh", "kashmir", "meghalaya", "sikkim"],
     "trending": true
   },
   "kashmir": {
@@ -71,25 +139,55 @@
     "link": "/trips/kashmir",
     "tagline": "Explore The Untamed Beauty, Coupled With Unparalleled Adventure",
     "destination": "Srinagar",
-    "pickanddrop": "Delhi",
+    "pickanddrop": "Srinagar",
     "about": "Spiti - The White Wonder: Experience the Unparalleled Beauty of the Ultimate Cold Desert.A trip to Spiti Valley is an exploration of unparalleled beauty, where the unique landscape stands out like a deserted wonder. Separated from fertile Lahaul by the towering 4551m Kunzum La, Spiti is a piece of Tibet nestled within India. Our Winter Edition – Spiti Valley Tour Package for 2024 invites you to revel in the snow-clad vistas of this magnificent cold desert.As you journey through Spiti, scattered villages emerge like mirages in a breathtaking moonscape, capturing your imagination unlike any other panorama you've ever encountered. The snow-covered whitewashed mud-brick homes, along with the iconic Key Monastery perched on high, create an otherworldly spectacle.Spiti Valley reignites a love for the forgotten. Send a postcard from the highest post office in the world or embark on fossil hunts in Spiti's villages. In Langza, a fossil village, a life-sized golden statue of Buddha welcomes you. The sedimentary rocks here conceal remnants of ancient plants and marine life, dating back millions of years. If fortunate, you might spot one!Amidst the shades of gray and white, the turquoise ribbon of the Spiti River emerges as your constant companion. Traversing a broad valley before veering south into the precipitous gorges of the Hangrang Valley at Sumdo. Spiti draws travelers, including streams of Indian motorcyclists, as a 'mini-Ladakh without tourist crowds.' This title rings true, as its pristine nature (high-altitude desert) and rich Tibetan Buddhist culture remain beautifully intact.",
     "ytvideo": "",
     "itinerary": [
       {
-        "title": "Arrival At Srinagar - Overnight Stay At Srinagar",
-        "description": "test"
+        "title": "Srinagar Arrival | Local Sightseeing Of Srinagar",
+        "description": "<ul><li>Arrive at the Srinagar airport after a scenic flight over the snow-capped mountains.</li><li>From Srinagar airport you will have to reach your houseboat and check in.</li><li>Have some rest and have your lunch.</li><li>Meet our representative and get ready to explore Srinagar.</li><li>You will first visit the beautiful Mughal Gardens which consists of 2 separate gardens - Shalimar Garden &amp; Nishat Garden</li><li>Return back and enjoy a 1 hour Shikara ride while admiring the surroundings mountains.</li><li>After completing the ride return back to your houseboat and enjoy your dinner.</li><li>Overnight stay in Srinagar.</li></ul>"
+      },
+      {
+        "title": "Srinagar to Gulmarg. Enjoy Asia’s Highest Gandola Ride",
+        "description": "<ul><li>Wake up in the morning, have your breakfast and get ready for the day.</li><li>We will then take you to Gulmarg -  that appears straight out of painting.</li><li>Board your vehicle for a 2-hour scenic drive to Gulmarg, where you can enjoy breathtaking views of the Himalayan snow-clad peaks and the scenic vistas of Tanmarg.</li><li>Upon reaching Gulmarg, embark on the highest gondola ride in Gulmarg - which offers stunning views of the Kashmir Valley.</li><li>Later, check in to your hotel and visit one of Asia’s highest Golf Course of Gulmarg, followed by a visit to a church.</li><li>You can then, spend the rest of the day at leisure..</li><li>In Gulmarg, you can indulge in a number of winter adventure sports like skiing, snowboarding, etc.</li><li>After exploring Gulmarg, return back to your hotel for dinner.</li><li>Overnight stay in Gulmarg.</li></ul>"
+      },
+      {
+        "title": "Gulmarg to Pahalgam. Visit Drung Waterfall",
+        "description": "<ul><li>After breakfast in the morning, get ready to begin your day.</li><li>Board your vehicle as we will take you to Pahalgam today.</li><li>Before going to Pahalgam, we will first visit the famous Drung Waterfall (Only ATVs are allowed for access, &amp; depends on the freezing of the waterfall.).</li><li>Next, embark on tour transfers to Pahalgam which will be a 4-hour scenic drive via Pampore and Avantipura</li><li>We switch from the national highway 1A at Khanabal and drive through the second-largest city of Anantnag.</li><li>Upon reaching Pahalgam, check in to the hotel and spend the rest of the evening at leisure.</li><li>Have your dinner and rest for the day.</li><li>Overnight stay in Pahalgam.</li></ul>"
+      },
+      {
+        "title": "Pahalgam to Srinagar. Visit the Aru Valley, Betaab Valley and Chandanwari",
+        "description": "<ul><li>Wake up to a beautiful morning in Pahalgam and have your breakfast.</li><li>Get ready for the day and board your transfers.</li><li>We will start the day by visiting the Aru Valley known for its lush meadows, pristine lakes &amp; mountains.</li><li>Next, we will head to the famous Betaab Valley, one of the favorite spots for many Bollywood filmmakers.</li><li>Further, we will head to the scenic rocky valley of Chandanwari (depending on the weather condition) where you can also enjoy an exciting pony ride (at your own expense).</li><li>Later, we will start our drive back to Srinagar.</li><li>Upon reaching Srinagar, check-in to the hotel and have dinner.</li><li>Overnight stay in Srinagar.</li></ul>"
+      },
+      {
+        "title": "Trek from Nilnag Lake to Yusmarg OR Dhoodhpathri",
+        "description": "<ul><li>Post breakfast at the hotel in Srinagar, get ready to start a fun day.</li><li>You will then take you to Nilnag lake, which is approximately a 2 hour drive.</li><li>Nilnag is famous for it's blue water and its surrounding pine tree forests.</li><li>Further, we will start our trek from Nilnag lake to Yusmarg which is also known as 'Meadow of Jesus'.</li><li>It is approx a 5 Km trek which will take approx 3 hours to complete.</li><li>OR</li><li>If there is Heavy Snowfall, we will take you for a trek to Dhoodhpathri.</li><li>In the evening, we will come back to Srinagar.</li><li>Overnight stay in Srinagar.</li></ul>"
+      },
+      {
+        "title": "Departure. Depart with a bag of happy memories.",
+        "description": "<ul><li>Post breakfast in the morning, get ready to board your return transfers.</li><li>Depart with a lot of memories to cherish.</li></ul>"
       }
     ],
-    "notes": "",
+    "notes": [
+      "Note 1: Age Limit for Group Departures: Please note that the age limit for our group departures is set between 16 to 42 years. This age range is specifically tailored to accommodate the dynamic and energizing itineraries we offer to our travelers. However, we are more than happy to personalize trips for travelers beyond the specified age bracket upon request.",
+      "Note 2: Itinerary Flexibility: Kindly be aware that several factors, including weather conditions, road situations, and the physical capabilities of participants, may prompt alterations to the planned itinerary. We reserve the right to modify any schedule in the interest of ensuring safety, comfort, and the overall well-being of our travelers. Adjustments, if any, will be made with careful consideration to enhance your experience while prioritizing your safety and convenience."
+    ],
     "videos": [],
-    "photos": [],
+    "photos": [
+      "https://images.hindustantimes.com/img/2022/04/09/1600x900/India-Kashmir-Tourism-1_1649516088292_1649516149207.jpg",
+      "https://img.freepik.com/free-photo/young-woman-hiker-taking-photo-with-smartphone-mountains-peak-winter_335224-427.jpg?size=626&ext=jpg&ga=GA1.1.1803636316.1700870400&semt=ais",
+      "https://images.pexels.com/photos/10679346/pexels-photo-10679346.jpeg",
+      "https://media.istockphoto.com/id/1171962535/photo/srinagar-kashmir.jpg?s=612x612&w=0&k=20&c=5y9sU7boA-TFyr7LBVyfpmoKT9A2Y7WxA2tqdIE0zBw=",
+      "https://media.istockphoto.com/id/1149569073/photo/beautiful-scenery-of-snowy-pine-trees-with-sunset-at-background.jpg?s=612x612&w=0&k=20&c=n0kOTvAbsErHnbj8svHzUnTzTOHi5YA3nWz4nR4mBWA=",
+      "https://thumbs.dreamstime.com/b/local-kashmiri-people-walking-nishat-garden-winter-season-srinagar-kashmir-india-srinagar-kashmir-india-january-local-224395274.jpg"
+    ],
     "testimonials": [],
     "costing": [],
     "inclusions": "",
     "exclusions": "",
     "other": "",
     "thingtocarry": "",
-    "similartrips": [],
+    "similartrips": ["leh-ladakh", "spiti-valley", "meghalaya", "sikkim"],
     "trending": true
   },
   "andaman": {
@@ -98,29 +196,69 @@
     "imageUrl": "/assets/Destinations/Andaman/Andaman.jpg",
     "date": "06-01-24",
     "duration": "7N - 8D",
-    "price": "24,499",
+    "price": "35,999",
     "link": "/trips/andaman",
     "tagline": "Explore The Untamed Beauty, Coupled With Unparalleled Adventure",
     "destination": "Andaman",
-    "pickanddrop": "Delhi",
-    "about": "Spiti - The White Wonder: Experience the Unparalleled Beauty of the Ultimate Cold Desert.A trip to Spiti Valley is an exploration of unparalleled beauty, where the unique landscape stands out like a deserted wonder. Separated from fertile Lahaul by the towering 4551m Kunzum La, Spiti is a piece of Tibet nestled within India. Our Winter Edition – Spiti Valley Tour Package for 2024 invites you to revel in the snow-clad vistas of this magnificent cold desert.As you journey through Spiti, scattered villages emerge like mirages in a breathtaking moonscape, capturing your imagination unlike any other panorama you've ever encountered. The snow-covered whitewashed mud-brick homes, along with the iconic Key Monastery perched on high, create an otherworldly spectacle.Spiti Valley reignites a love for the forgotten. Send a postcard from the highest post office in the world or embark on fossil hunts in Spiti's villages. In Langza, a fossil village, a life-sized golden statue of Buddha welcomes you. The sedimentary rocks here conceal remnants of ancient plants and marine life, dating back millions of years. If fortunate, you might spot one!Amidst the shades of gray and white, the turquoise ribbon of the Spiti River emerges as your constant companion. Traversing a broad valley before veering south into the precipitous gorges of the Hangrang Valley at Sumdo. Spiti draws travelers, including streams of Indian motorcyclists, as a 'mini-Ladakh without tourist crowds.' This title rings true, as its pristine nature (high-altitude desert) and rich Tibetan Buddhist culture remain beautifully intact.",
+    "pickanddrop": "Port Blair Hotel",
+    "about": "Embark on a mesmerizing expedition through the pristine archipelago of the Andaman Islands, a paradise of azure waters, palm-fringed beaches, and vibrant marine life. Start your adventure in Port Blair, the capital city, and explore its historical landmarks such as the Cellular Jail, a poignant symbol of India's struggle for independence. Delve into the underwater wonders of the Andaman Sea with snorkeling or scuba diving at Havelock Island's stunning Radhanagar Beach, known for its crystal-clear waters and diverse coral reefs. Traverse to Neil Island, where the laid-back atmosphere and breathtaking natural beauty at places like Bharatpur Beach and Laxmanpur Beach enthrall the senses. Explore the hidden gems of the archipelago, like the limestone formations at Elephant Beach or the serene vibes of Long Island. Encounter the indigenous culture of the Andamanese people while visiting Anthropological Museum and experiencing the local lifestyle in villages like Wandoor and Diglipur. Conclude your expedition with a tranquil retreat at the secluded beaches of Little Andaman or indulging in water sports at the secluded North Bay Island. This ultimate Andaman escapade promises an immersive blend of history, adventure, and tropical serenity, crafting cherished memories of an unforgettable journey.",
     "ytvideo": "",
     "itinerary": [
       {
-        "title": "Arrival At Srinagar - Overnight Stay At Srinagar",
-        "description": "test"
+        "title": "Arrival In Andaman. Visit Chidiyatapu Sunset",
+        "description": "<ul><li>Arrive at Port Blair in the morning/afternoon by flight and reach the hotel on your own.</li><li>Our representative will be in the hotel to help you out with the check-in process.</li><li>In the second half of the day, we will go for a sunset experience at Chidiatapu.</li><li>Around 30 km from the main city, Chidiatapu offers an amazing sunset experience.</li><li>Spend a couple of hours enjoying the mesmerizing sunset at Chidiyatapu</li><li>Return back to your hotel in Port Blair.</li><li>Overnight stay in Port Blair.</li></ul>"
+      },
+      {
+        "title": "Port Blair To Havelock In Ferry. Later Radhanagar Beach Visit Until Sunset",
+        "description": "<ul><li>Have your breakfast at the hotel and board your ferry to reach Havelock Island.</li><li>Upon reaching Havelock Island, transfers to your hotel.</li><li>Next, we will take you to one of Asia's best beaches, Radhanagar Beach.</li><li>Explore this white sand beach and bask in the beauty of this natural wonder and witness an amazing sunset.</li><li>Post this, we will go back to the hotel where you relax and unwind.</li><li>Overnight stay in Havelock Island.</li></ul>"
+      },
+      {
+        "title": "Excursion To Elephant Beach By Boat Ride Tour With Snorkelling And Jet Skiing",
+        "description": "<ul><li>Post breakfast in the morning, get ready for an exciting day.</li><li>Today, we begin our journey to the most visited snorkeling destination on Havelock Island, Elephant Beach.</li><li>After a 30-minute boat ride from Havelock Island, we will reach Elephant Beach which flaunts one of the best reefs around Havelock Island.</li><li>The great thing is that the reef here starts at a depth of less than a meter.</li><li>Upon reaching Elephant Beach, we will rest and relax or stroll leisurely on the beach.</li><li>You can also choose to indulge in various water sports for an adrenaline rush on the beach.</li><li>Later, a guide will take you for a complimentary snorkeling session at Elephant Beach. (Snorkeling and Jet Skiing at Elephant Beach depends upon the association guidelines).</li><li>After completing your excursion to Elephant beach, we will start our return journey.</li><li>Reach your dock on Havelock Island and get transferred to your hotel.</li><li>Overnight stay in Havelock Island.</li></ul>"
+      },
+      {
+        "title": "Transfer From Havelock To Neil Island. Later We Will Visit Bharatpur Beach, Natural Bridge And Laxmanpur Beach For Sunset. Overnight Stay In Neil Island",
+        "description": "<ul><li>Post breakfast and check-out, get ready to board your Ferry for Neil Island. Reach Neil island known for its pristine white beaches and natural rock formations, do check-in, rest, visit Natural Bridge, Bharatpur Beach for swimming and water activities, and Laxmanpur beach for sunset. Return, have dinner, and rest.</li></ul>"
+      },
+      {
+        "title": "Neil Island To Port Blair Transfer",
+        "description": "<ul><li>Post breakfast and check-out, head to Neil jetty to board a ferry to Port Blair.</li><li>Upon reaching Port Blair, check-in to the hotel and rest for a while.</li><li>Later in the evening, head out to attend the Sound and Light Show at Cellular Jail – where the heroic saga of the Indian freedom struggle is brought alive.</li><li>Come back to the hotel and rest.</li><li>Overnight stay in Port Blair.</li></ul> "
+      },
+      {
+        "title": "Excursion To Baratang Island - Limestone Caves And Mangrove Boat Ride",
+        "description": "<ul><li>Start your day late night approx. 03:00 am today and board your transfers to Baratang Island through the dense tropical forest and Jarawa Tribal Reserve in a convoy.</li><li>On the way, you might see a member of the Jarawa Tribe while passing through the tribal reserve.</li><li>After crossing the forest, you would reach the Baratang jetty from where the Launch service is available to cross the sea bay.</li><li>Enjoy the breathtaking fiber boat ride through a fascinating Mangrove drive, which leads to the start point of the trek to Limestone Caves.</li><li>Trek through dense forest to reach the Limestone Cave. Made up of the mineral calcite (calcium carbonate) the cave contains a beautiful cave formation.</li><li>Upon completing the sightseeing for the day, start your return journey through the same route.</li><li>Overnight stay in Port Blair.</li></ul>"
+      },
+      {
+        "title": "Departure",
+        "description": "<ul><li>Wake up and have your breakfast at the hotel.</li><li>Pack your bag and board your transfer to the airport.</li><li>Your amazing Andaman Tour concludes once you are dropped off at the Port Blair airport for your onward journey.</li></ul>"
       }
     ],
-    "notes": "",
+    "notes": [
+      "Note 1: Age Limit for Group Departures: Please note that the age limit for our group departures is set between 16 to 42 years. This age range is specifically tailored to accommodate the dynamic and energizing itineraries we offer to our travelers. However, we are more than happy to personalize trips for travelers beyond the specified age bracket upon request.",
+      "Note 2: Itinerary Flexibility: Kindly be aware that several factors, including weather conditions, road situations, and the physical capabilities of participants, may prompt alterations to the planned itinerary. We reserve the right to modify any schedule in the interest of ensuring safety, comfort, and the overall well-being of our travelers. Adjustments, if any, will be made with careful consideration to enhance your experience while prioritizing your safety and convenience."
+    ],
     "videos": [],
-    "photos": [],
+    "photos": [
+      "https://images.unsplash.com/photo-1586053226626-febc8817962f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1542429296407-20c78e10f375?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1579317344982-256c49ab1e0d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1621521089957-5c7b0cd9bf92?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
     "testimonials": [],
     "costing": [],
     "inclusions": "",
     "exclusions": "",
     "other": "",
     "thingtocarry": "",
-    "similartrips": [],
+    "similartrips": [
+      "rajasthan",
+      "himachalpradesh",
+      "meghalaya",
+      "uttarakhand",
+      "kerala",
+      "sikkim",
+      "kashmir"
+    ],
     "trending": true
   },
   "meghalaya": {
@@ -138,20 +276,60 @@
     "ytvideo": "",
     "itinerary": [
       {
-        "title": "Arrival At Srinagar - Overnight Stay At Srinagar",
-        "description": "test"
+        "title": "Guwahati Arrival | Overnight Stay In Kaziranga",
+        "description": "<ul><li>Arrive at Lokpriya Gopinath Bordoloi International Airport by morning 11 AM</li><li>Depart for Kaziranga, Reach Kaziranga by evening.</li><li>Overnight stay at Kaziranga.</li></ul>"
+      },
+      {
+        "title": "Jungle Safari | Overnight In Shillong",
+        "description": "<ul><li>Wake up early, Enjoy the beautiful Jungle Safari.</li><li>Have breakfast and depart for Shillong.</li><li>Reach Shillong by evening.</li></ul>"
+      },
+      {
+        "title": "Laitlum Grand Canyon | Krang Shuri Waterfalls | Overnight At Shnongpdeng",
+        "description": "<ul><li>Wake up and enjoy your breakfast.</li><li>Check out and depart for Laitlum Canyons.</li><li>Spend your time awestruck by the amazing beauty.</li><li>Head towards Shnongpdeng.</li><li>On the way visit the beautiful Krang Shuri Falls.</li><li>Reach Shnongpdeng and witness the crystal clear water river Umngot.</li><li>Check in to the camps and relax in the evening.</li><li>Bonfire, Dinner & sleep overnight.</li></ul> "
+      },
+      {
+        "title": "Water Activities | Mawlynnong | Cherrapunjee",
+        "description": "<ul><li>Enjoy your breakfast with a sight of crystal clear water of the river.</li><li>Enjoy various water activities.</li><li>Post Lunch, Head towards Mawlynnong - Asia's cleanest Village.</li><li>Reach Cherrapunjee by evening and Check in to the Hotel.</li><li>Overnight stay at Cherrapunjee.</li></ul>"
+      },
+      {
+        "title": "Single Root Bridge | Double Decker Bridge | Overnight Stay In Cherrapunjee",
+        "description": "<ul><li>Post breakfast, depart for Tyrna Village.</li><li>Reach Tyrna & first start your trek to the Single Root Bridge.</li><li>Later visit the astonishing Double Decker Bridge. Trek back to Tyrna Village (This trek consists of 3300 steps one side, a total of 6600 steps in the entire trek) & start your journey to Cherrapunjee.</li><li>Overnight stay at Cherrapunjee.</li></ul>"
+      },
+      {
+        "title": "Mawsmai Caves | Nohkalikai Waterfall | Wei Sawdong Waterfalls | Overnight At Shillong",
+        "description": "<ul><li>Wake up and enjoy your breakfast with a view.</li><li>Check out and depart for the Mighty Nohkalikai Falls and the mesmerizing Wei Sawdong Waterfalls.</li><li>Explore Mawsmai Caves.</li><li>Have your Lunch and reach Shillong and explore Police Bazaar.</li><li>Overnight stay at Shillong.</li></ul>"
+      },
+      {
+        "title": "Umiam Lake | Departure Back To Guwahati And Fly Back",
+        "description": "<ul><li>After a delicious breakfast, Depart for Guwahati Airport.</li><li>On the way visit Umiam Lake.</li><li>Reach Guwahati Airport in the Evening. Book your flights after 5 PM.</li><li>Reach your home with a suitcase full of memories.</li></ul>"
       }
     ],
-    "notes": "",
+    "notes": [
+      "Note 1: Age Limit for Group Departures: Please note that the age limit for our group departures is set between 16 to 42 years. This age range is specifically tailored to accommodate the dynamic and energizing itineraries we offer to our travelers. However, we are more than happy to personalize trips for travelers beyond the specified age bracket upon request.",
+      "Note 2: Itinerary Flexibility: Kindly be aware that several factors, including weather conditions, road situations, and the physical capabilities of participants, may prompt alterations to the planned itinerary. We reserve the right to modify any schedule in the interest of ensuring safety, comfort, and the overall well-being of our travelers. Adjustments, if any, will be made with careful consideration to enhance your experience while prioritizing your safety and convenience."
+    ],
     "videos": [],
-    "photos": [],
+    "photos": [
+      "https://images.unsplash.com/photo-1625654325562-762dcec9e6f2?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1521437620269-f477f5437820?q=80&w=1973&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1609276804051-8c5e906cc430?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1593813738953-fb3c93e0769d?q=80&w=1908&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
     "testimonials": [],
     "costing": [],
     "inclusions": "",
     "exclusions": "",
     "other": "",
     "thingtocarry": "",
-    "similartrips": [],
+    "similartrips": [
+      "sikkim",
+      "himachalpradesh",
+      "rajasthan",
+      "uttarakhand",
+      "kerala",
+      "andaman",
+      "kashmir"
+    ],
     "trending": true
   },
   "sikkim": {
@@ -160,40 +338,317 @@
     "imageUrl": "/assets/Destinations/Sikkim/Sikkim.jpg",
     "date": "06-01-24",
     "duration": "7N - 8D",
-    "price": "25,999",
     "link": "/trips/sikkim",
     "tagline": "Ultimate Adventure in Meghalaya: 8 Days Tour",
     "destination": "Sikkim",
     "pickanddrop": "Guwahati",
-    "about": "Embark on an Ultimate Adventure Trip to Meghalaya and immerse yourself in breathtaking landscapes, rich cultural heritage, and thrilling outdoor activities this beautiful region offers.\n\nFrom charming Shillong to pristine Mawphlang village, and the stunning Laitlum Canyon to famous Double Decker Living Root Bridges, this Meghalaya Tour Package promises an unforgettable adventure.\n\nBegin your journey at picturesque Umiam Lake, surrounded by lush hills. Then, explore the sacred Mawphlang Sacred Grove, hiking ancient forests with rare medicinal plants.\n\nExperience the thrill of the Mawrynkhang Bamboo Trek in Wahkhen, crossing bamboo bridges and wooden ladders to reach majestic pinnacle rock.\n\nContinue to Shnonpdeng for water activities on Umgnot River and visit Asia's cleanest village, Mawlynnong.\n\nTrek through Cherrapunji's dense forests to witness the awe-inspiring Double Decker Living Root Bridges. Marvel at Nohkalikai and Wei Sawdong Falls.\n\nAs your adventure concludes, enjoy the scenic drive back to Guwahati, with a serene stop at Umiam Lake.\n\nThis ultimate adventure blends nature, culture, and adrenaline-pumping activities, ensuring an exhilarating experience and cherished memories in mystical Meghalaya.",
+    "about": "Embark on an Unforgettable Expedition in Sikkim and delve into awe-inspiring landscapes, rich cultural heritage, and thrilling outdoor escapades that define this enchanting region. Your Sikkim Tour Package unfolds from the vibrant capital, Gangtok, to the serene Gurudongmar Lake and the iconic Nathula Pass, promising an adventure-packed journey. Commence your exploration at the captivating Tsomgo Lake, surrounded by snow-capped peaks. Discover the spiritual ambiance of the Enchey Monastery and the sacred Rumtek Monastery, steeped in centuries-old traditions. Embark on the exhilarating Goecha La Trek, weaving through lush forests and pristine alpine meadows, revealing breathtaking views of the Kanchenjunga, the third-highest peak in the world. Continue your adventure to the charming town of Pelling, where the Pemayangtse Monastery and Rabdentse Ruins showcase the rich history of Sikkim. Savor the thrill of paragliding in the picturesque town of Ravangla, offering panoramic views of the Himalayas and lush valleys. Explore the ancient Tashiding Monastery, perched atop a hill, offering spiritual tranquility and captivating vistas. As your expedition concludes, relish the scenic drive back to Bagdogra, making a serene stop at the mesmerizing Teesta River. This ultimate Sikkim adventure seamlessly combines the wonders of nature, cultural heritage, and adrenaline-infused activities, ensuring an immersive experience and indelible memories in this mystical Himalayan haven.",
     "ytvideo": "",
     "itinerary": [
       {
-        "title": "Arrival At Srinagar - Overnight Stay At Srinagar",
-        "description": "test"
+        "title": "Arrival at Bagdogra Airport/ New Jalpaiguri Rly St (NJP). Transfer To Darjeeling.",
+        "description": "<ul><li>On arrival at Bagdogra (IXB) Airport/ New Jalpaiguri (NJP), get greeted by our representative.</li><li>From here, you will board our vehicle for Darjeeling - one of the most popular hillstations in India.</li><li>Travel through the curvy mountain roads with views of the mighty Himalayas in the background.</li><li>As you enter Darjeeling, the roads will be lined with aromatic Tea Plantations.</li><li>Reach your hotel in Darjeeling and check-in for an overnight stay.</li></ul>"
+      },
+      {
+        "title": "Darjeeling Sightseeing Day | Explore the best places in this hill station",
+        "description": "<ul><li>Today, your day will start early at 4 AM.</li><li>We will take you to the top of Tiger Hill to watch an amazing sunrise on Mt. Kanchenjunga and its adjoining peaks which changes colors as painted by the morning sun rays.</li><li>Next, you will return back to the hotel and have your breakfast.</li><li>Later, we will take you for the famous toy train ride of Darjeeling, which is also a UNESCO World Heritage Site.</li><li>This 2-hrs train ride will start from Darjeeling, take a 25 mins stop at Ghum Station and then return back to Darjeeling via Batasia Loop.</li><li>The train will stop for 10 mins at Batasia Loop which is also an Army Memorial dedicated to the Gorkha Regiment, from where you can admire 360-degree panoramic view of the Darjeeling hill station lined with Himalayan peaks.</li><li>Upon completing the toy train ride, we will then take you to the Himalayan Mountaineering Institute (closed on Thursday), which also houses the Tenzing Rock to understand the history of mountaineering in India.</li><li>Next, you will visit the Padmaja Naidu Himalayan Zoological Park (Thursday closed) to get a glimpse of the Red Pandas (endangered specie) and other Himalayan animals.</li><li>Later, we will take a small ropeway ride over the lush green tea plantations and the surrounding views of the snow-clad Himalayan peaks.</li><li>Conclude your sightseeing by visiting the Japanese Temple and Peace Pagoda, where you can sit and meditate for a while in its serene atmosphere.</li><li>Return back to the hotel for an overnight stay in Darjeeling.</li></ul>"
+      },
+      {
+        "title": "Darjeeling to Pelling. Half-Day Sightseeing in Pelling.",
+        "description": "<ul><li>Have your breakfast at the hotel in Darjeeling and get ready for the day.</li><li>Today, we will transfer you to Pelling, a beautiful tinsel town in the west of Sikkim.</li><li>Upon reaching Pelling, check-in to your hotel and headout for an half-day sightseeing in Pelling.</li><li>You will first visit India’s Highest Skywalk, in Pelling that houses the tallest 137-foot Chenrezig statue and provides mesmerizing views of the Kanchenjunga Ranges.</li><li>Later, we will head to explore the Rabdentse Ruins to get an insight into the glorious past of Sikkim.</li><li>We will conclude our day’s sightseeing by seeking the blessing of the local deities at the Pemayangtse Monastery.</li><li>Return back to the hotel in Pelling for an overnight stay.</li></ul>"
+      },
+      {
+        "title": "Pelling to Gangtok. Transfer via Ravangla.",
+        "description": "<ul><li>Have your breakfast at the hotel and board your transfer to Gangtok - the capital city if Sikkim.</li><li>On the way to Gangtok, we will take a short stopover at Ravangla.</li><li>In Ravangla, we will visit Buddha Park which houses 130 ft. High Shakyamuni Buddha Statue and is surrounded by well-manicured gardens backed by scenic Himalayan ranges.</li><li>Further, we will continue our journey toward Gangtok through the scenic roads offering beautiful views of the Teesta River.</li><li>Reach Gangtok and check-in to the hotel for an overnight stay.</li></ul>"
+      },
+      {
+        "title": "Explore Around Gangtok. Tsomgo Lake | Baba Mandir | Nathula Pass(Optional).",
+        "description": "<ul><li>After breakfast, we will proceed for a full-day excursion around Gangtok.</li><li>We will start by visiting the glacial Tsomgo Lake also known as Changu Lake, known for its scenic beauty and changing colors.</li><li>Further, we drive towards the Baba Mandir, dedicated to Baba Harbhajan Singh who was a soldier of the Indian Army.</li><li>Next, you will hire a taxi to visit Nathula Pass, which is an Indo-China border post (subject to availability and additional cost as applicable).</li><li>Return back to Gangtok for an overnight stay.</li></ul>"
+      },
+      {
+        "title": "Gangtok to Kalimpong. Sightseeing in Kalimpong.",
+        "description": "<ul><li>Post breakfast in the morning, get ready for your transfer to Kalimpong.</li><li>Travel along the meandering mountain roads along the Teesta River to reach Kalimpong - an offbeat hillstation of West Bengal with rich history.</li><li>Reach Kalimpong, check-in to the hotel and then you will headout to explore around.</li><li>First we will visit the Zang Dhok Palri Monastery located on the Durpin Hills and was consecrated by the Dalai Lama.</li><li>Next, we will visit the Jelepla's viewpoint to enjoy the views of the meeting point of the Teesta, Relli, and Reang rivers in the valley lined with snow-capped Himalayas.</li><li>We will conclude the sightseeing by visiting the Deolo Hill - the highest point on this hillstation.</li><li>Return back to the hotel in Kalimpong for an overnight stay.</li></ul>"
+      },
+      {
+        "title": "Departure. Kalimpong to Bagdogra Airport/ NJP Station.",
+        "description": "<ul><li>Wakeup to a beautiful morning in Kalimpong and have your breakfast at the hotel.</li><li>Later, board your transfer to Bagdogra Airport(IXB)/ New Jalpaiguri Railway Station (NJP).</li><li>Your tour concludes once you are dropped off at the airport/ railway station for your onward journey.</li><li>Board your train/flight back home with fantastic trip memories.</li></ul>"
       }
     ],
-    "notes": "",
+    "notes": [
+      "Note 1: Age Limit for Group Departures: Please note that the age limit for our group departures is set between 16 to 42 years. This age range is specifically tailored to accommodate the dynamic and energizing itineraries we offer to our travelers. However, we are more than happy to personalize trips for travelers beyond the specified age bracket upon request.",
+      "Note 2: Itinerary Flexibility: Kindly be aware that several factors, including weather conditions, road situations, and the physical capabilities of participants, may prompt alterations to the planned itinerary. We reserve the right to modify any schedule in the interest of ensuring safety, comfort, and the overall well-being of our travelers. Adjustments, if any, will be made with careful consideration to enhance your experience while prioritizing your safety and convenience."
+    ],
     "videos": [],
-    "photos": [],
+    "photos": [
+      "https://images.pexels.com/photos/13524697/pexels-photo-13524697.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "https://images.pexels.com/photos/4614927/pexels-photo-4614927.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "https://images.pexels.com/photos/14916663/pexels-photo-14916663.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "https://images.pexels.com/photos/19160904/pexels-photo-19160904/free-photo-of-sunset-serenity-a-river-flowing-through-a-peaceful-forest-in-sikkim-india.png?auto=compress&cs=tinysrgb&w=600"
+    ],
     "testimonials": [],
     "costing": [],
     "inclusions": "",
     "exclusions": "",
     "other": "",
     "thingtocarry": "",
-    "similartrips": [],
+    "similartrips": ["uttarakhand", "spiti-valley"],
     "trending": true
   },
-  
-  "7n-8d-best-of-vietnam-tour-package": {
+  "rajasthan": {
+    "tour": "india",
+    "title": "7 Days Backpacking Trip To The Rajasthan",
+    "imageUrl": "/assets/Destinations/rajasthan/rajasthan.jpg",
+    "date": "06-01-24",
+    "duration": "6N - 7D",
+    "price": "24,999",
+    "link": "/trips/rajasthan",
+    "tagline": "Ultimate Adventure in Rajasthan: 8 Days Tour",
+    "destination": "Rajasthan",
+    "pickanddrop": "Gurugram",
+    "about": "Embark on an enchanting expedition through Rajasthan, a land steeped in regal grandeur, vibrant hues, and rich cultural heritage. Begin your journey in the majestic city of Jaipur, known as the Pink City, adorned with magnificent palaces, bustling bazaars, and the iconic Amber Fort. Explore the historic Mehrangarh Fort in Jodhpur, surrounded by blue-hued houses, and delve into the city's captivating tales of valor and royalty. Traverse through the golden sands of Thar Desert in Jaisalmer, where intricately carved havelis and the imposing Jaisalmer Fort narrate stories of ancient opulence. Witness the holy city of Pushkar, with its sacred lake and the renowned Brahma Temple, offering a spiritual respite amidst the bustling markets. Discover the romantic city of Udaipur, adorned with shimmering lakes, ornate palaces like the City Palace, and the ethereal charm of the Lake Pichola. Immerse yourself in Rajasthan's folk music and dance, savor the aromatic flavors of Rajasthani cuisine, and witness the colorful festivals that epitomize the state's cultural richness. This ultimate Rajasthan expedition promises a captivating blend of royal splendor, architectural marvels, and cultural extravagance, creating enduring memories of a majestic sojourn.",
+    "ytvideo": "",
+    "itinerary": [
+      {
+        "title": "Transfer from Gurgaon to Jaipur. Visit Hawa mahal and City palace.",
+        "description": "<ul><li>Upon your arrival in Delhi, reach your pickup point by 9:00 AM (IFFCO Chowk Gurugram).</li><li>Board your transfer to begin your journey to Jaipur.</li><li>Reach Jaipur, check in to your hotel, and freshen up.</li><li>Next, we head to the famous Hawa Mahal - Palace of Winds famous for its intricately decorated windows.</li><li>Later, we move further to explore the city palace to get an insight into the royal lifestyle of the former rulers.</li><li>After completing the day’s sightseeing, you are free to explore cafes on your own and return back to the hotel.</li><li>Overnight stay in Jaipur.</li></ul>"
+      },
+      {
+        "title": "Jaipur Local sightseeing. Evening at leisure.",
+        "description": "<ul><li>Wake up in the morning and have your breakfast at the hotel.</li><li>Later, get ready to begin your sightseeing in the “Pink City”.</li><li>First, we will start by visiting the magnificent Amer Fort and exploring its beautiful frescos and architecture.</li><li>Next, we will take you to the towering Nahargarh Fort, from where you can enjoy some beautiful city views of Jaipur.</li><li>The rest of the day is at leisure, wherein you can choose to explore other tourist places or indulge in a shopping spree at the local markets.</li><li>Overnight stay in Jaipur.</li></ul>"
+      },
+      {
+        "title": "Transfer from Jaipur to Jodhpur. Day at leisure.",
+        "description": "<ul><li>Have your breakfast at the hotel and get ready for the day.</li><li>Board your transfers to the famous “Blue City” of Rajasthan - Jodhpur.</li><li>En route to Jodhpur, we will take a small stopover at Kishangarh which is known as the Marble City.</li><li>We will visit the magnificent Kishangarh marble dumping yard as it appears to be like a white desert as far as the eyes can see.</li><li>Later, we will continue our journey to Jodhpur.</li><li>Reach Jodhpur by evening, check in to the hotel, and rest for the day.</li><li>Overnight stay in Jodhpur.</li></ul>"
+      },
+      {
+        "title": "Jodhpur Local sightseeing. Transfer to Jaisalmer.",
+        "description": "<ul><li>After having your breakfast in the morning, get ready to explore the Blue City.</li><li>We will visit the magnificent Mehrangarh Fort which overlooks the entire Blue City of Jodhpur and has some amazing decorated interiors.</li><li>After exploring the Mehrangarh Fort, you can have your lunch.</li><li>Later, we will board our transfer to the getaway of the Thar Desert - Jaisalmer.</li><li>Reach Jaisalmer by evening and check-in to the hotel.</li><li>Overnight stay in Jaisalmer.</li></ul>"
+      },
+      {
+        "title": "Excursion to Longewala Border. Desert Camping.",
+        "description": "<ul><li>Have a delicious breakfast in the morning and get ready for the day.</li><li>We will start the day by first visiting the Indo-Pak border at Longewala.</li><li>Upon reaching Longewala, pay homage to the martyrs at the War Memorial.</li><li>Start your return journey back to Jaisalmer’s Sam Sand Dune and reach by evening.</li><li>Enjoy your evening at the Sam Sand Dunes by participating in adrenaline-pumping activities like Camel Safari and Dune Bashing.</li><li>Later, enjoy some traditional folk music and dances at the campsite.</li><li>Have your dinner and call it a day.</li><li>Overnight stay at the camps in Sam Sand Dunes.</li></ul>"
+      },
+      {
+        "title": "Jaisalmer Local Sightseeing. Overnight travel to Gurgaon.",
+        "description": "<ul><li>Post breakfast in the morning, get ready to visit the Jaisalmer Fort, also known as “Sonar Qilla”.</li><li>Explore the narrow alleyways and beautiful corridors of the only living fort in India.</li><li>After exploring the fort, you can spend some leisure time exploring the local markets.</li><li>Have your lunch and then begin your departure.</li><li>Board your bus from Jaisalmer to Gurugram.</li><li>Overnight on-board bus to Gurugram.</li></ul>"
+      },
+      {
+        "title": "Reach Delhi. Take back a bag of memories.",
+        "description": "<ul><li>After an overnight journey, reach Gurugram by morning.</li><li>Your amazing Rajasthan tour concludes once you are dropped off at IFFCO Chowk Gurugram.</li><li>From there, you are free to continue your onward journey.</li></ul>"
+      }
+    ],
+    "notes": [
+      "Note 1: Age Limit for Group Departures: Please note that the age limit for our group departures is set between 16 to 42 years. This age range is specifically tailored to accommodate the dynamic and energizing itineraries we offer to our travelers. However, we are more than happy to personalize trips for travelers beyond the specified age bracket upon request.",
+      "Note 2: Itinerary Flexibility: Kindly be aware that several factors, including weather conditions, road situations, and the physical capabilities of participants, may prompt alterations to the planned itinerary. We reserve the right to modify any schedule in the interest of ensuring safety, comfort, and the overall well-being of our travelers. Adjustments, if any, will be made with careful consideration to enhance your experience while prioritizing your safety and convenience."
+    ],
+    "videos": [],
+    "photos": [
+      "https://images.pexels.com/photos/9179927/pexels-photo-9179927.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "https://images.pexels.com/photos/1588032/pexels-photo-1588032.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "https://images.pexels.com/photos/3974152/pexels-photo-3974152.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "https://images.pexels.com/photos/17547457/pexels-photo-17547457/free-photo-of-aerial-view-of-the-city-of-udaipur-in-india-at-sunset.jpeg?auto=compress&cs=tinysrgb&w=600"
+    ],
+    "testimonials": [],
+    "costing": [],
+    "inclusions": "",
+    "exclusions": "",
+    "other": "",
+    "thingtocarry": "",
+    "similartrips": ["sikkim", "kerala"],
+    "trending": true
+  },
+  "himachalpradesh": {
+    "tour": "india",
+    "title": "7 Days Amazing Himachal Tour Package Ex- Chandigarh",
+    "imageUrl": "/assets/Destinations/himachalpradesh/himachalpradesh.jpg",
+    "date": "06-01-24",
+    "duration": "6N - 7D",
+    "price": "24,999",
+    "link": "/trips/himachalpradesh",
+    "tagline": "Ultimate Adventure in himachalpradesh: 7 Days Tour",
+    "destination": "himachalpradesh",
+    "pickanddrop": "Chandigarh",
+    "about": "Embark on an extraordinary odyssey through Himachal Pradesh, a land of majestic peaks, sprawling valleys, and diverse cultural treasures. Commence your adventure in the historic town of Shimla, graced with colonial architecture and panoramic views, then journey through the scenic landscapes to Manali, where the allure of snow-capped mountains invites thrilling escapades and serene moments alike. Explore the spiritual enclave of Dharamshala, embracing Tibetan heritage in the picturesque setting of McLeod Ganj. Venture further to Spiti Valley, an ethereal expanse offering glimpses of ancient monasteries and raw, untouched beauty. Traverse the enchanting terrains of Kinnaur, where verdant fields and traditional hamlets captivate the senses. Experience the vibrant culture of Kullu before concluding your expedition amidst the serene vistas of Dalhousie, each stop on this epic journey revealing a tapestry of spirituality, adventure, and cultural richness that defines Himachal Pradesh's irresistible charm.",
+    "ytvideo": "",
+    "itinerary": [
+      {
+        "title": "Chandigarh to Shimla. Begin your journey to the mountain",
+        "description": "<ul><li>Reach the predetermined point in Chandigarh, for your pick-up.</li><li>Meet our representative who will help you board your transfers to Shimla.</li><li>Upon reaching Shimla, check-in to the hotel and rest for some time.</li><li>You can then spend the rest of the day at leisure, wherein you can choose from a number of activities to do.</li><li>You can go shopping in the famous Lakkar bazaar or explore several colonial buildings in Shimla.</li><li>By evening return back to your hotel.</li><li>Overnight stay in Shimla.</li></ul>"
+      },
+      {
+        "title": "Local sightseeing in Shimla. Excursion to Kufri",
+        "description": "<ul><li>Wake to a refreshing morning in the mountains and start your day by having your breakfast.</li><li>Get ready to board your transfers to begin your sightseeing for the day.</li><li>You will first visit the quaint hamlet of Kufri, located just 14 km from Shimla.</li><li>Enjoy your time as you visit the Indira Tourist Park at Chilni Bungalow and indulge in various fun rides here.</li><li>After spending some time here, start your return journey to Shimla.</li><li>Reach Shimla and visit the Himalayan Aviary to get a glance at the rare and exotic Himalayan bird species.</li><li>Next, you will visit Jakhoo Hill to seek the blessing of Lord Hanuman at Jakhoo Temple and also visit the Sankat Mochan Viewpoint for some breathtaking valley views.</li><li>In the evening, stroll leisurely on the famous Ridge and the bustling Mall road, where you will visit the Neo-gothic styled Christ Church and the Scandal Corner.</li><li>After completing your day’s sightseeing, return back to your hotel in Shimla.</li><li>Overnight stay in Shimla.</li></ul>"
+      },
+      {
+        "title": "Shimla to Jibhi Via Jalori Pass. Hike to Selorsar Lake",
+        "description": "<ul><li>Start your day early and have your breakfast at the hotel.</li><li>Get ready to board your transfers to Jibhi.</li><li>On this scenic road journey, you will take your first stop at the Jalori Pass which offers stunning views of the surrounding mountains.</li><li>From Jalori Pas, you will start a short hike to Serolsar Lake.</li><li>Spend some time admiring the beautiful lake, surrounded by the alpine trees.</li><li>Seek the blessing of Budhi Nagin - the mother goddess of the snakes by visiting the temple by the lake.</li><li>Start your hike back to Jalori Pass and board your vehicle.</li><li>Continue your drive to Jibhi, check in to the hotel, and rest for some time.</li><li>Spend the rest of the day at leisure, exploring the local markets or waterfalls around.</li><li>Overnight stay in Jibhi.</li></ul>"
+      },
+      {
+        "title": "Jibhi to Manali. Local Sightseeing in Jibhi ",
+        "description": "<ul><li>Have your breakfast at the hotel and get ready for the day,</li><li>Start your day by exploring the famous Jibhi Waterfall and a short hike to the nearby town known as Mini Thailand.</li><li>Next, start your road journey to Manali.</li><li>On the way, we will take a short detour to visit the Chaini Kothi fort which is an impressive tower made of stone and wood.</li><li>Continue your drive to Manali and reach by evening.</li><li>Check-in to the hotel and spend the rest of the time at leisure.</li><li>Overnight stay in Manali.</li></ul>"
+      },
+      {
+        "title": "Local Sightseeing in Manali. Visit the famous temples and Mall Road",
+        "description": "<ul><li>Post breakfast in the morning, get ready to explore some famous places in Manali.</li><li>We will first take you to the Hadimba Devi Temple, dedicated to a demon goddess and featured in many Bollywood movies.</li><li>You will then visit the Manu Temple, followed by a visit to the Vashisht temple and immerse yourself in the spiritual aura.</li><li>Next, we will also visit the famous Tibetan Monastery in Manali.</li><li>The rest of the evening is free for you to explore the Mall Road of Manali, where you can visit some of the best cafes in Manali or indulge in a shopping spree.</li><li>Return back to the hotel for an overnight stay in Manali.</li></ul>"
+      },
+      {
+        "title": "Excursion to Solang Valley. Indulge in adventure activities",
+        "description": "<ul><li>Have your breakfast in the morning and get ready for an exciting day.</li><li>Board your transfer to the beautiful Solang Valley, a paradise for winter activities.</li><li>Reach Solang Valley and then you can spend the remaining time as per your choice.</li><li>You can indulge in a number of adventure sports like paragliding, zorbing, quad biking or take a cable car ride to enjoy the bird’s eye view.</li><li>In winter, this valley is heaven for winter sports like skiing, sledding, etc.</li><li>In the evening, start your return journey to Manali, after spending a fun-filled day.</li><li>Overnight stay at the hotel in Manali.</li></ul>"
+      },
+      {
+        "title": "Manali to Chandigarh. Departure",
+        "description": "<ul><li>After having your breakfast at the hotel, pack your bags and get ready to start your return journey.</li><li>Board your transfers and enjoy a scenic drive back to Chandigarh.</li><li>Your tour concludes once you are dropped off at the airport/railway station for your onward journey.</li><li>Depart with a bag of happy memories.</li></ul>"
+      }
+    ],
+    "notes": [
+      "Note 1: Age Limit for Group Departures: Please note that the age limit for our group departures is set between 16 to 42 years. This age range is specifically tailored to accommodate the dynamic and energizing itineraries we offer to our travelers. However, we are more than happy to personalize trips for travelers beyond the specified age bracket upon request.",
+      "Note 2: Itinerary Flexibility: Kindly be aware that several factors, including weather conditions, road situations, and the physical capabilities of participants, may prompt alterations to the planned itinerary. We reserve the right to modify any schedule in the interest of ensuring safety, comfort, and the overall well-being of our travelers. Adjustments, if any, will be made with careful consideration to enhance your experience while prioritizing your safety and convenience."
+    ],
+    "videos": [],
+    "photos": [
+      "https://images.pexels.com/photos/2961109/pexels-photo-2961109.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "https://images.pexels.com/photos/5217739/pexels-photo-5217739.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "https://images.pexels.com/photos/12064459/pexels-photo-12064459.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "https://images.pexels.com/photos/7846563/pexels-photo-7846563.jpeg?auto=compress&cs=tinysrgb&w=600"
+    ],
+    "testimonials": [],
+    "costing": [],
+    "inclusions": "",
+    "exclusions": "",
+    "other": "",
+    "thingtocarry": "",
+    "similartrips": ["leh-ladakh", "spiti-valley"],
+    "trending": true
+  },
+  "uttarakhand": {
+    "tour": "india",
+    "title": "Magnificient Uttarakhand",
+    "imageUrl": "/assets/Destinations/UTTARAKHAND/UTTARAKHAND.jpg",
+    "date": "06-01-24",
+    "duration": "3N - 4D",
+    "link": "/trips/uttarakhand",
+    "tagline": "Ultimate Adventure in uttarakhand: 4 Days Tour",
+    "destination": "Uttarakhand",
+    "pickanddrop": "Delhi",
+    "about": "Embark on an enthralling expedition through the picturesque landscapes and spiritual sanctuaries of Uttarakhand, a haven nestled in the lap of the Himalayas. Begin your journey in the scenic town of Nainital, where the shimmering Naini Lake reflects the beauty of surrounding hills. Wander through its vibrant markets and visit the iconic Naina Devi Temple. Explore the serene beauty of Ranikhet, a tranquil hill station offering panoramic views of snow-capped peaks and lush forests. Traverse the enchanting trails of the Valley of Flowers, a UNESCO World Heritage Site adorned with a kaleidoscope of blooming flowers and rare flora. Indulge in adrenaline-pumping adventures in Rishikesh, where the Ganges River invites thrilling activities like white-water rafting and bungee jumping amidst the serene spiritual ambiance. Discover the spiritual aura of Haridwar, witnessing the captivating Ganga Aarti rituals along the riverbanks. Conclude your expedition in the serene embrace of Mussoorie, the Queen of Hills, and relish the breathtaking vistas from Lal Tibba. This ultimate journey through Uttarakhand seamlessly weaves spirituality, adventure, and natural splendor, offering a tapestry of unforgettable experiences and cherished memories.",
+    "ytvideo": "",
+    "itinerary": [
+      {
+        "title": "Morning departure for Rishikesh. Evening Ganga Arti. Overnight stay in Rishikesh.",
+        "description": "<ul><li>Early morning departure to Rishikesh from Delhi.</li><li>Reached Rishikesh and get check-in to the hotel.</li><li>After freshening up have your lunch and in evening become a part of famous Aarati of Holy Ganges at Parmarth Niketan</li><li>Have your dinner and overnight stay in hotel.</li></ul>"
+      },
+      {
+        "title": "Rishikesh local sightseeing. Overnight stay in Rishikesh.",
+        "description": "<ul><li>After having breakfast, you can either go for bungee jumping or local sightseeing of Rishikesh.</li><li>In evening check-in to the campsite, enjoy your evening snacks with bonfire.</li><li>Have your dinner and overnight stay in campsite.</li></ul>"
+      },
+      {
+        "title": "White water river rafting and departure to Mussoorie.",
+        "description": "<ul><li>Post breakfast and check-out get ready for lifetime experience of whit water river rafting and later departure to Mussoorie.</li><li>Reached Mussoorie, check-in to the hotel.</li><li>Overnight stay in hotel.</li></ul>"
+      },
+      {
+        "title": "Kempty Fall and departure to Delhi.",
+        "description": "<ul><li>Post breakfast departure to Kempty fall 15 kms from Mussoorie is the most fascinating and the biggest waterfall.</li><li>Come back to Mussoorie have your dinner and spend some leisure time by visiting Gun Hill point and nearby places.</li><li>Late evening departure from Mussoorie to Delhi.</li><li>Overnight transfer to Delhi.</li></ul>"
+      }
+    ],
+    "notes": [
+      "Note 1: Age Limit for Group Departures: Please note that the age limit for our group departures is set between 16 to 42 years. This age range is specifically tailored to accommodate the dynamic and energizing itineraries we offer to our travelers. However, we are more than happy to personalize trips for travelers beyond the specified age bracket upon request.",
+      "Note 2: Itinerary Flexibility: Kindly be aware that several factors, including weather conditions, road situations, and the physical capabilities of participants, may prompt alterations to the planned itinerary. We reserve the right to modify any schedule in the interest of ensuring safety, comfort, and the overall well-being of our travelers. Adjustments, if any, will be made with careful consideration to enhance your experience while prioritizing your safety and convenience."
+    ],
+    "videos": [],
+    "photos": [
+      "https://images.pexels.com/photos/12495840/pexels-photo-12495840.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "https://images.pexels.com/photos/16871285/pexels-photo-16871285/free-photo-of-sunset-over-the-mountains-and-trees-in-the-distance.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "https://images.pexels.com/photos/1732278/pexels-photo-1732278.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "https://images.pexels.com/photos/13941205/pexels-photo-13941205.jpeg?auto=compress&cs=tinysrgb&w=600"
+    ],
+    "testimonials": [],
+    "costing": [],
+    "inclusions": "",
+    "exclusions": "",
+    "other": "",
+    "thingtocarry": "",
+    "similartrips": ["meghalaya", "kashmir"],
+    "trending": true
+  },
+  "kerala": {
+    "tour": "india",
+    "title": "7 Days Backpacking Tour to Kerala",
+    "imageUrl": "/assets/Destinations/kerala/kerala.jpg",
+    "date": "06-01-24",
+    "duration": "6N - 7D",
+    "price": "26,999",
+    "link": "/trips/kerala",
+    "tagline": "Ultimate Adventure in kerala: 7 Days Tour",
+    "destination": "Kerala",
+    "pickanddrop": "Kochi to Trivandrum",
+    "about": "Embark on a captivating odyssey through Kerala, a land known for its verdant landscapes, tranquil backwaters, and vibrant cultural tapestry, promising an unparalleled expedition. Begin your sojourn in the bustling city of Kochi, where history resonates through its colonial heritage and ancient spice trade routes. Explore the iconic Chinese fishing nets, the enchanting Mattancherry Palace, and the vibrant streets of Fort Kochi adorned with street art and diverse cultures. Cruise through the serene backwaters of Alleppey on a traditional houseboat, drifting past emerald-green paddy fields and quaint villages that offer a glimpse into Kerala's rustic charm. Immerse yourself in the lush tea plantations of Munnar, breathing in the crisp mountain air while wandering through aromatic tea gardens and cascading waterfalls. Discover the rich biodiversity of Thekkady's Periyar Wildlife Sanctuary, where a boat safari unveils the fascinating wildlife amidst dense forests. Indulge your senses in the traditional art forms of Kathakali and Mohiniyattam, and relish the tantalizing flavors of Kerala's culinary delights, from spicy seafood to traditional Sadhya meals. Conclude your expedition in the tranquil embrace of Kovalam's pristine beaches, basking in the golden sunsets over the Arabian Sea. This ultimate voyage through Kerala seamlessly blends cultural experiences, natural wonders, and serene vistas, crafting cherished memories of an enchanting escapade.",
+    "ytvideo": "",
+    "itinerary": [
+      {
+        "title": "Arrival In Kochi. Sightseeing In Kochi.",
+        "description": "<ul><li>Arrive at the Kochi Airport/ Railway Station and reach your hotel in Kochi on your own.</li><li>Upon reaching your hotel, check-in and rest till evening.</li><li>In the evening, you will visit Fort Kochi to marvel at the beautiful colonial buildings.</li><li>Spend the rest of the time by indulging in a shopping spree at the local markets.</li><li>Overnight stay in Kochi.</li></ul>"
+      },
+      {
+        "title": "Kochi To Munnar. En Route Visit Athirapally Waterfalls.",
+        "description": "<ul><li>Have a hearty breakfast in the morning, and get ready to board your transfers to Munnar - a popular hill station in Kerala.</li><li>Board your transfers to first visit the Athirappilly Waterfalls which is around 73 kms from Kochi.</li><li>Marvel at the largest waterfalls in Kerala that falls from a whooping height of 80 ft.</li><li>After admiring the cascading waterfalls, continue your return journey to Munnar.</li><li>Upon reaching Munnar, check-in to the hotel and call it a day.</li><li>Overnight stay in Munnar.</li></ul>"
+      },
+      {
+        "title": "Local Sightseeing In Munnar. Drive Through The Tea Plantations.",
+        "description": "<ul><li>Wake up to a beautiful morning in Munnar.</li><li>Have your breakfast at the hotel and get ready for the day.</li><li>We will start by visiting the Eravikulam National Park which is a natural habitat of Nilgiri Tahr, the endangered mountain goat.</li><li>Next, you will visit the Tata Tea Museum to get an insight into the history of tea plantations and processing from ancient times till today.</li><li>Further, spend some time admiring the views of the Mattupetty Dam backed with green rolling hills.</li><li>We will conclude our sightseeing by visiting the Echo Point where you can spend some leisure time amidst the lush green hills covered with forests and tea plantations.</li><li>Overnight stay in Munnar.</li></ul>"
+      },
+      {
+        "title": "Munnar To Alleppey. Enjoy The Serene Backwaters.",
+        "description": "<ul><li>Post breakfast in the morning, get ready and board your transfers.</li><li>Enjoy your ride through the coastal landscapes of Kerala to Alleppey.</li><li>Upon reaching Alleppey, board your day cruise where you will also have your local lunch.</li><li>Enjoy a beautiful afternoon by spending some leisure time in the backwaters.</li><li>Later, check-in to your hotel in Alleppey and call it a day.</li><li>Overnight stay in Alleppey.</li></ul>"
+      },
+      {
+        "title": "Alleppey To Varkala. En Route Visit Jatayu Earth’s Center.",
+        "description": "<ul><li>Have your breakfast in the morning and get ready for the day.</li><li>Board your transfers to the popular coastal town of Varkala.</li><li>On the way to Varkala, we will take a short detour to marvel at the world’s largest bird sculpture at Jatayu Earth’s Center.</li><li>After spending some time exploring the surrounding nature park, we will continue our journey to Varkala.</li><li>Upon reaching Varkala, check-in to the hotel and rest for the day.</li><li>Overnight stay in Varkala.</li></ul>"
+      },
+      {
+        "title": "Local Sightseeing In Varkala. Visit Munroe Island.",
+        "description": "<ul><li>Wake up to a beautiful morning in Kerala and have your breakfast at the hotel.</li><li>Get ready and board your transfers to Munroe Island, located 50 km north of Varkala.</li><li>Explore Munroe Island which is at the beautiful confluence of Ashtamudi Lake and Kallada River.</li><li>Later, start your return journey back to Varkala.</li><li>In the evening, we will visit a cliff in Varkala to watch a beautiful sunset over the vast ocean.</li><li>The rest of the time is free for you to explore the cafes around.</li><li>Overnight stay in Varkala.</li></ul>"
+      },
+      {
+        "title": "Departure. Varkala To Thiruvananthapuram.",
+        "description": "<ul><li>Have your breakfast at the hotel and get ready to board your transfers.</li><li>Your tour concludes once you are dropped off at Trivandrum Airport for your onward journey.</li><li>Depart with a bag of happy memories.</li></ul>"
+      }
+    ],
+    "notes": [
+      "Note 1: Age Limit for Group Departures: Please note that the age limit for our group departures is set between 16 to 42 years. This age range is specifically tailored to accommodate the dynamic and energizing itineraries we offer to our travelers. However, we are more than happy to personalize trips for travelers beyond the specified age bracket upon request.",
+      "Note 2: Itinerary Flexibility: Kindly be aware that several factors, including weather conditions, road situations, and the physical capabilities of participants, may prompt alterations to the planned itinerary. We reserve the right to modify any schedule in the interest of ensuring safety, comfort, and the overall well-being of our travelers. Adjustments, if any, will be made with careful consideration to enhance your experience while prioritizing your safety and convenience."
+    ],
+    "videos": [],
+    "photos": [
+      "https://images.unsplash.com/photo-1593693397690-362cb9666fc2?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1580818135730-ebd11086660b?q=80&w=2057&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1614090699960-b4c81be49f3c?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1601220840366-d29aedc7e987?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "testimonials": [],
+    "costing": [],
+    "inclusions": "",
+    "exclusions": "",
+    "other": "",
+    "thingtocarry": "",
+    "similartrips": [
+      "himachalpradesh",
+      "rajasthan",
+      "uttarakhand",
+      "andaman",
+      "kashmir",
+      "meghalaya",
+      "sikkim"
+    ],
+    "trending": true
+  },
+  "vietnam": {
     "tour": "international",
     "title": "Vietnam:Timeless Beauty, Endless Adventures",
     "imageUrl": "/assets/vietnam-package.jpg",
     "date": "10-05-10",
     "duration": "6N - 7D",
-    "price": "27,999",
-    "link": "/trips/7n-8d-best-of-vietnam-tour-package",
+    "price": "62,999",
+    "link": "/trips/vietnam",
     "tagline": "Explore The Untamed Beauty, Coupled With Unparalleled Adventure",
     "destination": "Hanoi- Ho Chi Minh",
     "pickanddrop": "Hanoi- Ho Chi Minh",
@@ -201,30 +656,66 @@
     "ytvideo": "",
     "itinerary": [
       {
-        "title": "Hanoi Arrival - Half-Day City Tour. Overnight Stay At Hanoi",
-        "description": "Arrive at Noi Bai International Airport in Hanoi Meet your local guide and transfer to your hotel In the afternoon we will start exploring Hanoi by visiting the famous Train Street Next, we will visit Ba Dinh Square – the biggest square in Hanoi that houses the Complex of Ho Chi Minh alongside There you will visit the Ho Chi Minh Mausoleum, Ho Chi Minh's house-on-stilts, and his fish pond We will also visit the Japanese-style one-pillar Pagoda Further, you will visit Tran Quoc Pagoda located on a small peninsula on the East side of the dazzling West Lake, which is the most ancient pagoda in Hanoi with a history line of more than 1,500 years Later, we will stroll around the Old Quarters of Hanoi and the Hoan Kiem Lake (the “Sword” Lake) After completing the day's sightseeing you will transfer back to your hotel Overnight stay in Hanoi"
+        "title": "Hanoi Arrival – Half-Day City Tour. Overnight Stay At Hanoi",
+        "description": "<ul><li>Arrive at Noi Bai International Airport in Hanoi</li><li>Meet your local guide and transfer to your hotel</li><li>In the afternoon we will start exploring Hanoi by visiting the famous Train Street</li><li>Next, we will visit Ba Dinh Square – the biggest square in Hanoi that houses the Complex of Ho Chi Minh alongside</li><li>There you will visit the Ho Chi Minh Mausoleum, Ho Chi Minh's house-on-stilts, and his fish pond</li><li>We will also visit the Japanese-style one-pillar Pagoda</li><li>Further, you will visit Tran Quoc Pagoda located on a small peninsula on the East side of the dazzling West Lake, which is the most ancient pagoda in Hanoi with a history line of more than 1,500 years</li><li>Later, we will stroll around the Old Quarters of Hanoi and the Hoan Kiem Lake (the “Sword” Lake)</li><li>After completing the day's sightseeing you will transfer back to your hotel</li><li>Overnight stay in Hanoi</li></ul>"
+      },
+      {
+        "title": "Hanoi – Halong Bay – Hanoi – Lunch On A Local Food Cruise. Overnight Stay In Hanoi.",
+        "description": "<ul><li>After breakfast at the hotel, depart for Halong Bay, a UNESCO World Heritage Site and one of Vietnam's most popular tourist destinations.</li><li>Upon arrival at Tuan Chau Marina, check-in for a 4-hour day cruise.</li><li>Enjoy a scenic cruise on a traditional Vietnamese junk boat through the limestone cliffs and emerald waters of the bay.</li><li>Stop to explore some of the many caves and grottoes that dot the bay, and enjoy a delicious seafood lunch on board.</li><li>Return to Hanoi in the late afternoon.</li><li>Overnight stay at Hanoi.</li></ul>"
+      },
+      {
+        "title": "Hanoi – Flight To Da Nang. Overnight Stay At Da Nang",
+        "description": "<ul><li>After breakfast, transfer to the airport for your flight to Da Nang.</li><li>Upon arrival, transfer to your hotel (The normal check-in time is 14:00-15:00).</li><li>Spend the rest of the day at your leisure.</li><li>Overnight stay at Da Nang.</li></ul>"
+      },
+      {
+        "title": "Da Nang - Marble Mountain Tour - Hoi An Ancient Town - Lantern Boat On Hoai River (B)",
+        "description": "<ul><li>Embarking on an exciting day, after breakfast at the hotel, we'll commence our journey at 9:00 am with a transfer to the captivating Marble Mountains.</li><li>Scaling the Thuy Son via intricately carved stone stairs, we'll relish panoramic vistas of the countryside atop this water mountain.</li><li>Our itinerary unfolds with a visit to Da Nang's splendid Huyen Khong cave temple, followed by explorations of the Tam Thai and Lingh Ung pagodas nestled within this natural marvel.</li><li>Enthralled by the sight of the Cham Buddha bathed in a natural shaft of light within the main cave, we'll proceed to the Am Phu Caves, navigating impressive rock formations portraying Buddhist perspectives on hell or purgatory (inclusive of a one-way elevator).</li><li>Venturing further, the Non-Nuoc village awaits, showcasing exquisite stone sculptures meticulously crafted by skilled artisans at the mountain's base.</li><li>The afternoon beckons with the Basket Boat Tour, immersing us in the Coconut Boat Tour experience.</li><li>Subsequently, our journey leads to Hoi An, a UNESCO Heritage town, where we'll traverse the 17th-century Japanese Bridge, testament to Japanese traders' historical presence.</li><li>Our sojourn continues with visits to the serene Chinese Assembly Halls, charming ancient houses, and the enchanting melodies of Central Vietnamese folk music at old clubhouses.</li><li>Amidst the vibrant ambiance, we'll explore shrines, peruse the riverside market on Thu Bon River, and perhaps acquire lanterns or commission silk garments tailored within a day.</li><li>As dusk descends, a serene 15-20 minute boat ride through a sea of floating flower lanterns awaits, offering the option to release a lantern for the prosperity and well-being of loved ones.</li><li>Culminating our day's adventures, we return to Danang for a restful</li></ul> "
+      },
+      {
+        "title": "Da Nang – Ba Na Hill – Da Nang. Overnight Stay At Da Nang",
+        "description": "<ul><li>Embarking post-breakfast, our journey ventures towards Ba Na Hill, a picturesque French-inspired hill station boasting breathtaking vistas of surrounding mountains and the coastline.</li><li>Aboard the world's longest cable car, our ascent to the hill's summit promises awe-inspiring panoramas.</li><li>Atop, a plethora of attractions beckons exploration, encompassing the renowned Golden Bridge, the whimsical delights of Fantasy Park, and the serene Linh Ung Pagoda.</li><li>Engaging in an array of activities and games amidst the charm of Fantasy Park, the day unfolds with delight and adventure.</li><li>As the late afternoon approaches, a serene descent via cable car leads us back to the foothills, where our return journey to Da Nang begins.</li><li>Resting overnight in Da Nang, we reminisce about a day filled with enchantment and scenic wonders at Ba Na Hill.</li></ul>"
+      },
+      {
+        "title": "Da Nang To Saigon. Day At Leisure",
+        "description": "<ul><li>Following a satisfying breakfast at the hotel, our journey proceeds as we board transfers destined for the airport in Danang.</li><li>A flight to Ho Chi Minh City, fondly known as Saigon, situated in the southern region of Vietnam, awaits us.</li><li>Upon arrival at Ho Chi Minh airport, a warm welcome awaits from our local tour guide, facilitating a seamless transfer to the vibrant downtown area.</li><li>There, we'll proceed to check-in at our hotel, marking the commencement of a leisurely day to explore at your own pace.</li><li>Enjoy the freedom to discover the city's charm and unique offerings, immersing oneself in the cultural tapestry of Saigon.</li><li>As the day draws to a close, settle in for a restful overnight stay in the lively and bustling city of Saigon.</li></ul>"
+      },
+      {
+        "title": "Saigon – Cu Chi Tunnels – Free Afternoon. Overnight Stay At Saigon",
+        "description": "<ul><li>Post-breakfast, the day commences with a scenic morning drive towards the historically significant Cu Chi Tunnels, an extensive network utilized by the Viet Cong during the Vietnam War.</li><li>Delve into the tunnels' depths, immersing yourself in their historical narrative and understanding their pivotal significance.</li><li>Gain insights into the ingenious design, purpose, and the resilience exhibited by those who lived within these underground passageways.</li><li>Experience a firsthand glimpse into the challenging conditions faced by soldiers as you crawl through a short section of the tunnels, allowing for a sense of their narrow confines and the intense heat that characterized life within.</li><li>Subsequently, return to Saigon, where the afternoon beckons with leisure time, providing opportunities for personal exploration, sightseeing, or indulging in the vibrant shopping scene the city offers.</li><li>Whether discovering local attractions or engaging in retail therapy, the afternoon invites you to relish the charm and diversity of Saigon at your own pace.</li><li>As evening descends, retreat for an overnight stay in the dynamic city, reflecting on the day's immersive historical journey and the vibrant present-day allure of Saigon.</li></ul>"
+      },
+      {
+        "title": "Saigon – Departure",
+        "description": "<p>After breakfast, check out and head to the airport for your departure flight. Enjoy your trip to Vietnam!</p>"
       }
     ],
-    "notes": "",
+    "notes": [
+      "Note 1: Age Limit for Group Departures: Please note that the age limit for our group departures is set between 16 to 42 years. This age range is specifically tailored to accommodate the dynamic and energizing itineraries we offer to our travelers. However, we are more than happy to personalize trips for travelers beyond the specified age bracket upon request.",
+      "Note 2: Itinerary Flexibility: Kindly be aware that several factors, including weather conditions, road situations, and the physical capabilities of participants, may prompt alterations to the planned itinerary. We reserve the right to modify any schedule in the interest of ensuring safety, comfort, and the overall well-being of our travelers. Adjustments, if any, will be made with careful consideration to enhance your experience while prioritizing your safety and convenience."
+    ],
     "videos": [],
-    "photos": [],
+    "photos": [
+      "https://images.unsplash.com/photo-1528127269322-539801943592?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1504457047772-27faf1c00561?q=80&w=1894&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1583417319070-4a69db38a482?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1557750255-c76072a7aad1?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
     "testimonials": [],
     "costing": [],
     "inclusions": "",
     "exclusions": "",
     "other": "",
     "thingtocarry": "",
-    "similartrips": [],
+    "similartrips": ["bali-tour", "thailand", "bhutan", "maldives"],
     "trending": true
   },
-  "bali-tour": {
+  "bali": {
     "tour": "international",
     "title": "Bali: Island of Gods",
     "imageUrl": "/assets/bali-package.jpg",
     "date": "10-05-10",
     "duration": "6N - 7D",
-    "price": "27,999",
-    "link": "/trips/bali-tour",
+    "price": "89,999",
+    "link": "/trips/bali",
     "tagline": "Bali, the Indonesian paradise, captivates with its stunning landscapes, vibrant culture, and spiritual allure.",
     "destination": "Mumbai",
     "pickanddrop": "Mumbai",
@@ -232,20 +723,61 @@
     "ytvideo": "",
     "itinerary": [
       {
-        "title": "Hanoi Arrival - Half-Day City Tour. Overnight Stay At Hanoi",
-        "description": "Arrive at Noi Bai International Airport in Hanoi Meet your local guide and transfer to your hotel In the afternoon we will start exploring Hanoi by visiting the famous Train Street Next, we will visit Ba Dinh Square – the biggest square in Hanoi that houses the Complex of Ho Chi Minh alongside There you will visit the Ho Chi Minh Mausoleum, Ho Chi Minh's house-on-stilts, and his fish pond We will also visit the Japanese-style one-pillar Pagoda Further, you will visit Tran Quoc Pagoda located on a small peninsula on the East side of the dazzling West Lake, which is the most ancient pagoda in Hanoi with a history line of more than 1,500 years Later, we will stroll around the Old Quarters of Hanoi and the Hoan Kiem Lake (the “Sword” Lake) After completing the day's sightseeing you will transfer back to your hotel Overnight stay in Hanoi"
+        "title": "Board Your Flight From India (Mumbai) To Bali (Denpasar)",
+        "description": "<ul><li>Get ready for a fun-filled vacation to Bali and head to the Mumbai Airport.</li><li>Collect your Boarding pass/ Tickets from our representative and board your flight to Denpasar.</li></ul>"
+      },
+      {
+        "title": "Arrive In Bali. Transfer To Ubud.",
+        "description": "<ul><li>Upon your arrival in Bali, meet our representative who will help you with your transfers to Ubud.</li><li>Reach Ubud, check in to your hotel, and have some rest.</li><li>In the evening, let your taste buds take a trip to India with a delectable welcome dinner at a cozy restaurant.</li><li>Overnight stay in Ubud.</li></ul>"
+      },
+      {
+        "title": "Bali Swing - Kintamani Village - Tegenungan Waterfalls",
+        "description": "<ul><li>Post breakfast in the morning, get ready to explore Ubud.</li><li>Start by visiting the famous Bali Swing over the lush green countryside landscape of Bali.</li><li>Next, we will head to the Kintamani viewpoint to admire the views of an active volcano called Mt.Batur.</li><li>Enjoy your lunch in the Kintamani Village with the amazing views of the volcano.</li><li>Next, you will head to the Tegenungan Waterfalls to spend some time in nature by this cascading fall.</li><li>Upon completing the day’s sightseeing, return back to the hotel.</li><li>Overnight stay in Ubud.</li></ul>"
+      },
+      {
+        "title": "Ubud To Nusa Penida Island. Visit The Crystal And Kelingking Beach.",
+        "description": "<ul><li>After breakfast in the morning, get ready to board your transfers.</li><li>We will take a fast boat to reach Nusa Penida through the azure blue ocean.</li><li>Reach Nusa Penida and travel from Sampalan Beach to Crystal Beach where you can indulge in snorkeling (optional).</li><li>Next, we will stop to have delicious Indian Lunch before moving ahead.</li><li>Post lunch, head to Kelingking Beach majorly known for its rock formation that depicts the shape of a T-Rex.</li><li>Reach your hotel for an overnight stay.</li><li>Overnight stay in Nusa Penida.</li></ul>"
+      },
+      {
+        "title": "East Nusa Penida Tour. Transfer To Kuta. Day At Leisure.",
+        "description": "<ul><li>Start your day early at 4:30 am to board your transfers for a Sunrise Tour at Diamond Beach which is famous for its diamond-shaped rock formations.</li><li>We will take you to the famous Rumah Pohon Tree House, where you can click amazing pictures backed with views of Diamond Beach.</li><li>Start your return journey to the hotel and reach by 9:30 am.</li><li>Have your breakfast at the hotel and get ready to return back to the mainland of Bali.</li><li>We will take a fast boat to the Sanur Port of Bali.</li><li>Upon your arrival at the Sanur Port, you will board your transfers to Kuta.</li><li>Next, reach your hotel in Kuta and check-in for an overnight stay.</li><li>Overnight stay in Kuta.</li></ul>"
+      },
+      {
+        "title": "Temple Tour Day. Visit The Tanah Lot And Uluwatu Temple.",
+        "description": "<ul><li>Wake up to a beautiful tropical morning and have your breakfast.</li><li>Post breakfast, visit the iconic Tanah-Lot Temple, located offshore of Bali.</li><li>Spend some time here to marvel at the temple and listen to the ocean waves.</li><li>Spend the afternoon exploring at leisure.</li><li>Post afternoon, we will take you to the Uluwatu Temple, which is located on a magnificent cliff overlooking the ocean.</li><li>From here you can enjoy a scenic sunset that paints the sky in vibrant hues of orange and pink.</li><li>After completing your sightseeing, return back to your hotel.</li><li>Overnight stay in Kuta.</li></ul>"
+      },
+      {
+        "title": "Day At Leisure In Kuta.",
+        "description": "<ul><li>Have your breakfast at the hotel and then you can spend the rest of the day at leisure.</li><li>There are a number of options to choose from to spend your day like - taking a traditional Balinese Massage, learning surfing, visiting the Garuda Cultural Park, exploring the beaches, indulging in a shopping spree etc.</li><li>Overnight stay in Kuta.</li></ul>"
+      },
+      {
+        "title": "Departure. Depart With A Bag Of Happy Memories.",
+        "description": "<ul><li>Post breakfast in the morning, get ready to board your return transfers.</li><li>Your amazing Bali tour concludes once you are dropped off at the Denpasar International Airport for your onward journey.</li><li>You can depart happily after this rejuvenating beach vacation.</li></ul>"
       }
     ],
-    "notes": "",
+    "notes": [
+      "Note 1: Age Limit for Group Departures: Please note that the age limit for our group departures is set between 16 to 42 years. This age range is specifically tailored to accommodate the dynamic and energizing itineraries we offer to our travelers. However, we are more than happy to personalize trips for travelers beyond the specified age bracket upon request.",
+      "Note 2: Itinerary Flexibility: Kindly be aware that several factors, including weather conditions, road situations, and the physical capabilities of participants, may prompt alterations to the planned itinerary. We reserve the right to modify any schedule in the interest of ensuring safety, comfort, and the overall well-being of our travelers. Adjustments, if any, will be made with careful consideration to enhance your experience while prioritizing your safety and convenience."
+    ],
     "videos": [],
-    "photos": [],
+    "photos": [
+      "https://images.unsplash.com/photo-1544644181-1484b3fdfc62?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1501179691627-eeaa65ea017c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1557093793-e196ae071479?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
     "testimonials": [],
     "costing": [],
     "inclusions": "",
     "exclusions": "",
     "other": "",
     "thingtocarry": "",
-    "similartrips": [],
+    "similartrips": [
+      "7n-8d-best-of-vietnam-tour-package",
+      "bhutan",
+      "dubai",
+      "sri-lanka-tour-package"
+    ],
     "trending": true
   },
   "bhutan": {
@@ -263,20 +795,356 @@
     "ytvideo": "",
     "itinerary": [
       {
-        "title": "Hanoi Arrival - Half-Day City Tour. Overnight Stay At Hanoi",
-        "description": "Arrive at Noi Bai International Airport in Hanoi Meet your local guide and transfer to your hotel In the afternoon we will start exploring Hanoi by visiting the famous Train Street Next, we will visit Ba Dinh Square – the biggest square in Hanoi that houses the Complex of Ho Chi Minh alongside There you will visit the Ho Chi Minh Mausoleum, Ho Chi Minh's house-on-stilts, and his fish pond We will also visit the Japanese-style one-pillar Pagoda"
+        "title": "Arrival In Bagdogra. Transfer To Phuentsholing.",
+        "description": "<ul><li>Upon arrival at Bagdogra Airport, meet our representative who will help you board your transfer to Bhutan.</li><li>Enjoy your drive to the last Indian border town called Jaigaon, after which you will enter Bhutan.</li><li>Here, you will arrive in Phuentsholing and complete the permit formalities.</li><li>Reach your hotel in Phuentsholing and check in to your hotel.</li><li>Overnight stay in Phuentsholing.</li></ul>"
+      },
+      {
+        "title": "Phuentsholing To Thimphu. Travel To The Capital City Of Bhutan.",
+        "description": "<ul><li>Post breakfast in the morning start your drive to Thimphu.</li><li>Today’s road journey will take you through some of the most beautiful countryside landscapes of Bhutan.</li><li>You will pass through some meandering mountain roads lined with broad leaves forests, waterfalls, quaint villages, and towns to reach Thimphu.</li><li>En route, take a small stopover at the Chuzom Bridge from where you will see a beautiful confluence of the Paro and Thimphu rivers, along with a beautiful portrait of the King and Queen as a welcoming sign to Bhutan.</li><li>By evening, reach Thimphu and check in to your hotel.</li><li>If time permits, you can choose to explore Thimphu - the only city in the world without traffic lights or explore the local markets.</li><li>Overnight stay in Thimphu.</li></ul>"
+      },
+      {
+        "title": "Excursion To Punakha. Pass The Beautiful Dochu La. Overnight Stay In Thimphu",
+        "description": "<ul><li>Have your breakfast in the morning and get ready for the day.</li><li>Today, we will take you to Punakha, located 75 kms to the east of Thimphu.</li><li>Our first stop on today's road journey will be the Dochu La - one of the most scenic mountain passes of Bhutan.</li><li>We will spend some time admiring the surrounding views of the Himalayas while sipping a hot cup of tea/coffee in the cafe at the pass.</li><li>We will also visit the 108 Druk Wangyal Chortens that are built on the pass in memory of the Bhutanese soldiers who died in “Operation All Clear” in 2003.</li><li>After lunch, embark on a short hike to Chimi Lhakhang (temple of fertility) - a temple dedicated to Lam Drukpa Kuenley (Divine Mad Man).</li><li>This place is considered the origin of Phalluses as the symbol of fertility and protection where childless couples usually seek blessings so that they conceive.</li><li>Further, reach Punakha and visit the Punakha Dzong which is located at the scenic confluence of Mo Chhu and the Po Chhu Rivers.</li><li>The Punakha Dzong is the second largest and the second oldest Dzong in Bhutan, known for hosting the famous annual Punakha Tshechu Festival.</li><li>Upon completing the sightseeing, start your return journey to Thimphu.</li><li>Overnight stay in Thimphu.</li></ul>"
+      },
+      {
+        "title": "Thimphu Local Sightseeing. Transfer From Thimphu To Paro. Overnight Stay In Paro",
+        "description": "<ul><li>Wake up in the morning and have your breakfast.</li><li>Post breakfast local sightseeing of Thimphu. Simply Bhutan and Buddha Statue.</li><li>Later, get ready to board your transfers to Paro.</li><li>Arrival in Paro and check-in to the hotel.</li><li>Have your dinner and overnight stay in Paro.</li></ul>"
+      },
+      {
+        "title": "Paro Local Sightseeing. Hike To Tiger’s Nest.",
+        "description": "<ul><li>Post breakfast in the morning, get ready to watch the most magical sight of Bhutan.</li><li>Today, we will visit the famous Taktsang Monastery (Tiger Nest Temple), located 11 kms from Paro.</li><li>Drive till the starting point of the hiking trail that will take you to the Taktsang Monastery.</li><li>We will then start the hike through the beautiful pine forest to reach the magnificent Taktsang Monastery.</li><li>You will have to hike for 2-4 hours (depending on your speed), to reach one of the holiest sites in Bhutan which clings impossibly to a sheer cliff face 900 meters above the valley.</li><li>Spend some peaceful time walking around the monastery listening to the prayer chants, sound of the fluttering flags or quietly meditating in the caves of the monastery.</li><li>After spending enough time in the monastery, we will start our return journey to Paro.</li><li>Overnight stay at the hotel in Paro.</li></ul>"
+      },
+      {
+        "title": "Paro To Siliguri. Embark On A Scenic Road Journey.",
+        "description": "<ul><li>Have your breakfast in the morning and get ready to start your return journey.</li><li>You will board your transfers and start a beautiful return road journey.</li><li>Enjoy this road journey and cross Phuetnsholing to reach India.</li><li>Reach Siliguri by evening, check-in to the hotel and rest for the day.</li><li>Overnight stay in Siliguri.</li></ul>"
+      },
+      {
+        "title": "Departure. Siliguri To Bagdogra Airport.",
+        "description": "<ul><li>After breakfast in the morning, check-out and reach Bagdogra airport (by your own) according to your flight timing.</li><li>Take back a treasure of happy memories to cherish for a lifetime.</li></ul>"
       }
     ],
-    "notes": "",
+    "notes": [
+      "Note 1: Age Limit for Group Departures: Please note that the age limit for our group departures is set between 16 to 42 years. This age range is specifically tailored to accommodate the dynamic and energizing itineraries we offer to our travelers. However, we are more than happy to personalize trips for travelers beyond the specified age bracket upon request.",
+      "Note 2: Itinerary Flexibility: Kindly be aware that several factors, including weather conditions, road situations, and the physical capabilities of participants, may prompt alterations to the planned itinerary. We reserve the right to modify any schedule in the interest of ensuring safety, comfort, and the overall well-being of our travelers. Adjustments, if any, will be made with careful consideration to enhance your experience while prioritizing your safety and convenience."
+    ],
     "videos": [],
-    "photos": [],
+    "photos": [
+      "https://images.unsplash.com/photo-1580649851649-992b28f56e98?q=80&w=1931&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1597658333270-8c0d8f0eb845?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1608659377506-3b4fec4f7634?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1566020586758-23d5e0ff7a64?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
     "testimonials": [],
     "costing": [],
     "inclusions": "",
     "exclusions": "",
     "other": "",
     "thingtocarry": "",
-    "similartrips": [],
+    "similartrips": ["maldives", "thailand", "dubai", "bali-tour"],
+    "trending": true
+  },
+  "thailand": {
+    "tour": "international",
+    "title": "Fantastic 10 Days Thailand Tour Package",
+    "imageUrl": "/assets/Destinations/Thailand/thailand-package.avif",
+    "date": "10-01-24",
+    "duration": "9N - 10D",
+    "link": "/trips/thailand",
+    "tagline": "A Journey to Bliss in the Himalayas",
+    "destination": "Thailand",
+    "pickanddrop": "Phuket - Bangkok",
+    "about": "Embark on an unforgettable 10-day journey through Thailand with our captivating tour package, promising an immersive experience across the country's most enchanting destinations. From the moment you arrive in Phuket and seamlessly transfer to Krabi, you'll be captivated by Thailand's natural beauty.\n\nThe tour highlights include an exhilarating 4 Island Tour by Speed Boat. Discover the stunning beauty of Phranang Cave Beach, Tup Island, Poda Island, and Chicken Island. Immerse yourself in crystal-clear waters, relax on pristine beaches, and enjoy thrilling water sports. The Phi Phi Island Tour is another highlight, featuring Maya Bay and Monkey Beach, surrounded by breathtaking limestone caves.\n\nExploring Phuket during the City Tour offers visits to Karon View Point, Wat Chalong Temple, and the iconic Buddha Statue of Phuket. In Pattaya, get mesmerized by the renowned Alcazar Show, a cultural extravaganza. The Coral Island Tour offers snorkeling and sea walker diving amidst vibrant marine life.\n\nAt Safari World and Marine Park, get up close to exotic animals in open-air zoos and enjoy entertaining dolphin and sea lion shows. It's a day packed with excitement and joy.\n\nIn Bangkok, delve into the city's rich heritage with temple visits and a visit to the dazzling Gems Gallery showcasing precious stones. The tour culminates with a full day at Safari World and Marine Park, making for a spectacular finale to this extraordinary journey.\n\nOur Fantastic 10-Day Thailand Tour Package promises cherished memories and unparalleled experiences. Thailand's awe-inspiring landscapes, cultural treasures, and family-friendly adventures await. Don't miss this chance to create lasting memories with your loved ones.",
+    "ytvideo": "",
+    "itinerary": [
+      {
+        "title": "Arrive In Phuket. Transfer To Krabi.",
+        "description": "<ul> <li>After having your breakfast at the hotel, pack your bag and board your transfers to Bangkok</li> <li>Upon reaching Bangkok, check in to your hotel and head out to explore Bangkok.</li> <li>On this tour, you will visit some of the famous temples like the Golden Buddha Temple, and Temple of the Emerald Buddha.</li> <li>We will also take you to the dazzling Gems Gallery, where you can shop for some precious and semi-precious stones.</li> <li>Upon completing the city tour, return back to your hotel.</li> <li>Overnight stay in Bangkok.</li> </ul>"
+      },
+      {
+        "title": "4 Island Tour by Speed Boat.",
+        "description": "<ul><li>Post breakfast in the morning, get ready to spend an amazing day in the ocean.</li><li>Board your transfers to the starting point of your speed boat.</li><li>Hop on to your speedboat and spend the day exploring the scenic islands around Krabi.</li><li>On this tour, you will visit the scenic Phranang Cave Beach, Tup Island, Poda Island and Chicken Island.</li><li>You will also take a small stopover in between to have your lunch.</li><li>Spend this day exploring the secluded beaches, admiring the limestone rock formations or sit leisurely by the beach watching the blue ocean.</li><li>Adventure couples can indulge in some fun water activities and discover more about each other while spending quality time in this romantic setting.</li><li>After exploring all the islands, return back to the mainland of Thailand.</li><li>Upon reaching, you will be transferred back to your hotel.</li><li>Overnight stay in Krabi.</li></ul>"
+      },
+      {
+        "title": "Krabi to Phuket. Cabaret Show in the evening.",
+        "description": "<ul><li>After having your breakfast in the morning, get ready for the day.</li><li>You will then board your transfers to Phuket.</li><li>Reach Phuket, check-in to the hotel and have some rest.</li><li>In the evening, watch the graceful movements of the artists as you enjoy the Simon Cabaret Show in Phuket.</li><li>Overnight stay in Phuket.</li></ul>"
+      },
+      {
+        "title": "Phi Phi Island Tour.",
+        "description": "<ul><li>Wake up to a beautiful tropical morning and have your breakfast at the hotel.</li><li>Next, get ready and board your transfers to the starting point of your speed boat.</li><li>Hop on to your speedboat and spend the day exploring the scenic Phi Phi islands.</li><li>Enjoy this day with your partner as you spend some leisure time gliding through the ocean waters.</li><li>Upon reaching the Phi Phi Islands, you will visit some of the iconic locations like the Maya Bay and some stunning limestone caves.</li><li>You can also stroll hand in hand on the scenic Monkey Beach.</li><li>You will also take a small stopover in between to have your lunch.</li><li>After exploring all the islands, return back to the mainland of Thailand.</li><li>Upon reaching, you will be transferred back to your hotel.</li><li>Overnight stay in Phuket.</li></ul>"
+      },
+      {
+        "title": "Phuket City Tour. Evening at Leisure.",
+        "description": "<ul><li>Have your breakfast in the morning and get ready to explore Phuket.</li><li>Board your transfers for the day, which will take you to some iconic landmarks across Phuket.</li><li>On this city tour, you will visit the famous Karon View Point to admire stunning views of the crescent-shaped Kata and Kata Noi Beaches.</li><li>You will also visit the historic Wat Chalong Temple and the famous Buddha Statue of Phuket.</li><li>Upon completing the city tour, you can spend the rest of the day at leisure.</li><li>Overnight stay in Phuket.</li></ul>"
+      },
+      {
+        "title": "Phuket to Bangkok. Evening Dinner Cruise.",
+        "description": "<ul><li>After having your breakfast at the hotel, pack your bag and board your transfers to the airport.</li><li>You will then board a 2-hour flight to Bangkok.</li><li>Upon reaching Bangkok, meet our representative who will transfer you to your hotel in Bangkok.</li><li>Upon reaching, check-in to your hotel and rest for some time.</li><li>In the evening, we will take you to enjoy a romantic dinner on a luxury cruise through the Chao Phraya River.</li><li>Marvel at the beautiful skyline of Thailand and enjoy the live performances.</li><li>Relish in the delicious buffet dinner in a perfect romantic setting.</li><li>After completing your dinner, return back to your hotel.</li><li>Overnight stay in Bangkok.</li></ul>"
+      },
+      {
+        "title": " Bangkok City Tour and Temple Tour.",
+        "description": "<ul><li>Wake up to a beautiful morning in Bangkok and have your breakfast.</li><li>Next, get ready to explore the iconic landmarks of Bangkok as you embark on a city tour today.</li><li>Board your transfers to begin your city tour.</li><li>On this tour, you will visit some of the famous temples like the Golden Buddha Temple, and Temple of the Emerald Buddha.</li><li>We will also take you to the dazzling Gems Gallery, where you can shop some precious and semi-precious stones.</li><li>Upon completing the city tour, return back to your hotel and have some rest.</li><li>Overnight stay in Bangkok.</li></ul>"
+      },
+      {
+        "title": "Departure. Take back a lot of romantic memories.",
+        "description": "<ul><li>Have your breakfast in the morning and pack your bags.</li><li>Board your transfer to Bangkok Airport for your onward journey.</li><li>Your amazing Thailand Honeymoon Tour concludes once you are dropped off at the airport.</li><li>Take back a lot of happy memories to cherish for a lifetime.</li></ul>"
+      }
+    ],
+    "notes": [
+      "Note 1: Age Limit for Group Departures: Please note that the age limit for our group departures is set between 16 to 42 years. This age range is specifically tailored to accommodate the dynamic and energizing itineraries we offer to our travelers. However, we are more than happy to personalize trips for travelers beyond the specified age bracket upon request.",
+      "Note 2: Itinerary Flexibility: Kindly be aware that several factors, including weather conditions, road situations, and the physical capabilities of participants, may prompt alterations to the planned itinerary. We reserve the right to modify any schedule in the interest of ensuring safety, comfort, and the overall well-being of our travelers. Adjustments, if any, will be made with careful consideration to enhance your experience while prioritizing your safety and convenience."
+    ],
+    "videos": [],
+    "photos": [
+      "https://images.pexels.com/photos/472309/pexels-photo-472309.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "https://images.pexels.com/photos/937465/pexels-photo-937465.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "https://images.pexels.com/photos/358229/pexels-photo-358229.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "https://images.pexels.com/photos/208444/pexels-photo-208444.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "https://images.pexels.com/photos/753885/pexels-photo-753885.jpeg?auto=compress&cs=tinysrgb&w=600"
+    ],
+    "testimonials": [],
+    "costing": [],
+    "inclusions": "",
+    "exclusions": "",
+    "other": "",
+    "thingtocarry": "",
+    "similartrips": ["sri-lanka", "dubai"],
+    "trending": true
+  },
+  "dubai": {
+    "tour": "international",
+    "title": " 6 Days Dubai Tour Package With Abu Dhabi With Flights",
+    "imageUrl": "/assets/Destinations/Dubai/dubai.avif",
+    "date": "10-01-24",
+    "duration": "5N - 6D",
+    "price": "68,999",
+    "link": "/trips/dubai",
+    "tagline": "From Humble Origins to a Cultural Marvel",
+    "destination": "Dubai",
+    "pickanddrop": "Dubai Airport",
+    "about": "Unveiling Dubai's Transformation: A Fusion of Traditions and Wonders\n\nDubai, a city that epitomizes grandeur, innovation, and cultural richness, has evolved from a humble fishing village into a global icon. The cityscape offers a myriad of wonders, from the awe-inspiring Burj Khalifa to the exhilarating rides on the fastest roller coasters. It's a living canvas that showcases the transformation from vast desert plains to a bustling cultural hub.\n\nA Tale of Contrasts and Grandeur\nDubai is a world of contrasts. Lavish shopping centers stand tall alongside stunning architectural marvels. The city embodies opulence, yet retains its essence in Emirati culture, reflected in the bustling backstreets, mesmerizing mosques, and delectable cuisine. Every facet adds depth to this extraordinary experience.\n\nEmbarking on a City Tour: Dubai's Multifaceted Charm\nExplore the diversity of Dubai through a city tour that unveils its multifaceted charm. From the awe-inspiring Burj Khalifa to immersive desert nights steeped in culture, the tour offers glimpses of the Persian Gulf's grandeur, including the iconic Palm Islands. Architectural wonders, vibrant mosques, and the captivating Dubai Fountain Show await your discovery.\n\nThe Thrill of Ras al Khaimah: An Adventure Haven\nVenture into Ras al Khaimah, nestled in the Al Hajar mountains, a haven for adventure enthusiasts. Here, adrenaline reigns supreme, offering tours to Jebel Jais, the world's highest mountain peak, and the thrill of the longest zipline. Untouched landscapes reveal mountain farms and communities, showcasing the region's pristine beauty.\n\nJoin Us for a Luxurious Emirati Experience\nJoin our group trip to Dubai from Mumbai and immerse yourself in the luxurious embrace of Emirati culture. Don't miss this incredible opportunity to explore a city that blends opulence, tradition, and modernity in a seamless tapestry.",
+    "ytvideo": "",
+    "itinerary": [
+      {
+        "title": " Arrive in Dubai. Evening Marina Dinner Cruise.",
+        "description": "<ul><li>Upon your arrival at the Dubai Airport and meet our representative who will help you board your transfers.</li><li>Reach your hotel in Dubai, check in and rest for a while.</li><li>In the evening head to the Dubai Marina to embark on a Dinner Cruise through the creek.</li><li>Enjoy the surrounding views of the Dubai Skyline with flavourful dishes from all over the world along with Tanoura Show and Belly Dance.</li><li>After enjoying the cruise dinner experience, head back to the hotel.</li><li>Overnight stay at the hotel in Dubai.</li></ul>"
+      },
+      {
+        "title": "Dubai City Tour - Burj Khalifa (124th Floor With Café Pass) - Dubai Mall - Fountain Show.",
+        "description": "<ul><li>Post breakfast, get ready for the city tour.</li><li>Board the transfers that will take you through the famous Sheik Zayed Road which is lined with some of the prominent landmarks.</li><li>On this tour, enjoy the panoramic view of Jumeirah Mosque, Burj Al Arab Hotel View, the Palm, Atlantis Hotel and Jumeirah Beach.</li><li>Later, transfer to the tallest building in the world - the Burj Khalifa.</li><li>From the top of the 124th floor of Burj Khalifa, get a glimpse into the city beneath and beyond!</li><li>Next, explore the Dubai Mall, a mall like no other, along with the musical fountain show.</li><li>After completing the city tour, head back to the hotel.</li><li>Overnight stay in the hotel.</li></ul>"
+      },
+      {
+        "title": " Desert Safari With BBQ Dinner.",
+        "description": "<ul><li>Wake up and have your breakfast at the hotel.</li><li>The first half of the day is free for you to explore Dubai as per your choice.</li><li>During this time you can visit some iconic landmarks in Dubai like Dubai Frame or the Miracle Garden.</li><li>Around 3:30 pm board your transfers for an exciting Desert Safari, just like the famous Arabian Nights.</li><li>Upon reaching, hit the golden sands and indulge in activities like camel Safari, Dune Bashing, etc.</li><li>After the safari enjoys activities like shisha, Belly dance show, Tanura show, and Fire show followed by BBQ dinner.</li><li>Return back to your hotel for an overnight stay in Dubai.</li></ul>"
+      },
+      {
+        "title": " Day Excursion to Abu Dhabi. Visit Ferrari World. Indian Dinner at an Indian Restaurant",
+        "description": "<ul><li>Post breakfast, get ready for the Abu Dhabi city tour by 8 am.</li><li>Upon reaching Abu Dhabi, we will first visit the Sheik Zayed Mosque - one of the largest and most beautiful mosques in the world.</li><li>Next, we will spend the rest of the day at the Ferrari World with a One Day One Park ticket (park timings 11 am to 8 pm).</li><li>After spending a fun day at the Ferrari World, enjoy an Indian Dinner on the way to Dubai.</li><li>Overnight stay in Dubai.</li></ul>"
+      },
+      {
+        "title": " Leisure Day | DIY",
+        "description": "<ul><li>Have your breakfast in the morning and spend the rest of the day at leisure.</li><li>You can choose from a number of activities which will be an add-on cost to the trip.</li><li>Here are a few things you can do Aquaventure Waterpark, Sky Diving at the Palm, Ain Dubai, Shopping at the Global Village, Dubai Heritage Village, and Water Activities at Jumeirah Beach</li><li>After completing your sightseeing, return back to the hotel.</li><li>Overnight stay in Dubai.</li></ul>"
+      },
+      {
+        "title": "Visit the Lost Chamber Aquarium. Departure.",
+        "description": "<ul><li>Post breakfast in the morning, pack your bags are check-out from the hotel.</li><li>Visit the Lost Chamber Aquarium which has a spectacular collection of tropical marine life.</li><li>Explore and see radiant reef fish, seahorses, rays, sharks and countless other creatures.</li><li>You will also visit the Ambassadors Lagoon for an amazing underwater experience.</li><li>Later, board your transfers to the Dubai airport.</li><li>Your amazing Dubai Tour concludes once you are dropped off at the airport.</li><li>Continue your onward journey with a lot of happy memories from Dubai.</li></ul>"
+      }
+    ],
+    "notes": [
+      "Note 1: Age Limit for Group Departures: Please note that the age limit for our group departures is set between 16 to 42 years. This age range is specifically tailored to accommodate the dynamic and energizing itineraries we offer to our travelers. However, we are more than happy to personalize trips for travelers beyond the specified age bracket upon request.",
+      "Note 2: Itinerary Flexibility: Kindly be aware that several factors, including weather conditions, road situations, and the physical capabilities of participants, may prompt alterations to the planned itinerary. We reserve the right to modify any schedule in the interest of ensuring safety, comfort, and the overall well-being of our travelers. Adjustments, if any, will be made with careful consideration to enhance your experience while prioritizing your safety and convenience."
+    ],
+    "photos": [
+      "https://images.pexels.com/photos/2044434/pexels-photo-2044434.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "https://images.pexels.com/photos/325193/pexels-photo-325193.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "https://images.pexels.com/photos/1467300/pexels-photo-1467300.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "https://images.pexels.com/photos/1470502/pexels-photo-1470502.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "https://images.pexels.com/photos/219692/pexels-photo-219692.jpeg?auto=compress&cs=tinysrgb&w=600"
+    ],
+    "testimonials": [],
+    "costing": [],
+    "inclusions": "",
+    "exclusions": "",
+    "other": "",
+    "thingtocarry": "",
+    "similartrips": ["bhutan", "singapore"],
+    "trending": true
+  },
+  "maldives": {
+    "tour": "international",
+    "title": "5 Days Maldive Tour Package With Customized Resort",
+    "imageUrl": "/assets/Destinations/Maldives/maldives.jpg",
+    "date": "10-01-24",
+    "duration": "4N - 5D",
+    "link": "/trips/maldives",
+    "tagline": "A paradise of sun, sand, and smiles indeed",
+    "destination": "Male",
+    "pickanddrop": "Male",
+    "about": "The Maldives, a paradise on Earth, beckons with its azure waters, coral islands, and luxury beyond compare. Our Maldives Tour Packages offer a seamless blend of relaxation and adventure, ensuring an unforgettable escape to this tropical haven. From romantic getaways to family-friendly vacations, our meticulously crafted itineraries cater to diverse preferences.\n\nIndulge in the lap of luxury with overwater bungalows, where the gentle lull of the waves becomes your lullaby. Snorkel amidst vibrant coral reefs, discovering the underwater wonders that make the Maldives a diver's dream. Our Maldives Packages from India provide convenient flights, comfortable accommodations, and an array of experiences tailored to your liking.\n\nFor couples seeking a romantic retreat, our Maldives Honeymoon Packages promise intimate moments against the backdrop of breathtaking sunsets. Picture private dinners on the beach, spa treatments for two, and leisurely strolls on pristine shores.\n\nFamilies can create lasting memories with our Maldives Family Packages, designed to cater to all ages. Enjoy water sports, island-hopping, and engaging activities that ensure everyone has a fantastic time in this tropical wonderland.\n\nThe Maldives, with its unique charm and warm hospitality, awaits your discovery. Allow our Maldives Tour Packages to be your guide to this slice of paradise, where every moment is a celebration of life, love, and luxury. Dive into the beauty of the Maldives and let the memories created here linger in your heart forever.",
+    "ytvideo": "",
+    "itinerary": [
+      {
+        "title": "Arrival in Maldives",
+        "description": "<ul><li>Welcome to the tropical paradise of Maldives! After reaching there, get transferred by a speedboat/sea plane to your resort check-in to your room.</li><li>Spend the day relaxing and admiring the views of crystal clear waters ebbing sandy beaches.</li></ul>"
+      },
+      {
+        "title": "Day at leisure | Optional Water sports",
+        "description": "<ul><li>After a hearty breakfast today, we have many recommendations for you.</li><li>You may choose to take a sunbath on the beach, go for a swim or do absolutely nothing!.</li><li>If adventure is what you like, opt for some water sports like snorkeling, windsurfing, or have fun on a banana boat ride</li></ul>"
+      },
+      {
+        "title": "Day at Leisure | Optional activity: Night Fishing",
+        "description": "<ul><li>Wake up and head for a fulfilling breakfast and spend the day chilling at the resort and relaxing around the beach.</li><li>Our special recommendation for today is Maldives favorite traditional activity-Night fishing.</li><li>Using hand lines and raw fish as bait, this has all the ingredients for an adventurous family outing. Catch some nocturnal fish under the beautiful starlit sky.</li><li>The ambiance, the mood everything is so magical and we assure you will enjoy this rare experience to the hilt.</li><li>Return to your hotel after this truly exciting adventure and rest overnight as you pack your bags to return home tomorrow.</li></ul>"
+      },
+      {
+        "title": "Day at Leisure ",
+        "description": "<ul><li>Wake up and head for a fulfilling breakfast and spend the day chilling at the resort and relaxing around the beach.</li><li>Our special recommendation for today is Maldives favorite traditional activity-Night fishing.</li><li>Using hand lines and raw fish as bait, this has all the ingredients for an adventurous family outing. Catch some nocturnal fish under the beautiful starlit sky.</li><li>The ambiance, the mood everything is so magical and we assure you will enjoy this rare experience to the hilt.</li><li>Return to your hotel after this truly exciting adventure and rest overnight as you pack your bags to return home tomorrow.</li></ul>"
+      },
+      {
+        "title": "Drop back to the airport",
+        "description": "<ul><li>Wake up and after breakfast get ready to transfer to Male airport with some amazing memories of this paradise.</li></ul>"
+      }
+    ],
+    "notes": [
+      "Note 1: Age Limit for Group Departures: Please note that the age limit for our group departures is set between 16 to 42 years. This age range is specifically tailored to accommodate the dynamic and energizing itineraries we offer to our travelers. However, we are more than happy to personalize trips for travelers beyond the specified age bracket upon request.",
+      "Note 2: Itinerary Flexibility: Kindly be aware that several factors, including weather conditions, road situations, and the physical capabilities of participants, may prompt alterations to the planned itinerary. We reserve the right to modify any schedule in the interest of ensuring safety, comfort, and the overall well-being of our travelers. Adjustments, if any, will be made with careful consideration to enhance your experience while prioritizing your safety and convenience."
+    ],
+    "photos": [
+      "https://images.pexels.com/photos/1483053/pexels-photo-1483053.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "https://images.pexels.com/photos/1450363/pexels-photo-1450363.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "https://images.pexels.com/photos/3601426/pexels-photo-3601426.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "https://images.pexels.com/photos/1430676/pexels-photo-1430676.jpeg?auto=compress&cs=tinysrgb&w=600"
+    ],
+    "testimonials": [],
+    "costing": [],
+    "inclusions": "",
+    "exclusions": "",
+    "other": "",
+    "thingtocarry": "",
+    "similartrips": ["dubai", "vietnam"],
+    "trending": true
+  },
+  "sri-lanka": {
+    "tour": "international",
+    "title": "Wonders Of Sri Lanka - 8 Days Sri Lanka Tour Package",
+    "imageUrl": "/assets/srilanka-package.jpg",
+    "date": "10-01-24",
+    "duration": "7N - 8D",
+    "link": "/trips/sri-lanka",
+    "tagline": "Discover the Jewel of the Indian Ocean with Our Sri Lanka Tour Packages",
+    "destination": "Sri Lanka to Colombo",
+    "pickanddrop": "Sri Lanka to Colombo",
+    "about": "Unveiling the Enchantment of Sri Lanka - Your Tropical Island Paradise Awaits!\n    Embark on a breathtaking journey to Sri Lanka, the Jewel of the Indian Ocean, with our curated Sri Lanka Tour Packages. This dazzling island nation is a tapestry of wonders, where pristine beaches shimmer like scattered diamonds, emerald rainforests teem with vibrant life, and ancient rock formations rise like mystical guardians. From the frothy crests of turquoise waves to the mist-shrouded peaks, Sri Lanka promises an unforgettable tapestry of experiences.\n    UNESCO Treasures\n    Immerse yourself in the rich tapestry of Sri Lanka's heritage, dotted with UNESCO World Heritage Sites that whisper tales of a bygone era.\n        Sigiriya Fortress: Ascend the iconic Lion Rock, marveling at the 360-degree panorama that unfolds beneath your feet. This ancient marvel of urban planning offers a glimpse into a glorious past.\n    Dambulla Caves: Step into a wonderland of devotion at the Dambulla Caves, a sprawling complex adorned with intricate carvings of Buddha, Hindu deities, and ancient kings.\n    Kandy: Embrace the spiritual aura of Kandy, a sacred city cradling the venerated Tooth Relic temple, a treasure revered by Buddhists worldwide.\n Wildlife Encounters\n Unleash your inner explorer and delve into the untamed beauty of Sri Lanka's wilderness.\n    Minneriya National Park: Embark on an unforgettable jeep safari through the golden grasslands of Minneriya National Park. Keep your eyes peeled for majestic Asiatic elephants, elusive leopards, and a kaleidoscope of birdlife.\n    Turtle Hatchery: Witness the miracle of life at the Bentota turtle hatchery, where you can learn about the fascinating lifecycle of these gentle giants.\n City Delights\n Beyond the natural wonders, Sri Lanka's bustling metropolises offer unique charms.\n    Colombo: Dive into the vibrant pulse of Colombo, the commercial capital, where modern skyscrapers mingle with colonial relics and bustling street markets.\n    Nuwara Eliya: Escape to the cool embrace of Nuwara Eliya, nestled amidst verdant hills. Renowned for its Ceylon tea plantations, this town offers a timeless charm.\n Sri Lanka beckons with a kaleidoscope of adventures – from sun-kissed beaches to verdant rainforests, ancient ruins to thrilling safaris. Let our Sri Lanka Tour Packages guide you on an unforgettable journey through this island paradise, where every corner promises a story waiting to be unveiled.",
+    "ytvideo": "",
+    "itinerary": [
+      {
+        "title": "Arrival in Sri Lanka. Transfer to Dambulla, en route visit Elephant Orphanage.",
+        "description": "<ul><li>Arrive in Sri Lanka and clear your immigration and visa formalities at the airport.</li><li>Meet your chauffeur and get transferred to Dambulla.</li><li>On the way, we will take you to the Pinnawala Elephant Orphanage wherein you can feed and bathe the elephants.</li><li>Reach Dambulla which is famous for its tropical forest, rock formations and ancient temples.</li><li>Overnight stay in Dambulla.</li></ul>"
+      },
+      {
+        "title": "Explore Sigiriya Rock Fortress. Jeep Safari in the tropical forest.",
+        "description": "<ul><li>After having an early breakfast, get ready to proceed to Sigiriya Rock Fortress which is a UNESCO World Heritage site.</li><li>We will have to climb around 1200 steps to reach the top and further explore this magnificent ancient town.</li><li>Next, we head towards the Minneriya National Park for a thrilling jeep safari to watch the tropical wildlife of Sri Lanka closely.</li><li>Overnight stay in Habarana.</li></ul>"
+      },
+      {
+        "title": "Habarana to Kandy via Dambulla Cave. Kandy City Tour.",
+        "description": "<ul><li>Have your breakfast at the hotel and board your transfer to Kandy.</li><li>On the way we will take a short stopover to explore the Dambulla Cave Temple, another UNESCO World Heritage Site that can be accessed by climbing 300 stairs. (optional)</li><li>Reach the Sacred City of Kandy - a UNESCO World Heritage Site to enjoy the Kandy City Tour.</li><li>Later, Visit the temple of the Sacred Tooth Relic, where the left canine tooth of Gautama Buddha is enshrined.</li><li>Overnight stay in Kandy.</li></ul>"
+      },
+      {
+        "title": "Kandy to Nuwara Eliya. City Tour of Nuwara Eliya and around.",
+        "description": "<ul><li>Post breakfast at the hotel, transfer to Nuwara Eliya.</li><li>Check-in at the hotel and head out to visit the Ramboda waterfall for a natural retreat.</li><li>Next, we will learn about the tea manufacturing process by visiting the aromatic tea plantations and a tea factory.</li><li>Later, visit the Sri Baktha Hanuman Temple on a small hilltop 30 kms from Nuwara Eliya.</li><li>Return back to Nuwara Eliya to embark on a city tour.</li><li>Conclude the day by seeking the blessings of goddess Sita at the Seetha Amman Temple, one of the important shrines of the Ramayana circuit in Sri Lanka.</li><li>Overnight stay in Nuwara Eliya.</li></ul>"
+      },
+      {
+        "title": "Nuwara Eliya to Bentota. Day at leisure",
+        "description": "<ul><li>Post breakfast at the hotel, transfer to Bentota.</li><li>Check-in and spend the rest of the day at leisure.</li><li>You can go around exploring this coastal town or sit leisurely by the beach.</li><li>Overnight stay in Bentota.</li></ul>"
+      },
+      {
+        "title": "Explore Bentota. Visit Turtle Hatchery and Madu Ganga boat ride.",
+        "description": "<ul><li>Have your breakfast at the hotel and travel to Kosgoda.</li><li>Visit the Turtle Hatchery to understand the life cycle of sea turtles right from birth.</li><li>Further, we have arranged a pleasant boat ride in Madu Ganga for relaxation.</li><li>Overnight stay in Bentota.</li></ul>"
+      },
+      {
+        "title": "Bentota to Colombo. City Tour and Shopping in Colombo.",
+        "description": "<ul><li>Have your breakfast at the hotel in Bentota.</li><li>Next, board your transfers to Colombo - the capital city.</li><li>Check-in and we will then begin our Colombo city tour which will take us through the major attractions in the city.</li><li>We have planned this evening for you to indulge in a shopping spree.</li><li>Overnight stay in Colombo.</li></ul>"
+      },
+      {
+        "title": "Departure with a lot of memories to cherish.",
+        "description": "<ul><li>After breakfast at the hotel, proceed to the airport for your onward journey.</li><li>Your tour concludes once we drop you off at the airport.</li></ul>"
+      }
+    ],
+    "notes": [
+      "Note 1: Age Limit for Group Departures: Please note that the age limit for our group departures is set between 16 to 42 years. This age range is specifically tailored to accommodate the dynamic and energizing itineraries we offer to our travelers. However, we are more than happy to personalize trips for travelers beyond the specified age bracket upon request.",
+      "Note 2: Itinerary Flexibility: Kindly be aware that several factors, including weather conditions, road situations, and the physical capabilities of participants, may prompt alterations to the planned itinerary. We reserve the right to modify any schedule in the interest of ensuring safety, comfort, and the overall well-being of our travelers. Adjustments, if any, will be made with careful consideration to enhance your experience while prioritizing your safety and convenience."
+    ],
+    "videos": ["https://www.youtube.com/embed/Qipxi1Qn8iE?si=6v825NToNqEa8BIL"],
+    "photos": [
+      "https://media.istockphoto.com/id/1346277278/photo/lighthouse-in-galle-fort.webp?b=1&s=170667a&w=0&k=20&c=7NERO7uA1baXOtIsgoL9jbLBJ-0hOd40qP3lVqnDqtQ=",
+      "https://media.istockphoto.com/id/1406974336/photo/train-passing-over-nine-arch-bridge.webp?b=1&s=170667a&w=0&k=20&c=uttgVyLnZFGTHZj9L4LOlR9kzn-l3x0KVhHxyR1MBMg=",
+      "https://img.freepik.com/free-photo/tourism-travel-adventure-stylish-young-hipster-sitting-stone-with-bare-feet-turning-his-head-back-see-amazing-waterfall_273609-1867.jpg?size=626&ext=jpg&ga=GA1.1.1546980028.1704240000&semt=ais",
+      "https://media.istockphoto.com/id/952716620/photo/happy-smiling-woman-looks-out-from-window-traveling-by-train-on-most-picturesque-train-road-in.jpg?s=612x612&w=0&k=20&c=UDm48ZaBsua2eribAC2fyvOjeHJZeUE0DwCUnfcVbxE=",
+      "https://img.freepik.com/free-photo/beautiful-girl-standing-boat-looking-mountains-ratchaprapha-dam-khao-sok-national-park-surat-thani-province-thailand_335224-849.jpg?size=626&ext=jpg&ga=GA1.1.1546980028.1704240000&semt=ais"
+    ],
+    "testimonials": [],
+    "costing": [],
+    "inclusions": "",
+    "exclusions": "",
+    "other": "",
+    "thingtocarry": "",
+    "similartrips": ["maldives", "bali"],
+    "trending": true
+  },
+  "singapore": {
+    "tour": "international",
+    "title": "Best of Singapore in 5 Days",
+    "imageUrl": "/assets/Destinations/Singapore/singapore.avif",
+    "date": "10-01-24",
+    "duration": "4N - 5D",
+    "price": "79,999",
+    "link": "/trips/singapore",
+    "tagline": "A paradise of sun, sand, and smiles indeed",
+    "destination": "Singapore",
+    "pickanddrop": "Changi Airport",
+    "about": "Imagine a journey that takes you into a world of wonders – that's the magic of our Singapore tour. From the moment you arrive, be ready to be swept off your feet. Step into a realm of excitement as you embark on the captivating Night Safari. Witness animals come alive in their nocturnal habitat, creating unforgettable memories.\n\nThe heart of Singapore beckons with a vibrant city tour. Discover iconic landmarks like the Merlion Statue and the stunning Marina Floating Bay. Sentosa Island invites you to embrace adventure. Glide over the island on a cable car, race down thrilling Luge tracks, and be dazzled by the Wings of Time spectacle.\n\nFind yourself atop the world at Sands Sky Park Observation Deck, gazing upon the stunning skyline. Gardens by the Bay mesmerizes with its surreal Supertrees and lush domes, evoking awe and joy.\n\nRelaxation is woven into the fabric of this journey. A day of leisure lets you explore Singapore your way – bask on beautiful beaches, dive into Universal Studios' fun, or immerse in interactive museums.\n\nAs you depart, a treasure trove of joyful memories accompanies you. Our Singapore tour isn't just a trip; it's a symphony of adventure, relaxation, and happiness. Let these memories be the stars that light up your heart for years to come.",
+    "ytvideo": "",
+    "itinerary": [
+      {
+        "title": "Arrive In Singapore. Embark On The Night Safari Tour.",
+        "description": "<ul><li>Upon your arrival in Singapore, complete the immigration process at the airport.</li><li>Meet our representative, who will help you board your transfers to your hotel.</li><li>Upon reaching, check in to your hotel and have some rest.</li><li>In the evening, head out to the Nocturnal Zoo of Singapore.</li><li>Enjoy a thrilling Night Safari tour as you visit the 7 different zones in the park and watch the animals closely.</li><li>Upon completing the Night Safari, head back to your hotel.</li><li>Overnight stay in Singapore.</li></ul>"
+      },
+      {
+        "title": "Singapore City Tour. Evening at Sentosa Island.",
+        "description": "<ul><li>Have your breakfast in the morning and get ready for the day.</li><li>Board your transfers for your Singapore City Tour.</li><li>On this city tour, you will visit some of the major landmarks in Singapore.</li><li>You will visit places like Art Science Museum, the iconic Merlion Statue, the scenic Marina Floating Bay, and the Helix Bridge.</li><li>Upon completing the sightseeing, head out to have some fun on Sentosa Island.</li><li>Start off by taking a scenic cable car ride, where you can marvel at the surrounding sea views.</li><li>You will also spend some quality time together by enjoying a Skyride where you can marvel at the panoramic vistas of the entire island.</li><li>Have some fun with your partner as you glide down the island on a Luge, which is a fun activity to explore around.</li><li>Post evening, get captivated by the famous laser, fountain and fireworks show - the Wings of Time, which is set against the backdrop of an open sea.</li><li>Upon completing the day’s sightseeing, return back to your hotel.</li><li>Overnight stay in Singapore.</li></ul>"
+      },
+      {
+        "title": "Sands Sky Park Observation Deck. Gardens by the Bay.",
+        "description": "<ul><li>Post breakfast in the morning, head out to have a fun day.</li><li>Start by visiting the Sands Sky Park Observation Deck located on the top of 57 floored Marina Bay Sands buildings.</li><li>You can spend some peaceful time watching the stunning views of Singapore Skyline meet the sky at the horizon.</li><li>Later, in the afternoon, enjoy your visit to the Gardens By the Bay.</li><li>Stroll through the enchanting landscape of the flower and cloud dome here.</li><li>Enjoy the refreshing atmosphere here with cascading waterfalls, a mist-filled ambiance and a unique collection of plants from around the world.</li><li>Spend some time admiring the futuristic Supertrees that light up dazzling against the night sky.</li><li>After enjoying this amazing day, return back to your hotel.</li><li>Overnight stay in Sentosa Island.</li></ul>"
+      },
+      {
+        "title": "Day at Laisure in Singapore.",
+        "description": "<ul><li>After having your breakfast at the hotel in the morning, you can spend the rest of the day leisurely.</li><li>On this leisure day, you can choose to explore Singapore on your own.</li><li>You can visit the pristine beaches, spend the day having fun at Universal Studios, Visit the interactive museums in Singapore, and much more.</li><li>Overnight stay in Singapore.</li></ul>"
+      },
+      {
+        "title": "Departure. Take back a lot of happy memories.",
+        "description": "<ul><li>Have your breakfast in the morning and pack your bags.</li><li>Board your transfer to Changi Airport for your onward journey.</li><li>Your amazing Singapore Tour concludes once you are dropped off at the airport.</li><li>Take back a lot of happy memories to cherish for a lifetime.</li></ul>"
+      }
+    ],
+    "notes": [
+      "Note 1: Age Limit for Group Departures: Please note that the age limit for our group departures is set between 16 to 42 years. This age range is specifically tailored to accommodate the dynamic and energizing itineraries we offer to our travelers. However, we are more than happy to personalize trips for travelers beyond the specified age bracket upon request.",
+      "Note 2: Itinerary Flexibility: Kindly be aware that several factors, including weather conditions, road situations, and the physical capabilities of participants, may prompt alterations to the planned itinerary. We reserve the right to modify any schedule in the interest of ensuring safety, comfort, and the overall well-being of our travelers. Adjustments, if any, will be made with careful consideration to enhance your experience while prioritizing your safety and convenience."
+    ],
+    "videos": [],
+    "photos": [
+      "https://images.pexels.com/photos/15831727/pexels-photo-15831727/free-photo-of-woman-standing-on-a-suspension-bridge-palawan-beach-sentosa-island-singapore.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "https://images.pexels.com/photos/15480462/pexels-photo-15480462/free-photo-of-esplanade-theatres-on-the-bay-in-singapore-at-night.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "https://images.pexels.com/photos/7371704/pexels-photo-7371704.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "https://images.pexels.com/photos/15480510/pexels-photo-15480510/free-photo-of-cityscape-of-singapore.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "https://images.pexels.com/photos/2689554/pexels-photo-2689554.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "https://images.pexels.com/photos/5227766/pexels-photo-5227766.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "https://images.pexels.com/photos/5148944/pexels-photo-5148944.jpeg?auto=compress&cs=tinysrgb&w=600"
+    ],
+    "testimonials": [],
+    "costing": [],
+    "inclusions": "",
+    "exclusions": "",
+    "other": "",
+    "thingtocarry": "",
+    "similartrips": ["maldives", "bali-tour"],
     "trending": true
   }
 }

@@ -11,11 +11,13 @@ const pages = async ({ params }) => {
   const { title, date, contentHtml } = await getPostData(id);
   //   const pubDate = getFormattedDate(date)
   return (
-    <main className="px-6 pt-36 list-inside">
+    <div className="px-48 pt-36 list-inside">
+      <h1 className="text-3xl text-darkbl font-bold">{title}</h1>
+      <h2 className="text-lg text-right">{getFormattedDate(date)}</h2>
       <article>
         <section dangerouslySetInnerHTML={{ __html: contentHtml }} />
       </article>
-    </main>
+    </div>
   );
 };
 

@@ -8,18 +8,22 @@ import Secrets from "@components/Secret";
 import Looking from "./pages/Home/Connect";
 import Faq from "@components/FAQ";
 import Form from "@components/Form";
-
+import FeaturedBanner from "@components/FeaturedBanner";
 import tripsData from "@json/trips.json";
 
 export default function Home() {
   return (
     <main className=" flex flex-col gap-y-9">
-      <Hero />
+      <Hero data={tripsData} />
       <Feature />
       <Packages data={tripsData} />
-      <Review />
       <Looking />
-      {/* <Secrets /> */}
+      <Secrets />
+      <FeaturedBanner
+        image="/assets/Home/bhutan_desktop.jpg"
+        link="/international-trips/bhutan"
+      />
+      <Review />
       <Faq />
       <Form />
     </main>

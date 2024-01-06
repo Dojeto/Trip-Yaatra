@@ -8,7 +8,13 @@ const PackageCard = (props) => {
     <div className="relative w-full tblt:w-auto tblt:min-w-72  flex flex-col justify-between items-stretch border border-gray-200 bg-white rounded-xl p-3 m-[2%]  shadow-xl ">
       <div className="h-full flex flex-col justify-between items-start">
         <div className="absolute z-10 bg-yellow-300 p-1 top-[-5px] right-[-5px] rounded-md shadow-xl lg:text-sm">
-          <span className=" font-bold ">₹{price}/- </span>Onwards
+          {price ? (
+            <>
+              <span className=" font-bold ">₹{price}/- </span>Onwards
+            </>
+          ) : (
+            <span className="font-medium">Customized</span>
+          )}
         </div>
         <div className="flex flex-col justify-start items-start">
           <img

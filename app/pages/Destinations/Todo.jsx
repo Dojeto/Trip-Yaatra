@@ -4,7 +4,7 @@ import DestinationCard from "@components/DestinationCard";
 const Todo = (props) => {
   const { data } = props;
   return (
-    <div className="mx-[9%] flex flex-col justify-center items-center">
+    <div className="mx-[9%] flex flex-col justify-start items-start">
       <div>
         <h2 className=" m-3 font-bold text-left text-darkbl text-5xl">
           {data?.todos?.title}

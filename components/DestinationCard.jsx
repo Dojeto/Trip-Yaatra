@@ -9,7 +9,7 @@ const DestinationCard = (props) => {
       {/* <div className="flex flex-col justify-between items-start"> */}
       <img
         className=" rounded-t-md aspect-video object-cover"
-        src={imageUrl}
+        src={imageUrl ? imageUrl : "/assets/loading.gif"}
         alt="image"
       />
       {time && (
