@@ -8,7 +8,6 @@ import Itinerary from "./Itinerary";
 import AboutTrip from "./AboutTrip";
 import Date from "./Date";
 import Others from "./Others";
-import Review from "@components/Review";
 import Link from "next/link";
 const Details = (props) => {
   const {
@@ -18,15 +17,14 @@ const Details = (props) => {
     about,
     notes,
     photos,
-    videos,
     ytvideo,
     similartrips,
-    itinerary
+    itinerary,
   } = props;
   // console.log(props);
   const info = {
     about: <AboutTrip about={about} />,
-    itinerary: <Itinerary notes={notes} itinerary={itinerary}/>,
+    itinerary: <Itinerary notes={notes} itinerary={itinerary} />,
     date: <Date />,
     other: <Others />,
   };
@@ -52,17 +50,22 @@ const Details = (props) => {
                 <h2>{duration}</h2>
               </div>
             </div>
-            <div className="text-center m-2">
-              <div className=" bg-zinc-300 rounded-full w-fit p-3 m-3">
-                <LiaRupeeSignSolid size={32} />
+            {price ? (
+              <div className="text-center m-2">
+                <div className=" bg-zinc-300 rounded-full w-fit p-3 m-3">
+                  <LiaRupeeSignSolid size={32} />
+                </div>
+                <div>
+                  <h2>Starting Price</h2>
+                </div>
+                <div className=" font-bold text-lg">
+                  <h2>₹{price}/-</h2>
+                </div>
               </div>
-              <div>
-                <h2>Starting Price</h2>
-              </div>
-              <div className=" font-bold text-lg">
-                <h2>₹{price}/-</h2>
-              </div>
-            </div>
+            ) : (
+              <></>
+            )}
+
             <div className="text-center mt-2 mb-2">
               <div className=" bg-zinc-300 rounded-full w-fit p-3 ml-8 mt-3 mb-3">
                 <IoLocationSharp size={32} />
@@ -107,31 +110,9 @@ const Details = (props) => {
         </div>
         <div>{info[selected]}</div>
         <div>
-          <h1 className="mt-10 text-3xl font-bold ">Videos</h1>
-          <div className="w-full flex overflow-x-scroll gap-8 no-scrollbar">
-            {videos.map((ele,i) => {
-              return (
-                <>
-                  <iframe
-                    key={i}
-                    className=" rounded-md"
-                    width={390}
-                    height={220}
-                    src={ele}
-                    title="YouTube video player"
-                    frameBorder="0"
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                    allowFullScreen
-                  ></iframe>
-                </>
-              );
-            })}
-          </div>
-        </div>
-        <div>
           <h1 className="mt-10 text-3xl font-bold">Photos</h1>
           <div className="w-full flex overflow-x-scroll gap-8 no-scrollbar">
-            {photos.map((ele,i) => {
+            {photos.map((ele, i) => {
               return (
                 <>
                   <img

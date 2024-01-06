@@ -14,7 +14,11 @@ const Accordian = (props) => {
   return (
     <div className="">
       <button
-        className=" bg-zinc-300 rounded-xl w-[600px] pl-4 pr-4 mb-4 "
+        className={
+          isShowing
+            ? "bg-[#3a3a3a] text-white transition-all ease-in-out  rounded-xl w-[600px] pl-4 pr-4 mb-4 "
+            : " bg-zinc-300 rounded-xl w-[600px] pl-4 pr-4 mb-4 "
+        }
         onClick={toggle}
         type="button"
       >
@@ -25,7 +29,7 @@ const Accordian = (props) => {
         </div>
       </button>
       <div
-        className={`p-2  bg-zinc-300 mt-2 rounded-xl w-96 mb-4 ${
+        className={`p-2  bg-zinc-300 mt-2 rounded-xl w-7/12 mb-4 list-inside ${
           isShowing ? "" : "hidden"
         }`}
         dangerouslySetInnerHTML={{
