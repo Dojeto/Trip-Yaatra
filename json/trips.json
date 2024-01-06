@@ -346,7 +346,7 @@
     "imageUrl": "/assets/vietnam-package.jpg",
     "date": "10-05-10",
     "duration": "6N - 7D",
-    "price": "27,999",
+    "price": "62,999",
     "link": "/trips/7n-8d-best-of-vietnam-tour-package",
     "tagline": "Explore The Untamed Beauty, Coupled With Unparalleled Adventure",
     "destination": "Hanoi- Ho Chi Minh",
@@ -355,8 +355,36 @@
     "ytvideo": "",
     "itinerary": [
       {
-        "title": "Hanoi Arrival - Half-Day City Tour. Overnight Stay At Hanoi",
-        "description": "Arrive at Noi Bai International Airport in Hanoi Meet your local guide and transfer to your hotel In the afternoon we will start exploring Hanoi by visiting the famous Train Street Next, we will visit Ba Dinh Square – the biggest square in Hanoi that houses the Complex of Ho Chi Minh alongside There you will visit the Ho Chi Minh Mausoleum, Ho Chi Minh's house-on-stilts, and his fish pond We will also visit the Japanese-style one-pillar Pagoda Further, you will visit Tran Quoc Pagoda located on a small peninsula on the East side of the dazzling West Lake, which is the most ancient pagoda in Hanoi with a history line of more than 1,500 years Later, we will stroll around the Old Quarters of Hanoi and the Hoan Kiem Lake (the “Sword” Lake) After completing the day's sightseeing you will transfer back to your hotel Overnight stay in Hanoi"
+        "title": "Hanoi Arrival – Half-Day City Tour. Overnight Stay At Hanoi",
+        "description": "<ul><li>Arrive at Noi Bai International Airport in Hanoi</li><li>Meet your local guide and transfer to your hotel</li><li>In the afternoon we will start exploring Hanoi by visiting the famous Train Street</li><li>Next, we will visit Ba Dinh Square – the biggest square in Hanoi that houses the Complex of Ho Chi Minh alongside</li><li>There you will visit the Ho Chi Minh Mausoleum, Ho Chi Minh's house-on-stilts, and his fish pond</li><li>We will also visit the Japanese-style one-pillar Pagoda</li><li>Further, you will visit Tran Quoc Pagoda located on a small peninsula on the East side of the dazzling West Lake, which is the most ancient pagoda in Hanoi with a history line of more than 1,500 years</li><li>Later, we will stroll around the Old Quarters of Hanoi and the Hoan Kiem Lake (the “Sword” Lake)</li><li>After completing the day's sightseeing you will transfer back to your hotel</li><li>Overnight stay in Hanoi</li></ul>"
+      },
+      {
+        "title":"Hanoi – Halong Bay – Hanoi – Lunch On A Local Food Cruise. Overnight Stay In Hanoi.",
+        "description":"After breakfast at the hotel, depart for Halong Bay, a UNESCO World Heritage Site and one of Vietnam's most popular tourist destinations. Upon arrival at Tuan Chau Marina, check-in for a 4 hours day cruise.Enjoy a scenic cruise on a traditional Vietnamese junk boat through the limestone cliffs and emerald waters of the bay.Stop to explore some of the many caves and grottoes that dot the bay, and enjoy a delicious seafood lunch on board.Return to Hanoi in the late afternoon.Overnight stay at Hanoi"
+      },
+      {
+        "title":"Hanoi – Flight To Da Nang. Overnight Stay At Da Nang",
+        "description":"After breakfast, transfer to the airport for your flight to Da Nang.Upon arrival, transfer to your hotel(The normal check-in time is 14:00-15:00)Spend the rest of the day at your leisure.Overnight stay at Da Nang."
+      },
+      {
+        "title":"Da Nang - Marble Mountain Tour - Hoi An Ancient Town - Lantern Boat On Hoai River (B)",
+        "description":"Embarking on an exciting day, after breakfast at the hotel, we'll commence our journey at 9:00 am with a transfer to the captivating Marble Mountains. Scaling the Thuy Son via intricately carved stone stairs, we'll relish panoramic vistas of the countryside atop this water mountain. Our itinerary unfolds with a visit to Da Nang's splendid Huyen Khong cave temple, followed by explorations of the Tam Thai and Lingh Ung pagodas nestled within this natural marvel. Enthralled by the sight of the Cham Buddha bathed in a natural shaft of light within the main cave, we'll proceed to the Am Phu Caves, navigating impressive rock formations portraying Buddhist perspectives on hell or purgatory (inclusive of a one-way elevator). Venturing further, the Non-Nuoc village awaits, showcasing exquisite stone sculptures meticulously crafted by skilled artisans at the mountain's base. The afternoon beckons with the Basket Boat Tour, immersing us in the Coconut Boat Tour experience. Subsequently, our journey leads to Hoi An, a UNESCO Heritage town, where we'll traverse the 17th-century Japanese Bridge, testament to Japanese traders' historical presence. Our sojourn continues with visits to the serene Chinese Assembly Halls, charming ancient houses, and the enchanting melodies of Central Vietnamese folk music at old clubhouses. Amidst the vibrant ambiance, we'll explore shrines, peruse the riverside market on Thu Bon River, and perhaps acquire lanterns or commission silk garments tailored within a day. As dusk descends, a serene 15-20 minute boat ride through a sea of floating flower lanterns awaits, offering the option to release a lantern for the prosperity and well-being of loved ones. Culminating our day's adventures, we return to Danang for a restful "
+      },
+      {
+        "title":"Da Nang – Ba Na Hill – Da Nang. Overnight Stay At Da Nang",
+        "description":"Embarking post-breakfast, our journey ventures towards Ba Na Hill, a picturesque French-inspired hill station boasting breathtaking vistas of surrounding mountains and the coastline. Aboard the world's longest cable car, our ascent to the hill's summit promises awe-inspiring panoramas. Atop, a plethora of attractions beckons exploration, encompassing the renowned Golden Bridge, the whimsical delights of Fantasy Park, and the serene Linh Ung Pagoda. Engaging in an array of activities and games amidst the charm of Fantasy Park, the day unfolds with delight and adventure. As the late afternoon approaches, a serene descent via cable car leads us back to the foothills, where our return journey to Da Nang begins. Resting overnight in Da Nang, we reminisce about a day filled with enchantment and scenic wonders at Ba Na Hill."
+      },
+      {
+        "title":"Da Nang To Saigon. Day At Leisure",
+        "description":"Following a satisfying breakfast at the hotel, our journey proceeds as we board transfers destined for the airport in Danang. A flight to Ho Chi Minh City, fondly known as Saigon, situated in the southern region of Vietnam, awaits us. Upon arrival at Ho Chi Minh airport, a warm welcome awaits from our local tour guide, facilitating a seamless transfer to the vibrant downtown area. There, we'll proceed to check-in at our hotel, marking the commencement of a leisurely day to explore at your own pace. Enjoy the freedom to discover the city's charm and unique offerings, immersing oneself in the cultural tapestry of Saigon. As the day draws to a close, settle in for a restful overnight stay in the lively and bustling city of Saigon."
+      },
+      {
+        "title":"Saigon – Cu Chi Tunnels – Free Afternoon. Overnight Stay At Saigon",
+        "description":"Post-breakfast, the day commences with a scenic morning drive towards the historically significant Cu Chi Tunnels, an extensive network utilized by the Viet Cong during the Vietnam War. Delve into the tunnels' depths, immersing yourself in their historical narrative and understanding their pivotal significance. Gain insights into the ingenious design, purpose, and the resilience exhibited by those who lived within these underground passageways. Experience a firsthand glimpse into the challenging conditions faced by soldiers as you crawl through a short section of the tunnels, allowing for a sense of their narrow confines and the intense heat that characterized life within. Subsequently, return to Saigon, where the afternoon beckons with leisure time, providing opportunities for personal exploration, sightseeing, or indulging in the vibrant shopping scene the city offers. Whether discovering local attractions or engaging in retail therapy, the afternoon invites you to relish the charm and diversity of Saigon at your own pace. As evening descends, retreat for an overnight stay in the dynamic city, reflecting on the day's immersive historical journey and the vibrant present-day allure of Saigon."
+      },
+      {
+        "title":"Saigon – Departure",
+        "description":"After breakfast, check out and head to the airport for your departure flight. Enjoy your trip to Vietnam!"
       }
     ],
     "notes": [
@@ -364,14 +392,16 @@
       "Note 2: Itinerary Flexibility: Kindly be aware that several factors, including weather conditions, road situations, and the physical capabilities of participants, may prompt alterations to the planned itinerary. We reserve the right to modify any schedule in the interest of ensuring safety, comfort, and the overall well-being of our travelers. Adjustments, if any, will be made with careful consideration to enhance your experience while prioritizing your safety and convenience."
     ],
     "videos": [],
-    "photos": [],
+    "photos": [
+      "https://images.unsplash.com/photo-1528127269322-539801943592?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D","https://images.unsplash.com/photo-1504457047772-27faf1c00561?q=80&w=1894&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D","https://images.unsplash.com/photo-1583417319070-4a69db38a482?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D","https://images.unsplash.com/photo-1557750255-c76072a7aad1?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
     "testimonials": [],
     "costing": [],
     "inclusions": "",
     "exclusions": "",
     "other": "",
     "thingtocarry": "",
-    "similartrips": [],
+    "similartrips": ["bali-tour","thailand"],
     "trending": true
   },
   "bali-tour": {
@@ -380,7 +410,7 @@
     "imageUrl": "/assets/bali-package.jpg",
     "date": "10-05-10",
     "duration": "6N - 7D",
-    "price": "27,999",
+    "price": "89,999",
     "link": "/trips/bali-tour",
     "tagline": "Bali, the Indonesian paradise, captivates with its stunning landscapes, vibrant culture, and spiritual allure.",
     "destination": "Mumbai",
@@ -398,14 +428,14 @@
       "Note 2: Itinerary Flexibility: Kindly be aware that several factors, including weather conditions, road situations, and the physical capabilities of participants, may prompt alterations to the planned itinerary. We reserve the right to modify any schedule in the interest of ensuring safety, comfort, and the overall well-being of our travelers. Adjustments, if any, will be made with careful consideration to enhance your experience while prioritizing your safety and convenience."
     ],
     "videos": [],
-    "photos": [],
+    "photos": ["https://images.unsplash.com/photo-1544644181-1484b3fdfc62?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D","https://images.unsplash.com/photo-1501179691627-eeaa65ea017c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D","https://images.unsplash.com/photo-1557093793-e196ae071479?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D","https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"],
     "testimonials": [],
     "costing": [],
     "inclusions": "",
     "exclusions": "",
     "other": "",
     "thingtocarry": "",
-    "similartrips": [],
+    "similartrips": ["7n-8d-best-of-vietnam-tour-package","bhutan"],
     "trending": true
   },
   "bhutan": {
@@ -432,14 +462,14 @@
       "Note 2: Itinerary Flexibility: Kindly be aware that several factors, including weather conditions, road situations, and the physical capabilities of participants, may prompt alterations to the planned itinerary. We reserve the right to modify any schedule in the interest of ensuring safety, comfort, and the overall well-being of our travelers. Adjustments, if any, will be made with careful consideration to enhance your experience while prioritizing your safety and convenience."
     ],
     "videos": [],
-    "photos": [],
+    "photos": ["https://images.unsplash.com/photo-1580649851649-992b28f56e98?q=80&w=1931&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D","https://images.unsplash.com/photo-1597658333270-8c0d8f0eb845?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D","https://images.unsplash.com/photo-1608659377506-3b4fec4f7634?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D","https://images.unsplash.com/photo-1566020586758-23d5e0ff7a64?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"],
     "testimonials": [],
     "costing": [],
     "inclusions": "",
     "exclusions": "",
     "other": "",
     "thingtocarry": "",
-    "similartrips": [],
+    "similartrips": ["maldives","thailand"],
     "trending": true
   },
   "thailand": {
