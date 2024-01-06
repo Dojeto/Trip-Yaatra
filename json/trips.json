@@ -340,14 +340,14 @@
     "trending": true
   },
 
-  "7n-8d-best-of-vietnam-tour-package": {
+  "vietnam": {
     "tour": "international",
     "title": "Vietnam:Timeless Beauty, Endless Adventures",
     "imageUrl": "/assets/vietnam-package.jpg",
     "date": "10-05-10",
     "duration": "6N - 7D",
     "price": "27,999",
-    "link": "/trips/7n-8d-best-of-vietnam-tour-package",
+    "link": "/trips/vietnam",
     "tagline": "Explore The Untamed Beauty, Coupled With Unparalleled Adventure",
     "destination": "Hanoi- Ho Chi Minh",
     "pickanddrop": "Hanoi- Ho Chi Minh",
@@ -374,14 +374,14 @@
     "similartrips": [],
     "trending": true
   },
-  "bali-tour": {
+  "bali": {
     "tour": "international",
     "title": "Bali: Island of Gods",
     "imageUrl": "/assets/bali-package.jpg",
     "date": "10-05-10",
     "duration": "6N - 7D",
     "price": "27,999",
-    "link": "/trips/bali-tour",
+    "link": "/trips/bali",
     "tagline": "Bali, the Indonesian paradise, captivates with its stunning landscapes, vibrant culture, and spiritual allure.",
     "destination": "Mumbai",
     "pickanddrop": "Mumbai",
@@ -459,6 +459,34 @@
       {
         "title": "Arrive In Phuket. Transfer To Krabi.",
         "description": "<ul> <li>After having your breakfast at the hotel, pack your bag and board your transfers to Bangkok</li> <li>Upon reaching Bangkok, check in to your hotel and head out to explore Bangkok.</li> <li>On this tour, you will visit some of the famous temples like the Golden Buddha Temple, and Temple of the Emerald Buddha.</li> <li>We will also take you to the dazzling Gems Gallery, where you can shop for some precious and semi-precious stones.</li> <li>Upon completing the city tour, return back to your hotel.</li> <li>Overnight stay in Bangkok.</li> </ul>"
+      },
+      {
+        "title": "4 Island Tour by Speed Boat.",
+        "description": "<ul><li>Post breakfast in the morning, get ready to spend an amazing day in the ocean.</li><li>Board your transfers to the starting point of your speed boat.</li><li>Hop on to your speedboat and spend the day exploring the scenic islands around Krabi.</li><li>On this tour, you will visit the scenic Phranang Cave Beach, Tup Island, Poda Island and Chicken Island.</li><li>You will also take a small stopover in between to have your lunch.</li><li>Spend this day exploring the secluded beaches, admiring the limestone rock formations or sit leisurely by the beach watching the blue ocean.</li><li>Adventure couples can indulge in some fun water activities and discover more about each other while spending quality time in this romantic setting.</li><li>After exploring all the islands, return back to the mainland of Thailand.</li><li>Upon reaching, you will be transferred back to your hotel.</li><li>Overnight stay in Krabi.</li></ul>"
+      },
+      {
+        "title": "Krabi to Phuket. Cabaret Show in the evening.",
+        "description": "<ul><li>After having your breakfast in the morning, get ready for the day.</li><li>You will then board your transfers to Phuket.</li><li>Reach Phuket, check-in to the hotel and have some rest.</li><li>In the evening, watch the graceful movements of the artists as you enjoy the Simon Cabaret Show in Phuket.</li><li>Overnight stay in Phuket.</li></ul>"
+      },
+      {
+        "title": "Phi Phi Island Tour.",
+        "description": "<ul><li>Wake up to a beautiful tropical morning and have your breakfast at the hotel.</li><li>Next, get ready and board your transfers to the starting point of your speed boat.</li><li>Hop on to your speedboat and spend the day exploring the scenic Phi Phi islands.</li><li>Enjoy this day with your partner as you spend some leisure time gliding through the ocean waters.</li><li>Upon reaching the Phi Phi Islands, you will visit some of the iconic locations like the Maya Bay and some stunning limestone caves.</li><li>You can also stroll hand in hand on the scenic Monkey Beach.</li><li>You will also take a small stopover in between to have your lunch.</li><li>After exploring all the islands, return back to the mainland of Thailand.</li><li>Upon reaching, you will be transferred back to your hotel.</li><li>Overnight stay in Phuket.</li></ul>"
+      },
+      {
+        "title": "Phuket City Tour. Evening at Leisure.",
+        "description": "<ul><li>Have your breakfast in the morning and get ready to explore Phuket.</li><li>Board your transfers for the day, which will take you to some iconic landmarks across Phuket.</li><li>On this city tour, you will visit the famous Karon View Point to admire stunning views of the crescent-shaped Kata and Kata Noi Beaches.</li><li>You will also visit the historic Wat Chalong Temple and the famous Buddha Statue of Phuket.</li><li>Upon completing the city tour, you can spend the rest of the day at leisure.</li><li>Overnight stay in Phuket.</li></ul>"
+      },
+      {
+        "title": "Phuket to Bangkok. Evening Dinner Cruise.",
+        "description": "<ul><li>After having your breakfast at the hotel, pack your bag and board your transfers to the airport.</li><li>You will then board a 2-hour flight to Bangkok.</li><li>Upon reaching Bangkok, meet our representative who will transfer you to your hotel in Bangkok.</li><li>Upon reaching, check-in to your hotel and rest for some time.</li><li>In the evening, we will take you to enjoy a romantic dinner on a luxury cruise through the Chao Phraya River.</li><li>Marvel at the beautiful skyline of Thailand and enjoy the live performances.</li><li>Relish in the delicious buffet dinner in a perfect romantic setting.</li><li>After completing your dinner, return back to your hotel.</li><li>Overnight stay in Bangkok.</li></ul>"
+      },
+      {
+        "title": " Bangkok City Tour and Temple Tour.",
+        "description": "<ul><li>Wake up to a beautiful morning in Bangkok and have your breakfast.</li><li>Next, get ready to explore the iconic landmarks of Bangkok as you embark on a city tour today.</li><li>Board your transfers to begin your city tour.</li><li>On this tour, you will visit some of the famous temples like the Golden Buddha Temple, and Temple of the Emerald Buddha.</li><li>We will also take you to the dazzling Gems Gallery, where you can shop some precious and semi-precious stones.</li><li>Upon completing the city tour, return back to your hotel and have some rest.</li><li>Overnight stay in Bangkok.</li></ul>"
+      },
+      {
+        "title": "Departure. Take back a lot of romantic memories.",
+        "description": "<ul><li>Have your breakfast in the morning and pack your bags.</li><li>Board your transfer to Bangkok Airport for your onward journey.</li><li>Your amazing Thailand Honeymoon Tour concludes once you are dropped off at the airport.</li><li>Take back a lot of happy memories to cherish for a lifetime.</li></ul>"
       }
     ],
     "notes": [
@@ -466,14 +494,14 @@
       "Note 2: Itinerary Flexibility: Kindly be aware that several factors, including weather conditions, road situations, and the physical capabilities of participants, may prompt alterations to the planned itinerary. We reserve the right to modify any schedule in the interest of ensuring safety, comfort, and the overall well-being of our travelers. Adjustments, if any, will be made with careful consideration to enhance your experience while prioritizing your safety and convenience."
     ],
     "videos": [],
-    "photos": [],
+    "photos": ["https://images.pexels.com/photos/472309/pexels-photo-472309.jpeg?auto=compress&cs=tinysrgb&w=600","https://images.pexels.com/photos/937465/pexels-photo-937465.jpeg?auto=compress&cs=tinysrgb&w=600","https://images.pexels.com/photos/358229/pexels-photo-358229.jpeg?auto=compress&cs=tinysrgb&w=600","https://images.pexels.com/photos/208444/pexels-photo-208444.jpeg?auto=compress&cs=tinysrgb&w=600","https://images.pexels.com/photos/753885/pexels-photo-753885.jpeg?auto=compress&cs=tinysrgb&w=600"],
     "testimonials": [],
     "costing": [],
     "inclusions": "",
     "exclusions": "",
     "other": "",
     "thingtocarry": "",
-    "similartrips": [],
+    "similartrips": ["sri-lanka","dubai"],
     "trending": true
   },
   "dubai": {
@@ -544,14 +572,14 @@
     "similartrips": [],
     "trending": true
   },
-  "sri-lanka-tour-package": {
+  "sri-lanka": {
     "tour": "international",
     "title": "Wonders Of Sri Lanka - 8 Days Sri Lanka Tour Package",
     "imageUrl": "/assets/srilanka-package.jpg",
     "date": "10-01-24",
     "duration": "7N - 8D",
     "price": "39,999",
-    "link": "/trips/sri-lanka-tour-package",
+    "link": "/trips/sri-lanka",
     "tagline": "Discover the Jewel of the Indian Ocean with Our Sri Lanka Tour Packages",
     "destination": "Bagdogra (Siliguri)",
     "pickanddrop": "Bagdogra (Siliguri)",
@@ -575,17 +603,17 @@
     "exclusions": "",
     "other": "",
     "thingtocarry": "",
-    "similartrips": ["maldives", "bali-tour"],
+    "similartrips": ["maldives", "bali"],
     "trending": true
   },
-  "singapore-tour": {
+  "singapore": {
     "tour": "international",
     "title": "Singapore Tour Package With Sentosa Island",
     "imageUrl": "/assets/Destinations/Singapore/singapore.avif",
     "date": "10-01-24",
     "duration": "4N - 5D",
     "price": "79,999",
-    "link": "/trips/singapore-tour",
+    "link": "/trips/singapore",
     "tagline": "A paradise of sun, sand, and smiles indeed",
     "destination": "Singapore",
     "pickanddrop": "Changi Airport",
