@@ -364,7 +364,7 @@
     "trending": true
   },
 
-  "7n-8d-best-of-vietnam-tour-package": {
+  "vietnam": {
     "tour": "international",
     "title": "Vietnam:Timeless Beauty, Endless Adventures",
     "imageUrl": "/assets/vietnam-package.jpg",
@@ -379,8 +379,36 @@
     "ytvideo": "",
     "itinerary": [
       {
-        "title": "Hanoi Arrival - Half-Day City Tour. Overnight Stay At Hanoi",
-        "description": "Arrive at Noi Bai International Airport in Hanoi Meet your local guide and transfer to your hotel In the afternoon we will start exploring Hanoi by visiting the famous Train Street Next, we will visit Ba Dinh Square – the biggest square in Hanoi that houses the Complex of Ho Chi Minh alongside There you will visit the Ho Chi Minh Mausoleum, Ho Chi Minh's house-on-stilts, and his fish pond We will also visit the Japanese-style one-pillar Pagoda Further, you will visit Tran Quoc Pagoda located on a small peninsula on the East side of the dazzling West Lake, which is the most ancient pagoda in Hanoi with a history line of more than 1,500 years Later, we will stroll around the Old Quarters of Hanoi and the Hoan Kiem Lake (the “Sword” Lake) After completing the day's sightseeing you will transfer back to your hotel Overnight stay in Hanoi"
+        "title": "Hanoi Arrival – Half-Day City Tour. Overnight Stay At Hanoi",
+        "description": "<ul><li>Arrive at Noi Bai International Airport in Hanoi</li><li>Meet your local guide and transfer to your hotel</li><li>In the afternoon we will start exploring Hanoi by visiting the famous Train Street</li><li>Next, we will visit Ba Dinh Square – the biggest square in Hanoi that houses the Complex of Ho Chi Minh alongside</li><li>There you will visit the Ho Chi Minh Mausoleum, Ho Chi Minh's house-on-stilts, and his fish pond</li><li>We will also visit the Japanese-style one-pillar Pagoda</li><li>Further, you will visit Tran Quoc Pagoda located on a small peninsula on the East side of the dazzling West Lake, which is the most ancient pagoda in Hanoi with a history line of more than 1,500 years</li><li>Later, we will stroll around the Old Quarters of Hanoi and the Hoan Kiem Lake (the “Sword” Lake)</li><li>After completing the day's sightseeing you will transfer back to your hotel</li><li>Overnight stay in Hanoi</li></ul>"
+      },
+      {
+        "title": "Hanoi – Halong Bay – Hanoi – Lunch On A Local Food Cruise. Overnight Stay In Hanoi.",
+        "description": "<ul><li>After breakfast at the hotel, depart for Halong Bay, a UNESCO World Heritage Site and one of Vietnam's most popular tourist destinations.</li><li>Upon arrival at Tuan Chau Marina, check-in for a 4-hour day cruise.</li><li>Enjoy a scenic cruise on a traditional Vietnamese junk boat through the limestone cliffs and emerald waters of the bay.</li><li>Stop to explore some of the many caves and grottoes that dot the bay, and enjoy a delicious seafood lunch on board.</li><li>Return to Hanoi in the late afternoon.</li><li>Overnight stay at Hanoi.</li></ul>"
+      },
+      {
+        "title": "Hanoi – Flight To Da Nang. Overnight Stay At Da Nang",
+        "description": "<ul><li>After breakfast, transfer to the airport for your flight to Da Nang.</li><li>Upon arrival, transfer to your hotel (The normal check-in time is 14:00-15:00).</li><li>Spend the rest of the day at your leisure.</li><li>Overnight stay at Da Nang.</li></ul>"
+      },
+      {
+        "title": "Da Nang - Marble Mountain Tour - Hoi An Ancient Town - Lantern Boat On Hoai River (B)",
+        "description": "<ul><li>Embarking on an exciting day, after breakfast at the hotel, we'll commence our journey at 9:00 am with a transfer to the captivating Marble Mountains.</li><li>Scaling the Thuy Son via intricately carved stone stairs, we'll relish panoramic vistas of the countryside atop this water mountain.</li><li>Our itinerary unfolds with a visit to Da Nang's splendid Huyen Khong cave temple, followed by explorations of the Tam Thai and Lingh Ung pagodas nestled within this natural marvel.</li><li>Enthralled by the sight of the Cham Buddha bathed in a natural shaft of light within the main cave, we'll proceed to the Am Phu Caves, navigating impressive rock formations portraying Buddhist perspectives on hell or purgatory (inclusive of a one-way elevator).</li><li>Venturing further, the Non-Nuoc village awaits, showcasing exquisite stone sculptures meticulously crafted by skilled artisans at the mountain's base.</li><li>The afternoon beckons with the Basket Boat Tour, immersing us in the Coconut Boat Tour experience.</li><li>Subsequently, our journey leads to Hoi An, a UNESCO Heritage town, where we'll traverse the 17th-century Japanese Bridge, testament to Japanese traders' historical presence.</li><li>Our sojourn continues with visits to the serene Chinese Assembly Halls, charming ancient houses, and the enchanting melodies of Central Vietnamese folk music at old clubhouses.</li><li>Amidst the vibrant ambiance, we'll explore shrines, peruse the riverside market on Thu Bon River, and perhaps acquire lanterns or commission silk garments tailored within a day.</li><li>As dusk descends, a serene 15-20 minute boat ride through a sea of floating flower lanterns awaits, offering the option to release a lantern for the prosperity and well-being of loved ones.</li><li>Culminating our day's adventures, we return to Danang for a restful</li></ul> "
+      },
+      {
+        "title": "Da Nang – Ba Na Hill – Da Nang. Overnight Stay At Da Nang",
+        "description": "<ul><li>Embarking post-breakfast, our journey ventures towards Ba Na Hill, a picturesque French-inspired hill station boasting breathtaking vistas of surrounding mountains and the coastline.</li><li>Aboard the world's longest cable car, our ascent to the hill's summit promises awe-inspiring panoramas.</li><li>Atop, a plethora of attractions beckons exploration, encompassing the renowned Golden Bridge, the whimsical delights of Fantasy Park, and the serene Linh Ung Pagoda.</li><li>Engaging in an array of activities and games amidst the charm of Fantasy Park, the day unfolds with delight and adventure.</li><li>As the late afternoon approaches, a serene descent via cable car leads us back to the foothills, where our return journey to Da Nang begins.</li><li>Resting overnight in Da Nang, we reminisce about a day filled with enchantment and scenic wonders at Ba Na Hill.</li></ul>"
+      },
+      {
+        "title": "Da Nang To Saigon. Day At Leisure",
+        "description": "<ul><li>Following a satisfying breakfast at the hotel, our journey proceeds as we board transfers destined for the airport in Danang.</li><li>A flight to Ho Chi Minh City, fondly known as Saigon, situated in the southern region of Vietnam, awaits us.</li><li>Upon arrival at Ho Chi Minh airport, a warm welcome awaits from our local tour guide, facilitating a seamless transfer to the vibrant downtown area.</li><li>There, we'll proceed to check-in at our hotel, marking the commencement of a leisurely day to explore at your own pace.</li><li>Enjoy the freedom to discover the city's charm and unique offerings, immersing oneself in the cultural tapestry of Saigon.</li><li>As the day draws to a close, settle in for a restful overnight stay in the lively and bustling city of Saigon.</li></ul>"
+      },
+      {
+        "title": "Saigon – Cu Chi Tunnels – Free Afternoon. Overnight Stay At Saigon",
+        "description": "<ul><li>Post-breakfast, the day commences with a scenic morning drive towards the historically significant Cu Chi Tunnels, an extensive network utilized by the Viet Cong during the Vietnam War.</li><li>Delve into the tunnels' depths, immersing yourself in their historical narrative and understanding their pivotal significance.</li><li>Gain insights into the ingenious design, purpose, and the resilience exhibited by those who lived within these underground passageways.</li><li>Experience a firsthand glimpse into the challenging conditions faced by soldiers as you crawl through a short section of the tunnels, allowing for a sense of their narrow confines and the intense heat that characterized life within.</li><li>Subsequently, return to Saigon, where the afternoon beckons with leisure time, providing opportunities for personal exploration, sightseeing, or indulging in the vibrant shopping scene the city offers.</li><li>Whether discovering local attractions or engaging in retail therapy, the afternoon invites you to relish the charm and diversity of Saigon at your own pace.</li><li>As evening descends, retreat for an overnight stay in the dynamic city, reflecting on the day's immersive historical journey and the vibrant present-day allure of Saigon.</li></ul>"
+      },
+      {
+        "title": "Saigon – Departure",
+        "description": "<p>After breakfast, check out and head to the airport for your departure flight. Enjoy your trip to Vietnam!</p>"
       }
     ],
     "notes": [
@@ -388,17 +416,22 @@
       "Note 2: Itinerary Flexibility: Kindly be aware that several factors, including weather conditions, road situations, and the physical capabilities of participants, may prompt alterations to the planned itinerary. We reserve the right to modify any schedule in the interest of ensuring safety, comfort, and the overall well-being of our travelers. Adjustments, if any, will be made with careful consideration to enhance your experience while prioritizing your safety and convenience."
     ],
     "videos": [],
-    "photos": [],
+    "photos": [
+      "https://images.unsplash.com/photo-1528127269322-539801943592?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1504457047772-27faf1c00561?q=80&w=1894&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1583417319070-4a69db38a482?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1557750255-c76072a7aad1?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
     "testimonials": [],
     "costing": [],
     "inclusions": "",
     "exclusions": "",
     "other": "",
     "thingtocarry": "",
-    "similartrips": [],
+    "similartrips": ["bali-tour", "thailand", "bhutan", "maldives"],
     "trending": true
   },
-  "bali-tour": {
+  "bali": {
     "tour": "international",
     "title": "Bali: Island of Gods",
     "imageUrl": "/assets/bali-package.jpg",
@@ -413,8 +446,36 @@
     "ytvideo": "",
     "itinerary": [
       {
-        "title": "Hanoi Arrival - Half-Day City Tour. Overnight Stay At Hanoi",
-        "description": "Arrive at Noi Bai International Airport in Hanoi Meet your local guide and transfer to your hotel In the afternoon we will start exploring Hanoi by visiting the famous Train Street Next, we will visit Ba Dinh Square – the biggest square in Hanoi that houses the Complex of Ho Chi Minh alongside There you will visit the Ho Chi Minh Mausoleum, Ho Chi Minh's house-on-stilts, and his fish pond We will also visit the Japanese-style one-pillar Pagoda Further, you will visit Tran Quoc Pagoda located on a small peninsula on the East side of the dazzling West Lake, which is the most ancient pagoda in Hanoi with a history line of more than 1,500 years Later, we will stroll around the Old Quarters of Hanoi and the Hoan Kiem Lake (the “Sword” Lake) After completing the day's sightseeing you will transfer back to your hotel Overnight stay in Hanoi"
+        "title": "Board Your Flight From India (Mumbai) To Bali (Denpasar)",
+        "description": "<ul><li>Get ready for a fun-filled vacation to Bali and head to the Mumbai Airport.</li><li>Collect your Boarding pass/ Tickets from our representative and board your flight to Denpasar.</li></ul>"
+      },
+      {
+        "title": "Arrive In Bali. Transfer To Ubud.",
+        "description": "<ul><li>Upon your arrival in Bali, meet our representative who will help you with your transfers to Ubud.</li><li>Reach Ubud, check in to your hotel, and have some rest.</li><li>In the evening, let your taste buds take a trip to India with a delectable welcome dinner at a cozy restaurant.</li><li>Overnight stay in Ubud.</li></ul>"
+      },
+      {
+        "title": "Bali Swing - Kintamani Village - Tegenungan Waterfalls",
+        "description": "<ul><li>Post breakfast in the morning, get ready to explore Ubud.</li><li>Start by visiting the famous Bali Swing over the lush green countryside landscape of Bali.</li><li>Next, we will head to the Kintamani viewpoint to admire the views of an active volcano called Mt.Batur.</li><li>Enjoy your lunch in the Kintamani Village with the amazing views of the volcano.</li><li>Next, you will head to the Tegenungan Waterfalls to spend some time in nature by this cascading fall.</li><li>Upon completing the day’s sightseeing, return back to the hotel.</li><li>Overnight stay in Ubud.</li></ul>"
+      },
+      {
+        "title": "Ubud To Nusa Penida Island. Visit The Crystal And Kelingking Beach.",
+        "description": "<ul><li>After breakfast in the morning, get ready to board your transfers.</li><li>We will take a fast boat to reach Nusa Penida through the azure blue ocean.</li><li>Reach Nusa Penida and travel from Sampalan Beach to Crystal Beach where you can indulge in snorkeling (optional).</li><li>Next, we will stop to have delicious Indian Lunch before moving ahead.</li><li>Post lunch, head to Kelingking Beach majorly known for its rock formation that depicts the shape of a T-Rex.</li><li>Reach your hotel for an overnight stay.</li><li>Overnight stay in Nusa Penida.</li></ul>"
+      },
+      {
+        "title": "East Nusa Penida Tour. Transfer To Kuta. Day At Leisure.",
+        "description": "<ul><li>Start your day early at 4:30 am to board your transfers for a Sunrise Tour at Diamond Beach which is famous for its diamond-shaped rock formations.</li><li>We will take you to the famous Rumah Pohon Tree House, where you can click amazing pictures backed with views of Diamond Beach.</li><li>Start your return journey to the hotel and reach by 9:30 am.</li><li>Have your breakfast at the hotel and get ready to return back to the mainland of Bali.</li><li>We will take a fast boat to the Sanur Port of Bali.</li><li>Upon your arrival at the Sanur Port, you will board your transfers to Kuta.</li><li>Next, reach your hotel in Kuta and check-in for an overnight stay.</li><li>Overnight stay in Kuta.</li></ul>"
+      },
+      {
+        "title": "Temple Tour Day. Visit The Tanah Lot And Uluwatu Temple.",
+        "description": "<ul><li>Wake up to a beautiful tropical morning and have your breakfast.</li><li>Post breakfast, visit the iconic Tanah-Lot Temple, located offshore of Bali.</li><li>Spend some time here to marvel at the temple and listen to the ocean waves.</li><li>Spend the afternoon exploring at leisure.</li><li>Post afternoon, we will take you to the Uluwatu Temple, which is located on a magnificent cliff overlooking the ocean.</li><li>From here you can enjoy a scenic sunset that paints the sky in vibrant hues of orange and pink.</li><li>After completing your sightseeing, return back to your hotel.</li><li>Overnight stay in Kuta.</li></ul>"
+      },
+      {
+        "title": "Day At Leisure In Kuta.",
+        "description": "<ul><li>Have your breakfast at the hotel and then you can spend the rest of the day at leisure.</li><li>There are a number of options to choose from to spend your day like - taking a traditional Balinese Massage, learning surfing, visiting the Garuda Cultural Park, exploring the beaches, indulging in a shopping spree etc.</li><li>Overnight stay in Kuta.</li></ul>"
+      },
+      {
+        "title": "Departure. Depart With A Bag Of Happy Memories.",
+        "description": "<ul><li>Post breakfast in the morning, get ready to board your return transfers.</li><li>Your amazing Bali tour concludes once you are dropped off at the Denpasar International Airport for your onward journey.</li><li>You can depart happily after this rejuvenating beach vacation.</li></ul>"
       }
     ],
     "notes": [
@@ -422,14 +483,24 @@
       "Note 2: Itinerary Flexibility: Kindly be aware that several factors, including weather conditions, road situations, and the physical capabilities of participants, may prompt alterations to the planned itinerary. We reserve the right to modify any schedule in the interest of ensuring safety, comfort, and the overall well-being of our travelers. Adjustments, if any, will be made with careful consideration to enhance your experience while prioritizing your safety and convenience."
     ],
     "videos": [],
-    "photos": [],
+    "photos": [
+      "https://images.unsplash.com/photo-1544644181-1484b3fdfc62?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1501179691627-eeaa65ea017c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1557093793-e196ae071479?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
     "testimonials": [],
     "costing": [],
     "inclusions": "",
     "exclusions": "",
     "other": "",
     "thingtocarry": "",
-    "similartrips": [],
+    "similartrips": [
+      "7n-8d-best-of-vietnam-tour-package",
+      "bhutan",
+      "dubai",
+      "sri-lanka-tour-package"
+    ],
     "trending": true
   },
   "bhutan": {
@@ -447,8 +518,32 @@
     "ytvideo": "",
     "itinerary": [
       {
-        "title": "Hanoi Arrival - Half-Day City Tour. Overnight Stay At Hanoi",
-        "description": "Arrive at Noi Bai International Airport in Hanoi Meet your local guide and transfer to your hotel In the afternoon we will start exploring Hanoi by visiting the famous Train Street Next, we will visit Ba Dinh Square – the biggest square in Hanoi that houses the Complex of Ho Chi Minh alongside There you will visit the Ho Chi Minh Mausoleum, Ho Chi Minh's house-on-stilts, and his fish pond We will also visit the Japanese-style one-pillar Pagoda"
+        "title": "Arrival In Bagdogra. Transfer To Phuentsholing.",
+        "description": "<ul><li>Upon arrival at Bagdogra Airport, meet our representative who will help you board your transfer to Bhutan.</li><li>Enjoy your drive to the last Indian border town called Jaigaon, after which you will enter Bhutan.</li><li>Here, you will arrive in Phuentsholing and complete the permit formalities.</li><li>Reach your hotel in Phuentsholing and check in to your hotel.</li><li>Overnight stay in Phuentsholing.</li></ul>"
+      },
+      {
+        "title": "Phuentsholing To Thimphu. Travel To The Capital City Of Bhutan.",
+        "description": "<ul><li>Post breakfast in the morning start your drive to Thimphu.</li><li>Today’s road journey will take you through some of the most beautiful countryside landscapes of Bhutan.</li><li>You will pass through some meandering mountain roads lined with broad leaves forests, waterfalls, quaint villages, and towns to reach Thimphu.</li><li>En route, take a small stopover at the Chuzom Bridge from where you will see a beautiful confluence of the Paro and Thimphu rivers, along with a beautiful portrait of the King and Queen as a welcoming sign to Bhutan.</li><li>By evening, reach Thimphu and check in to your hotel.</li><li>If time permits, you can choose to explore Thimphu - the only city in the world without traffic lights or explore the local markets.</li><li>Overnight stay in Thimphu.</li></ul>"
+      },
+      {
+        "title": "Excursion To Punakha. Pass The Beautiful Dochu La. Overnight Stay In Thimphu",
+        "description": "<ul><li>Have your breakfast in the morning and get ready for the day.</li><li>Today, we will take you to Punakha, located 75 kms to the east of Thimphu.</li><li>Our first stop on today's road journey will be the Dochu La - one of the most scenic mountain passes of Bhutan.</li><li>We will spend some time admiring the surrounding views of the Himalayas while sipping a hot cup of tea/coffee in the cafe at the pass.</li><li>We will also visit the 108 Druk Wangyal Chortens that are built on the pass in memory of the Bhutanese soldiers who died in “Operation All Clear” in 2003.</li><li>After lunch, embark on a short hike to Chimi Lhakhang (temple of fertility) - a temple dedicated to Lam Drukpa Kuenley (Divine Mad Man).</li><li>This place is considered the origin of Phalluses as the symbol of fertility and protection where childless couples usually seek blessings so that they conceive.</li><li>Further, reach Punakha and visit the Punakha Dzong which is located at the scenic confluence of Mo Chhu and the Po Chhu Rivers.</li><li>The Punakha Dzong is the second largest and the second oldest Dzong in Bhutan, known for hosting the famous annual Punakha Tshechu Festival.</li><li>Upon completing the sightseeing, start your return journey to Thimphu.</li><li>Overnight stay in Thimphu.</li></ul>"
+      },
+      {
+        "title": "Thimphu Local Sightseeing. Transfer From Thimphu To Paro. Overnight Stay In Paro",
+        "description": "<ul><li>Wake up in the morning and have your breakfast.</li><li>Post breakfast local sightseeing of Thimphu. Simply Bhutan and Buddha Statue.</li><li>Later, get ready to board your transfers to Paro.</li><li>Arrival in Paro and check-in to the hotel.</li><li>Have your dinner and overnight stay in Paro.</li></ul>"
+      },
+      {
+        "title": "Paro Local Sightseeing. Hike To Tiger’s Nest.",
+        "description": "<ul><li>Post breakfast in the morning, get ready to watch the most magical sight of Bhutan.</li><li>Today, we will visit the famous Taktsang Monastery (Tiger Nest Temple), located 11 kms from Paro.</li><li>Drive till the starting point of the hiking trail that will take you to the Taktsang Monastery.</li><li>We will then start the hike through the beautiful pine forest to reach the magnificent Taktsang Monastery.</li><li>You will have to hike for 2-4 hours (depending on your speed), to reach one of the holiest sites in Bhutan which clings impossibly to a sheer cliff face 900 meters above the valley.</li><li>Spend some peaceful time walking around the monastery listening to the prayer chants, sound of the fluttering flags or quietly meditating in the caves of the monastery.</li><li>After spending enough time in the monastery, we will start our return journey to Paro.</li><li>Overnight stay at the hotel in Paro.</li></ul>"
+      },
+      {
+        "title": "Paro To Siliguri. Embark On A Scenic Road Journey.",
+        "description": "<ul><li>Have your breakfast in the morning and get ready to start your return journey.</li><li>You will board your transfers and start a beautiful return road journey.</li><li>Enjoy this road journey and cross Phuetnsholing to reach India.</li><li>Reach Siliguri by evening, check-in to the hotel and rest for the day.</li><li>Overnight stay in Siliguri.</li></ul>"
+      },
+      {
+        "title": "Departure. Siliguri To Bagdogra Airport.",
+        "description": "<ul><li>After breakfast in the morning, check-out and reach Bagdogra airport (by your own) according to your flight timing.</li><li>Take back a treasure of happy memories to cherish for a lifetime.</li></ul>"
       }
     ],
     "notes": [
@@ -456,14 +551,19 @@
       "Note 2: Itinerary Flexibility: Kindly be aware that several factors, including weather conditions, road situations, and the physical capabilities of participants, may prompt alterations to the planned itinerary. We reserve the right to modify any schedule in the interest of ensuring safety, comfort, and the overall well-being of our travelers. Adjustments, if any, will be made with careful consideration to enhance your experience while prioritizing your safety and convenience."
     ],
     "videos": [],
-    "photos": [],
+    "photos": [
+      "https://images.unsplash.com/photo-1580649851649-992b28f56e98?q=80&w=1931&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1597658333270-8c0d8f0eb845?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1608659377506-3b4fec4f7634?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1566020586758-23d5e0ff7a64?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
     "testimonials": [],
     "costing": [],
     "inclusions": "",
     "exclusions": "",
     "other": "",
     "thingtocarry": "",
-    "similartrips": [],
+    "similartrips": ["maldives", "thailand", "dubai", "bali-tour"],
     "trending": true
   },
   "thailand": {
@@ -472,7 +572,6 @@
     "imageUrl": "/assets/Destinations/Thailand/thailand-package.avif",
     "date": "10-01-24",
     "duration": "9N - 10D",
-    "price": "89,999",
     "link": "/trips/thailand",
     "tagline": "A Journey to Bliss in the Himalayas",
     "destination": "Thailand",
@@ -483,6 +582,34 @@
       {
         "title": "Arrive In Phuket. Transfer To Krabi.",
         "description": "<ul> <li>After having your breakfast at the hotel, pack your bag and board your transfers to Bangkok</li> <li>Upon reaching Bangkok, check in to your hotel and head out to explore Bangkok.</li> <li>On this tour, you will visit some of the famous temples like the Golden Buddha Temple, and Temple of the Emerald Buddha.</li> <li>We will also take you to the dazzling Gems Gallery, where you can shop for some precious and semi-precious stones.</li> <li>Upon completing the city tour, return back to your hotel.</li> <li>Overnight stay in Bangkok.</li> </ul>"
+      },
+      {
+        "title": "4 Island Tour by Speed Boat.",
+        "description": "<ul><li>Post breakfast in the morning, get ready to spend an amazing day in the ocean.</li><li>Board your transfers to the starting point of your speed boat.</li><li>Hop on to your speedboat and spend the day exploring the scenic islands around Krabi.</li><li>On this tour, you will visit the scenic Phranang Cave Beach, Tup Island, Poda Island and Chicken Island.</li><li>You will also take a small stopover in between to have your lunch.</li><li>Spend this day exploring the secluded beaches, admiring the limestone rock formations or sit leisurely by the beach watching the blue ocean.</li><li>Adventure couples can indulge in some fun water activities and discover more about each other while spending quality time in this romantic setting.</li><li>After exploring all the islands, return back to the mainland of Thailand.</li><li>Upon reaching, you will be transferred back to your hotel.</li><li>Overnight stay in Krabi.</li></ul>"
+      },
+      {
+        "title": "Krabi to Phuket. Cabaret Show in the evening.",
+        "description": "<ul><li>After having your breakfast in the morning, get ready for the day.</li><li>You will then board your transfers to Phuket.</li><li>Reach Phuket, check-in to the hotel and have some rest.</li><li>In the evening, watch the graceful movements of the artists as you enjoy the Simon Cabaret Show in Phuket.</li><li>Overnight stay in Phuket.</li></ul>"
+      },
+      {
+        "title": "Phi Phi Island Tour.",
+        "description": "<ul><li>Wake up to a beautiful tropical morning and have your breakfast at the hotel.</li><li>Next, get ready and board your transfers to the starting point of your speed boat.</li><li>Hop on to your speedboat and spend the day exploring the scenic Phi Phi islands.</li><li>Enjoy this day with your partner as you spend some leisure time gliding through the ocean waters.</li><li>Upon reaching the Phi Phi Islands, you will visit some of the iconic locations like the Maya Bay and some stunning limestone caves.</li><li>You can also stroll hand in hand on the scenic Monkey Beach.</li><li>You will also take a small stopover in between to have your lunch.</li><li>After exploring all the islands, return back to the mainland of Thailand.</li><li>Upon reaching, you will be transferred back to your hotel.</li><li>Overnight stay in Phuket.</li></ul>"
+      },
+      {
+        "title": "Phuket City Tour. Evening at Leisure.",
+        "description": "<ul><li>Have your breakfast in the morning and get ready to explore Phuket.</li><li>Board your transfers for the day, which will take you to some iconic landmarks across Phuket.</li><li>On this city tour, you will visit the famous Karon View Point to admire stunning views of the crescent-shaped Kata and Kata Noi Beaches.</li><li>You will also visit the historic Wat Chalong Temple and the famous Buddha Statue of Phuket.</li><li>Upon completing the city tour, you can spend the rest of the day at leisure.</li><li>Overnight stay in Phuket.</li></ul>"
+      },
+      {
+        "title": "Phuket to Bangkok. Evening Dinner Cruise.",
+        "description": "<ul><li>After having your breakfast at the hotel, pack your bag and board your transfers to the airport.</li><li>You will then board a 2-hour flight to Bangkok.</li><li>Upon reaching Bangkok, meet our representative who will transfer you to your hotel in Bangkok.</li><li>Upon reaching, check-in to your hotel and rest for some time.</li><li>In the evening, we will take you to enjoy a romantic dinner on a luxury cruise through the Chao Phraya River.</li><li>Marvel at the beautiful skyline of Thailand and enjoy the live performances.</li><li>Relish in the delicious buffet dinner in a perfect romantic setting.</li><li>After completing your dinner, return back to your hotel.</li><li>Overnight stay in Bangkok.</li></ul>"
+      },
+      {
+        "title": " Bangkok City Tour and Temple Tour.",
+        "description": "<ul><li>Wake up to a beautiful morning in Bangkok and have your breakfast.</li><li>Next, get ready to explore the iconic landmarks of Bangkok as you embark on a city tour today.</li><li>Board your transfers to begin your city tour.</li><li>On this tour, you will visit some of the famous temples like the Golden Buddha Temple, and Temple of the Emerald Buddha.</li><li>We will also take you to the dazzling Gems Gallery, where you can shop some precious and semi-precious stones.</li><li>Upon completing the city tour, return back to your hotel and have some rest.</li><li>Overnight stay in Bangkok.</li></ul>"
+      },
+      {
+        "title": "Departure. Take back a lot of romantic memories.",
+        "description": "<ul><li>Have your breakfast in the morning and pack your bags.</li><li>Board your transfer to Bangkok Airport for your onward journey.</li><li>Your amazing Thailand Honeymoon Tour concludes once you are dropped off at the airport.</li><li>Take back a lot of happy memories to cherish for a lifetime.</li></ul>"
       }
     ],
     "notes": [
@@ -490,14 +617,20 @@
       "Note 2: Itinerary Flexibility: Kindly be aware that several factors, including weather conditions, road situations, and the physical capabilities of participants, may prompt alterations to the planned itinerary. We reserve the right to modify any schedule in the interest of ensuring safety, comfort, and the overall well-being of our travelers. Adjustments, if any, will be made with careful consideration to enhance your experience while prioritizing your safety and convenience."
     ],
     "videos": [],
-    "photos": [],
+    "photos": [
+      "https://images.pexels.com/photos/472309/pexels-photo-472309.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "https://images.pexels.com/photos/937465/pexels-photo-937465.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "https://images.pexels.com/photos/358229/pexels-photo-358229.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "https://images.pexels.com/photos/208444/pexels-photo-208444.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "https://images.pexels.com/photos/753885/pexels-photo-753885.jpeg?auto=compress&cs=tinysrgb&w=600"
+    ],
     "testimonials": [],
     "costing": [],
     "inclusions": "",
     "exclusions": "",
     "other": "",
     "thingtocarry": "",
-    "similartrips": [],
+    "similartrips": ["sri-lanka", "dubai"],
     "trending": true
   },
   "dubai": {
@@ -506,32 +639,57 @@
     "imageUrl": "/assets/Destinations/Dubai/dubai.avif",
     "date": "10-01-24",
     "duration": "5N - 6D",
-    "price": "99,999",
+    "price": "68,999",
     "link": "/trips/dubai",
     "tagline": "From Humble Origins to a Cultural Marvel",
     "destination": "Dubai",
-    "pickanddrop": "Mumbai",
+    "pickanddrop": "Dubai Airport",
     "about": "Unveiling Dubai's Transformation: A Fusion of Traditions and Wonders\n\nDubai, a city that epitomizes grandeur, innovation, and cultural richness, has evolved from a humble fishing village into a global icon. The cityscape offers a myriad of wonders, from the awe-inspiring Burj Khalifa to the exhilarating rides on the fastest roller coasters. It's a living canvas that showcases the transformation from vast desert plains to a bustling cultural hub.\n\nA Tale of Contrasts and Grandeur\nDubai is a world of contrasts. Lavish shopping centers stand tall alongside stunning architectural marvels. The city embodies opulence, yet retains its essence in Emirati culture, reflected in the bustling backstreets, mesmerizing mosques, and delectable cuisine. Every facet adds depth to this extraordinary experience.\n\nEmbarking on a City Tour: Dubai's Multifaceted Charm\nExplore the diversity of Dubai through a city tour that unveils its multifaceted charm. From the awe-inspiring Burj Khalifa to immersive desert nights steeped in culture, the tour offers glimpses of the Persian Gulf's grandeur, including the iconic Palm Islands. Architectural wonders, vibrant mosques, and the captivating Dubai Fountain Show await your discovery.\n\nThe Thrill of Ras al Khaimah: An Adventure Haven\nVenture into Ras al Khaimah, nestled in the Al Hajar mountains, a haven for adventure enthusiasts. Here, adrenaline reigns supreme, offering tours to Jebel Jais, the world's highest mountain peak, and the thrill of the longest zipline. Untouched landscapes reveal mountain farms and communities, showcasing the region's pristine beauty.\n\nJoin Us for a Luxurious Emirati Experience\nJoin our group trip to Dubai from Mumbai and immerse yourself in the luxurious embrace of Emirati culture. Don't miss this incredible opportunity to explore a city that blends opulence, tradition, and modernity in a seamless tapestry.",
     "ytvideo": "",
     "itinerary": [
       {
-        "title": "Hanoi Arrival - Half-Day City Tour. Overnight Stay At Hanoi",
-        "description": "Arrive at Noi Bai International Airport in Hanoi Meet your local guide and transfer to your hotel In the afternoon we will start exploring Hanoi by visiting the famous Train Street Next, we will visit Ba Dinh Square – the biggest square in Hanoi that houses the Complex of Ho Chi Minh alongside There you will visit the Ho Chi Minh Mausoleum, Ho Chi Minh's house-on-stilts, and his fish pond We will also visit the Japanese-style one-pillar Pagoda"
+        "title": " Arrive in Dubai. Evening Marina Dinner Cruise.",
+        "description": "<ul><li>Upon your arrival at the Dubai Airport and meet our representative who will help you board your transfers.</li><li>Reach your hotel in Dubai, check in and rest for a while.</li><li>In the evening head to the Dubai Marina to embark on a Dinner Cruise through the creek.</li><li>Enjoy the surrounding views of the Dubai Skyline with flavourful dishes from all over the world along with Tanoura Show and Belly Dance.</li><li>After enjoying the cruise dinner experience, head back to the hotel.</li><li>Overnight stay at the hotel in Dubai.</li></ul>"
+      },
+      {
+        "title": "Dubai City Tour - Burj Khalifa (124th Floor With Café Pass) - Dubai Mall - Fountain Show.",
+        "description": "<ul><li>Post breakfast, get ready for the city tour.</li><li>Board the transfers that will take you through the famous Sheik Zayed Road which is lined with some of the prominent landmarks.</li><li>On this tour, enjoy the panoramic view of Jumeirah Mosque, Burj Al Arab Hotel View, the Palm, Atlantis Hotel and Jumeirah Beach.</li><li>Later, transfer to the tallest building in the world - the Burj Khalifa.</li><li>From the top of the 124th floor of Burj Khalifa, get a glimpse into the city beneath and beyond!</li><li>Next, explore the Dubai Mall, a mall like no other, along with the musical fountain show.</li><li>After completing the city tour, head back to the hotel.</li><li>Overnight stay in the hotel.</li></ul>"
+      },
+      {
+        "title": " Desert Safari With BBQ Dinner.",
+        "description": "<ul><li>Wake up and have your breakfast at the hotel.</li><li>The first half of the day is free for you to explore Dubai as per your choice.</li><li>During this time you can visit some iconic landmarks in Dubai like Dubai Frame or the Miracle Garden.</li><li>Around 3:30 pm board your transfers for an exciting Desert Safari, just like the famous Arabian Nights.</li><li>Upon reaching, hit the golden sands and indulge in activities like camel Safari, Dune Bashing, etc.</li><li>After the safari enjoys activities like shisha, Belly dance show, Tanura show, and Fire show followed by BBQ dinner.</li><li>Return back to your hotel for an overnight stay in Dubai.</li></ul>"
+      },
+      {
+        "title": " Day Excursion to Abu Dhabi. Visit Ferrari World. Indian Dinner at an Indian Restaurant",
+        "description": "<ul><li>Post breakfast, get ready for the Abu Dhabi city tour by 8 am.</li><li>Upon reaching Abu Dhabi, we will first visit the Sheik Zayed Mosque - one of the largest and most beautiful mosques in the world.</li><li>Next, we will spend the rest of the day at the Ferrari World with a One Day One Park ticket (park timings 11 am to 8 pm).</li><li>After spending a fun day at the Ferrari World, enjoy an Indian Dinner on the way to Dubai.</li><li>Overnight stay in Dubai.</li></ul>"
+      },
+      {
+        "title": " Leisure Day | DIY",
+        "description": "<ul><li>Have your breakfast in the morning and spend the rest of the day at leisure.</li><li>You can choose from a number of activities which will be an add-on cost to the trip.</li><li>Here are a few things you can do Aquaventure Waterpark, Sky Diving at the Palm, Ain Dubai, Shopping at the Global Village, Dubai Heritage Village, and Water Activities at Jumeirah Beach</li><li>After completing your sightseeing, return back to the hotel.</li><li>Overnight stay in Dubai.</li></ul>"
+      },
+      {
+        "title": "Visit the Lost Chamber Aquarium. Departure.",
+        "description": "<ul><li>Post breakfast in the morning, pack your bags are check-out from the hotel.</li><li>Visit the Lost Chamber Aquarium which has a spectacular collection of tropical marine life.</li><li>Explore and see radiant reef fish, seahorses, rays, sharks and countless other creatures.</li><li>You will also visit the Ambassadors Lagoon for an amazing underwater experience.</li><li>Later, board your transfers to the Dubai airport.</li><li>Your amazing Dubai Tour concludes once you are dropped off at the airport.</li><li>Continue your onward journey with a lot of happy memories from Dubai.</li></ul>"
       }
     ],
     "notes": [
       "Note 1: Age Limit for Group Departures: Please note that the age limit for our group departures is set between 16 to 42 years. This age range is specifically tailored to accommodate the dynamic and energizing itineraries we offer to our travelers. However, we are more than happy to personalize trips for travelers beyond the specified age bracket upon request.",
       "Note 2: Itinerary Flexibility: Kindly be aware that several factors, including weather conditions, road situations, and the physical capabilities of participants, may prompt alterations to the planned itinerary. We reserve the right to modify any schedule in the interest of ensuring safety, comfort, and the overall well-being of our travelers. Adjustments, if any, will be made with careful consideration to enhance your experience while prioritizing your safety and convenience."
     ],
-    "videos": [],
-    "photos": [],
+    "photos": [
+      "https://images.pexels.com/photos/2044434/pexels-photo-2044434.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "https://images.pexels.com/photos/325193/pexels-photo-325193.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "https://images.pexels.com/photos/1467300/pexels-photo-1467300.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "https://images.pexels.com/photos/1470502/pexels-photo-1470502.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "https://images.pexels.com/photos/219692/pexels-photo-219692.jpeg?auto=compress&cs=tinysrgb&w=600"
+    ],
     "testimonials": [],
     "costing": [],
     "inclusions": "",
     "exclusions": "",
     "other": "",
     "thingtocarry": "",
-    "similartrips": [],
+    "similartrips": ["bhutan", "singapore"],
     "trending": true
   },
   "maldives": {
@@ -540,7 +698,6 @@
     "imageUrl": "/assets/Destinations/Maldives/maldives.jpg",
     "date": "10-01-24",
     "duration": "4N - 5D",
-    "price": "79,999",
     "link": "/trips/maldives",
     "tagline": "A paradise of sun, sand, and smiles indeed",
     "destination": "Male",
@@ -549,26 +706,46 @@
     "ytvideo": "",
     "itinerary": [
       {
-        "title": "Hanoi Arrival - Half-Day City Tour. Overnight Stay At Hanoi",
-        "description": "Arrive at Noi Bai International Airport in Hanoi Meet your local guide and transfer to your hotel In the afternoon we will start exploring Hanoi by visiting the famous Train Street Next, we will visit Ba Dinh Square – the biggest square in Hanoi that houses the Complex of Ho Chi Minh alongside There you will visit the Ho Chi Minh Mausoleum, Ho Chi Minh's house-on-stilts, and his fish pond We will also visit the Japanese-style one-pillar Pagoda"
+        "title": "Arrival in Maldives",
+        "description": "<ul><li>Welcome to the tropical paradise of Maldives! After reaching there, get transferred by a speedboat/sea plane to your resort check-in to your room.</li><li>Spend the day relaxing and admiring the views of crystal clear waters ebbing sandy beaches.</li></ul>"
+      },
+      {
+        "title": "Day at leisure | Optional Water sports",
+        "description": "<ul><li>After a hearty breakfast today, we have many recommendations for you.</li><li>You may choose to take a sunbath on the beach, go for a swim or do absolutely nothing!.</li><li>If adventure is what you like, opt for some water sports like snorkeling, windsurfing, or have fun on a banana boat ride</li></ul>"
+      },
+      {
+        "title": "Day at Leisure | Optional activity: Night Fishing",
+        "description": "<ul><li>Wake up and head for a fulfilling breakfast and spend the day chilling at the resort and relaxing around the beach.</li><li>Our special recommendation for today is Maldives favorite traditional activity-Night fishing.</li><li>Using hand lines and raw fish as bait, this has all the ingredients for an adventurous family outing. Catch some nocturnal fish under the beautiful starlit sky.</li><li>The ambiance, the mood everything is so magical and we assure you will enjoy this rare experience to the hilt.</li><li>Return to your hotel after this truly exciting adventure and rest overnight as you pack your bags to return home tomorrow.</li></ul>"
+      },
+      {
+        "title": "Day at Leisure ",
+        "description": "<ul><li>Wake up and head for a fulfilling breakfast and spend the day chilling at the resort and relaxing around the beach.</li><li>Our special recommendation for today is Maldives favorite traditional activity-Night fishing.</li><li>Using hand lines and raw fish as bait, this has all the ingredients for an adventurous family outing. Catch some nocturnal fish under the beautiful starlit sky.</li><li>The ambiance, the mood everything is so magical and we assure you will enjoy this rare experience to the hilt.</li><li>Return to your hotel after this truly exciting adventure and rest overnight as you pack your bags to return home tomorrow.</li></ul>"
+      },
+      {
+        "title": "Drop back to the airport",
+        "description": "<ul><li>Wake up and after breakfast get ready to transfer to Male airport with some amazing memories of this paradise.</li></ul>"
       }
     ],
     "notes": [
       "Note 1: Age Limit for Group Departures: Please note that the age limit for our group departures is set between 16 to 42 years. This age range is specifically tailored to accommodate the dynamic and energizing itineraries we offer to our travelers. However, we are more than happy to personalize trips for travelers beyond the specified age bracket upon request.",
       "Note 2: Itinerary Flexibility: Kindly be aware that several factors, including weather conditions, road situations, and the physical capabilities of participants, may prompt alterations to the planned itinerary. We reserve the right to modify any schedule in the interest of ensuring safety, comfort, and the overall well-being of our travelers. Adjustments, if any, will be made with careful consideration to enhance your experience while prioritizing your safety and convenience."
     ],
-    "videos": [],
-    "photos": [],
+    "photos": [
+      "https://images.pexels.com/photos/1483053/pexels-photo-1483053.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "https://images.pexels.com/photos/1450363/pexels-photo-1450363.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "https://images.pexels.com/photos/3601426/pexels-photo-3601426.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "https://images.pexels.com/photos/1430676/pexels-photo-1430676.jpeg?auto=compress&cs=tinysrgb&w=600"
+    ],
     "testimonials": [],
     "costing": [],
     "inclusions": "",
     "exclusions": "",
     "other": "",
     "thingtocarry": "",
-    "similartrips": [],
+    "similartrips": ["dubai", "vietnam"],
     "trending": true
   },
-  "sri-lanka-tour-package": {
+  "sri-lanka": {
     "tour": "international",
     "title": "Wonders Of Sri Lanka - 8 Days Sri Lanka Tour Package",
     "imageUrl": "/assets/srilanka-package.jpg",
@@ -632,16 +809,17 @@
     "exclusions": "",
     "other": "",
     "thingtocarry": "",
-    "similartrips": ["maldives", "bali-tour"],
+    "similartrips": ["maldives", "bali"],
     "trending": true
   },
-  "singapore-tour": {
+  "singapore": {
     "tour": "international",
     "title": "Best of Singapore in 5 Days",
     "imageUrl": "/assets/Destinations/Singapore/singapore.avif",
     "date": "10-01-24",
     "duration": "4N - 5D",
-    "link": "/trips/singapore-tour",
+    "price": "79,999",
+    "link": "/trips/singapore",
     "tagline": "A paradise of sun, sand, and smiles indeed",
     "destination": "Singapore",
     "pickanddrop": "Changi Airport",
