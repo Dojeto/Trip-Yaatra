@@ -139,7 +139,7 @@ const Details = (props) => {
           <div className=" pt-5 pb-5 mt-2">
             <iframe
               className=" rounded-md"
-              width={390}
+              width={"100%"}
               height={220}
               src={ytvideo}
               title="YouTube video player"
@@ -158,7 +158,7 @@ const Details = (props) => {
                 <input
                   id="name"
                   placeholder="Enter your name *"
-                  className=" w-96 rounded-lg border border-zinc-400 p-4 text-sm shadow-sm h-2 mt-2 mb-2"
+                  className=" w-full rounded-lg border border-zinc-400 p-4 text-sm shadow-sm h-2 mt-2 mb-2"
                   type="text"
                 />
               </div>
@@ -169,7 +169,7 @@ const Details = (props) => {
                 <input
                   id="name"
                   placeholder="Enter your number *"
-                  className=" w-96 rounded-lg border border-zinc-400 p-4 text-sm shadow-sm h-2 mt-2 mb-2"
+                  className=" w-full rounded-lg border border-zinc-400 p-4 text-sm shadow-sm h-2 mt-2 mb-2"
                   type="text"
                 />
               </div>
@@ -180,7 +180,7 @@ const Details = (props) => {
                 <input
                   id="name"
                   placeholder="Enter your email *"
-                  className=" w-96 rounded-lg border border-zinc-400 p-4 text-sm shadow-sm h-2 mt-2 mb-2"
+                  className=" w-full rounded-lg border border-zinc-400 p-4 text-sm shadow-sm h-2 mt-2 mb-2"
                   type="text"
                 />
               </div>
@@ -191,7 +191,7 @@ const Details = (props) => {
                 <input
                   id="name"
                   placeholder="Enter your preferred place *"
-                  className=" w-96 rounded-lg border border-zinc-400 p-4 text-sm shadow-sm h-2 mt-2 mb-2"
+                  className=" w-full rounded-lg border border-zinc-400 p-4 text-sm shadow-sm h-2 mt-2 mb-2"
                   type="text"
                 />
               </div>
@@ -204,9 +204,9 @@ const Details = (props) => {
           </div>
         </div>
       </div>
-      <div>
-        <h1 className="mt-10 mx-20 text-3xl font-bold">similar trips</h1>
-        <div className=" flex m-7 ml-[70px]">
+      <div className="ml-20 tblt:mx-20">
+        <h1 className="mt-10 text-3xl font-bold">similar trips</h1>
+        <div className=" flex w-[200%] overflow-x-scroll no-scrollbar tblt:w-full">
           {similartrips.map((ele) => {
             return (
               <Link href={ele.link} shallow>
